@@ -7,7 +7,26 @@ module.exports = {
     "gatsby-plugin-sharp",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
-    "gatsby-transformer-remark",
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          'gatsby-remark-relative-images',
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              maxWidth: 960,
+            }
+          },
+          {
+            resolve: 'gatsby-remark-vscode',
+            options: {
+              theme: 'Abyss'
+            }
+          }
+        ]
+      }
+    },
     "gatsby-transformer-sharp",
     {
       resolve: "gatsby-source-filesystem",
@@ -15,7 +34,13 @@ module.exports = {
         name: "images",
         path: "./src/images/",
       },
-      __key: "images",
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "blog-posts",
+        path: "./src/blog-posts/",
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
@@ -23,7 +48,6 @@ module.exports = {
         name: "pages",
         path: "./src/pages/",
       },
-      __key: "pages",
     },
   ],
 };
