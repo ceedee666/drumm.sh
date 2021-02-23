@@ -1,5 +1,6 @@
 import React from "react"
-import { Link  } from "gatsby"
+import { Link, graphql, useStaticQuery } from "gatsby"
+import Img from 'gatsby-image';
 
 import { Container, Navbar, Nav} from "react-bootstrap"
 
@@ -7,14 +8,26 @@ import NavbarStyles from '../styles/navbar.module.scss'
 
 const CustomNavbar = ({ pageInfo  }) => {
 
-  console.log(pageInfo)
+   const brandingImg = useStaticQuery(graphql`
+    query brandingImg {
+      file(sourceInstanceName: {eq: "images"}, name: {eq: "avatar"}) {
+        childImageSharp {
+          fixed(width: 30) {
+            ... GatsbyImageSharpFixed
+          }  
+        }
+      }
+    }
+  `)
 
   return (
     <div className={`${NavbarStyles.myNavbar} mx-auto`}>
       <Navbar bg="dark" variant="dark" expand="sm">
         <Container className='px-0'> 
           <Link to="/" className={NavbarStyles.navItem}>
-            <Navbar.Brand as="span">drumm.sh</Navbar.Brand>
+            <Navbar.Brand>
+              <Img fixed={brandingImg.file.childImageSharp.fixed} className='rounded-circle' />
+            </Navbar.Brand>
           </Link>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
