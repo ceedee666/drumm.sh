@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 
 const BlogPage = () => {
   return (
-    <Layout pageInfo={{ pageName: "home" }}>
+    <Layout pageInfo={{ pageName: 'blog' }}>
       Blog...
     </Layout>
   )

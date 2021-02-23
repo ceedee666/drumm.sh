@@ -1,7 +1,11 @@
-.link-no-style:hover {
+.nav-item:hover {
   text-decoration: none;
 }
 
+.active-nav-item {
+  text-decoration: underline;
+  color: #fff
+}
 .my-navbar {
   max-width: 960px;
 }

@@ -8,6 +8,7 @@ import '../styles/global.scss'
 import LayoutStyles from '../styles/layout.module.scss'
 
 const Layout = ({ children, pageInfo }) => {
+
   const data = useStaticQuery(graphql`
       query SiteTitleQuery {
         site {
