@@ -8,7 +8,7 @@ This is the first blog on [drumm.sh](http://drumm.sh)!
 # Hello World 👋
 
 Hello world in Python 🐍
-```python
+```python {numberLines}
 def say_hello(s):
   print("Hello ", s)
 
