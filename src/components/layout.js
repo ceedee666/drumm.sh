@@ -21,13 +21,15 @@ const Layout = ({ children, pageInfo }) => {
 
   return (
     <>  
-      <Header siteTitle={data.site.siteMetadata.title} pageInfo={pageInfo} />
-      <main >
-        <div className={`${LayoutStyles.myMain} mx-auto px-3`}>
-        {children}
-        </div>
-      </main>
-      <Footer/>
+      <wrapper className='d-flex flex-column min-vh-100'>
+        <Header siteTitle={data.site.siteMetadata.title} pageInfo={pageInfo} />
+        <main className='flex-fill'>
+          <div className={`${LayoutStyles.myMain} mx-auto px-3`}>
+            {children}
+          </div>
+        </main>
+        <Footer/>
+      </wrapper>
     </>
   )
 }
