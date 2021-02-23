@@ -42,6 +42,16 @@ const CustomNavbar = ({ pageInfo  }) => {
                   Blog
                 </Nav.Link>
               </Link>
+              <Link to="/teaching" className={NavbarStyles.navItem} activeClassName={NavbarStyles.activeNavItem}>
+                <Nav.Link as="span" eventKey='teaching'>
+                  Teaching
+                </Nav.Link>
+              </Link>
+              <Link to="/projects" className={NavbarStyles.navItem} activeClassName={NavbarStyles.activeNavItem}>
+                <Nav.Link as="span" eventKey='projects'>
+                  Projects
+                </Nav.Link>
+              </Link>
             </Nav>
           </Navbar.Collapse>
         </Container> 

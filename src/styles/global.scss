@@ -1,3 +1,10 @@
-$font-size-base: 1.5rem;
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
+$font-size-base: 1.2rem;
+$font-family-base: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+$link-color: $body-color;
+$link-hover-color: darken($link-color, 15%);
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
