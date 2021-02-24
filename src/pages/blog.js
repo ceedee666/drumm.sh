@@ -1,6 +1,8 @@
 import React from "react"
 import {Link, graphql, useStaticQuery} from 'gatsby'
 
+import {ListGroup} from 'react-bootstrap'
+
 import Layout from '../components/layout'
 
 const BlogPage = () => {
@@ -24,21 +26,18 @@ const BlogPage = () => {
 
   return (
     <Layout pageInfo={{ pageName: "blog" }} >
-      <h1>Blog</h1>
-      <ol >
+      <ListGroup variant='flush' >
         {data.allMarkdownRemark.edges.map( edge => {
           return (
-            <li >
+            <ListGroup.Item>
               <Link to={`/blog/${edge.node.fields.slug}`}>
-                <h2>{edge.node.frontmatter.title}</h2>
+                <h1>{edge.node.frontmatter.title}</h1>
                 <p>{edge.node.frontmatter.date}</p>
               </Link>
-            </li>
-
+            </ListGroup.Item>
           )
-
         } )}
-      </ol>
+      </ListGroup>
     </Layout>
 
   )
