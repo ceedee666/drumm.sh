@@ -42,7 +42,7 @@ const BlogPage = () => {
     <Layout pageInfo={{ pageName: "blog" }} >
       {data.allMarkdownRemark.edges.map( edge => {
         return (
-          <>
+          <div className={BlogStyles.blogListItem}>
             <Link to={`/blog/${edge.node.fields.slug}`} >
               <h2>{edge.node.frontmatter.title}</h2>
             </Link>
@@ -56,7 +56,7 @@ const BlogPage = () => {
               {edge.node.frontmatter.description}
               </Col>
             </Row>
-          </>
+          </div>
         )
       } )}
     </Layout>

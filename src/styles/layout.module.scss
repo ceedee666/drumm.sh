@@ -1,4 +1,13 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
 .my-main {
   max-width: 960px;
   padding: 2rem;
+
+  a {
+    color: $body-color;
+    text-decoration: underline;
+  }
 }
+

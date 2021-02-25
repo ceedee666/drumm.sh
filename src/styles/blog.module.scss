@@ -6,3 +6,8 @@
   font-size: $font-size-sm;
 }
 
+.blog-list-item {
+  a {
+    text-decoration: none;
+  }
+}
