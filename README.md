@@ -1,48 +1,27 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# drumm.sh
+
+This repo contains the my personal website. I use it mainly to distribute information about my leactues at the FH Aachen and for my personal blog. 
+
+The website is build using Gatsby.js. Most of the content is managed as Markdown files.
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1.  **Start developing.**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+Make sure to setup your Gatsby.js dev environment e.g. using [this guide](https://www.gatsbyjs.com/tutorial/part-zero/).
+Fork the repo and start it up.
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+```sh
+cd drumm.sh/
+gatsby develop
+```
 
-2.  **Start developing.**
+2.  **Open the source code and start editing!**
 
-    Navigate into your new site’s directory and start it up.
+The site is now running at `http://localhost:8000`!
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+*Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying this website's data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).*
 
-3.  **Open the code and start customizing!**
+3. **Give Feedback.**
 
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+If you find something that could be improved, please [file an issue](./issues/new) or submit a pull request!

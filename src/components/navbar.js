@@ -53,7 +53,7 @@ const CustomNavbar = ({ pageInfo  }) => {
                 </Nav.Link>
               </Link>
             </Nav>
-            <Nav>
+            <Nav activeKey={pageInfo && pageInfo.pageName}>
               <Link to="/imprint" className={NavbarStyles.navItem} activeClassName={NavbarStyles.activeNavItem}>
                 <Nav.Link as="span" eventKey='imprint'>
                   Imprint
