@@ -7,4 +7,14 @@ $font-family-base: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $link-color: $body-color;
 $link-hover-color: darken($link-color, 15%);
 
+$paragraph-margin-bottom: 2rem;
+
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 0;
+  border-top: 2px solid rgba(0, 0, 0, 0.1);
+
+}

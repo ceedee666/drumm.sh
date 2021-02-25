@@ -1,20 +1,34 @@
 import React from "react"
+import { Row, Col} from 'react-bootstrap'
+import { BiTime, BiCalendar } from 'react-icons/bi';
+import moment from 'moment'
+
 import {Link, graphql, useStaticQuery} from 'gatsby'
 
-import {ListGroup} from 'react-bootstrap'
-
 import Layout from '../components/layout'
+
+import BlogStyles from '../styles/blog.module.scss'
 
 const BlogPage = () => {
   const data = useStaticQuery(graphql`
     query blogPosts {
-      allMarkdownRemark {
+      allMarkdownRemark
+      (
+        filter: {frontmatter: {published: {eq: true}}} 
+      
+      )
+      {
         edges {
           node {
             frontmatter {
               date
               title
+              description
+              language
             }
+
+            timeToRead
+
             fields {
               slug
             }
@@ -26,18 +40,25 @@ const BlogPage = () => {
 
   return (
     <Layout pageInfo={{ pageName: "blog" }} >
-      <ListGroup variant='flush' >
-        {data.allMarkdownRemark.edges.map( edge => {
-          return (
-            <ListGroup.Item>
-              <Link to={`/blog/${edge.node.fields.slug}`}>
-                <h1>{edge.node.frontmatter.title}</h1>
-                <p>{edge.node.frontmatter.date}</p>
-              </Link>
-            </ListGroup.Item>
-          )
-        } )}
-      </ListGroup>
+      {data.allMarkdownRemark.edges.map( edge => {
+        return (
+          <>
+            <Link to={`/blog/${edge.node.fields.slug}`} >
+              <h2>{edge.node.frontmatter.title}</h2>
+            </Link>
+            <Row>
+              <Col className={BlogStyles.blogDateTime}>
+                <BiCalendar /> {moment(edge.node.frontmatter.date).format('DD. MMMM YYYY')}  &bull;  <BiTime /> {edge.node.timeToRead} min read
+              </Col>
+            </Row>
+            <Row >
+              <Col className='mt-2 mb-5'>
+              {edge.node.frontmatter.description}
+              </Col>
+            </Row>
+          </>
+        )
+      } )}
     </Layout>
 
   )

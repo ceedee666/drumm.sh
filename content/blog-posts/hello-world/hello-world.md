@@ -5,12 +5,12 @@ language: "en"
 published: true
 tages:
   - "Misc"
-description: "This is the first blog to test the blogginh feature of the site." 
+description: "This is the first blog to test the blogging feature of the site." 
 ---
 
 This is the first blog on [drumm.sh](http://drumm.sh)!
 
-# Hello World 👋
+## Hello World 👋
 
 Hello world in Python 🐍
 ```python {numberLines}
@@ -24,7 +24,7 @@ say_hello("World")
 
 ![Ettringe](ettringen.jpg)
 
-## Lorem Ipsum
+### Lorem Ipsum
 Lorem ipsum dolor sit amet. Nam tempora officia sit ullam officia ut quia asperiores et aliquid
 consectetur est consequatur eligendi et quis amet. Amet mollitia ut quam eveniet qui fugiat dolorem
 ut unde rerum rem deleniti velit est minima galisum. Non consequatur omnis et animi eveniet est quia
@@ -39,4 +39,4 @@ et quae quis vel repellendus magnam At quam nihil. Qui quasi necessitatibus temp
 et nulla rerum est molestiae dolorem non cupiditate officiis ut libero doloremque est eaque sint.
 
 
-Bye!
+###Bye!
