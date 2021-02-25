@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 
 const PrivacyPage = () => {
   return (
-    <Layout>
+    <Layout pageInfo={{ pageName: 'privacy' }}>
       <h3>Privacy Policy</h3>
       <p>Personal data (usually referred to just as "data" below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.</p>
       <p>Per Art. 4 No. 1 of Regulation (EU) 2016/679, i.e. the General Data Protection Regulation (hereinafter referred to as the "GDPR"), "processing" refers to any operation or set of operations such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment, or combination, restriction, erasure, or destruction performed on personal data, whether by automated means or not.</p>
@@ -43,7 +43,7 @@ const PrivacyPage = () => {
       <p>We also integrate the following social media sites into our website. The integration takes place via a linked graphic of the respective site. The use of these graphics stored on our own servers prevents the automatic connection to the servers of these networks for their display. Only by clicking on the corresponding graphic will you be forwarded to the service of the respective social network.</p>
       <p>Once you click, that network may record information about you and your visit to our site. It cannot be ruled out that such data will be processed in the United States.</p>
       <p>Initially, this data includes such things as your IP address, the date and time of your visit, and the page visited. If you are logged into your user account on that network, however, the network operator might assign the information collected about your visit to our site to your personal account. If you interact by clicking Like, Share, etc., this information can be stored your personal user account and possibly posted on the respective network. To prevent this, you need to log out of your social media account before clicking on the graphic. The various social media networks also offer settings that you can configure accordingly.</p>
-      <p>The following social networks are integrated into our site by linked graphics:</p>
+                      <p>The following social networks are integrated into our site by linked graphics:</p>
 
       <h3>Twitter</h3>
       <p>Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA</p>
@@ -52,7 +52,8 @@ const PrivacyPage = () => {
       <p><a href="https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active" target="_blank" rel="noopener noreferrer">https://www.privacyshield.gov/…0000TORzAAO&amp;status=Active</a></p>
 
     </Layout>   
-  )
+)
 }
 
 export default PrivacyPage
+

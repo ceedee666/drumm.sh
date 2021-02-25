@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 
 const ImprintPage = () => {
   return (
-    <Layout>
+    <Layout pageInfo={{ pageName: 'imprint' }}>
       <h3>Legal Disclosure</h3>
       <p>Information in accordance with Section 5 TMG</p>
       <p>Christian Drumm
