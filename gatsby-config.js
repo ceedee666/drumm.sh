@@ -3,7 +3,8 @@ module.exports = {
     title: "drumm.sh",
     author: "Christian Drumm",
     siteUrl: "https://drumm.sh",
-    twitter: "https://twitter.com/ceedee666"
+    description: "Blog, lectures and project by Prof. Dr. Christian Drumm.",
+    twitter: "@ceedee666"
   },
   plugins: [
     "gatsby-plugin-sass",

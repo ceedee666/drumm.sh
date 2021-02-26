@@ -6,6 +6,7 @@ import moment from 'moment'
 import {Link, graphql, useStaticQuery} from 'gatsby'
 
 import Layout from '../components/layout'
+import SEO from '../components/seo'
 
 import BlogStyles from '../styles/blog.module.scss'
 
@@ -15,7 +16,7 @@ const BlogPage = () => {
       allMarkdownRemark
       (
         filter: {frontmatter: {published: {eq: true}}} 
-      
+
       )
       {
         edges {
@@ -40,6 +41,7 @@ const BlogPage = () => {
 
   return (
     <Layout pageInfo={{ pageName: "blog" }} >
+      <SEO title="drumm.sh | Blog" />
       {data.allMarkdownRemark.edges.map( edge => {
         return (
           <div className={BlogStyles.blogListItem}>
@@ -53,7 +55,7 @@ const BlogPage = () => {
             </Row>
             <Row >
               <Col className='mt-2 mb-5'>
-              {edge.node.frontmatter.description}
+                {edge.node.frontmatter.description}
               </Col>
             </Row>
           </div>

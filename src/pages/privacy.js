@@ -1,10 +1,12 @@
 import React from 'react'
 
 import Layout from '../components/layout'
+import SEO from '../components/seo'
 
 const PrivacyPage = () => {
   return (
     <Layout pageInfo={{ pageName: 'privacy' }}>
+      <SEO title="drumm.sh | Privacy" />
       <h3>Privacy Policy</h3>
       <p>Personal data (usually referred to just as "data" below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.</p>
       <p>Per Art. 4 No. 1 of Regulation (EU) 2016/679, i.e. the General Data Protection Regulation (hereinafter referred to as the "GDPR"), "processing" refers to any operation or set of operations such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment, or combination, restriction, erasure, or destruction performed on personal data, whether by automated means or not.</p>

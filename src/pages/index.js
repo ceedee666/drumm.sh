@@ -7,7 +7,7 @@ import Img from 'gatsby-image'
 import {SiTwitter, SiSap, SiYoutube} from 'react-icons/si'
 
 import Layout from '../components/layout'
-
+import SEO from '../components/seo'
 
 const HomePage = () => {
   const avatarImg = useStaticQuery(graphql`
@@ -24,6 +24,7 @@ const HomePage = () => {
 
   return (
     <Layout pageInfo={{ pageName: "home" }}>
+      <SEO title="drumm.sh" />
       <Media>
         <Img 
           fixed={avatarImg.file.childImageSharp.fixed} 

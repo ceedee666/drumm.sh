@@ -1,10 +1,12 @@
 import React from 'react'
 
 import Layout from '../components/layout'
+import SEO from '../components/seo'
 
 const ImprintPage = () => {
   return (
     <Layout pageInfo={{ pageName: 'imprint' }}>
+      <SEO title="drumm.sh | Imprint" />
       <h3>Legal Disclosure</h3>
       <p>Information in accordance with Section 5 TMG</p>
       <p>Christian Drumm
