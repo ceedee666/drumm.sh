@@ -21,7 +21,7 @@ module.exports = {
           {
             resolve: 'gatsby-remark-images',
             options: {
-              maxWidth: 960,
+              maxWidth: 460,
             }
           },
           {
@@ -30,12 +30,6 @@ module.exports = {
               theme: 'Dark+ (default dark)'
             }
           },
-          {
-            resolve: "@weknow/gatsby-remark-twitter",
-            options: {
-              theme: 'dark'
-            }
-          }
         ]
       }
     },

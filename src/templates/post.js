@@ -25,7 +25,7 @@ const BlogPost = (props) => {
   return (
     <Layout>
       <SEO title={`drumm.sh | Blog | ${props.data.markdownRemark.frontmatter.title}`} />
-      <h1 className='display-3'>{props.data.markdownRemark.frontmatter.title}</h1>
+      <h1 className='display-4'>{props.data.markdownRemark.frontmatter.title}</h1>
       <Row className='mb-5'>
         <Col className={BlogStyles.blogDateTime}>
           <BiCalendar /> {moment(props.data.markdownRemark.frontmatter.date).format('DD. MMMM YYYY')}  &bull;  <BiTime /> {props.data.markdownRemark.timeToRead} min read
