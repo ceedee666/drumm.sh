@@ -5,6 +5,7 @@ import { BiTime, BiCalendar } from 'react-icons/bi';
 import moment from 'moment'
 
 import Layout from '../components/layout'
+import SEO from '../components/seo'
 
 import BlogStyles from '../styles/blog.module.scss'
 
@@ -23,6 +24,7 @@ export const query = graphql`
 const BlogPost = (props) => {
   return (
     <Layout>
+      <SEO title={`drumm.sh | Blog | ${props.data.markdownRemark.frontmatter.title}`} />
       <h1 className='display-3'>{props.data.markdownRemark.frontmatter.title}</h1>
       <Row className='mb-5'>
         <Col className={BlogStyles.blogDateTime}>
