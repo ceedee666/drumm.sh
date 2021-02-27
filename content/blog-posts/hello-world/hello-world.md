@@ -3,7 +3,7 @@ title: "Hello World"
 date: "2021-02-23"
 language: "en"
 published: true
-tages:
+tags:
   - "Misc"
 description: "This is the first blog to test the blogging feature of the site." 
 ---
