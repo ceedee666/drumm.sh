@@ -59,7 +59,7 @@ const BlogPost = (props) => {
         </Col>
       </Row>
 
-      <div dangerouslySetInnerHTML={{__html: props.data.markdownRemark.html}}></div>
+      <div className={BlogStyles.blogBody} dangerouslySetInnerHTML={{__html: props.data.markdownRemark.html}}></div>
       <div className='mt-5'>
         <Row>
           <Col>
@@ -68,7 +68,6 @@ const BlogPost = (props) => {
         </Row>
       </div>
     </Layout>
-
   )
 
 }

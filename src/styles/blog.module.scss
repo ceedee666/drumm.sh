@@ -11,3 +11,11 @@
     text-decoration: none;
   }
 }
+
+.blog-body {
+  blockquote {
+    padding: 0 1em;
+    color: $text-muted;
+    border-left: 0.25em solid #ccc;
+  } 
+}
