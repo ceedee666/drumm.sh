@@ -10,7 +10,7 @@ import SEO from '../components/seo'
 import BlogStyles from '../styles/blog.module.scss'
 
 export const query = graphql`
-  query ($slug: String!) {
+  query ($slug: String!, $dir: String!) {
     markdownRemark (fields:{ slug: { eq: $slug  }  }){
       frontmatter {
         title
@@ -22,7 +22,7 @@ export const query = graphql`
     allFile(
       filter: {
         dir: {
-          eq: "/Users/christian/Documents/development/drumm-sh/content/blog-posts/20210226-why-i-created-my-own-webpage"
+          eq: $dir 
         }
         extension: {
           in: ["png", "jpg", "gif"]
