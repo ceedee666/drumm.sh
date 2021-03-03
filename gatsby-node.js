@@ -5,10 +5,18 @@ module.exports.onCreateNode = ({node, actions}) => {
 
   if (node.internal.type === 'MarkdownRemark') {
     const slug = path.basename(node.fileAbsolutePath, '.md')
+    const dir = path.dirname(node.fileAbsolutePath)
+
     createNodeField({
       node, 
       name: 'slug',
       value: slug
+    })
+
+    createNodeField({
+      node, 
+      name: 'dir',
+      value: dir
     })
   }
 }
@@ -39,7 +47,8 @@ module.exports.createPages = async ({ graphql, actions   }) => {
       component: blogTemplate,
       path: `/blog/${edge.node.fields.slug}`,
       context: {
-        slug: edge.node.fields.slug
+        slug: edge.node.fields.slug,
+        dir: edge.node.fields.dir
       }
     })
   })

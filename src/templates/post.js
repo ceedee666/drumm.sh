@@ -19,12 +19,37 @@ export const query = graphql`
       timeToRead
       html
     }
+    allFile(
+      filter: {
+        dir: {
+          eq: "/Users/christian/Documents/development/drumm-sh/content/blog-posts/20210226-why-i-created-my-own-webpage"
+        }
+        extension: {
+          in: ["png", "jpg", "gif"]
+        }
+      }
+    )
+    {
+      edges {
+        node {
+          childImageSharp {
+            original {
+              src
+            }
+          }
+        }
+      }
+    }
   }`
 
 const BlogPost = (props) => {
+  console.log(props)
   return (
     <Layout>
-      <SEO title={`drumm.sh | Blog | ${props.data.markdownRemark.frontmatter.title}`} />
+      <SEO 
+        title={`drumm.sh | Blog | ${props.data.markdownRemark.frontmatter.title}`}
+        image={props.data.allFile.edges[0].node.childImageSharp.original.src}
+      />
       <h1 className='display-4'>{props.data.markdownRemark.frontmatter.title}</h1>
       <Row className='mb-5'>
         <Col className={BlogStyles.blogDateTime}>
