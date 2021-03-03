@@ -6,6 +6,7 @@ import moment from 'moment'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
+import Comments from '../components/comments'
 
 import BlogStyles from '../styles/blog.module.scss'
 
@@ -44,7 +45,7 @@ export const query = graphql`
 
 const BlogPost = (props) => {
   const blogImage = props.data.allFile.edges[0] ? props.data.allFile.edges[0].node.childImageSharp.original.src : null
-  
+
   return (
     <Layout>
       <SEO 
@@ -59,6 +60,13 @@ const BlogPost = (props) => {
       </Row>
 
       <div dangerouslySetInnerHTML={{__html: props.data.markdownRemark.html}}></div>
+      <div className='mt-5'>
+        <Row>
+          <Col>
+            <Comments />
+          </Col>
+        </Row>
+      </div>
     </Layout>
 
   )
