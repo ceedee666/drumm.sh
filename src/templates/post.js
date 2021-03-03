@@ -43,12 +43,13 @@ export const query = graphql`
   }`
 
 const BlogPost = (props) => {
-  console.log(props)
+  const blogImage = props.data.allFile.edges[0] ? props.data.allFile.edges[0].node.childImageSharp.original.src : null
+  
   return (
     <Layout>
       <SEO 
         title={`drumm.sh | Blog | ${props.data.markdownRemark.frontmatter.title}`}
-        image={props.data.allFile.edges[0].node.childImageSharp.original.src}
+        image={blogImage}
       />
       <h1 className='display-4'>{props.data.markdownRemark.frontmatter.title}</h1>
       <Row className='mb-5'>
