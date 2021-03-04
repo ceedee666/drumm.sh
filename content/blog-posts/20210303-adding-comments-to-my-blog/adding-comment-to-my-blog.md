@@ -20,7 +20,7 @@ for adding comments to a Gatsby site. I didn't spent much time comparing the dif
 like a very promising option.
 
 The nice feature of Utterances is, that [Github](https://github.com) issues are used to store comments. Therefore, adding a comment requires a Github user. While this might discourage 
-some people from commenting, this is a very nice prerequisite in my case. As mention in a [previous blog](/why-i-creates-my-own-website) I want to use my web site and blog also
+some people from commenting, this is a very nice prerequisite in my case. As mention in a [previous blog](/blog/why-i-created-my-own-webpage) I want to use my web site and blog also
 for teaching. Therefore, I can use the comment functionality in the future to introduce some Github features to students.
 
 ## Adding Utterances
