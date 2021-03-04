@@ -120,7 +120,7 @@ Whit this Comments component in place I can now add comment functionality to the
 
 ## Result
 
-The following screenshot shows the final result. Already including some comment by [Tobias](twitter.com/tobiashofmann/).
+The following screenshot shows the final result. Already including some comment by [Tobias](https://twitter.com/tobiashofmann/).
 
 ![Comment Functionality](./result.png)
 
