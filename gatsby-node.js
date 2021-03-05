@@ -42,7 +42,7 @@ module.exports.createPages = async ({ graphql, actions   }) => {
   const pageTemplate = path.resolve('./src/templates/page.js')
 
   const pages = await graphql(`
-    query blogPosts {
+    query markdownPages {
       allMarkdownRemark 
       (
         filter: {
@@ -52,6 +52,7 @@ module.exports.createPages = async ({ graphql, actions   }) => {
         edges {
           node {
             fields {
+              collection
               slug
               dir
             }

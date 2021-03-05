@@ -36,5 +36,6 @@
   table {
     @extend .table;
     @extend .table-hover;
+    margin: 1.25rem 0;
   }
 }

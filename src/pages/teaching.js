@@ -21,8 +21,6 @@ const TeachingPage = () => {
     }
   `)
 
-  console.log(teachingMainPage)
-
   return (
     <Layout pageInfo={{ pageName: 'teaching' }}>
       <SEO title="drumm.sh | Teaching" />
