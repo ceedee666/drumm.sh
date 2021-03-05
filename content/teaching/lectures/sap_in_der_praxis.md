@@ -29,7 +29,7 @@ Das Modul *SAP in der Praxis* besteht aus einer Vorlesung und einem Praktikum. D
   * Lagerhaltung (WM)
 
 ## Literatur
-* [Einstieg in SAP ERP - Geschäftsprozesse, Komponenten, Zusammenhänge] (https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/)
+* [Einstieg in SAP ERP - Geschäftsprozesse, Komponenten, Zusammenhänge](https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/)
 
 ## Zeitplan
 
