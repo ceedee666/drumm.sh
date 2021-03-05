@@ -13,6 +13,13 @@ module.exports.onCreateNode = ({node, actions, getNode }) => {
       name: 'collection',
       value: parent.sourceInstanceName
     })
+
+    createNodeField({
+      node,
+      name: 'changeTime',
+      value: parent.changeTime
+    })
+
     createNodeField({
       node, 
       name: 'slug',
@@ -30,13 +37,16 @@ module.exports.onCreateNode = ({node, actions, getNode }) => {
 
 module.exports.createPages = async ({ graphql, actions   }) => {
   const { createPage } = actions
+  
   const blogTemplate = path.resolve('./src/templates/post.js')
+  const pageTemplate = path.resolve('./src/templates/page.js')
 
-  const res = await graphql(`
+  const pages = await graphql(`
     query blogPosts {
       allMarkdownRemark 
       (
-        filter: {frontmatter: {published: {eq: true}}} 
+        filter: {
+          frontmatter: { published: { eq: true } } } 
       )
       {
         edges {
@@ -51,9 +61,9 @@ module.exports.createPages = async ({ graphql, actions   }) => {
     }
   `)
 
-  res.data.allMarkdownRemark.edges.forEach( edge => {
+  pages.data.allMarkdownRemark.edges.forEach( edge => {
     createPage({
-      component: blogTemplate,
+      component: edge.node.fields.collection === 'blog' ? blogTemplate : pageTemplate,
       path: `${edge.node.fields.slug}`,
       context: {
         slug: edge.node.fields.slug,

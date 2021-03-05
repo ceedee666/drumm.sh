@@ -1,5 +1,7 @@
 @import "../../node_modules/bootstrap/scss/functions";
 @import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/_mixins.scss";
+@import "../../node_modules/bootstrap/scss/_tables.scss";
 
 .blog-date-time {
   color: $text-muted;
@@ -13,9 +15,26 @@
 }
 
 .blog-body {
+  p {
+    margin: 1.25rem 0;
+  }
+
+  ul {
+    li {
+      p {
+        margin: 1rem 0;
+      }
+    }
+  }
+
   blockquote {
     padding: 0 1em;
     color: $text-muted;
     border-left: 0.25em solid #ccc;
   } 
+
+  table {
+    @extend .table;
+    @extend .table-hover;
+  }
 }

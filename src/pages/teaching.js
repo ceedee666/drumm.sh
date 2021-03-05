@@ -1,14 +1,32 @@
 import * as React from "react"
 
+import { graphql, useStaticQuery } from 'gatsby'
+
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
+import BlogStyles from '../styles/blog.module.scss'
+
 const TeachingPage = () => {
+  const teachingMainPage = useStaticQuery(graphql`
+    query teachingMainPage {
+      file (
+        sourceInstanceName: {eq: "teaching" }
+        name: { eq: "main"  }        
+      ){
+        childMarkdownRemark{
+          html         
+        }    
+      }
+    }
+  `)
+
+  console.log(teachingMainPage)
+
   return (
     <Layout pageInfo={{ pageName: 'teaching' }}>
       <SEO title="drumm.sh | Teaching" />
-      Here you will soon find information regarding my lectures at the <a href='http://www.fh-aachen.de' target='_blank' rel='noreferrer'>FH Aachen</a> as
-      well as the thesis I supervised.
+      <div className={BlogStyles.blogBody} dangerouslySetInnerHTML={{__html: teachingMainPage.file.childMarkdownRemark.html}}/>
     </Layout>
   )
 }
