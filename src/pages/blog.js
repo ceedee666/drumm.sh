@@ -15,7 +15,10 @@ const BlogPage = () => {
     query blogPosts {
       allMarkdownRemark
       (
-        filter: {frontmatter: {published: {eq: true}}} 
+        filter: {
+          fields: { collection: { eq: "blog" } }
+          frontmatter: { published: { eq: true } }
+        } 
         sort: { fields: [frontmatter___date], order: DESC  }
       )
       {
@@ -45,7 +48,7 @@ const BlogPage = () => {
       {data.allMarkdownRemark.edges.map( edge => {
         return (
           <div className={BlogStyles.blogListItem}>
-            <Link to={`/blog/${edge.node.fields.slug}`} >
+            <Link to={`${edge.node.fields.slug}`} >
               <h2>{edge.node.frontmatter.title}</h2>
             </Link>
             <Row>

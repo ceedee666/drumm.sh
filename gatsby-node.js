@@ -1,16 +1,22 @@
 const path = require('path')
 
-module.exports.onCreateNode = ({node, actions}) => {
+module.exports.onCreateNode = ({node, actions, getNode }) => {
   const {createNodeField} = actions
 
   if (node.internal.type === 'MarkdownRemark') {
+    const parent = getNode(node.parent)
     const slug = path.basename(node.fileAbsolutePath, '.md')
     const dir = path.dirname(node.fileAbsolutePath)
 
     createNodeField({
+      node,
+      name: 'collection',
+      value: parent.sourceInstanceName
+    })
+    createNodeField({
       node, 
       name: 'slug',
-      value: slug
+      value: `/${parent.sourceInstanceName}/${slug}`
     })
 
     createNodeField({
@@ -48,7 +54,7 @@ module.exports.createPages = async ({ graphql, actions   }) => {
   res.data.allMarkdownRemark.edges.forEach( edge => {
     createPage({
       component: blogTemplate,
-      path: `/blog/${edge.node.fields.slug}`,
+      path: `${edge.node.fields.slug}`,
       context: {
         slug: edge.node.fields.slug,
         dir: edge.node.fields.dir
