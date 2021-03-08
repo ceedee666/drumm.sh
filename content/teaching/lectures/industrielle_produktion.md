@@ -13,7 +13,7 @@ In meinem Teil dieses Moduls werden Sie unter Verwendung von:
 - Microcontrollern und Sensoren 
 - [Amazon Web Service](https://aws.amazon.com/)
 
-einen Prototypen entwicklen um Daten zu erfassen und zu analysieren. Zur Entwicklung Ihres Prototypen benötigen Sie folgende Hardware:
+einen Prototypen entwickeln um Daten zu erfassen und zu analysieren. Zur Entwicklung Ihres Prototypen benötigen Sie folgende Hardware:
 
 - [ESP8266 Microcontroller](https://www.amazon.de/dp/B06Y1LZLLY)
 - [Breadboard und Kabel](https://www.amazon.de/dp/B01N4VCYUK)
@@ -37,7 +37,7 @@ Nützliche Links zu MicroPython:
 
 
 Zur Entwicklung der Pythonprogramme für den Microcontroller können Sie eine beliebige IDE oder Editor verwenden. PyCharm und uPyCraft bieten jedoch nützliche 
-Funktionen zur Übertragung Ihrer Progamme auf den Microcontroller:
+Funktionen zur Übertragung Ihrer Programme auf den Microcontroller:
 
 - [PyCharm IDE](https://www.jetbrains.com/pycharm/)
 - [MicroPython Plugin](https://github.com/vlasovskikh/intellij-micropython#installation) 
