@@ -19,7 +19,7 @@ einen Prototypen entwickeln um Daten zu erfassen und zu analysieren. Zur Entwick
 - [Breadboard und Kabel](https://www.amazon.de/dp/B01N4VCYUK)
 - [Sensorkit](https://www.amazon.de/dp/B01M30ZWQR/)
 
-Bitte beschaffen Sie die Hardware **rechtzeitig** vor beginn der Vorlesungen!
+Bitte beschaffen Sie die Hardware **rechtzeitig** vor Beginn der Vorlesungen!
 
 ## Python
 

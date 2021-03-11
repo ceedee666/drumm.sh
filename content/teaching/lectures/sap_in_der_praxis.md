@@ -13,7 +13,7 @@ Hierbei werden die betriebswirtschaftlichen Konzepte der unterschiedlichen Funkt
 Das Modul *SAP in der Praxis* besteht aus einer Vorlesung und einem Praktikum. Die Inhalte der beiden Teile sind:
 
 * Vorlesung
-  * Grundlangen ERP Systeme
+  * Grundlagen ERP Systeme
   * SAP Produktstrategie und SAP ERP
   * 12 Geschäftsszenarien
   * Hintergrund zu den Geschäftsszenarien
