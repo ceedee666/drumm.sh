@@ -6,12 +6,12 @@ In the summer term 2021 I teach the following lectures at [FH Aachen](https://ww
 - Digital Lab
 - [Industrielle Produktion](/teaching/industrielle_produktion)
 
-Furthermore, ther will also be an online lecture series on "Information Systems" together with a number of universities. Details
-regarding this online lecture series are avaialbel [here](https://taxxas.com/d.php?id=vvwi). 
+Furthermore, there will also be an online lecture series on "Information Systems" together with a number of universities. Details
+regarding this online lecture series are available [here](https://taxxas.com/d.php?id=vvwi). 
 
-# Bachlor and Master Thesis
-Here you will soon find information regarding the bacholor and master thesis I supervised in the past. 
+# Bachelor and Master Thesis
+Here you will soon find information regarding the bachelor and master thesis I supervised in the past. 
 
 # Student Blog
-Here you will soon find links to blogs written by students as part of my lecturs at [FH Aachen](https://www.fh-aachen.de).
+Here you will soon find links to blogs written by students as part of my lectures at [FH Aachen](https://www.fh-aachen.de).
 
