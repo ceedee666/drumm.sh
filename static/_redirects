@@ -1,5 +1,10 @@
 # netlify redirects
 # from_url to_url
+/sap                  /teaching/sap_in_der_praxis
+/is                   /teaching/informationssysteme
+/ip                   /teaching/industrielle_produktion
+
+
 
 # External
 ## Lectures
