@@ -45,7 +45,7 @@ export const query = graphql`
   }`
 
 const Page = (props) => {
-  const pageImage = props.data.allFile.edges[0] ? props.data.allFile.edges[0].node.childImageSharp.original.src : null
+  const pageImage = props.data.allFile.edges[0].node.childImageSharp ? props.data.allFile.edges[0].node.childImageSharp.original.src : null
 
   return (
     <Layout>
