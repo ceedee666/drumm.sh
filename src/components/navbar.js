@@ -4,7 +4,7 @@ import Img from 'gatsby-image';
 
 import { Container, Navbar, Nav} from "react-bootstrap"
 
-import NavbarStyles from '../styles/navbar.module.scss'
+import { myNavbar, navItem, activeNavItem } from '../styles/navbar.module.scss'
 
 const CustomNavbar = ({ pageInfo  }) => {
 
@@ -21,10 +21,10 @@ const CustomNavbar = ({ pageInfo  }) => {
   `)
 
   return (
-    <div className={`${NavbarStyles.myNavbar} mx-auto`}>
+    <div className={`${myNavbar} mx-auto`}>
       <Navbar bg="dark" variant="dark" expand="sm">
         <Container className='px-0'> 
-          <Link to="/" className={NavbarStyles.navItem}>
+          <Link to="/" className={navItem}>
             <Navbar.Brand>
               <Img fixed={brandingImg.file.childImageSharp.fixed} className='rounded-circle' />
             </Navbar.Brand>
@@ -32,34 +32,34 @@ const CustomNavbar = ({ pageInfo  }) => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto" activeKey={pageInfo && pageInfo.pageName}>
-              <Link to="/" className={NavbarStyles.navItem} activeClassName={NavbarStyles.activeNavItem}>
+              <Link to="/" className={navItem} activeClassName={activeNavItem}>
                 <Nav.Link as="span" eventKey='home'>
                   Home
                 </Nav.Link>
               </Link>
-              <Link to="/blog" className={NavbarStyles.navItem} activeClassName={NavbarStyles.activeNavItem}>
+              <Link to="/blog" className={navItem} activeClassName={activeNavItem}>
                 <Nav.Link as="span" eventKey='blog'>
                   Blog
                 </Nav.Link>
               </Link>
-              <Link to="/teaching" className={NavbarStyles.navItem} activeClassName={NavbarStyles.activeNavItem}>
+              <Link to="/teaching" className={navItem} activeClassName={activeNavItem}>
                 <Nav.Link as="span" eventKey='teaching'>
                   Teaching
                 </Nav.Link>
               </Link>
-              <Link to="/projects" className={NavbarStyles.navItem} activeClassName={NavbarStyles.activeNavItem}>
+              <Link to="/projects" className={navItem} activeClassName={activeNavItem}>
                 <Nav.Link as="span" eventKey='projects'>
                   Projects
                 </Nav.Link>
               </Link>
             </Nav>
             <Nav activeKey={pageInfo && pageInfo.pageName}>
-              <Link to="/imprint" className={NavbarStyles.navItem} activeClassName={NavbarStyles.activeNavItem}>
+              <Link to="/imprint" className={navItem} activeClassName={activeNavItem}>
                 <Nav.Link as="span" eventKey='imprint'>
                   Imprint
                 </Nav.Link>
               </Link>
-              <Link to="/privacy" className={NavbarStyles.navItem} activeClassName={NavbarStyles.activeNavItem}>
+              <Link to="/privacy" className={navItem} activeClassName={activeNavItem}>
                 <Nav.Link as="span" eventKey='privacy'>
                   Privacy
                 </Nav.Link>

@@ -7,7 +7,7 @@ import moment from 'moment'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
-import BlogStyles from '../styles/blog.module.scss'
+import { blogDateTime, blogBody } from '../styles/blog.module.scss'
 
 export const query = graphql`
   query ($slug: String!, $dir: String!) {
@@ -55,12 +55,12 @@ const Page = (props) => {
       />
       <h1>{props.data.markdownRemark.frontmatter.title}</h1>
       <Row className='mb-5'>
-        <Col className={BlogStyles.blogDateTime}>
+        <Col className={blogDateTime}>
           <BiCalendar /> {moment(props.data.markdownRemark.fields.date).format('DD. MMMM YYYY')}  
         </Col>
       </Row>
 
-      <div className={BlogStyles.blogBody} dangerouslySetInnerHTML={{__html: props.data.markdownRemark.html}}></div>
+      <div className={blogBody} dangerouslySetInnerHTML={{__html: props.data.markdownRemark.html}}></div>
     </Layout>
   )
 

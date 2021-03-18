@@ -8,7 +8,7 @@ import {Link, graphql, useStaticQuery} from 'gatsby'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
-import BlogStyles from '../styles/blog.module.scss'
+import { blogListItem, blogDateTime } from '../styles/blog.module.scss'
 
 const BlogPage = () => {
   const data = useStaticQuery(graphql`
@@ -47,12 +47,12 @@ const BlogPage = () => {
       <SEO title="drumm.sh | Blog" />
       {data.allMarkdownRemark.edges.map( edge => {
         return (
-          <div className={BlogStyles.blogListItem}>
+          <div className={blogListItem}>
             <Link to={`${edge.node.fields.slug}`} >
               <h2>{edge.node.frontmatter.title}</h2>
             </Link>
             <Row>
-              <Col className={BlogStyles.blogDateTime}>
+              <Col className={blogDateTime}>
                 <BiCalendar /> {moment(edge.node.frontmatter.date).format('DD. MMMM YYYY')}  &bull;  <BiTime /> {edge.node.timeToRead} min read
               </Col>
             </Row>

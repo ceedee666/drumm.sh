@@ -5,7 +5,7 @@ import { graphql, useStaticQuery } from 'gatsby'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
-import BlogStyles from '../styles/blog.module.scss'
+import {blogBody} from '../styles/blog.module.scss'
 
 const TeachingPage = () => {
   const teachingMainPage = useStaticQuery(graphql`
@@ -24,7 +24,7 @@ const TeachingPage = () => {
   return (
     <Layout pageInfo={{ pageName: 'teaching' }}>
       <SEO title="drumm.sh | Teaching" />
-      <div className={BlogStyles.blogBody} dangerouslySetInnerHTML={{__html: teachingMainPage.file.childMarkdownRemark.html}}/>
+      <div className={blogBody} dangerouslySetInnerHTML={{__html: teachingMainPage.file.childMarkdownRemark.html}}/>
     </Layout>
   )
 }
