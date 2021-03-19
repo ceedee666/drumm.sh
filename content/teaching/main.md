@@ -6,12 +6,10 @@ In the summer term 2021 I teach the following lectures at [FH Aachen](https://ww
 - [Informationssysteme](teaching/informationssysteme)
 - [SAP in der Praxis](/teaching/sap_in_der_praxis)
 
-Furthermore, there will also be an online lecture series on "Information Systems" together with a number of universities. Details
-regarding this online lecture series are available [here](https://taxxas.com/d.php?id=vvwi). 
-
 # Virtuelle Vorlesungsreihe WI (#vivowi)
 
-Test
+The *Virtuelle Vorlesungsreihe Wirtschaftsinformatik* is an online lecture series on "Information Systems". Details
+regarding this online lecture series are available [here](https://taxxas.com/d.php?id=vvwi). 
 
 
 # Bachelor and Master Thesis
