@@ -21,22 +21,22 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Den Zoom-Link
     - Gruppe 1: Dienstag, 14:15 - 15:45h
     - Gruppe 2: Mittwoch, 08:15 - 09:45h
 
-| Woche | Thema der Vorlesung         | Videos und Skript                                          | Praktikumsaufgabe                                               |
-| ----- | --------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------- |
-| 14    | Organisation & Einführung   | 🎬: [Grundlagen ERP Systeme](https://youtu.be/UC1czfAo_NM) <br/> 📕: [Grundlangen](02_grundlagen.pdf) | ✅: [Fallstudie Navigation](case_study_navigation.pdf) <br/> 📗: [Global Bike Story](global_bike_story.pdf) |
-| 15    | **Keine Vorlesung**         | 🎬: [Grundlagen Vertrieb](https://youtu.be/TZlFXd6Jamo) <br/> 📕: [Vertrieb](03_vertrieb.pdf) | ✅: [Fallstudie Vertrieb](case_study_sd.pdf) |
-| 16    | Vertrieb                    | 🎬: [Details Vertrieb](https://youtu.be/6YHY_kvFQps) <br/> 🎬: [Rekapitulation Fallstudie Vertrieb](https://youtu.be/ZljMOLikyj0) <br/>📕: [Vertrieb](03_vertrieb.pdf) | ✅: [Praxisfall Vertrieb 1](praxisfall_sd1.pdf)|
-| 17    | Vertrieb                    | 🎬: [Details Vertrieb 2](https://youtu.be/cOqZ0s1yBfI) <br/>📕: [Vertrieb](03_vertrieb.pdf) | ✅: [Praxisfall Vertrieb 2](praxisfall_sd2.pdf)                 |
-| 18    | **Keine Vorlesung**         | 🎬: [Grundlangen Materialwirtschaft](https://youtu.be/DRW90wql80k)<br/>📕: [Materialwirtschaft](04_materialwirtschaft.pdf) | ✅: [Fallstudie Materialwirtschaft](case_study_mm.pdf)   |
-| 19    | Materialwirtschaft          | 🎬: [Details Materialwirtschaft](https://youtu.be/5YQGhN4ogJg) <br/> 🎬: [Rekapitulation Fallstudie Materialwirtschaft](https://youtu.be/2Fmgzc6IrXA)<br/>📕: [Materialwirtschaft](04_materialwirtschaft.pdf)  | ✅: [Praxisfall Materialwirtschaft](praxisfall_mm.pdf) |
-| 20    | Materialwirtschaft          | 🎬: [Grundlangen Produktion](https://youtu.be/_L9FtXfo_-k) <br/>📕: [Produktion](06_produktion.pdf) | ✅: [Fallstudie Produktion](case_study_pp.pdf)|
-| 21    | Produktion                  | 🎬: [Details Produktion](https://youtu.be/NOoakd3FyTc)  <br/>📕: [Produktion](06_produktion.pdf)    | ✅: [Praxisfall Produktion](praxisfall_pp.pdf)|
-| 22    | **Reading Week**            |                                                            | ✅: [Fallstudie FI](case_study_fi.pdf) <br/> ✅: [Fallstudie CO](case_study_co_cca.pdf)|
-| 23    | Finanzesen und Controlling  | 🎬: [Grundlagen Lagerverwaltung](https://youtu.be/6k3cXHBxNGE) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Fallstudie Lagerverwaltung](case_study_wm.pdf) |
-| 24    | Lagerverwaltung             | 🎬: [Details Lagerverwaltung](https://youtu.be/UaFt8InJ9Yg) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Praxisfall Lagerverwaltung](praxisfall_wm1.pdf) |
-| 25    | Prozessintegration          | 🎬: [Prozessintegration](https://youtu.be/1vXsvSGHrbs) <br/> 📕: [Prozessintegration](08_prozess_integration.pdf) | ✅: [Praxisfall Prozessintegration](praxisfall_process_integration.pdf) |
-| 26    | ERP-Einführung in Unternehmen | | **Kein Praktikum** |
-| 27    | Zusammenfassung und Prüfungsvorbereitung | | **Kein Praktikum** |
+| Woche | Datum    |  Thema der Vorlesung         | Videos und Skript                                          | Praktikumsaufgabe                                               |
+| ----- | -------- | ---------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------- |
+| 13    | 29.03.21 |Organisation & Einführung   | 🎬: [Grundlagen ERP Systeme](https://youtu.be/UC1czfAo_NM) <br/> 📕: [Grundlangen](02_grundlagen.pdf) | ✅: [Fallstudie Navigation](case_study_navigation.pdf) <br/> 📗: [Global Bike Story](global_bike_story.pdf) |
+| 14    | **05.04.21** | **Keine Vorlesung**         | 🎬: [Grundlagen Vertrieb](https://youtu.be/TZlFXd6Jamo) <br/> 📕: [Vertrieb](03_vertrieb.pdf) | ✅: [Fallstudie Vertrieb](case_study_sd.pdf) |
+| 15    | 12.04.21 | Vertrieb                    | 🎬: [Details Vertrieb](https://youtu.be/6YHY_kvFQps) <br/> 🎬: [Rekapitulation Fallstudie Vertrieb](https://youtu.be/ZljMOLikyj0) <br/>📕: [Vertrieb](03_vertrieb.pdf) | ✅: [Praxisfall Vertrieb 1](praxisfall_sd1.pdf)|
+| 16    | 19.04.21 | Vertrieb                    | 🎬: [Details Vertrieb 2](https://youtu.be/cOqZ0s1yBfI) <br/>📕: [Vertrieb](03_vertrieb.pdf) | ✅: [Praxisfall Vertrieb 2](praxisfall_sd2.pdf)                 |
+| 17    | **26.04.21** |**Keine Vorlesung**         | 🎬: [Grundlangen Materialwirtschaft](https://youtu.be/DRW90wql80k)<br/>📕: [Materialwirtschaft](04_materialwirtschaft.pdf) | ✅: [Fallstudie Materialwirtschaft](case_study_mm.pdf)   |
+| 18    | 03.05.21 | Materialwirtschaft          | 🎬: [Details Materialwirtschaft](https://youtu.be/5YQGhN4ogJg) <br/> 🎬: [Rekapitulation Fallstudie Materialwirtschaft](https://youtu.be/2Fmgzc6IrXA)<br/>📕: [Materialwirtschaft](04_materialwirtschaft.pdf)  | ✅: [Praxisfall Materialwirtschaft](praxisfall_mm.pdf) |
+| 19    | 10.05.21 |Materialwirtschaft          | 🎬: [Grundlangen Produktion](https://youtu.be/_L9FtXfo_-k) <br/>📕: [Produktion](06_produktion.pdf) | ✅: [Fallstudie Produktion](case_study_pp.pdf)|
+| 20    | 17.05.21 |Produktion                  | 🎬: [Details Produktion](https://youtu.be/NOoakd3FyTc)  <br/>📕: [Produktion](06_produktion.pdf)    | ✅: [Praxisfall Produktion](praxisfall_pp.pdf)|
+| 21    | **24.05.21** | **Reading Week**            |                                                            | ✅: [Fallstudie FI](case_study_fi.pdf) <br/> ✅: [Fallstudie CO](case_study_co_cca.pdf)|
+| 22    | 31.05.21 |Finanzesen und Controlling  | 🎬: [Grundlagen Lagerverwaltung](https://youtu.be/6k3cXHBxNGE) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Fallstudie Lagerverwaltung](case_study_wm.pdf) |
+| 23    | 07.06.21 | Lagerverwaltung             | 🎬: [Details Lagerverwaltung](https://youtu.be/UaFt8InJ9Yg) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Praxisfall Lagerverwaltung](praxisfall_wm1.pdf) |
+| 24    | 14.06.21 | Prozessintegration          | 🎬: [Prozessintegration](https://youtu.be/1vXsvSGHrbs) <br/> 📕: [Prozessintegration](08_prozess_integration.pdf) | ✅: [Praxisfall Prozessintegration](praxisfall_process_integration.pdf) |
+| 25    | 21.06.21 | ERP-Einführung in Unternehmen | | **Kein Praktikum** |
+| 26    | 28.06.21 | Zusammenfassung und Prüfungsvorbereitung | | **Kein Praktikum** |
 
 ## Systemzugriff
 

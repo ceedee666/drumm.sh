@@ -27,21 +27,21 @@ Die Vorlesung findet immer **Dienstags um 12:15h** statt. Den Zoom-Link zur Teil
 
 | Woche   | Datum    | Themen der Vorlesung                       | Videos                                              | Aufgaben                       |
 | ------- | -------- | -------------------------------------------| --------------------------------------------------- | ------------------------------ |
-| **14**  | 30.03.21 | Motivation und Organisation                |                                                     |                                |
-| **15**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse | 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) | 
-| **16**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬 [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> [OR-Gateway]()| |
-| **17**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | | |
-| **18**  | 27.04.21 | BPMN: Erweiterungen, Strategische vs. Operative Prozessmodelle | | |
-| **19**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | | |
-| **20**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | | |
-| **21**  | 18.05.21 | Datenmodellierung                          | | |
-| **22**  | **25.05.21** | **Reading Week**                       |                                                     |                                |
-| **23**  | 01.06.21 | Datenbanken und Normalisierung             | | |
-| **24**  | 08.06.21 | Datenbanktransaktionen                     | | |
-| **25**  | 15.06.21 | Systementwicklung                          | | |
-| **26**  | 22.06.21 | IT-Servicemanagement, BI & Big Data        | | |
-| **27**  | 29.06.21 | Management von Informationssicherheit      | | | 
-| **28**  | 06.07.21 | Wiederholung & Fragen                      | | | 
+| **13**  | 30.03.21 | Motivation und Organisation                |                                                     |                                |
+| **14**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse | 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) | 
+| **15**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬 [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> [OR-Gateway]()| |
+| **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | | |
+| **17**  | 27.04.21 | BPMN: Erweiterungen, Strategische vs. Operative Prozessmodelle | | |
+| **18**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | | |
+| **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | | |
+| **20**  | 18.05.21 | Datenmodellierung                          | | |
+| **21**  | **25.05.21** | **Reading Week**                       |                                                     |                                |
+| **22**  | 01.06.21 | Datenbanken und Normalisierung             | | |
+| **23**  | 08.06.21 | Datenbanktransaktionen                     | | |
+| **24**  | 15.06.21 | Systementwicklung                          | | |
+| **25**  | 22.06.21 | IT-Servicemanagement, BI & Big Data        | | |
+| **26**  | 29.06.21 | Management von Informationssicherheit      | | | 
+| **27**  | 06.07.21 | Wiederholung & Fragen                      | | | 
 
 
 ## Literatur
