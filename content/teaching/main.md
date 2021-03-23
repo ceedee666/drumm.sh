@@ -3,7 +3,7 @@ In the summer term 2021 I teach the following lectures at [FH Aachen](https://ww
 
 - Digital Lab
 - [Industrielle Produktion](/teaching/industrielle_produktion)
-- [Informationssysteme](teaching/informationssysteme)
+- [Informationssysteme](/teaching/informationssysteme)
 - [SAP in der Praxis](/teaching/sap_in_der_praxis)
 
 # Virtuelle Vorlesungsreihe WI (#vivowi)
