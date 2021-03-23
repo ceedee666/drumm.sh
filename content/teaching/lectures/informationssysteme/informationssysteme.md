@@ -30,10 +30,10 @@ Außerdem werde ich für jede Vorlesung ien [Tweetback](https://tweedback.de) zu
 | Woche   | Datum    | Themen der Vorlesung                       | Videos                                              | Aufgaben                       |
 | ------- | -------- | ------------------------------------------ | --------------------------------------------------- | ------------------------------ |
 | **13**  | 30.03.21 | Motivation und Organisation                |                                                     |                                |
-| **14**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse | 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) | Übungen 2 und 3 im Skript |
-| **15**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬 [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> [OR-Gateway]()| Übungen 4 und 5.1 im Skript |
-| **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | | |
-| **17**  | 27.04.21 | BPMN: Erweiterungen, strategische und operative Prozessmodelle | | |
+| **14**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse | 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) |🛠: 2 und 3</br> ⁉️: [Quiz](https://quizizz.com/join?gc=28875362)|
+| **15**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬 [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> [OR-Gateway]()| 🛠: 4 und 5.1 |
+| **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | | 🛠: 6, 7 und 8 |
+| **17**  | 27.04.21 | BPMN: Erweiterungen, strategische und operative Prozessmodelle | | 🛠: 9, 10, 11, 12 und 13 |
 | **18**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | | |
 | **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | | |
 | **20**  | 18.05.21 | Datenmodellierung                          | | |
@@ -48,9 +48,13 @@ Außerdem werde ich für jede Vorlesung ien [Tweetback](https://tweedback.de) zu
 
 ## Literatur
 
-* [Praxishandbuch BPMN: mit Einführung in CMMN und DMN, 5. Auflage](https://www.hanser-elibrary.com/doi/book/10.3139/9783446450783)
-* [Datenmodellierung für Einsteiger](https://www.springer.com/de/book/9783658190699)
-* [Online BPMN Referenz](https://camunda.com/bpmn/reference/)
+* BPMN und DMN
+  * [Praxishandbuch BPMN: mit Einführung in CMMN und DMN, 5. Auflage](https://www.hanser-elibrary.com/doi/book/10.3139/9783446450783)
+  * [BPMN Meets DMN: Business Process and Decision Modeling](https://open.hpi.de/courses/bpm2016/), MOOC am openHPI
+  * [Business Processes: Modeling, Simulation, Execution](https://open.hpi.de/courses/bpm2019), MOOC am openHPI
+  * [Online BPMN Referenz](https://camunda.com/bpmn/reference/)
+* Datenmodellierung
+  * [Datenmodellierung für Einsteiger](https://www.springer.com/de/book/9783658190699)
 
 
 ## Software
