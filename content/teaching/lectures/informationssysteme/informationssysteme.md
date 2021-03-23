@@ -11,27 +11,27 @@ tags: ["FH Aachen", "Teaching", "Informationssysteme", "BPMN", "DMN"]
 * Datenmodellierung
 * Datenbanken und SQL
 * Systementwicklung
-* Management von Informationssystemen
+* Management von Informationssystemen.
 
 ## Zeitplan
 
 Den Zoom-Link zur Vorlesung finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_709545.html).
 Im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_709545.html) finden Sie außerdem die Vorlesungsunterlagen zum Download sowie die Aufzeichnungen der Vorlesungen.
 Die Videos sind außerdem in einer [🎬 YouTube Playlist](https://youtube.com/playlist?list=PLl09U8aTDcv1eIkxyPKNAKKmqPJR3RC0o)
-zusammengefasst.
+zusammengefasst. Die in den Videos gezeigten BPMN Modelle sind in diesem [Repository](https://github.com/ceedee666/information_systems_lecture) zu finden. 
 
 Folgender Zeitplan zeigt die aktuelle Planung des Moduls. Zu jedem Vorlesungstermin finden Sie Links zu Videos sowie 
 Übungsaufgaben die Sie **vor der Vorlesung bearbeiten müssen**. Nur wenn Sie vorbereitet sind, werden Sie den Vorlesungsinhalten folgen können.
 
-Die Vorlesung findet immer **Dienstags um 12:15h** statt. Den Zoom-Link zur Teilnahme finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_709545.html).
+Die Vorlesung findet immer **dienstags um 12:15h** statt. Den Zoom-Link zur Teilnahme finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_709545.html).
 
 | Woche   | Datum    | Themen der Vorlesung                       | Videos                                              | Aufgaben                       |
-| ------- | -------- | -------------------------------------------| --------------------------------------------------- | ------------------------------ |
+| ------- | -------- | ------------------------------------------ | --------------------------------------------------- | ------------------------------ |
 | **13**  | 30.03.21 | Motivation und Organisation                |                                                     |                                |
 | **14**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse | 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) | 
 | **15**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬 [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> [OR-Gateway]()| |
 | **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | | |
-| **17**  | 27.04.21 | BPMN: Erweiterungen, Strategische vs. Operative Prozessmodelle | | |
+| **17**  | 27.04.21 | BPMN: Erweiterungen, strategische und operative Prozessmodelle | | |
 | **18**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | | |
 | **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | | |
 | **20**  | 18.05.21 | Datenmodellierung                          | | |
@@ -49,6 +49,7 @@ Die Vorlesung findet immer **Dienstags um 12:15h** statt. Den Zoom-Link zur Teil
 * [Praxishandbuch BPMN: mit Einführung in CMMN und DMN, 5. Auflage](https://www.hanser-elibrary.com/doi/book/10.3139/9783446450783)
 * [Datenmodellierung für Einsteiger](https://www.springer.com/de/book/9783658190699)
 * [Online BPMN Referenz](https://camunda.com/bpmn/reference/)
+
 
 ## Software
 
