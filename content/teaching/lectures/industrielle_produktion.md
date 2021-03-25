@@ -27,7 +27,7 @@ verfügbar.
 ## Python
 
 Zur Programmierung der Microcontroller wird die Programmiersprache Python verwendet. Falls Sie keine Python-Kenntnisse besitzen
-oder Ihre Kenntnisse auffrischen möchten, können Sie dazu diese [Jupyter-Notebooks](https://mybinder.org/v2/gh/ceedee666/python_intro_ws20/v1.2) verwenden.
+oder Ihre Kenntnisse auffrischen möchten, können Sie dazu diese [Jupyter-Notebooks](https://mybinder.org/v2/gh/ceedee666/python_intro_ss21/v1.4) verwenden.
 
 Um die Microcontroller mit Python programmieren zu können, muss auf diesen die [MicroPython](https://micropython.org/) Firmware installiert werden. Eine Anleitung 
 zur Installation finden Sie [hier](https://randomnerdtutorials.com/flash-upload-micropython-firmware-esp32-esp8266/). 
