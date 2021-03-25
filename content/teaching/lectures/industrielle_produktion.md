@@ -13,13 +13,16 @@ In meinem Teil dieses Moduls werden Sie unter Verwendung von:
 - Microcontrollern und Sensoren 
 - [Amazon Web Service](https://aws.amazon.com/)
 
-einen Prototypen entwickeln um Daten zu erfassen und zu analysieren. Zur Entwicklung Ihres Prototypen benötigen Sie folgende Hardware:
+einen Prototypen entwickeln, um Daten zu erfassen und zu analysieren. Zur Entwicklung Ihres Prototypen benötigen Sie folgende Hardware:
 
 - [ESP8266 Microcontroller](https://www.amazon.de/dp/B06Y1LZLLY)
 - [Breadboard und Kabel](https://www.amazon.de/dp/B01N4VCYUK)
 - [Sensorkit](https://www.amazon.de/dp/B01M30ZWQR/)
 
 Bitte beschaffen Sie die Hardware **rechtzeitig** vor Beginn der Vorlesungen!
+
+Der Inahlt der ersten Vorlesung zur Programmierung des Microcontroller in Python sind als [Github Repository](https://github.com/ceedee666/iot_introduction)
+verfügbar.
 
 ## Python
 
