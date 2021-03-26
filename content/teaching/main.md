@@ -1,7 +1,7 @@
 # Lectures
 In the summer term 2021 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
-- Digital Lab
+- [Digital Lab](/teaching/digital_lab)
 - [Industrielle Produktion](/teaching/industrielle_produktion)
 - [Informationssysteme](/teaching/informationssysteme)
 - [SAP in der Praxis](/teaching/sap_in_der_praxis)
