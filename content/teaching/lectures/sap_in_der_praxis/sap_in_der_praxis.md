@@ -19,7 +19,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Den Zoom-Link
     - Montag, 14:15 - 15:45h
 - **Praktikum:**
     - Gruppe 1: Dienstag, 14:15 - 15:45h
-    - Gruppe 2: Mittwoch, 08:15 - 09:45h
+    - Gruppe 2: Donnerstag, 08:15 - 09:45h
 
 | Woche | Datum    |  Thema der Vorlesung         | Videos und Skript                                          | Praktikumsaufgabe                                               |
 | ----- | -------- | ---------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------- |
