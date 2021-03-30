@@ -34,8 +34,8 @@ Als kurze Zusammenfassung:
 
 | Woche   | Datum    | Themen der Vorlesung                       | Videos                                              | Aufgaben                       |
 | ------- | -------- | ------------------------------------------ | --------------------------------------------------- | ------------------------------ |
-| **13**  | 30.03.21 | Motivation und Organisation                |                                                     |                                |
-| **14**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse | 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) |🛠: 2 und 3</br> ⁉️: [Quiz](https://quizizz.com/join?gc=28875362)|
+| **13**  | 30.03.21 | Motivation und Organisation ([Skript](https://www.ili.fh-aachen.de/goto_elearning_file_709780_download.html))| |                  |
+| **14**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse ([Skript](https://www.ili.fh-aachen.de/goto_elearning_file_709781_download.html))| 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) |🛠: 2 und 3</br> ⁉️: [Quiz](https://quizizz.com/join?gc=28875362)|
 | **15**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬: [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> 🎬: [OR-Gateway]()| 🛠: 4 und 5.1 |
 | **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | | 🛠: 6, 7 und 8 |
 | **17**  | 27.04.21 | BPMN: Erweiterungen, strategische und operative Prozessmodelle | | 🛠: 9, 10, 11, 12 und 13 |
