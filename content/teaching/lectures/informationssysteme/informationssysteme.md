@@ -30,6 +30,8 @@ Als kurze Zusammenfassung:
 * die **YouTube-Videos** vermitteln die **Theorie**
 * in der **Vorlesung** werden vertiefende **Übungen** und **Frage** bearbeitet.
 
+<br/>
+
 | Woche   | Datum    | Themen der Vorlesung                       | Videos                                              | Aufgaben                       |
 | ------- | -------- | ------------------------------------------ | --------------------------------------------------- | ------------------------------ |
 | **13**  | 30.03.21 | Motivation und Organisation                |                                                     |                                |
