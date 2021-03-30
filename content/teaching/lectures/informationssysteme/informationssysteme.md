@@ -24,14 +24,17 @@ Folgender Zeitplan zeigt die aktuelle Planung des Moduls. Zu jedem Vorlesungster
 Übungsaufgaben die Sie **vor der Vorlesung bearbeiten müssen**. Nur wenn Sie vorbereitet sind, werden Sie den Vorlesungsinhalten folgen können.
 
 Die Vorlesung findet immer **dienstags um 12:15h** statt. Den Zoom-Link zur Teilnahme finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_709545.html).
-Außerdem werde ich für jede Vorlesung ien [Tweetback](https://tweedback.de) zur Verfügung stellen.
+Außerdem werde ich für jede Vorlesung ein [Tweetback](https://tweedback.de) zur Verfügung stellen.
 
+Als kurze Zusammenfassung:
+* die **YouTube-Videos** vermitteln die **Theorie**
+* in der **Vorlesung** werden vertiefende **Übungen** und **Frage** bearbeitet.
 
 | Woche   | Datum    | Themen der Vorlesung                       | Videos                                              | Aufgaben                       |
 | ------- | -------- | ------------------------------------------ | --------------------------------------------------- | ------------------------------ |
 | **13**  | 30.03.21 | Motivation und Organisation                |                                                     |                                |
 | **14**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse | 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) |🛠: 2 und 3</br> ⁉️: [Quiz](https://quizizz.com/join?gc=28875362)|
-| **15**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬 [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> [OR-Gateway]()| 🛠: 4 und 5.1 |
+| **15**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬: [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> 🎬: [OR-Gateway]()| 🛠: 4 und 5.1 |
 | **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | | 🛠: 6, 7 und 8 |
 | **17**  | 27.04.21 | BPMN: Erweiterungen, strategische und operative Prozessmodelle | | 🛠: 9, 10, 11, 12 und 13 |
 | **18**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | | |
