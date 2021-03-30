@@ -48,6 +48,8 @@ Außerdem werde ich für jede Vorlesung ien [Tweetback](https://tweedback.de) zu
 
 ## Literatur
 
+* Wirtschaftsinformatik
+  * [Wirtschaftsinformatik: eine Einführung](https://www.pearson-studium.de/drm/reader/nu/code/lyxoqpaf3tbjefoc6rf36pwabg08godw)
 * BPMN und DMN
   * [Praxishandbuch BPMN: mit Einführung in CMMN und DMN, 5. Auflage](https://www.hanser-elibrary.com/doi/book/10.3139/9783446450783)
   * [BPMN Meets DMN: Business Process and Decision Modeling](https://open.hpi.de/courses/bpm2016/), MOOC am openHPI
