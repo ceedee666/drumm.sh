@@ -329,7 +329,7 @@ Consequently, curl only hits the two remaining pods.
 
 Note, that I use `curl -s http://pi-picard:31580` to access the echo server. The reason is, that performing a port forwarding of the
 NodePort service selects a target pod. Therefore, no load balancing is preformed. To see the load balancing, the service must be invoked 
-via the control pane, which is running on `pi-picard`in my cluster. 
+via the control pane, which is running on `pi-picard` in my cluster. 
 
 ## Next Steps
 
