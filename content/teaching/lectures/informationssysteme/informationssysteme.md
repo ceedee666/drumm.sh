@@ -35,14 +35,14 @@ Als kurze Zusammenfassung:
 | Woche   | Datum    | Themen der Vorlesung                       | Videos                                              | Aufgaben                       |
 | ------- | -------- | ------------------------------------------ | --------------------------------------------------- | ------------------------------ |
 | **13**  | 30.03.21 | Motivation und Organisation ([Skript](https://www.ili.fh-aachen.de/goto_elearning_file_709780_download.html))| |                  |
-| **14**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse ([Skript](https://www.ili.fh-aachen.de/goto_elearning_file_709781_download.html))| 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) |🛠: 2 und 3</br> ⁉️: [Quiz](https://quizizz.com/join?gc=28875362)|
+| **14**  | 06.04.21 | BPMN: Aktivitäten, Sequenzflüsse & Ereignisse ([Skript](https://www.ili.fh-aachen.de/goto_elearning_file_709781_download.html))| 🎬: [Motivation BPMN](https://youtu.be/UqvgfuY7DIQ) <br/> 🎬: [Aktivitäten & Sequenzflüsse](https://youtu.be/z4pWSXpN8Jo) <br/> 🎬: [Ereignisse](https://youtu.be/z4pWSXpN8Jo) |🛠: 2 und 3</br> ⁉️: [Quiz](https://quizizz.com/join?gc=55890834)|
 | **15**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬: [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> 🎬: [Übungen](https://youtu.be/fk_wNOJgHAY) <br/> 🎬: [OR-Gateway](https://youtu.be/gLGPpIxoi-o)| 🛠: 4 und 5.1 |
-| **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | | 🛠: 6, 7 und 8 |
+| **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | 🎬: [Schleifen](https://youtu.be/ndgl-0da4NQ) <br/> 🎬: [Häufige Fehler](https://youtu.be/1fCD8Qrs_RU) | 🛠: 6, 7 und 8 |
 | **17**  | 27.04.21 | BPMN: Erweiterungen, strategische und operative Prozessmodelle | | 🛠: 9, 10, 11, 12 und 13 |
 | **18**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | | |
 | **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | | |
 | **20**  | 18.05.21 | Datenmodellierung                          | | |
-| **21**  | **25.05.21** | **Reading Week**                       |                                                     |                                |
+| **21**  | **25.05.21** | **Reading Week**                       | 📕: Kapitel 10 aus dem Buch Prozessmanagement und Process-Mining: Grundlagen. <sup id="a1">[1](#f1)</sup> | |
 | **22**  | 01.06.21 | Datenbanken und Normalisierung             | | |
 | **23**  | 08.06.21 | Datenbanktransaktionen                     | | |
 | **24**  | 15.06.21 | Systementwicklung                          | | |
@@ -60,6 +60,8 @@ Als kurze Zusammenfassung:
   * [BPMN Meets DMN: Business Process and Decision Modeling](https://open.hpi.de/courses/bpm2016/), MOOC am openHPI
   * [Business Processes: Modeling, Simulation, Execution](https://open.hpi.de/courses/bpm2019), MOOC am openHPI
   * [Online BPMN Referenz](https://camunda.com/bpmn/reference/)
+* Prozessmanagement
+  * [<b id="f1"></b> Prozessmanagement und Process-Mining: Grundlagen](https://www.degruyter.com/isbn/9783110500165) [↩](#a1)
 * Datenmodellierung
   * [Datenmodellierung für Einsteiger](https://www.springer.com/de/book/9783658190699)
 

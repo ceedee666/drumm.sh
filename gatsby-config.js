@@ -13,6 +13,7 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
     "gatsby-plugin-catch-links",
+    'gatsby-remark-copy-linked-files',
     {
       resolve: "gatsby-transformer-remark",
       options: {
@@ -31,7 +32,12 @@ module.exports = {
               theme: 'Dark+ (default dark)'
             }
           },
-          'gatsby-remark-copy-linked-files'
+          { 
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank"
+            }
+          }
         ]
       }
     },
