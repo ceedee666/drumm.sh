@@ -18,7 +18,6 @@ module.exports = {
       options: {
         plugins: [
           'gatsby-remark-autolink-headers',
-          'gatsby-remark-copy-linked-files',
           'gatsby-remark-relative-images',
           {
             resolve: 'gatsby-remark-images',
@@ -32,6 +31,7 @@ module.exports = {
               theme: 'Dark+ (default dark)'
             }
           },
+          'gatsby-remark-copy-linked-files',
           { 
             resolve: "gatsby-remark-external-links",
             options: {
