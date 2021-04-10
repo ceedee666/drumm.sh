@@ -13,12 +13,12 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
     "gatsby-plugin-catch-links",
-    'gatsby-remark-copy-linked-files',
     {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
           'gatsby-remark-autolink-headers',
+          'gatsby-remark-copy-linked-files',
           'gatsby-remark-relative-images',
           {
             resolve: 'gatsby-remark-images',
