@@ -64,6 +64,13 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "projects",
+        path: "./content/projects/",
+      },
+    },
+    {
       resolve: `gatsby-plugin-feed`,
       options: {
         query: `{
