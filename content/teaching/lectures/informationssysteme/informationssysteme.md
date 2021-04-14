@@ -56,7 +56,7 @@ Als kurze Zusammenfassung:
 * Wirtschaftsinformatik
   * [Wirtschaftsinformatik: eine Einführung](https://www.pearson-studium.de/drm/reader/nu/code/lyxoqpaf3tbjefoc6rf36pwabg08godw)
 * BPMN und DMN
-  * [Praxishandbuch BPMN: mit Einführung in CMMN und DMN, 5. Auflage](https://www.hanser-elibrary.com/doi/book/10.3139/9783446450783)
+  * [Praxishandbuch BPMN: mit Einführung in CMMN und DMN, 6. Auflage](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446461123)
   * [BPMN Meets DMN: Business Process and Decision Modeling](https://open.hpi.de/courses/bpm2016/), MOOC am openHPI
   * [Business Processes: Modeling, Simulation, Execution](https://open.hpi.de/courses/bpm2019), MOOC am openHPI
   * [Online BPMN Referenz](https://camunda.com/bpmn/reference/)
@@ -71,6 +71,7 @@ Als kurze Zusammenfassung:
 | Beschreibung | Link |
 | ------------ | ------------ |
 | Camunda Modeler | [Download](https://camunda.com/download/modeler/) |
+| Token-Simulation für Camunda Modeler | [Download](https://github.com/bpmn-io/bpmn-js-token-simulation-plugin) <br/> [Video zur Installation](https://youtu.be/DVn-MwvQWNs)|
 | Signavio Process Manager | [Einladungs-Link](https://academic.signavio.com/p/register?link=23abdf2da412488b8a2b0a048827a472) |
 | diagrams.net | https://www.diagrams.net/ |
 | DB-Browser für SQLite | [Download](https://sqlitebrowser.org/) |
