@@ -38,6 +38,8 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Den Zoom-Link
 | 25    | 21.06.21 | ERP-Einführung in Unternehmen | | **Kein Praktikum** |
 | 26    | 28.06.21 | Zusammenfassung und Prüfungsvorbereitung | | **Kein Praktikum** |
 
+Zu den Vorlesungsvideos existiert außerdem eine Transkription. Diese ist auf [Github](https://github.com/ceedee666/transcript_sap_ws20) verfügbar. 
+
 ## Systemzugriff
 
 Um auf "unser" SAP ERP System zugreifen zu können müssen Sie folgende Schritte durchführen. Die notwendigen Benutzernamen und Passwörter erhalten Sie vor
