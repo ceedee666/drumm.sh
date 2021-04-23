@@ -39,7 +39,7 @@ Als kurze Zusammenfassung:
 | **15**  | 13.04.21 | BPMN: Gateways                             | 🎬: [Einführung Gateways](https://youtu.be/Ntb_IX7G97g) <br/> 🎬: [AND-Gateway](https://youtu.be/Ntb_IX7G97g) <br/> 🎬: [Übungen](https://youtu.be/fk_wNOJgHAY) <br/> 🎬: [OR-Gateway](https://youtu.be/gLGPpIxoi-o)| 🛠: 4 und 5.1<br/>  ⁉️: [Quiz](https://quizizz.com/join?gc=43472722) |
 | **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | 🎬: [Schleifen](https://youtu.be/ndgl-0da4NQ) <br/> 🎬: [Häufige Fehler](https://youtu.be/1fCD8Qrs_RU) <br/> 🎬: [Pools & Lanes](https://youtu.be/zxHxFI4oSuA) | 🛠: 6, 7, 8 und 9 |
 | **17**  | 27.04.21 | ~~BPMN: Erweiterungen, strategische und operative Prozessmodelle~~ | 🎬: [Erweiterungen](https://youtu.be/spIondtFGFg) <br/> 🎬: [Simulation](https://youtu.be/t4jyoX6F74w) <br/> 🎬: [Strategische & operative Prozessmodelle](https://youtu.be/fKfe6COV8NE)| 🛠: 10, 11, 12 und 13 |
-| **18**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | | |
+| **18**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | 🎬: [DMN](https://youtu.be/FRACeoooLYE) <br/> [BPMN und DMN](https://youtu.be/C2qJRej_-xs)| 🛠️: 1 und 2 vom Übungsblatt zu DMN |
 | **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | | |
 | **20**  | 18.05.21 | Datenmodellierung                          | | |
 | **21**  | **25.05.21** | **Reading Week**                       | 📕: Kapitel 10 aus dem Buch Prozessmanagement und Process-Mining: Grundlagen. <sup id="a1">[1](#f1)</sup> | |
@@ -72,6 +72,7 @@ Als kurze Zusammenfassung:
 | ------------ | ------------ |
 | Camunda Modeler | [Download](https://camunda.com/download/modeler/) |
 | Token-Simulation für Camunda Modeler | [Download](https://github.com/bpmn-io/bpmn-js-token-simulation-plugin) <br/> [Video zur Installation](https://youtu.be/DVn-MwvQWNs)|
+| Camunda DMN Simulator | [Link](https://consulting.camunda.com/dmn-simulator)|
 | Signavio Process Manager | [Einladungs-Link](https://academic.signavio.com/p/register?link=23abdf2da412488b8a2b0a048827a472) |
 | diagrams.net | https://www.diagrams.net/ |
 | DB-Browser für SQLite | [Download](https://sqlitebrowser.org/) |
