@@ -40,7 +40,7 @@ Als kurze Zusammenfassung:
 | **16**  | 20.04.21 | BPMN: Schleifen, Pools & Lanes             | 🎬: [Schleifen](https://youtu.be/ndgl-0da4NQ) <br/> 🎬: [Häufige Fehler](https://youtu.be/1fCD8Qrs_RU) <br/> 🎬: [Pools & Lanes](https://youtu.be/zxHxFI4oSuA) | 🛠: 6, 7, 8 und 9 <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=32833290) |
 | **17**  | 27.04.21 | ⚠️  **Keine Vorlesung in Zoom** <br/>BPMN: Erweiterungen, strategische und operative Prozessmodelle | 🎬: [Erweiterungen](https://youtu.be/spIondtFGFg) <br/> 🎬: [Simulation](https://youtu.be/t4jyoX6F74w) <br/> 🎬: [Strategische & operative Prozessmodelle](https://youtu.be/fKfe6COV8NE)| 🛠: 10, 11, 12 und 13 |
 | **18**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | 🎬: [DMN](https://youtu.be/FRACeoooLYE) <br/> 🎬: [Verknüpfung von BPMN und DMN](https://youtu.be/C2qJRej_-xs)| 🛠️: 1 und 2 vom Übungsblatt zu DMN <br/>⁉️: [Quiz](https://quizizz.com/join?gc=07049226)|
-| **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | 🎬: [Kosten & Nutzen von IT-Systemen](https://youtu.be/IseJ_oZjm4c) | 🛠️: Übung Amortisationsrechnung |
+| **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | 🎬: [Kosten & Nutzen von IT-Systemen](https://youtu.be/IseJ_oZjm4c) <br/> 🎬: [Einführung Datenmodellierung](https://youtu.be/CttvBQ1YUUs) | 🛠️: Übung Amortisationsrechnung <br/> 🛠️: Übung 5.1 |
 | **20**  | 18.05.21 | Datenmodellierung                          | | |
 | **21**  | **25.05.21** | **Reading Week**                       | 📕: Kapitel 10 aus dem Buch Prozessmanagement und Process-Mining: Grundlagen. <sup id="a1">[1](#f1)</sup> | |
 | **22**  | 01.06.21 | Datenbanken und Normalisierung             | | |
