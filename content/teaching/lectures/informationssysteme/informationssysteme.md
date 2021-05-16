@@ -43,7 +43,7 @@ Als kurze Zusammenfassung:
 | **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | 🎬: [Kosten & Nutzen von IT-Systemen](https://youtu.be/IseJ_oZjm4c) <br/> 🎬: [Einführung Datenmodellierung](https://youtu.be/CttvBQ1YUUs) | 🛠️: Übung Amortisationsrechnung <br/> 🛠️: Übung 5.1 |
 | **20**  | 18.05.21 | Datenmodellierung                          | 🎬: [Kardinalitäten im ER-Modell](https://youtu.be/uRVjchdu5j0) <br/> 🎬: [Relationenmodell](https://youtu.be/QdKSxMeqleM) | 🛠️: Übungen 7, 8, 9 und 10 <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=64945834)|
 | **21**  | **25.05.21** | **Reading Week**                       | 📕: Kapitel 10 aus dem Buch Prozessmanagement und Process-Mining: Grundlagen. <sup id="a1">[1](#f1)</sup> | |
-| **22**  | 01.06.21 | SQL und Datenbanknormalisierung            | | 🛠️: Übungen 1 - 8 <br/> 🗄️: [Books-DB](books.db) |
+| **22**  | 01.06.21 | SQL und Datenbanknormalisierung            | 🎬: [SQL](https://youtu.be/yU1Ek8SKiOQ) | 🛠️: Übungen 1 - 8 <br/> 🗄️: [Books-DB](books.db) |
 | **23**  | 08.06.21 | Datenbanktransaktionen                     | | |
 | **24**  | 15.06.21 | Systementwicklung                          | | |
 | **25**  | 22.06.21 | IT-Servicemanagement, BI & Big Data        | | |
