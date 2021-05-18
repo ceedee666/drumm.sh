@@ -46,6 +46,7 @@ Als kurze Zusammenfassung:
 | **22**  | 01.06.21 | SQL und Datenbanknormalisierung            | 🎬: [SQL](https://youtu.be/yU1Ek8SKiOQ) | 🛠️: Übungen 1 - 8 <br/> 🗄️: [Books-DB](books.db) |
 | **23**  | 08.06.21 | Datenbanktransaktionen                     | | |
 | **24**  | 15.06.21 | Systementwicklung                          | | |
+| **25**  | **21.06.21** | ⚠️: **Externer Vortrag. Details folgen.** | |
 | **25**  | 22.06.21 | IT-Servicemanagement, BI & Big Data        | | |
 | **26**  | 29.06.21 | Management von Informationssicherheit      | | | 
 | **27**  | 06.07.21 | Wiederholung & Fragen                      | | | 
