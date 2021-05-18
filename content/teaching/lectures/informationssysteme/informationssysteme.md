@@ -42,7 +42,7 @@ Als kurze Zusammenfassung:
 | **18**  | 04.05.21 | DMN: Modellierung von Entscheidungen       | 🎬: [DMN](https://youtu.be/FRACeoooLYE) <br/> 🎬: [Verknüpfung von BPMN und DMN](https://youtu.be/C2qJRej_-xs)| 🛠️: 1 und 2 vom Übungsblatt zu DMN <br/>⁉️: [Quiz](https://quizizz.com/join?gc=07049226)|
 | **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | 🎬: [Kosten & Nutzen von IT-Systemen](https://youtu.be/IseJ_oZjm4c) <br/> 🎬: [Einführung Datenmodellierung](https://youtu.be/CttvBQ1YUUs) | 🛠️: Übung Amortisationsrechnung <br/> 🛠️: Übung 5.1 |
 | **20**  | 18.05.21 | Datenmodellierung                          | 🎬: [Kardinalitäten im ER-Modell](https://youtu.be/uRVjchdu5j0) <br/> 🎬: [Relationenmodell](https://youtu.be/QdKSxMeqleM) | 🛠️: Übungen 7, 8, 9 und 10 <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=64945834)|
-| **21**  | **25.05.21** | **Reading Week**                       | 📕: Kapitel 10 aus dem Buch Prozessmanagement und Process-Mining: Grundlagen. <sup id="a1">[1](#f1)</sup> | |
+| **21**  | **25.05.21** | **Reading Week**                       | 📕: Kapitel 10 aus dem Buch Prozessmanagement und Process-Mining: Grundlagen. <sup id="a1">[1](#f1)</sup> | 🛠️: Fragen aus diesem [Dokument](https://www.ili.fh-aachen.de/goto_elearning_file_762756_download.html)|
 | **22**  | 01.06.21 | SQL und Datenbanknormalisierung            | 🎬: [SQL](https://youtu.be/yU1Ek8SKiOQ) | 🛠️: Übungen 1 - 8 <br/> 🗄️: [Books-DB](books.db) |
 | **23**  | 08.06.21 | Datenbanktransaktionen                     | | |
 | **24**  | 15.06.21 | Systementwicklung                          | | |
@@ -61,7 +61,7 @@ Als kurze Zusammenfassung:
   * [Business Processes: Modeling, Simulation, Execution](https://open.hpi.de/courses/bpm2019), MOOC am openHPI
   * [Online BPMN Referenz](https://camunda.com/bpmn/reference/)
 * Prozessmanagement
-  * [<b id="f1"></b> Prozessmanagement und Process-Mining: Grundlagen](https://www.degruyter.com/isbn/9783110500165) [↩](#a1)
+  * [<b id=" f1"></b> Prozessmanagement und Process-Mining: Grundlagen](https://www.degruyter.com/isbn/9783110500165) [↩](#a1)
 * Datenmodellierung & Datenbanknormalisierung
   * [Datenmodellierung für Einsteiger](https://www.springer.com/de/book/9783658190699)
 * SQL
