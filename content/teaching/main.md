@@ -27,5 +27,5 @@ of the topics please contact me. If you have an own idea for a topic please feel
 Here you will soon find information regarding the bachelor and master thesis I supervised in the past. 
 
 # Student Blog
-Here you will soon find links to blogs written by students as part of my lectures at [FH Aachen](https://www.fh-aachen.de).
+The [Student Blog](/student-blog/) contains post written by students as part of my lectures at [FH Aachen](https://www.fh-aachen.de).
 

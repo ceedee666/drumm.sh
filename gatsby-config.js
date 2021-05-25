@@ -53,7 +53,7 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "blog",
-        path: "./content/blog-posts/",
+        path: "./content/blog/",
       },
     },    
     {
@@ -63,6 +63,14 @@ module.exports = {
         path: "./content/teaching/",
       },
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "student-blog",
+        path: "./content/student-blog/",
+      },
+    },
+
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -99,7 +107,7 @@ module.exports = {
             query: `{
               allMarkdownRemark(
                 sort: { order: DESC, fields: [frontmatter___date]  }
-                filter: { fields: { slug: { regex: "//blog/.*/"  }  }  }
+                filter: { fields: { slug: { regex: "//(blog|student-blog)/.*/"  }  }  }
                ) {
                  edges {
                    node {
