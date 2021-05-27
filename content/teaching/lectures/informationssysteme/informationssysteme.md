@@ -44,7 +44,7 @@ Als kurze Zusammenfassung:
 | **20**  | 18.05.21 | Datenmodellierung                          | 🎬: [Kardinalitäten im ER-Modell](https://youtu.be/uRVjchdu5j0) <br/> 🎬: [Relationenmodell](https://youtu.be/QdKSxMeqleM) | 🛠️: Übungen 7, 8, 9 und 10 <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=64945834)|
 | **21**  | **25.05.21** | **Reading Week**                       | 📕: Kapitel 10 aus dem Buch Prozessmanagement und Process-Mining: Grundlagen. <sup id="a1">[1](#f1)</sup> | 🛠️: Fragen aus diesem [Dokument](https://www.ili.fh-aachen.de/goto_elearning_file_762756_download.html)|
 | **22**  | 01.06.21 | SQL und Datenbanknormalisierung            | 🎬: [SQL](https://youtu.be/yU1Ek8SKiOQ) <br/> 🎬: [Normalisierung](https://youtu.be/mIhtreUTFEE)| 🛠️ Übungen 1 - 8 <br/> 🗄️: [Books-DB](books.db) <br/> 🛠️: Übung 11 <br/> 🗄️: [Books-DB zu Üb. 2](books_01.db) <br/> 🗄️: [Books-DB zu Üb. 3](books_02.db) <br/> 🗄️: [Books-DB zu Üb. 4](books_03.db) |
-| **23**  | 08.06.21 | Datenbanktransaktionen                     | | |
+| **23**  | 08.06.21 | Datenbanktransaktionen & IT-Management     |🎬: [Datenbank-transaktionen](https://youtu.be/fZWE7l6IVl8)</br> 🎬: [IT-Management](https://youtu.be/fZWE7l6IVl8) | |
 | **24**  | 15.06.21 | Systementwicklung                          | | |
 | **25**  | **21.06.21** | ⚠️: **Externer Vortrag. Details folgen.** | |
 | **25**  | 22.06.21 | IT-Servicemanagement, BI & Big Data        | | |
