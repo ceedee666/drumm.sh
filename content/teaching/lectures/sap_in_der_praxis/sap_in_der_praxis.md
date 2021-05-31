@@ -33,7 +33,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Den Zoom-Link
 | 20    | 17.05.21 |Produktion   | 🎬: [Details Produktion](https://youtu.be/NOoakd3FyTc)  <br/>📕: [Produktion](06_produktion.pdf)    | ✅: [Praxisfall Produktion](praxisfall_pp.pdf)<br/> ⁉️: [Quiz](https://quizizz.com/join?gc=64395114)|
 | 21    | **24.05.21** | ⚠️ **Reading Week**            | 📕: Kapitel 4: Rechnungswesen | ✅: [Fallstudie FI](case_study_fi.pdf) <br/> ✅: [Fallstudie CO](case_study_co_cca.pdf)i <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=23217370)|
 | 22    | 31.05.21 |Finanzesen und Controlling  | 🎬: [Grundlagen Lagerverwaltung](https://youtu.be/6k3cXHBxNGE) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Fallstudie Lagerverwaltung](case_study_wm.pdf) |
-| 23    | 07.06.21 | Lagerverwaltung             | 🎬: [Details Lagerverwaltung](https://youtu.be/UaFt8InJ9Yg) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Praxisfall Lagerverwaltung](praxisfall_wm1.pdf) |
+| 23    | 07.06.21 | Lagerverwaltung             | 🎬: [Details Lagerverwaltung](https://youtu.be/UaFt8InJ9Yg) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Praxisfall Lagerverwaltung](praxisfall_wm1.pdf) <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=34850010)|
 | 24    | 14.06.21 | Prozessintegration          | 🎬: [Prozessintegration](https://youtu.be/1vXsvSGHrbs) <br/> 📕: [Prozessintegration](08_prozess_integration.pdf) | ✅: [Praxisfall Prozessintegration](praxisfall_process_integration.pdf) |
 | 25    | 21.06.21 | ERP-Einführung in Unternehmen | | **Kein Praktikum** |
 | 26    | 28.06.21 | Zusammenfassung und Prüfungsvorbereitung | | **Kein Praktikum** |
