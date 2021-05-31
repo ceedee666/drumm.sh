@@ -15,7 +15,7 @@ Hierbei werden die betriebswirtschaftlichen Konzepte der unterschiedlichen Funkt
 
 Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Den Zoom-Link für die Teilnahme finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_702774.html).
 
-- **Vorlesung:** 
+- **Vorlesung:**
     - Montag, 14:15 - 15:45h
 - **Praktikum:**
     - Gruppe 1: Dienstag, 14:15 - 15:45h
@@ -31,14 +31,14 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Den Zoom-Link
 | 18    | 03.05.21 | Materialwirtschaft  | 🎬: [Details Materialwirtschaft](https://youtu.be/5YQGhN4ogJg) <br/> 🎬: [Rekapitulation Fallstudie Materialwirtschaft](https://youtu.be/2Fmgzc6IrXA)<br/>📕: [Materialwirtschaft](04_materialwirtschaft.pdf)  | ✅: [Praxisfall Materialwirtschaft](praxisfall_mm.pdf) <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=26253162)|
 | 19    | 10.05.21 |Materialwirtschaft | 🎬: [Grundlangen Produktion](https://youtu.be/_L9FtXfo_-k) <br/>📕: [Produktion](06_produktion.pdf) | ✅: [Fallstudie Produktion](case_study_pp.pdf)|
 | 20    | 17.05.21 |Produktion   | 🎬: [Details Produktion](https://youtu.be/NOoakd3FyTc)  <br/>📕: [Produktion](06_produktion.pdf)    | ✅: [Praxisfall Produktion](praxisfall_pp.pdf)<br/> ⁉️: [Quiz](https://quizizz.com/join?gc=64395114)|
-| 21    | **24.05.21** | ⚠️ **Reading Week**            | 📕: Kapitel 4: Rechnungswesen | ✅: [Fallstudie FI](case_study_fi.pdf) <br/> ✅: [Fallstudie CO](case_study_co_cca.pdf)|
+| 21    | **24.05.21** | ⚠️ **Reading Week**            | 📕: Kapitel 4: Rechnungswesen | ✅: [Fallstudie FI](case_study_fi.pdf) <br/> ✅: [Fallstudie CO](case_study_co_cca.pdf)i <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=23217370)|
 | 22    | 31.05.21 |Finanzesen und Controlling  | 🎬: [Grundlagen Lagerverwaltung](https://youtu.be/6k3cXHBxNGE) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Fallstudie Lagerverwaltung](case_study_wm.pdf) |
 | 23    | 07.06.21 | Lagerverwaltung             | 🎬: [Details Lagerverwaltung](https://youtu.be/UaFt8InJ9Yg) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Praxisfall Lagerverwaltung](praxisfall_wm1.pdf) |
 | 24    | 14.06.21 | Prozessintegration          | 🎬: [Prozessintegration](https://youtu.be/1vXsvSGHrbs) <br/> 📕: [Prozessintegration](08_prozess_integration.pdf) | ✅: [Praxisfall Prozessintegration](praxisfall_process_integration.pdf) |
 | 25    | 21.06.21 | ERP-Einführung in Unternehmen | | **Kein Praktikum** |
 | 26    | 28.06.21 | Zusammenfassung und Prüfungsvorbereitung | | **Kein Praktikum** |
 
-Zu den Vorlesungsvideos existiert außerdem eine Transkription. Diese ist auf [Github](https://github.com/ceedee666/transcript_sap_ws20) verfügbar. 
+Zu den Vorlesungsvideos existiert außerdem eine Transkription. Diese ist auf [Github](https://github.com/ceedee666/transcript_sap_ws20) verfügbar.
 
 ## Systemzugriff
 
