@@ -18,9 +18,9 @@ tags: ["FH Aachen", "Teaching", "Informationssysteme", "BPMN", "DMN"]
 Den Zoom-Link zur Vorlesung finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_709545.html).
 Im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_709545.html) finden Sie außerdem die Vorlesungsunterlagen zum Download sowie die Aufzeichnungen der Vorlesungen.
 Die Videos sind außerdem in einer [🎬 YouTube Playlist](https://youtube.com/playlist?list=PLl09U8aTDcv1eIkxyPKNAKKmqPJR3RC0o)
-zusammengefasst. Die in den Videos gezeigten BPMN Modelle sind in diesem [Repository](https://github.com/ceedee666/information_systems_lecture) zu finden. 
+zusammengefasst. Die in den Videos gezeigten BPMN Modelle sind in diesem [Repository](https://github.com/ceedee666/information_systems_lecture) zu finden.
 
-Folgender Zeitplan zeigt die aktuelle Planung des Moduls. Zu jedem Vorlesungstermin finden Sie Links zu Videos sowie 
+Folgender Zeitplan zeigt die aktuelle Planung des Moduls. Zu jedem Vorlesungstermin finden Sie Links zu Videos sowie
 Übungsaufgaben die Sie **vor der Vorlesung bearbeiten müssen**. Nur wenn Sie vorbereitet sind, werden Sie den Vorlesungsinhalten folgen können.
 
 Die Vorlesung findet immer **dienstags um 12:15h** statt. Den Zoom-Link zur Teilnahme finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_709545.html).
@@ -43,12 +43,12 @@ Als kurze Zusammenfassung:
 | **19**  | 11.05.21 | Amortisation & Einführung Datenmodellierung | 🎬: [Kosten & Nutzen von IT-Systemen](https://youtu.be/IseJ_oZjm4c) <br/> 🎬: [Einführung Datenmodellierung](https://youtu.be/CttvBQ1YUUs) | 🛠️: Übung Amortisationsrechnung <br/> 🛠️: Übung 5.1 |
 | **20**  | 18.05.21 | Datenmodellierung                          | 🎬: [Kardinalitäten im ER-Modell](https://youtu.be/uRVjchdu5j0) <br/> 🎬: [Relationenmodell](https://youtu.be/QdKSxMeqleM) | 🛠️: Übungen 7, 8, 9 und 10 <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=64945834)|
 | **21**  | **25.05.21** | **Reading Week**                       | 📕: Kapitel 10 aus dem Buch Prozessmanagement und Process-Mining: Grundlagen. <sup id="a1">[1](#f1)</sup> | 🛠️: Fragen aus diesem [Dokument](https://www.ili.fh-aachen.de/goto_elearning_file_762756_download.html)|
-| **22**  | 01.06.21 | SQL und Datenbanknormalisierung            | 🎬: [SQL](https://youtu.be/yU1Ek8SKiOQ) <br/> 🎬: [Normalisierung](https://youtu.be/mIhtreUTFEE)| 🛠️ Übungen 1 - 8 <br/> 🗄️: [Books-DB](books.db) <br/> 🛠️: Übung 11 <br/> 🗄️: [Books-DB zu Üb. 2](books_01.db) <br/> 🗄️: [Books-DB zu Üb. 3](books_02.db) <br/> 🗄️: [Books-DB zu Üb. 4](books_03.db) |
+| **22**  | 01.06.21 | SQL und Datenbanknormalisierung            | 🎬: [SQL](https://youtu.be/yU1Ek8SKiOQ) <br/> 🎬: [Normalisierung](https://youtu.be/mIhtreUTFEE)| 🛠️ Übungen 1 - 8 <br/> 🗄️: [Books-DB](books.db) <br/> 🛠️: Übung 11 <br/> 🗄️: [Books-DB zu Üb. 2](books_01.db) <br/> 🗄️: [Books-DB zu Üb. 3](books_02.db) <br/> 🗄️: [Books-DB zu Üb. 4](books_03.db) <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=37559002) |
 | **23**  | 08.06.21 | Datenbanktransaktionen & IT-Management     |🎬: [Datenbank-transaktionen](https://youtu.be/fZWE7l6IVl8)</br> 🎬: [IT-Management](https://youtu.be/fZWE7l6IVl8) | |
 | **24**  | 15.06.21 | Systementwicklung                          | | |
 | **25**  | **21.06.21** | ⚠️: **Externer Vortrag. Details folgen.** | |
 | **25**  | 22.06.21 | IT-Servicemanagement, BI & Big Data        | | |
-| **26**  | 29.06.21 | Management von Informationssicherheit      | | | 
+| **26**  | 29.06.21 | Management von Informationssicherheit      | | |
 | **27**  | 06.07.21 | Wiederholung & Fragen                      | | | 
 
 
