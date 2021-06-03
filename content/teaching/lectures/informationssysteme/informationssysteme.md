@@ -46,7 +46,7 @@ Als kurze Zusammenfassung:
 | **22**  | 01.06.21 | SQL und Datenbanknormalisierung            | 🎬: [SQL](https://youtu.be/yU1Ek8SKiOQ) <br/> 🎬: [Normalisierung](https://youtu.be/mIhtreUTFEE)| 🛠️ Übungen 1 - 8 <br/> 🗄️: [Books-DB](books.db) <br/> 🛠️: Übung 11 <br/> 🗄️: [Books-DB zu Üb. 2](books_01.db) <br/> 🗄️: [Books-DB zu Üb. 3](books_02.db) <br/> 🗄️: [Books-DB zu Üb. 4](books_03.db) <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=37559002) |
 | **23**  | 08.06.21 | Datenbanktransaktionen & IT-Management     |🎬: [Datenbank-transaktionen](https://youtu.be/fZWE7l6IVl8)</br> 🎬: [IT-Management](https://youtu.be/fZWE7l6IVl8) | |
 | **24**  | 15.06.21 | Systementwicklung                          | | |
-| **25**  | **21.06.21** | ⚠️: **Externer Vortrag. Details folgen.** | |
+| **25**  | **21.06.21** <br/> **12:15h** | ⚠️ **Externer Vortrag** ⚠️ <br/> Pale Bär Dot - gesamtheitliche Betrachtung von IT Projekten anhand eines kleinen Beispiels | **Harald Wagener**<br/> Group Leader Cloud<br/>BIH Center dir Digital Health <br/>Charité - Universitäts-medizin Berlin | [Zoom-Link](https://fh-aachen.zoom.us/j/81080190988?pwd=Q05XUng4SnhkWnVXREdCSWs3WTVSQT09)|
 | **25**  | 22.06.21 | IT-Servicemanagement, BI & Big Data        | | |
 | **26**  | 29.06.21 | Management von Informationssicherheit      | | |
 | **27**  | 06.07.21 | Wiederholung & Fragen                      | | | 
