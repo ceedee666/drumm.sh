@@ -35,7 +35,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Den Zoom-Link
 | 22    | 31.05.21 |Finanzesen und Controlling  | 🎬: [Grundlagen Lagerverwaltung](https://youtu.be/6k3cXHBxNGE) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Fallstudie Lagerverwaltung](case_study_wm.pdf) |
 | 23    | 07.06.21 | Lagerverwaltung             | 🎬: [Details Lagerverwaltung](https://youtu.be/UaFt8InJ9Yg) <br/> 📕: [Lagerverwaltung](07_lagerverwaltung.pdf) | ✅: [Praxisfall Lagerverwaltung](praxisfall_wm1.pdf) <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=34850010)|
 | 24    | 14.06.21 | Prozessintegration          | 🎬: [Prozessintegration](https://youtu.be/1vXsvSGHrbs) <br/> 📕: [Prozessintegration](08_prozess_integration.pdf) | ✅: [Praxisfall Prozessintegration](praxisfall_process_integration.pdf) |
-| 25    | 21.06.21 | ERP-Einführung in Unternehmen | | **Kein Praktikum** |
+| 25    | 21.06.21 | ~~ERP-Einführung in Unternehmen~~ | | **Kein Praktikum** |
 | 26    | 28.06.21 | Zusammenfassung und Prüfungsvorbereitung | | **Kein Praktikum** |
 
 Zu den Vorlesungsvideos existiert außerdem eine Transkription. Diese ist auf [Github](https://github.com/ceedee666/transcript_sap_ws20) verfügbar.
