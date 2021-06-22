@@ -54,7 +54,7 @@ Als kurze Zusammenfassung:
 | **24**  | 15.06.21 | Systementwicklung                          |🎬: [Systementwicklung](https://youtu.be/BW18gOr6-2A) | ⁉️: [Quiz](https://quizizz.com/join?gc=47397370) |
 | **25**  | **21.06.21** <br/> **12:15h** | ⚠️ **Externer Vortrag** ⚠️ <br/> Pale Bär Dot - gesamtheitliche Betrachtung von IT Projekten anhand eines kleinen Beispiels | **Harald Wagener**<br/> Group Leader Cloud<br/>BIH Center dir Digital Health <br/>Charité - Universitäts-medizin Berlin | [Zoom-Link](https://fh-aachen.zoom.us/j/81080190988?pwd=Q05XUng4SnhkWnVXREdCSWs3WTVSQT09)|
 | **25**  | 22.06.21 | Management von Informationssicherheit      |🎬: [Management von Informationssicherheit](https://youtu.be/R5LviBQkkj0) | |
-| **26**  | 29.06.21 | BI & Big Data        | | |
+| **26**  | 29.06.21 | BI & Big Data        |🎬: [BI und Big Data](https://youtu.be/ctVQDuC1Uc8) | |
 | **27**  | 06.07.21 | Wiederholung & Fragen                      | | | 
 
 ## Literatur
