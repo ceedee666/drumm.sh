@@ -51,10 +51,10 @@ Als kurze Zusammenfassung:
 | **21**  | **25.05.21** | **Reading Week**                       | 📕: Kapitel 10 aus dem Buch Prozessmanagement und Process-Mining: Grundlagen. <sup id="a1">[1](#f1)</sup> | 🛠️: Fragen aus diesem [Dokument](https://www.ili.fh-aachen.de/goto_elearning_file_762756_download.html)<br/> 🎬: [Process Mining mit Celonis](https://www.youtube.com/watch?v=wyIWqrQWyb4)|
 | **22**  | 01.06.21 | SQL und Datenbanknormalisierung            | 🎬: [SQL](https://youtu.be/yU1Ek8SKiOQ) <br/> 🎬: [Normalisierung](https://youtu.be/mIhtreUTFEE)| 🛠️ Übungen 1 - 8 <br/> 🗄️: [Books-DB](books.db) <br/> 🛠️: Übung 11 <br/> 🗄️: [Books-DB zu Üb. 2](books_01.db) <br/> 🗄️: [Books-DB zu Üb. 3](books_02.db) <br/> 🗄️: [Books-DB zu Üb. 4](books_03.db) <br/> ⁉️: [Quiz](https://quizizz.com/join?gc=37559002) |
 | **23**  | 08.06.21 | Datenbanktransaktionen & IT-Management     |🎬: [Datenbank-transaktionen](https://youtu.be/fZWE7l6IVl8)</br> 🎬: [IT-Management](https://youtu.be/fZWE7l6IVl8) | |
-| **24**  | 15.06.21 | Systementwicklung                          |🎬: [Systementwicklung](https://youtu.be/BW18gOr6-2A) | |
+| **24**  | 15.06.21 | Systementwicklung                          |🎬: [Systementwicklung](https://youtu.be/BW18gOr6-2A) | ⁉️: [Quiz](https://quizizz.com/join?gc=47397370) |
 | **25**  | **21.06.21** <br/> **12:15h** | ⚠️ **Externer Vortrag** ⚠️ <br/> Pale Bär Dot - gesamtheitliche Betrachtung von IT Projekten anhand eines kleinen Beispiels | **Harald Wagener**<br/> Group Leader Cloud<br/>BIH Center dir Digital Health <br/>Charité - Universitäts-medizin Berlin | [Zoom-Link](https://fh-aachen.zoom.us/j/81080190988?pwd=Q05XUng4SnhkWnVXREdCSWs3WTVSQT09)|
-| **25**  | 29.06.21 | Management von Informationssicherheit      |🎬: [Management von Informationssicherheit](https://youtu.be/R5LviBQkkj0) | |
-| **26**  | 22.06.21 | BI & Big Data        | | |
+| **25**  | 22.06.21 | Management von Informationssicherheit      |🎬: [Management von Informationssicherheit](https://youtu.be/R5LviBQkkj0) | |
+| **26**  | 29.06.21 | BI & Big Data        | | |
 | **27**  | 06.07.21 | Wiederholung & Fragen                      | | | 
 
 ## Literatur
