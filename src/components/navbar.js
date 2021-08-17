@@ -37,11 +37,6 @@ const CustomNavbar = ({ pageInfo  }) => {
                   Home
                 </Nav.Link>
               </Link>
-              <Link to="/blog" className={navItem} activeClassName={activeNavItem}>
-                <Nav.Link as="span" eventKey='blog'>
-                  Blog
-                </Nav.Link>
-              </Link>
               <Link to="/teaching" className={navItem} activeClassName={activeNavItem}>
                 <Nav.Link as="span" eventKey='teaching'>
                   Teaching
@@ -50,6 +45,16 @@ const CustomNavbar = ({ pageInfo  }) => {
               <Link to="/projects" className={navItem} activeClassName={activeNavItem}>
                 <Nav.Link as="span" eventKey='projects'>
                   Projects
+                </Nav.Link>
+              </Link>
+              <Link to="/blog" className={navItem} activeClassName={activeNavItem}>
+                <Nav.Link as="span" eventKey='blog'>
+                  Blog
+                </Nav.Link>
+              </Link>
+               <Link to="/student-blog" className={navItem} activeClassName={activeNavItem}>
+                <Nav.Link as="span" eventKey='student-blog'>
+                  Student's Blog                  
                 </Nav.Link>
               </Link>
             </Nav>
