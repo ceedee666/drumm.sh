@@ -1,9 +1,9 @@
 # netlify redirects
 # from_url to_url
-/sap                  /teaching/sap_in_der_praxis
-/is                   /teaching/informationssysteme
-/ip                   /teaching/industrielle_produktion
-/dl                   /teaching/digital_lab
+/sap                  /teaching/21_st_sap_in_der_praxis
+/is                   /teaching/21_st_informationssysteme
+/ip                   /teaching/21_st_industrielle_produktion
+/dl                   /teaching/21_st_digital_lab
 
 
 # External
@@ -12,4 +12,3 @@
 /vivowi               https://taxxas.com/d.php?id=vvwi
 
 ## Other
-
