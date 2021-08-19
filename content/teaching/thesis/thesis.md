@@ -53,3 +53,5 @@ functionalities on the success of campaigns activated by Like Reply](/teaching/l
   - [Analyse von Anwendungsfällen für die Blockchain Technologie](/teaching/blockchain_use_cases)
   - Effizienzgewinne durch automatische Erstellung von Autotransporten
   - [Ein Konzept zur Digitalisierung der Mahnakte in einem Dienstleistungsunternehmen des deutschen Energiemarktes](/teaching/mahnakte.md)
+  - [Konzeption und Evaluation der Anbindung einer SAAS-Lösung zur Produktionsoptimierung an ERP-Systeme](/teaching/erp_oee.md)
+  - [Einsatz von MS Dynamics in der Lehre](/teaching/ms_dynamics_lehre)
