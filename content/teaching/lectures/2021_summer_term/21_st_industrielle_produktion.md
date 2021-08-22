@@ -6,11 +6,11 @@ tags: ["FH Aachen", "Teaching", "Industrielle Produktion", "Python", "MicroPytho
 ---
 
 ## Inhalte
-Das Modul wird zusammen mit Prof. Meinecke und Prof. Luft durchgeführt. 
+Das Modul wird zusammen mit Prof. Meinecke und Prof. Luft durchgeführt.
 In meinem Teil dieses Moduls werden Sie unter Verwendung von:
 
 - Python 🐍
-- Microcontrollern und Sensoren 
+- Microcontrollern und Sensoren
 - [Amazon Web Service](https://aws.amazon.com/)
 
 einen Prototypen entwickeln, um Daten zu erfassen und zu analysieren. Zur Entwicklung Ihres Prototypen benötigen Sie folgende Hardware:
@@ -29,8 +29,8 @@ verfügbar.
 Zur Programmierung der Microcontroller wird die Programmiersprache Python verwendet. Falls Sie keine Python-Kenntnisse besitzen
 oder Ihre Kenntnisse auffrischen möchten, können Sie dazu diese [Jupyter-Notebooks](https://mybinder.org/v2/gh/ceedee666/python_intro_ss21/v1.4) verwenden.
 
-Um die Microcontroller mit Python programmieren zu können, muss auf diesen die [MicroPython](https://micropython.org/) Firmware installiert werden. Eine Anleitung 
-zur Installation finden Sie [hier](https://randomnerdtutorials.com/flash-upload-micropython-firmware-esp32-esp8266/). 
+Um die Microcontroller mit Python programmieren zu können, muss auf diesen die [MicroPython](https://micropython.org/) Firmware installiert werden. Eine Anleitung
+zur Installation finden Sie [hier](https://randomnerdtutorials.com/flash-upload-micropython-firmware-esp32-esp8266/).
 
 Nützliche Links zu MicroPython:
 
@@ -39,14 +39,14 @@ Nützliche Links zu MicroPython:
 - Liste von [MicroPython Bibliotheken](http://awesome-micropython.com/)
 
 
-Zur Entwicklung der Pythonprogramme für den Microcontroller können Sie eine beliebige IDE oder Editor verwenden. PyCharm und uPyCraft bieten jedoch nützliche 
+Zur Entwicklung der Pythonprogramme für den Microcontroller können Sie eine beliebige IDE oder Editor verwenden. PyCharm und uPyCraft bieten jedoch nützliche
 Funktionen zur Übertragung Ihrer Programme auf den Microcontroller:
 
 - [PyCharm IDE](https://www.jetbrains.com/pycharm/)
-- [MicroPython Plugin](https://github.com/vlasovskikh/intellij-micropython#installation) 
+- [MicroPython Plugin](https://github.com/vlasovskikh/intellij-micropython#installation)
 - [uPyCraft IDE](https://github.com/DFRobot/uPyCraft)
 
-## Videos 
+## Videos
 
 Auf meinem [YouTube Kanal](https://www.youtube.com/c/christiandrumm) finden Sie eine [Playlist](https://youtube.com/playlist?list=PLl09U8aTDcv1hw7fKlLS2gv9_rz1twPr4)
 mit einigen Videos zur Vorlesung. In diesen Videos zeige ich z.B. wie Sie die [PyCharm IDE mit dem Microcontroller](https://youtu.be/CMgT60wM7tw) verbinden
