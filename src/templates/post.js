@@ -52,7 +52,7 @@ const BlogPost = (props) => {
         title={`drumm.sh | Blog | ${props.data.markdownRemark.frontmatter.title}`}
         image={blogImage}
       />
-      <h1 className='display-4'>{props.data.markdownRemark.frontmatter.title}</h1>
+      <h1>{props.data.markdownRemark.frontmatter.title}</h1>
       <Row className='mb-5'>
         <Col className={blogDateTime}>
           <BiCalendar /> {moment(props.data.markdownRemark.frontmatter.date).format('DD. MMMM YYYY')}  &bull;  <BiTime /> {props.data.markdownRemark.timeToRead} min read
