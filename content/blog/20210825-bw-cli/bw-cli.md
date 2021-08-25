@@ -8,7 +8,7 @@ description: "This blog describes how I adapted the Bitwarden CLI to my needs us
 ---
 
 [Bitwarden](https://bitwarden.com/) has been my password manager of
-choice since it was recommanded to my by
+choice since it was recommended to me by
 [Frank](https://twitter.com/koehntopp) about two years ago. I
 like most of its functionality. However, one thing kept annoying
 me. To be honest this was already the case with my previous
