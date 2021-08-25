@@ -26,7 +26,7 @@ export const query = graphql`
           eq: $dir 
         }
         extension: {
-          in: ["png", "jpg", "gif"]
+          in: ["png", "jpg"]
         }
       }
     )
