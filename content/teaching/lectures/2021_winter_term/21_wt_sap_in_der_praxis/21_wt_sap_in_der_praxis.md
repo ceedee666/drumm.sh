@@ -39,11 +39,11 @@ Link für die Teilnahme finden Sie im Ilias.
 | 48 | 29.11.21 | Finanzwesen und Controlling | 🎬: [Details Produktion]() <br/> 🎬: [Rekapitulation Fallstudie Produktion]() <br/> 📕: [Produktion]() | ✅: [Praxisfall PP]() <br/> ⁉️: [Quiz]()|
 | 49 | 06.12.21 | Produktion | 🎬: [Grundlagen Lagerverwaltung]() <br/> 📕: [Lagerverwaltung]() | ✅: [Fallstudie Lagerverwaltung]() |
 | 50 | 13.12.21 | Lagerverwaltung | 🎬: [Details Lagerverwaltung]() <br/> 📕: [Lagerverwaltung]() | ✅: [Praxisfall Lagerverwaltung]() <br/> ⁉️: [Quiz](h)|
-| 51 | 20.12.21 | Prozessintegration | 🎬: [Prozessintegration]() <br/> 📕: [Prozessintegration]() | ✅: [Praxisfall Prozessintegration]() |
+| 51 | 20.12.21 | ⚠️  **Keine Vorlesung** ⚠️ | 🎬: [Prozessintegration]() <br/> 📕: [Prozessintegration]() | ✅: [Praxisfall Prozessintegration]() |
 | 52 | 27.12.21 | ⚠️  **Keine Vorlesung** ⚠️ | **Kein Video** | **Kein Praktikum** |
-| 1 | 03.01.22 | ERP-Einführung in Unternehmen | 🎬: [ERP-Einführung in Unternehmen]() | **Kein Praktikum** |
-| 2 | 10.01.22 | Zusammenfassung und Prüfungsvorbereitung | | **Kein Praktikum** |
-| 3 | 17.01.22 | ⚠️  **Keine Vorlesung** ⚠️ | **Kein Video** | **Kein Praktikum** |
+| 1 | 03.01.22 | Prozessintegration | 🎬: [ERP-Einführung in Unternehmen]() | **Kein Praktikum** |
+| 2 | 10.01.22 | ERP-Einführung in Unternehmen| **Kein Video** | **Kein Praktikum** |
+| 3 | 17.01.22 | Zusammenfassung und Prüfungsvorbereitung | **Kein Video** | **Kein Praktikum** |
 
 
 ## Systemzugriff
