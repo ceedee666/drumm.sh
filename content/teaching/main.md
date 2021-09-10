@@ -5,7 +5,7 @@ In the winter term 2021/2022 I teach the following lectures at [FH Aachen](https
 - [SAP in der Praxis](/teaching/21_wt_sap_in_der_praxis)
 - [Business Information Systems](/teaching/21_wt_business_information_systems)
 - Cloud-basierte Informationssysteme
-- Programmierung und Informationsverarbeitung
+- [Programmierung und Informationsverarbeitung](/teaching/21_wt_programmierung)
 - Interdisziplinäres Projekt
 
 Further information regarding these lectures will soon be available.
