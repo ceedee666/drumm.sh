@@ -1,3 +1,4 @@
+const {createFilePath} = require('gatsby-source-filesystem')
 const path = require('path')
 
 module.exports.onCreateNode = ({node, actions, getNode }) => {
@@ -5,13 +6,14 @@ module.exports.onCreateNode = ({node, actions, getNode }) => {
 
   if (node.internal.type === 'MarkdownRemark') {
     const parent = getNode(node.parent)
-    const slug = path.basename(node.fileAbsolutePath, '.md')
-    const dir = path.dirname(node.fileAbsolutePath)
+    const collection = parent.sourceInstanceName
+    const fileDir = path.dirname(node.fileAbsolutePath)
+    const relativeFilePath = createFilePath({node, getNode})
 
     createNodeField({
       node,
       name: 'collection',
-      value: parent.sourceInstanceName
+      value: collection
     })
 
     createNodeField({
@@ -23,14 +25,15 @@ module.exports.onCreateNode = ({node, actions, getNode }) => {
     createNodeField({
       node, 
       name: 'slug',
-      value: `/${parent.sourceInstanceName}/${slug}`
+      value: `/${collection}${relativeFilePath}`
     })
 
     createNodeField({
       node, 
       name: 'dir',
-      value: dir
+      value: fileDir
     })
+    
   }
 }
 
