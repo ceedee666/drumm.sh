@@ -9,11 +9,11 @@ tags: ["FH Aachen", "lectures"]
 
 In the summer term 2021 I taught the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
-- [Digital Lab](/teaching/21_st_digital_lab)
-- [Industrielle Produktion](/teaching/21_st_industrielle_produktion)
-- [Informationssysteme](/teaching/21_st_informationssysteme)
-- [SAP in der Praxis](/teaching/21_st_sap_in_der_praxis)
+- [Digital Lab](/teaching/lectures/2021/summer_term/digital_lab)
+- [Industrielle Produktion](/teaching/lectures/2021/summer_term/industrielle_produktion)
+- [Informationssysteme](/teaching/lectures/2021/summer_term/informationssysteme)
+- [SAP in der Praxis](/teaching/lectures/2021/summer_term/sap_in_der_praxis)
 
 Additionally, I co-organized a virtual lecture series on information systems:
 
-- [Virtuelle Vorlesungsreihe WI (#vivowi)](/teaching/21_st_vivowi)
+- [Virtuelle Vorlesungsreihe WI (#vivowi)](/teaching/lectures/2021/summer_term/vivowi)
