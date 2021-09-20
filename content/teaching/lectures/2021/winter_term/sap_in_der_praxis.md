@@ -68,7 +68,7 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
 
 | Link | Beschreibung |
 | ---- | ------------ |
-| [YouTube Playlist]() | Die Playlist enthält alle Vorlesungsvideos |
+| [YouTube Playlist](https://drumm.sh/yt/sap) | Die Playlist enthält alle Vorlesungsvideos |
 | [Miro Board](https://miro.com/app/board/o9J_klaBjMQ=/) | Das in den Vorlesungsvideos gezeigte Miro-Board |
 | [Ilias]() | Ilias-Ordner des Moduls |
 | [Forum]() | Diskussionsforum des Moduls |
