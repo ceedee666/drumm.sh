@@ -9,8 +9,11 @@
 /ba                   /teaching/thesis
 
 # External
+## UCC
+/s4                   https://m30z.ucc.ovgu.de/sap/bc/ui2/flp?sap-client=202
+
 ## YT Playlists
-/yt/sap               https://www.youtube.com/playlist?list=PLl09U8aTDcv04kN-FPZUyGIaKcMhPNsky
+/yt/s4                https://www.youtube.com/playlist?list=PLl09U8aTDcv04kN-FPZUyGIaKcMhPNsky
 
 ## Lectures
 /bpmn-poster          http://www.bpmb.de/images/BPMN2_0_Poster_DE.pdf

@@ -57,8 +57,8 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
     - URL: http://dynamic.ucc.ovgu.de/
     - Benutzernamen: H1521####
 2. Zugriff auf das SAP S/4HANA System über Ihren Webbrowser
-    - URL:
-    - Benutzername: LEARN###
+    - URL: https://drumm.sh/s4
+    - Benutzername: LEARN-###
 
 ## Literatur
 * [Einstieg in SAP ERP - Geschäftsprozesse, Komponenten, Zusammenhänge](https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/)
