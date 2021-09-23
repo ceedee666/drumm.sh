@@ -9,7 +9,7 @@ tags: ["FH Aachen", "Teaching", "SAP S/4HANA"]
 
 Das Modul führt in die Konzepte und Möglichkeiten zur Unterstützung
 betrieblicher Geschäftsprozesse mittels
-[SAP S/4HANA](https://www.sap.com/products/s4hana-erp.html) ein.
+SAP S/4HANA](https://www.sap.com/products/s4hana-erp.html) ein.
 Hierbei werden die betriebswirtschaftlichen Konzepte der unterschiedlichen
 Funktionsbereiche aufgegriffen und im SAP-Kontext vertieft
 (insb. Finanz- und Rechnungswesen, Materialwirtschaft, Vertrieb sowie
@@ -28,20 +28,20 @@ Link für die Teilnahme finden Sie im Ilias.
 
 | Woche | Datum | Thema der Vorlesung | Videos und Skript | Praktikumsaufgabe |
 | ----- | ----- | ------------------- | ----------------- | ----------------- |
-| 40 | 04.10.21 |Organisation & Einführung | 🎬: [Grundlagen ERP Systeme](https://youtu.be/UC1czfAo_NM) <br/> 🎬 Navigation in S/4HANA <br/>📕: [Grundlangen](02_grundlagen.pdf) | ✅: [Fallstudie Navigation]() <br/> 📗: [Global Bike Story]() |
-| 41 | 11.10.21 | Navigation | 🎬: [Grundlagen Vertrieb]() <br/> 📕: [Vertrieb]() | ✅: [Fallstudie Vertrieb]() |
-| 42 | 18.10.21 | Vertrieb | 🎬: [Details Vertrieb]() <br/> 🎬: [Rekapitulation Fallstudie Vertrieb]() <br/>📕: [Vertrieb]() | ✅: [Praxisfall Vertrieb 1]()<br/> ⁉️: [Quiz]()|
-| 43 | 25.10.21 | Vertrieb | 🎬: [Details Vertrieb 2]() <br/>📕: [Vertrieb]() | ✅: [Praxisfall Vertrieb 2]()|
-| 44 | 01.11.21 | Vertrieb | 🎬: [Grundlangen Materialwirtschaft]()<br/>📕: [Materialwirtschaft]() | ✅: [Fallstudie Materialwirtschaft]()   |
-| 45 | 08.11.21 | ⚠️  **Keine Vorlesung** ⚠️ | 🎬: [Details Materialwirtschaft]() <br/> 🎬: [Rekapitulation Fallstudie Materialwirtschaft]()<br/>📕: [Materialwirtschaft]()   | ✅: [Praxisfall Materialwirtschaft]() <br/> [⁉️: Quiz]()|
-| 46 | 15.11.21 |Materialwirtschaft | 🎬: [Grundlangen Produktion]() <br/>📕: [Produktion]() | ✅: [Fallstudie Produktion]()|
-| 47 | 22.11.21 | ⚠️  **Reading Week** ⚠️ |📕: Kapitel 4: Rechnungswesen | ✅: [Fallstudie FI]() <br/> ✅: [Fallstudie CO]() <br/> ⁉️: [Quiz]()|
-| 48 | 29.11.21 | Finanzwesen und Controlling | 🎬: [Details Produktion]() <br/> 🎬: [Rekapitulation Fallstudie Produktion]() <br/> 📕: [Produktion]() | ✅: [Praxisfall PP]() <br/> ⁉️: [Quiz]()|
-| 49 | 06.12.21 | Produktion | 🎬: [Grundlagen Lagerverwaltung]() <br/> 📕: [Lagerverwaltung]() | ✅: [Fallstudie Lagerverwaltung]() |
-| 50 | 13.12.21 | Lagerverwaltung | 🎬: [Details Lagerverwaltung]() <br/> 📕: [Lagerverwaltung]() | ✅: [Praxisfall Lagerverwaltung]() <br/> ⁉️: [Quiz](h)|
-| 51 | 20.12.21 | ⚠️  **Keine Vorlesung** ⚠️ | 🎬: [Prozessintegration]() <br/> 📕: [Prozessintegration]() | ✅: [Praxisfall Prozessintegration]() |
+| 40 | 04.10.21 | Organisation & Einführung | 🎬: [Grundlagen ERP Systeme](https://youtu.be/UC1czfAo_NM) <br/> 🎬 [Navigation in S/4HANA](https://youtu.be/Hf0zsjag7e8) <br/>📕: [Grundlangen](sap_in_der_praxis/02_grundlagen.pdf) | ✅: [Fallstudie Navigation](sap_in_der_praxis/02_navigation.pdf) <br/> 📗: [Global Bike Story](sap_in_der_praxis/02_global_bike_story.pdf) |
+| 41 | 11.10.21 | Navigation | 🎬: [Grundlagen und Organisationsdaten Vertrieb](https://youtu.be/kKLhCDz-0O0) <br/> 📕: [Vertrieb](sap_in_der_praxis/03_vertrieb.pdf) | ✅: [Fallstudie Vertrieb](sap_in_der_praxis/03_case_study_sd.pdf) |
+| 42 | 18.10.21 | Vertrieb | 🎬: Details Vertrieb <br/> 🎬: Rekapitulation Fallstudie Vertrieb | ✅: Praxisfall Vertrieb 1<br/> ⁉️:  Quiz |
+| 43 | 25.10.21 | Vertrieb | 🎬: Details Vertrieb 2 | ✅: Praxisfall Vertrieb 2 |
+| 44 | 01.11.21 | Vertrieb | 🎬: Grundlangen Materialwirtschaft<br/>📕: Materialwirtschaft | ✅: Fallstudie Materialwirtschaft |
+| 45 | 08.11.21 | ⚠️  **Keine Vorlesung** ⚠️ | 🎬: Details Materialwirtschaft <br/> 🎬: Rekapitulation Fallstudie Materialwirtschaft<br/>📕: Materialwirtschaft   | ✅: Praxisfall Materialwirtschaft <br/> ⁉️: Quiz |
+| 46 | 15.11.21 | Materialwirtschaft | 🎬: Grundlangen Produktion]() <br/>📕: Produktion | ✅: Fallstudie Produktion|
+| 47 | 22.11.21 | ⚠️  **Reading Week** ⚠️ |📕: Kapitel 4: Rechnungswesen | ✅: Fallstudie FI <br/> ✅: Fallstudie CO <br/> ⁉️: Quiz|
+| 48 | 29.11.21 | Finanzwesen und Controlling | 🎬: Details Produktion <br/> 🎬: Rekapitulation Fallstudie Produktion <br/> 📕: Produktion | ✅: Praxisfall PP <br/> ⁉️: Quiz|
+| 49 | 06.12.21 | Produktion | 🎬: Grundlagen Lagerverwaltung <br/> 📕: Lagerverwaltung | ✅: Fallstudie Lagerverwaltung |
+| 50 | 13.12.21 | Lagerverwaltung | 🎬: Details Lagerverwaltung <br/> 📕: Lagerverwaltung | ✅: Praxisfall Lagerverwaltung <br/> ⁉️: Quiz|
+| 51 | 20.12.21 | ⚠️  **Keine Vorlesung** ⚠️ | 🎬: Prozessintegration <br/> 📕: Prozessintegration | ✅: Praxisfall Prozessintegration |
 | 52 | 27.12.21 | ⚠️  **Keine Vorlesung** ⚠️ | **Kein Video** | **Kein Praktikum** |
-| 1 | 03.01.22 | Prozessintegration | 🎬: [ERP-Einführung in Unternehmen]() | **Kein Praktikum** |
+| 1 | 03.01.22 | Prozessintegration | 🎬: ERP-Einführung in Unternehmen | **Kein Praktikum** |
 | 2 | 10.01.22 | ERP-Einführung in Unternehmen| **Kein Video** | **Kein Praktikum** |
 | 3 | 17.01.22 | Zusammenfassung und Prüfungsvorbereitung | **Kein Video** | **Kein Praktikum** |
 
@@ -52,7 +52,7 @@ Um auf "unser" SAP S/4HANA System zugreifen zu können müssen Sie folgende Schr
 durchführen. Die notwendigen Benutzernamen und Passwörter erhalten Sie vor
 Beginn der Veranstaltung per E-Mail.
 
-Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibeQuMlYKQ)):
+Schritte für den Systemzugriff (siehe auch dieses Video](https://youtu.be/kibeQuMlYKQ)):
 
 1. Freischalten Ihrer IP-Addresse (diese Freischaltung ist 24h gültig):
     - URL: http://dynamic.ucc.ovgu.de/
@@ -62,13 +62,13 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
     - Benutzername: LEARN-###
 
 ## Literatur
-* [Einstieg in SAP ERP - Geschäftsprozesse, Komponenten, Zusammenhänge](https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/)
+* Einstieg in SAP ERP - Geschäftsprozesse, Komponenten, Zusammenhänge](https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/)
 
 ## Wichtige Links
 
 | Link | Beschreibung |
 | ---- | ------------ |
-| [YouTube Playlist](https://drumm.sh/yt/s4) | Die Playlist enthält alle Vorlesungsvideos |
-| [Miro Board](https://miro.com/app/board/o9J_klaBjMQ=/) | Das in den Vorlesungsvideos gezeigte Miro-Board |
-| [Ilias]() | Ilias-Ordner des Moduls |
-| [Forum]() | Diskussionsforum des Moduls |
+| YouTube Playlist](https://drumm.sh/yt/s4) | Die Playlist enthält alle Vorlesungsvideos |
+| Miro Board](https://miro.com/app/board/o9J_klaBjMQ=/) | Das in den Vorlesungsvideos gezeigte Miro-Board |
+| Ilias | Ilias-Ordner des Moduls |
+| Forum | Diskussionsforum des Moduls |

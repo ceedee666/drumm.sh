@@ -1,6 +1,6 @@
 # drumm.sh
 
-This repo contains the my personal website. I use it mainly to distribute information about my leactues at the FH Aachen and for my personal blog. 
+This repo contains the my personal website. I use it mainly to distribute information about my leactues at the FH Aachen and for my personal blog.
 
 The website is build using Gatsby.js. Most of the content is managed as Markdown files.
 
