@@ -17,18 +17,20 @@ Produktionsplanung und -steuerung).
 
 ## Zeitplan
 
-Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Den Zoom-
+Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Die Vorlesung
+wird als hybride Vorlesung angeboten. Das heißt Sie können sowohl im
+Vorlesungssaal als auch remote über Zoom teilnehmen. Den Zoom-
 Link für die Teilnahme finden Sie im Ilias.
 
 - **Vorlesung**
-    - Dienstag, 14:15 - 14:45h
+    - Dienstag, 14:15 - 14:45h, W002
 - **Praktikum**
     - Dienstag, 16:00 - 17:30h
 
 | Woche | Datum | Thema der Vorlesung | Videos und Skript | Praktikumsaufgabe |
 | ----- | ----- | ------------------- | ----------------- | ----------------- |
 | 40 | 05.10.21 | Organisation & Einführung | 🎬: [Grundlagen ERP Systeme](https://youtu.be/UC1czfAo_NM) <br/> 🎬 [Navigation in S/4HANA](https://youtu.be/Hf0zsjag7e8) <br/>📕: [Grundlangen](sap_in_der_praxis/02_grundlagen.pdf) | ✅: [Fallstudie Navigation](sap_in_der_praxis/02_navigation.pdf) <br/> 📗: [Global Bike Story](sap_in_der_praxis/02_global_bike_story.pdf) |
-| 41 | 12.10.21 | Navigation | 🎬: [Grundlagen und Organisationsdaten Vertrieb](https://youtu.be/kKLhCDz-0O0) <br/> 📕: [Vertrieb](sap_in_der_praxis/03_vertrieb.pdf) | ✅: [Fallstudie Vertrieb](sap_in_der_praxis/03_case_study_sd.pdf) |
+| 41 | 12.10.21 | Navigation | 🎬: [Grundlagen und Organisationsdaten Vertrieb](https://youtu.be/kKLhCDz-0O0) <br/>🎬: [Stamm- und Bewegungsdaten Vertrieb](https://youtu.be/qyHaVjo5aag)<br/> 📕: [Vertrieb](sap_in_der_praxis/03_vertrieb.pdf) | ✅: [Fallstudie Vertrieb](sap_in_der_praxis/03_case_study_sd.pdf) |
 | 42 | 19.10.21 | Vertrieb | 🎬: Details Vertrieb <br/> 🎬: Rekapitulation Fallstudie Vertrieb | ✅: Praxisfall Vertrieb 1<br/> ⁉️:  Quiz |
 | 43 | 26.10.21 | Vertrieb | 🎬: Details Vertrieb 2 | ✅: Praxisfall Vertrieb 2 |
 | 44 | 02.11.21 | Vertrieb | 🎬: Grundlangen Materialwirtschaft<br/>📕: Materialwirtschaft | ✅: Fallstudie Materialwirtschaft |
@@ -69,5 +71,5 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
 | ---- | ------------ |
 | [YouTube Playlist](https://drumm.sh/yt/sap) | Die Playlist enthält alle Vorlesungsvideos |
 | [Miro Board](https://miro.com/app/board/o9J_klaBjMQ=/) | Das in den Vorlesungsvideos gezeigte Miro-Board |
-| [Ilias]() | Ilias-Ordner des Moduls |
-| [Forum]() | Diskussionsforum des Moduls |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_817696.html) | Ilias-Ordner des Moduls |
+| [Forum](https://www.ili.fh-aachen.de/goto_elearning_frm_817709.html) | Diskussionsforum des Moduls |

@@ -11,31 +11,35 @@ Das Modul führt in die Programmierung in [Python](http://www.python.org)
 sowie die Grundlagen der Informationsverarbeitung ein. Zunächst
 werden die Grundlagen der Programmiersprache Python vermittelt.
 Auf dieser Basis werden dann Python-Bibliotheken verwendet, um
-Daten aufzubereiten und z.B. graphisch darzustellen. Den Abschluss
+Daten aufzubereiten und z.B. grafisch darzustellen. Den Abschluss
 des Moduls bildet eine Projektarbeit. In dieser wird eine
 selbstgewählte Fragestellung mit den erlernten Fähigkeiten bearbeitet.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_introduction/HEAD)
+
 ## Prüfungsleistung
 
-Der erfolgreiche Teilnahme an den Praktika sowie die Abgabe der drei
-Hausaufgaben ist die Voraussetzung für die Zulassung zur Klausur. Die
-Bewertung des Modul setzt sich aus folgenden Komponenten zusammen:
+Die erfolgreiche Teilnahme an den Praktika sowie die Abgabe der drei
+Hausaufgaben sind die Voraussetzung für die Zulassung zur Klausur. Die
+Bewertung des Moduls setzt sich aus folgenden Komponenten zusammen:
 
 - 50% Projekt
 - 50% Klausur
 
 ## Zeitplan
 
-Die Vorlesung findet zu folgenden Terminen statt. Die Vorlesung wird
-als hybride Vorlesung angeboten. D.h. eine Teilnahme ist sowohl im
-Hörsaal als auch über Zoom möglich. Den Zoom-Link
-für die Teilnahme finden Sie im Ilias.
+Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Die Vorlesung
+wird als hybride Vorlesung angeboten. Das heißt Sie können sowohl im
+Vorlesungssaal als auch remote über Zoom teilnehmen. Den Zoom-
+Link für die Teilnahme finden Sie im Ilias.
+
 
 Zusätzlich werden zwei Tutorien angeboten.
 - **Vorlesung**
     - Mittwoch, 16:00 - 19:00h
 - **Tutorium**
-    - TBD
+    - Donnerstag, 10:00 - 11:30h
+    - Donnerstag, 12:15 - 13:45h
 
 | Woche | Datum    | Thema der Vorlesung | Praktikum         | Hausaufgabe       |
 | -----:| -------- | ------------------- | ----------------- | ----------------- |
@@ -60,6 +64,6 @@ Zusätzlich werden zwei Tutorien angeboten.
 
 | Link | Beschreibung |
 | ---- | ------------ |
-| [Jupyter-Notebooks]() | Ausführbare Juypter-Notebooks zur Vorlesung |
-| [Ilias]() | Ilias-Ordner des Moduls |
-| [Forum]() | Diskussionsforum des Moduls |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_introduction/HEAD) | Ausführbare Juypter-Notebooks zur Vorlesung |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_823593.html) | Ilias-Ordner des Moduls |
+| [Forum](https://www.ili.fh-aachen.de/goto_elearning_frm_823704.html) | Diskussionsforum des Moduls |
