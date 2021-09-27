@@ -17,7 +17,9 @@ Produktionsplanung und -steuerung).
 
 ## Zeitplan
 
-Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Den Zoom-
+Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Die Vorlesung
+wird als hybride Vorlesung angeboten. Das heißt sie können sowohl im
+Vorlesungssaal als auch remote über Zoom teilnehmen. Den Zoom-
 Link für die Teilnahme finden Sie im Ilias.
 
 - **Vorlesung**
@@ -68,7 +70,7 @@ Schritte für den Systemzugriff (siehe auch dieses Video](https://youtu.be/kibeQ
 
 | Link | Beschreibung |
 | ---- | ------------ |
-| YouTube Playlist](https://drumm.sh/yt/s4) | Die Playlist enthält alle Vorlesungsvideos |
-| Miro Board](https://miro.com/app/board/o9J_klaBjMQ=/) | Das in den Vorlesungsvideos gezeigte Miro-Board |
-| Ilias | Ilias-Ordner des Moduls |
-| Forum | Diskussionsforum des Moduls |
+| [YouTube Playlist](https://drumm.sh/yt/s4) | Die Playlist enthält alle Vorlesungsvideos |
+| [Miro Board](https://miro.com/app/board/o9J_klaBjMQ=/) | Das in den Vorlesungsvideos gezeigte Miro-Board |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_817685.html)| Ilias-Ordner des Moduls |
+| [Forum](https://www.ili.fh-aachen.de/goto_elearning_frm_817753.html) | Diskussionsforum des Moduls |
