@@ -36,7 +36,7 @@ Link für die Teilnahme finden Sie im Ilias.
 | 43 | 25.10.21 | Vertrieb | 🎬: Details Vertrieb 2 | ✅: Praxisfall Vertrieb 2 |
 | 44 | 01.11.21 | Vertrieb | 🎬: Grundlangen Materialwirtschaft<br/>📕: Materialwirtschaft | ✅: Fallstudie Materialwirtschaft |
 | 45 | 08.11.21 | ⚠️  **Keine Vorlesung** ⚠️ | 🎬: Details Materialwirtschaft <br/> 🎬: Rekapitulation Fallstudie Materialwirtschaft<br/>📕: Materialwirtschaft   | ✅: Praxisfall Materialwirtschaft <br/> ⁉️: Quiz |
-| 46 | 15.11.21 | Materialwirtschaft | 🎬: Grundlangen Produktion]() <br/>📕: Produktion | ✅: Fallstudie Produktion|
+| 46 | 15.11.21 | Materialwirtschaft | 🎬: Grundlangen Produktion <br/>📕: Produktion | ✅: Fallstudie Produktion|
 | 47 | 22.11.21 | ⚠️  **Reading Week** ⚠️ |📕: Kapitel 4: Rechnungswesen | ✅: Fallstudie FI <br/> ✅: Fallstudie CO <br/> ⁉️: Quiz|
 | 48 | 29.11.21 | Finanzwesen und Controlling | 🎬: Details Produktion <br/> 🎬: Rekapitulation Fallstudie Produktion <br/> 📕: Produktion | ✅: Praxisfall PP <br/> ⁉️: Quiz|
 | 49 | 06.12.21 | Produktion | 🎬: Grundlagen Lagerverwaltung <br/> 📕: Lagerverwaltung | ✅: Fallstudie Lagerverwaltung |
@@ -64,7 +64,8 @@ Schritte für den Systemzugriff (siehe auch dieses Video](https://youtu.be/kibeQ
     - Benutzername: LEARN-###
 
 ## Literatur
-* Einstieg in SAP ERP - Geschäftsprozesse, Komponenten, Zusammenhänge](https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/)
+
+* [Einstieg in SAP ERP - Geschäftsprozesse, Komponenten, Zusammenhänge](https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/)
 
 ## Wichtige Links
 
