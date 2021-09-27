@@ -54,7 +54,7 @@ Um auf "unser" SAP S/4HANA System zugreifen zu können müssen Sie folgende Schr
 durchführen. Die notwendigen Benutzernamen und Passwörter erhalten Sie vor
 Beginn der Veranstaltung per E-Mail.
 
-Schritte für den Systemzugriff (siehe auch dieses Video](https://youtu.be/kibeQuMlYKQ)):
+Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibeQuMlYKQ)):
 
 1. Freischalten Ihrer IP-Addresse (diese Freischaltung ist 24h gültig):
     - URL: http://dynamic.ucc.ovgu.de/
