@@ -15,7 +15,7 @@ Daten aufzubereiten und z.B. grafisch darzustellen. Den Abschluss
 des Moduls bildet eine Projektarbeit. In dieser wird eine
 selbstgewählte Fragestellung mit den erlernten Fähigkeiten bearbeitet.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_introduction/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_intro_lecture/v1.5)
 
 ## Prüfungsleistung
 
@@ -64,6 +64,6 @@ Zusätzlich werden zwei Tutorien angeboten.
 
 | Link | Beschreibung |
 | ---- | ------------ |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_introduction/HEAD) | Ausführbare Juypter-Notebooks zur Vorlesung |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_intro_lecture/v1.5) | Ausführbare Juypter-Notebooks zur Vorlesung |
 | [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_823593.html) | Ilias-Ordner des Moduls |
 | [Forum](https://www.ili.fh-aachen.de/goto_elearning_frm_823704.html) | Diskussionsforum des Moduls |
