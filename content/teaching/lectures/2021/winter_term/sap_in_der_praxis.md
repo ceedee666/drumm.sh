@@ -25,8 +25,8 @@ Link für die Teilnahme finden Sie im Ilias.
 - **Vorlesung**
     - Montag, 9:45 - 11:30h
 - **Praktikum**
-    - Gruppe 1: Montag, 12:15 - 13:45h
-    - Gruppe 2: Montag, 14:15 - 15:45h
+    - Gruppe 1: Montag, 12:15 - 13:45h, Präsenz W104
+    - Gruppe 2: Montag, 14:15 - 15:45h, Remote in Zoom
 
 | Woche | Datum | Thema der Vorlesung | Videos und Skript | Praktikumsaufgabe |
 | ----- | ----- | ------------------- | ----------------- | ----------------- |
