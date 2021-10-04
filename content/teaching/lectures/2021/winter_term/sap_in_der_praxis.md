@@ -9,7 +9,7 @@ tags: ["FH Aachen", "Teaching", "SAP S/4HANA"]
 
 Das Modul führt in die Konzepte und Möglichkeiten zur Unterstützung
 betrieblicher Geschäftsprozesse mittels
-SAP S/4HANA](https://www.sap.com/products/s4hana-erp.html) ein.
+[SAP S/4HANA](https://www.sap.com/products/s4hana-erp.html) ein.
 Hierbei werden die betriebswirtschaftlichen Konzepte der unterschiedlichen
 Funktionsbereiche aufgegriffen und im SAP-Kontext vertieft
 (insb. Finanz- und Rechnungswesen, Materialwirtschaft, Vertrieb sowie
@@ -30,8 +30,8 @@ Link für die Teilnahme finden Sie im Ilias.
 
 | Woche | Datum | Thema der Vorlesung | Videos und Skript | Praktikumsaufgabe |
 | ----- | ----- | ------------------- | ----------------- | ----------------- |
-| 40 | 04.10.21 | Organisation & Einführung | 🎬: [Grundlagen ERP Systeme](https://youtu.be/UC1czfAo_NM) <br/> 🎬 [Navigation in S/4HANA](https://youtu.be/Hf0zsjag7e8) <br/>📕: [Grundlangen](sap_in_der_praxis/02_grundlagen.pdf) | ✅: [Fallstudie Navigation](sap_in_der_praxis/02_navigation.pdf) <br/> 📗: [Global Bike Story](sap_in_der_praxis/02_global_bike_story.pdf) <br/>⁉️: [Quiz ERP-Systeme](https://quizizz.com/join?gc=06633838) <br/>⁉️: [Quiz Navigation](https://quizizz.com/join?gc=57063790)|
-| 41 | 11.10.21 | Navigation | 🎬: [Grundlagen und Organisationsdaten Vertrieb](https://youtu.be/kKLhCDz-0O0) <br/>🎬: [Stamm- und Bewegungsdaten Vertrieb](https://youtu.be/qyHaVjo5aag)<br/> 📕: [Vertrieb](sap_in_der_praxis/03_vertrieb.pdf) | ✅: [Fallstudie Vertrieb](sap_in_der_praxis/03_case_study_sd.pdf) <br>⁉️: [Quiz](https://quizizz.com/join?gc=07977326)|
+| 40 | 04.10.21 | Organisation & Einführung | 🎬: [Grundlagen ERP Systeme](https://youtu.be/UC1czfAo_NM) <br/> 🎬 [Navigation in S/4HANA](https://youtu.be/Hf0zsjag7e8) <br/>📕: [Organisatorisches](sap_in_der_praxis/01_orga.pdf)<br/>📕: [Grundlangen](sap_in_der_praxis/02_grundlagen.pdf) | ✅: [Fallstudie Navigation](sap_in_der_praxis/02_navigation.pdf) <br/> 📗: [Global Bike Story](sap_in_der_praxis/global_bike_story.pdf) <br/>⁉️: [Quiz ERP-Systeme](https://quizizz.com/join?gc=06633838) <br/>⁉️: [Quiz Navigation](https://quizizz.com/join?gc=57063790)|
+| 41 | 11.10.21 | Navigation | 🎬: [Grundlagen und Organisationsdaten Vertrieb](https://youtu.be/kKLhCDz-0O0) <br/>🎬: [Stamm- und Bewegungsdaten Vertrieb](https://youtu.be/qyHaVjo5aag)<br/> 📕: [Vertrieb](sap_in_der_praxis/03_vertrieb.pdf) | ✅: [Fallstudie Vertrieb](sap_in_der_praxis/case_study_sd.pdf) <br>⁉️: [Quiz](https://quizizz.com/join?gc=07977326)|
 | 42 | 18.10.21 | Vertrieb | 🎬: [Details Vertrieb](https://youtu.be/gQ42MlvmK2Y) <br/> 🎬: Rekapitulation Fallstudie Vertrieb | ✅: [Praxisfall Vertrieb 1](sap_in_der_praxis/praxisfall_sd1.pdf)<br/> ⁉️:  Quiz |
 | 43 | 25.10.21 | Vertrieb | 🎬: Details Vertrieb 2 | ✅: Praxisfall Vertrieb 2 |
 | 44 | 01.11.21 | Vertrieb | 🎬: Grundlangen Materialwirtschaft<br/>📕: Materialwirtschaft | ✅: Fallstudie Materialwirtschaft |
@@ -62,6 +62,7 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
 2. Zugriff auf das SAP S/4HANA System über Ihren Webbrowser
     - URL: https://drumm.sh/s4
     - Benutzername: LEARN-###
+    - Mandant: 202 (Wichtig! Häufiger Fehler!)
 
 ## Literatur
 
