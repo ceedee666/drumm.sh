@@ -29,7 +29,7 @@ Link für die Teilnahme finden Sie im Ilias.
 
 | Woche | Datum | Thema der Vorlesung | Videos und Skript | Praktikumsaufgabe |
 | ----- | ----- | ------------------- | ----------------- | ----------------- |
-| 40 | 05.10.21 | Organisation & Einführung | 🎬: [Grundlagen ERP Systeme](https://youtu.be/UC1czfAo_NM) <br/> 🎬 [Navigation in S/4HANA](https://youtu.be/Hf0zsjag7e8) <br/>📕: [Grundlangen](bis/02_grundlagen.pdf) | ✅: [Fallstudie Navigation](bis/02_navigation.pdf) <br/> 📗: [Global Bike Story](bis/02_global_bike_story.pdf) <br/>⁉️: [Quiz ERP-Systeme](https://quizizz.com/join?gc=06633838) <br/>⁉️: [Quiz Navigation](https://quizizz.com/join?gc=57063790)|
+| 40 | 05.10.21 | Organisation & Einführung | 🎬: [Grundlagen ERP Systeme](https://youtu.be/UC1czfAo_NM) <br/> 🎬 [Navigation in S/4HANA](https://youtu.be/Hf0zsjag7e8) <br/>📕: [Organisatorisches](bis/01_orga.pdf)<br/>📕: [Grundlangen](bis/02_grundlagen.pdf) | ✅: [Fallstudie Navigation](bis/02_navigation.pdf) <br/> 📗: [Global Bike Story](bis/global_bike_story.pdf) <br/>⁉️: [Quiz ERP-Systeme](https://quizizz.com/join?gc=06633838) <br/>⁉️: [Quiz Navigation](https://quizizz.com/join?gc=57063790)|
 | 41 | 12.10.21 | Navigation | 🎬: [Grundlagen und Organisationsdaten Vertrieb](https://youtu.be/kKLhCDz-0O0) <br/>🎬: [Stamm- und Bewegungsdaten Vertrieb](https://youtu.be/qyHaVjo5aag)<br/> 📕: [Vertrieb](bis/03_vertrieb.pdf) | ✅: [Fallstudie Vertrieb](bis/03_case_study_sd.pdf) <br>⁉️: [Quiz](https://quizizz.com/join?gc=07977326)|
 | 42 | 19.10.21 | Vertrieb | 🎬: Details Vertrieb <br/> 🎬: Rekapitulation Fallstudie Vertrieb | ✅: Praxisfall Vertrieb 1<br/> ⁉️:  Quiz |
 | 43 | 26.10.21 | Vertrieb | 🎬: Details Vertrieb 2 | ✅: Praxisfall Vertrieb 2 |

@@ -11,7 +11,8 @@ Das Modul führt in aktuelle Architekturmuster und die daraus resultierenden
 Herausforderungen für Unternehmen ein. Unter anderem, werden folgende
 Inhalte im Modul besprochen:
 
-- Deployment-Szenarien für Informationssystemen (IaaS, PaaS, SaaS) und zugehörige Technologien
+- Deployment-Szenarien für Informationssystemen (IaaS, PaaS, SaaS) und
+zugehörige Technologien
 - Architekturmodelle für Informationssystemen (HTTP, REST)
 - Integrationsprobleme und Lösungsansätze
 
