@@ -70,6 +70,6 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
 | Link | Beschreibung |
 | ---- | ------------ |
 | [YouTube Playlist](https://drumm.sh/yt/sap) | Die Playlist enthält alle Vorlesungsvideos |
-| [Miro Board](https://miro.com/app/board/o9J_klaBjMQ=/) | Das in den Vorlesungsvideos gezeigte Miro-Board |
+| [Miro Board](https://miro.com/app/board/o9J_lvLhjsk=/) | Das in den Vorlesungsvideos gezeigte Miro-Board |
 | [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_817696.html) | Ilias-Ordner des Moduls |
 | [Forum](https://www.ili.fh-aachen.de/goto_elearning_frm_817709.html) | Diskussionsforum des Moduls |
