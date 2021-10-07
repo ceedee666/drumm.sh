@@ -20,7 +20,18 @@ const NotFoundPage = ({ data  }) => (
       <Col>
         <h1>Have you tried turning it off and on again?</h1>
         <p>We couldn't find the page you are looking for. Here are some helpful links instead:</p>
-        <Link to={`/`}>Back to start</Link>
+        <div>
+          <Link to={`/teaching`}>My Lectures at FH Aachen</Link>
+        </div>
+        <div>
+          <Link to={`/blog`}>My Blog</Link>
+        </div>      
+        <div>
+          <Link to={`/student-blog`}>Student's Blog</Link>
+        </div>
+        <div>
+          <Link to={`/`}>Back to start</Link>
+        </div>
       </Col>
     </Row>
   </Layout>
