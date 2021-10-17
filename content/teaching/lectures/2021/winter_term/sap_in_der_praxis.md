@@ -23,10 +23,10 @@ Vorlesungssaal als auch remote über Zoom teilnehmen. Den Zoom-
 Link für die Teilnahme finden Sie im Ilias.
 
 - **Vorlesung**
-    - Montag, 9:45 - 11:30h
+  - Montag, 9:45 - 11:30h
 - **Praktikum**
-    - Gruppe 1: Montag, 12:15 - 13:45h, Präsenz W104
-    - Gruppe 2: Montag, 14:15 - 15:45h, Remote in Zoom
+  - Gruppe 1: Montag, 12:15 - 13:45h, Präsenz W104
+  - Gruppe 2: Montag, 14:15 - 15:45h, Remote in Zoom
 
 | Woche | Datum | Thema der Vorlesung | Videos und Skript | Praktikumsaufgabe |
 | ----- | ----- | ------------------- | ----------------- | ----------------- |
@@ -34,7 +34,7 @@ Link für die Teilnahme finden Sie im Ilias.
 | 41 | 11.10.21 | Navigation | 🎬: [Grundlagen und Organisationsdaten Vertrieb](https://youtu.be/kKLhCDz-0O0) <br/>🎬: [Stamm- und Bewegungsdaten Vertrieb](https://youtu.be/qyHaVjo5aag)<br/> 📕: [Vertrieb](sap_in_der_praxis/03_vertrieb.pdf) | ✅: [Fallstudie Vertrieb](sap_in_der_praxis/case_study_sd.pdf) <br>⁉️: [Quiz](https://quizizz.com/join?gc=07977326)|
 | 42 | 18.10.21 | Vertrieb | 🎬: [Details Vertrieb](https://youtu.be/gQ42MlvmK2Y) <br/> 🎬: [Rekapitulation Fallstudie Vertrieb](https://youtu.be/8T-lNb6DNqo) | ✅: [Praxisfall Vertrieb 1](sap_in_der_praxis/praxisfall_sd1.pdf)<br/> ⁉️:  [Quiz](https://quizizz.com/join?gc=24126430) |
 | 43 | 25.10.21 | Vertrieb | 🎬: [Details Vertrieb 2](https://youtu.be/9CmiR8WV1V0) | ✅: [Praxisfall Vertrieb 2](sap_in_der_praxis/praxisfall_sd2.pdf) |
-| 44 | 01.11.21 | Vertrieb | 🎬: Grundlangen Materialwirtschaft<br/>📕: Materialwirtschaft | ✅: [Fallstudie Materialwirtschaft](sap_in_der_praxis/case_study_mm.pdf) |
+| 44 | 01.11.21 | Vertrieb | 🎬: [Grundlangen und Organisationsdaten Materialwirtschaft](https://youtu.be/-BBgqO-JAwI)<br/>📕: Materialwirtschaft | ✅: [Fallstudie Materialwirtschaft](sap_in_der_praxis/case_study_mm.pdf) |
 | 45 | 08.11.21 | ⚠️ **Keine Vorlesung** ⚠️ | 🎬: Details Materialwirtschaft <br/> 🎬: Rekapitulation Fallstudie Materialwirtschaft<br/>📕: Materialwirtschaft   | ✅: [Praxisfall Materialwirtschaft](sap_in_der_praxis/praxisfall_mm.pdf) <br/> ⁉️: Quiz |
 | 46 | 15.11.21 | Materialwirtschaft | 🎬: Grundlagen Produktion <br/>📕: Produktion | ✅: [Fallstudie Produktion](sap_in_der_praxis/case_study_pp.pdf)|
 | 47 | 22.11.21 | ⚠️ **Reading Week** ⚠️ |📕: Kapitel 4: Rechnungswesen | ✅: [Fallstudie FI ](sap_in_der_praxis/case_study_fi_ap.pdf)<br/> ✅: [Fallstudie CO ](sap_in_der_praxis/case_study_co_cca.pdf)<br/> ⁉️: Quiz|
@@ -57,16 +57,16 @@ Beginn der Veranstaltung per E-Mail.
 Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibeQuMlYKQ)):
 
 1. Freischalten Ihrer IP-Adresse (diese Freischaltung ist 24h gültig):
-    - URL: http://dynamic.ucc.ovgu.de/
-    - Benutzernamen: H1521####
+  - URL: http://dynamic.ucc.ovgu.de/
+  - Benutzernamen: H1521####
 2. Zugriff auf das SAP S/4HANA System über Ihren Webbrowser
-    - URL: https://drumm.sh/s4
-    - Benutzername: LEARN-###
-    - Mandant: 202 (Wichtig! Häufiger Fehler!)
+  - URL: https://drumm.sh/s4
+  - Benutzername: LEARN-###
+  - Mandant: 202 (Wichtig! Häufiger Fehler!)
 
 ## Literatur
 
-* [Einstieg in SAP ERP - Geschäftsprozesse, Komponenten, Zusammenhänge](https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/)
+- [Einstieg in SAP ERP - Geschäftsprozesse, Komponenten, Zusammenhänge](https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/)
 
 ## Wichtige Links
 
