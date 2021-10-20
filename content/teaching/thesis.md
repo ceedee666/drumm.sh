@@ -13,7 +13,7 @@ of the topics please contact me. If you have an own idea for a topic please feel
 free to contact me as well.
 
 1. Development of an online lecture aggregation Website
-1. Analysis of software quality metrics in large code bases
+1. Analysis of software quality metrics in large code bases (possibly in cooperation with CQSE)
 1. Clean Code: literature review
 1. Eye-Tracking using a Webcam
 1. Analysis of request for quotations in ERP projects with respect to digitalization
