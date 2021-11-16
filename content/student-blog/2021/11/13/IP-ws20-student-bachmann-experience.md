@@ -73,7 +73,7 @@ excited to finally release the app next year.
 
 As you can see, a lot has changed at grievy since the prototype from the
 interdisciplinary project. The most work for me was programming and
-continuously improving the app. But there was also a lot to do organizationall.
+continuously improving the app. But there was also a lot to do organizationally.
 We applied for scholarships, successfully participated in competitions for
 founders, planned the long-term development of grievy, and much more.
 
@@ -99,5 +99,3 @@ LinkedIn: https://www.linkedin.com/in/daniel-bachmann-2b7160211/
 
 E-Mail: nele.stadtbaeumer@grievy.de  
 LinkedIn: https://www.linkedin.com/in/nelestadtbaeumer/  
-
-
