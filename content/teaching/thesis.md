@@ -20,7 +20,8 @@ free to contact me as well.
 1. Using SAP Co-Pilot in ERP lectures
 1. Development and Evaluation of a case study for Robotic Process Automation
 1. Development and Evaluation of a case study for process automation using
-BPMN and DMN
+   BPMN and DMN
+1. Analysis of the usage of open source software in small and mid-size companies
 
 ## Supervised Thesis
 
@@ -30,24 +31,25 @@ the full text is also available.
 
 ### 2020
 
-- __Bachlor Thesis__
-  - Erfolgsfaktoren für die Prozessautomation mit Hilfe von
-Robotic Process Automation
-  - [Smart Maintenance: Vergleich von konventionellem und intelligentem
-Asset Management](/teaching/thesis/2020/smart_maintenance)
-  - [Integration eines Manufacturing-Execution-Systems in ein bestehendes
-Produktionsumfeld in der Elektronikfertigung](/teaching/thesis/2020/mes_elektronikfertigung)
-  - [Lead nurturing campaigns - The impact of principles, features, and
-functionalities on the success of campaigns activated by Like Reply](/teaching/thesis/2020/lead_nurturing)
+- **Bachlor Thesis**
 
-- __Master Thesis__
+  - Erfolgsfaktoren für die Prozessautomation mit Hilfe von
+    Robotic Process Automation
+  - [Smart Maintenance: Vergleich von konventionellem und intelligentem
+    Asset Management](/teaching/thesis/2020/smart_maintenance)
+  - [Integration eines Manufacturing-Execution-Systems in ein bestehendes
+    Produktionsumfeld in der Elektronikfertigung](/teaching/thesis/2020/mes_elektronikfertigung)
+  - [Lead nurturing campaigns - The impact of principles, features, and
+    functionalities on the success of campaigns activated by Like Reply](/teaching/thesis/2020/lead_nurturing)
+
+- **Master Thesis**
   - [Entwicklung eines Destination Choice Modells zur Abbildung der
-  Verkehrsverflechtung in Deutschland](/teaching/thesis/2020/verkehrsmodell)
+    Verkehrsverflechtung in Deutschland](/teaching/thesis/2020/verkehrsmodell)
   - [Optimierung von Rüstprozessen mit künstlicher Intelligenz](/teaching/thesis/2020/ruesten_mit_ki)
 
 ### 2021
 
-- __Bachlor Thesis__
+- **Bachlor Thesis**
   - [Konzeptentwicklung einer Softwarelösung zur Verwaltung von Lieferantenerklärungen](/teaching/thesis/2021/lieferantenerklaerung)
   - Eine Anforderungsanalyse zur Deckung neuer Anforderungen in der BI-Systemlandschaft
   - [Analyse von Anwendungsfällen für die Blockchain Technologie](/teaching/thesis/2021/blockchain_use_cases)
