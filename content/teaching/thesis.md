@@ -22,6 +22,7 @@ free to contact me as well.
 1. Development and Evaluation of a case study for process automation using
    BPMN and DMN
 1. Analysis of the usage of open source software in small and mid-size companies
+1. Analysis of the YouTube statistics of an online lecture.
 
 ## Supervised Thesis
 
