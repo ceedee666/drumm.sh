@@ -3,9 +3,9 @@ module.exports = {
     title: "drumm.sh",
     author: "Christian Drumm",
     siteUrl: "https://drumm.sh",
-    description: "Blog, lectures and project by Prof. Dr. Christian Drumm.",
+    description: "Blog, lectures and projects by Prof. Dr. Christian Drumm.",
     twitter: "@ceedee666",
-    commentsRepo: "ceedee666/drumm.sh-comments"
+    commentsRepo: "ceedee666/drumm.sh-comments",
   },
   plugins: [
     "gatsby-plugin-sass",
@@ -17,29 +17,29 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          'gatsby-remark-autolink-headers',
-          'gatsby-remark-relative-images',
+          "gatsby-remark-autolink-headers",
+          "gatsby-remark-relative-images",
           {
-            resolve: 'gatsby-remark-images',
+            resolve: "gatsby-remark-images",
             options: {
               maxWidth: 800,
-            }
+            },
           },
           {
-            resolve: 'gatsby-remark-vscode',
+            resolve: "gatsby-remark-vscode",
             options: {
-              theme: 'Dark+ (default dark)'
-            }
+              theme: "Dark+ (default dark)",
+            },
           },
-          'gatsby-remark-copy-linked-files',
-          { 
+          "gatsby-remark-copy-linked-files",
+          {
             resolve: "gatsby-remark-external-links",
             options: {
-              target: "_blank"
-            }
-          }
-        ]
-      }
+              target: "_blank",
+            },
+          },
+        ],
+      },
     },
     "gatsby-transformer-sharp",
     {
@@ -55,7 +55,7 @@ module.exports = {
         name: "blog",
         path: "./content/blog/",
       },
-    },    
+    },
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -93,16 +93,20 @@ module.exports = {
                 }`,
         feeds: [
           {
-            serialize: ({ query: { site, allMarkdownRemark  }  }) => {
-              return allMarkdownRemark.edges.map(edge => {
-                return Object.assign({}, {}, {
-                  title: edge.node.frontmatter.title,
-                  description: edge.node.excerpt,
-                  date: edge.node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  custom_elements: [{ "content:encoded": edge.node.html  }],
-                })
-              })
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map((edge) => {
+                return Object.assign(
+                  {},
+                  {},
+                  {
+                    title: edge.node.frontmatter.title,
+                    description: edge.node.excerpt,
+                    date: edge.node.frontmatter.date,
+                    url: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                    custom_elements: [{ "content:encoded": edge.node.html }],
+                  }
+                );
+              });
             },
             query: `{
               allMarkdownRemark(
@@ -129,6 +133,6 @@ module.exports = {
           },
         ],
       },
-    }
+    },
   ],
 };
