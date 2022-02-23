@@ -76,7 +76,7 @@ Funktionen zur Übertragung Ihrer Programme auf den Mikrocontroller:
 ## Videos
 
 Auf meinem [YouTube Kanal](https://www.youtube.com/c/christiandrumm) finden Sie eine
-[Playlist](https://youtube.com/playlist?list=PLl09U8aTDcv1hw7fKlLS2gv9_rz1twPr4)
+[Playlist](https://youtube.com/playlist?list=PLl09U8aTDcv0M5ogljDDZQibgpg-XbwPv)
 mit einigen Videos zur Vorlesung. In diesen Videos zeige ich z.B. wie Sie
 die [PyCharm IDE mit dem Mikrocontroller](https://youtu.be/CMgT60wM7tw) verbinden
 können oder wie Sie Daten vom Mikrocontroller zu den
