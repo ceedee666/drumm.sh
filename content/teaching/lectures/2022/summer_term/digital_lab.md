@@ -21,7 +21,7 @@ direkt ausgeführt werden.
 ## Zeitplanung
 
 Die Vorlesungen finden zu folgenden Terminen statt.
-Den Zoom-Link für die Teilnahme finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_709736.html).
+Den WebEx-Link für die Teilnahme finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_915760.html).
 
 - Montag, 08:15 - 09:45h
 - Dienstag, 08:15 - 09:45h

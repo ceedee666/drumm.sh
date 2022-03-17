@@ -19,7 +19,7 @@ Produktionsplanung und -steuerung, Finanzwesen und Controlling sowie Lagerverwal
 
 Die Vorlesung
 wird als hybride Vorlesung angeboten. Das heißt Sie können sowohl im
-Vorlesungssaal als auch über Zoom teilnehmen. Den Zoom-
+Vorlesungssaal als auch über WebEx teilnehmen. Den WebEx-
 Link für die Teilnahme finden Sie im Ilias.
 
 Die Vorlesung und die Praktika finden zu folgenden Terminen statt:
@@ -73,9 +73,9 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
 
 ## Wichtige Links
 
-| Link                                                   | Beschreibung                                    |
-| ------------------------------------------------------ | ----------------------------------------------- |
-| [YouTube Playlist](https://drumm.sh/yt/s4)             | Die Playlist enthält alle Vorlesungsvideos      |
-| [Miro Board](https://miro.com/app/board/o9J_lvLhjsk=/) | Das in den Vorlesungsvideos gezeigte Miro-Board |
-| Forum                                                  | Diskussionsforum des Moduls (folgt in Kürze)    |
-| Ilias                                                  | Ilias-Ordner des Moduls (folgt in Kürze)        |
+| Link                                                                 | Beschreibung                                    |
+| -------------------------------------------------------------------- | ----------------------------------------------- |
+| [YouTube Playlist](https://drumm.sh/yt/s4)                           | Die Playlist enthält alle Vorlesungsvideos      |
+| [Miro Board](https://miro.com/app/board/o9J_lvLhjsk=/)               | Das in den Vorlesungsvideos gezeigte Miro-Board |
+| [Forum](https://forum.drumm.sh)                                      | Diskussionsforum des Moduls (folgt in Kürze)    |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_915740.html) | Ilias-Ordner des Moduls (folgt in Kürze)        |

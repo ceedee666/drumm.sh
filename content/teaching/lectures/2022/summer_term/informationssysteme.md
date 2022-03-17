@@ -19,7 +19,7 @@ In der Vorlesung werden folgende Inhalten behandelt:
 
 Die Vorlesung
 wird als hybride Vorlesung angeboten. Das heißt Sie können sowohl im
-Vorlesungssaal als auch über Zoom teilnehmen.
+Vorlesungssaal als auch über WebEx teilnehmen.
 
 Die theoretischen Inhalte zu Vorlesung werden in Videos vermittelt. Diese Videos sind
 in einer [🎬 YouTube Playlist](https://youtube.com/playlist?list=PLl09U8aTDcv1eIkxyPKNAKKmqPJR3RC0o)
@@ -32,8 +32,8 @@ Vorlesungstermin finden Sie Links zu Videos sowie
 Übungsaufgaben die Sie **vor der Vorlesung bearbeiten müssen**. Nur wenn Sie
 vorbereitet sind, werden Sie den Vorlesungsinhalten folgen können.
 
-Die Vorlesung findet immer **Montags um 12:15h** statt. Den Zoom-Link zur
-Teilnahme finden Sie im Ilias (Link folgt).
+Die Vorlesung findet immer **Montags um 12:15h** statt. Den WebEx-Link zur
+Teilnahme finden Sie im [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_915751.html).
 Außerdem werde ich für jede Vorlesung ein [Tweetback](https://tweedback.de)
 zur Verfügung stellen.
 
@@ -89,3 +89,11 @@ Die Literaturliste enthält vertiefende Literatur zu den in der Vorlesung behand
 | Signavio Process Manager             | [Einladungs-Link](https://academic.signavio.com/p/register?link=23abdf2da412488b8a2b0a048827a472)                                   |
 | diagrams.net                         | https://www.diagrams.net/                                                                                                           |
 | DB-Browser für SQLite                | [Download](https://sqlitebrowser.org/)                                                                                              |
+
+## Wichtige Links
+
+| Link                                                                 | Beschreibung                               |
+| -------------------------------------------------------------------- | ------------------------------------------ |
+| [YouTube Playlist](https://drumm.sh/yt/is)                           | Die Playlist enthält alle Vorlesungsvideos |
+| [Forum](https://forum.drumm.sh)                                      | Diskussionsforum des Moduls                |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_915751.html) | Ilias-Ordner des Moduls                    |
