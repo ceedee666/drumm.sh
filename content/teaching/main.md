@@ -2,10 +2,10 @@
 
 In the summer term 2022 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
+- [Digital Lab](/teaching/lectures/2022/summer_term/digital_lab)
+- [Industrielle Produktion](/teaching/lectures/2022/summer_term/industrielle_produktion)
 - [Informationssysteme](/teaching/lectures/2022/summer_term/informationssysteme)
 - [SAP in der Praxis](/teaching/lectures/2022/summer_term/sap_in_der_praxis)
-- [Industrielle Produktion](/teaching/lectures/2022/summer_term/industrielle_produktion)
-- [Digital Lab](/teaching/lectures/2022/summer_term/digital_lab)
 
 Additionally, I co-organize a virtual lecture series on information systems:
 
