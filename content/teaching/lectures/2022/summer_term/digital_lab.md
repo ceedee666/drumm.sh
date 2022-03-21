@@ -15,7 +15,7 @@ von Design Thinking Workshops selbst erarbeiten.
 Zum Beginn des Moduls wird eine Einführung in die Programmiersprache Python 🐍 erfolgen.
 Die Basis für die Einführung werden Jupyter-Notebooks sein. Diese sind in einem
 [Github Repoisitory](https://github.com/ceedee666/python_intro_lecture) verfügbar.
-Diese Jupyter-Notebooks können auf [myBinder](https://mybinder.org/v2/gh/ceedee666/python_intro_lecture/HEAD)
+Diese Jupyter-Notebooks können auf [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_intro_lecture/v1.6)
 direkt ausgeführt werden.
 
 ## Zeitplanung
@@ -58,4 +58,4 @@ eine paar Empfehlungen:
 
 - [Python Homepage](https://www.python.org/)
 - [Python Dokumentation](https://docs.python.org/3/)
-- [Ausführbare Jupyter-Notebooks](https://mybinder.org/v2/gh/ceedee666/python_intro_ss21/v1.4)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_intro_lecture/v1.6) [Ausführbare Jupyter-Notebooks](https://mybinder.org/v2/gh/ceedee666/python_intro_lecture/v1.6)
