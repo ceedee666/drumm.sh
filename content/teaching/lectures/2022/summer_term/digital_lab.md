@@ -34,7 +34,7 @@ Die nachfolgende Tabelle enthält die vorläufige Planung der Vorlesungstermine.
 | 13    | 28.03.2022 | Python                    | 29.03.2022 | Python                             |
 | 14    | 04.04.2022 | Python                    | 05.04.2022 | Python                             |
 | 15    | 11.04.2022 | Python                    | 12.04.2022 | Python / Webservice REST           |
-| 16    | 18.04.2022 | Datamining Grundlagen     | 19.04.2022 | Datamining Grundlagen              |
+| 16    | 18.04.2022 | **keine Vorlesung**       | 19.04.2022 | Datamining Grundlagen              |
 | 17    | 25.04.2022 | Datamining Grundlagen     | 26.04.2022 | **keine Vorlesung**                |
 | 18    | 02.05.2022 | Scrum und Projektvorgehen | 03.05.2022 | Design Thinking und Projektauswahl |
 | 19    | 09.05.2022 | Review und Retro          | 10.05.2022 | Technische Fragestunde             |
