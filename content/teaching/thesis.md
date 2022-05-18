@@ -12,6 +12,8 @@ myself of possible topics I came across. If you are interested to work on one
 of the topics please contact me. If you have an own idea for a topic please feel
 free to contact me as well.
 
+1. Analysis of coding exercises from a MOOC
+1. Analysis of students performance in a MOOC
 1. Development of an online lecture aggregation Website
 1. Analysis of software quality metrics in large code bases (possibly in cooperation with CQSE)
 1. Clean Code: literature review
@@ -58,3 +60,8 @@ the full text is also available.
   - [Ein Konzept zur Digitalisierung der Mahnakte in einem Dienstleistungsunternehmen des deutschen Energiemarktes](/teaching/thesis/2021/mahnakte.md)
   - [Konzeption und Evaluation der Anbindung einer SAAS-Lösung zur Produktionsoptimierung an ERP-Systeme](/teaching/thesis/2021/erp_oee.md)
   - [Einsatz von MS Dynamics in der Lehre](/teaching/thesis/2021/ms_dynamics_lehre)
+
+### 2022
+
+- **Master Thesis**
+  - Entwicklung eines Konzeptes zur Entwicklung eines Konzeptes zur intralogistischen Prozesssteuerung
