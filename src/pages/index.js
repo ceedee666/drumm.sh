@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Row, Col, Media } from "react-bootstrap";
+import { Row, Col } from "react-bootstrap";
 
 import { graphql, useStaticQuery } from "gatsby";
 import { GatsbyImage } from "gatsby-plugin-image";
@@ -10,24 +10,28 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 
 const HomePage = () => {
-  const avatarImg = useStaticQuery(graphql`query avataImage {
-  file(sourceInstanceName: {eq: "images"}, name: {eq: "avatar"}) {
-    childImageSharp {
-      gatsbyImageData(width: 180, layout: FIXED)
+  const avatarImg = useStaticQuery(graphql`
+    query avataImage {
+      file(sourceInstanceName: { eq: "images" }, name: { eq: "avatar" }) {
+        childImageSharp {
+          gatsbyImageData(width: 180, layout: FIXED)
+        }
+      }
     }
-  }
-}
-`);
+  `);
 
   return (
     <Layout pageInfo={{ pageName: "home" }}>
       <SEO title="drumm.sh" />
-      <Media>
-        <GatsbyImage
-          image={avatarImg.file.childImageSharp.gatsbyImageData}
-          className="rounded-circle align-self-center mr-5"
-          alt="Prof. Dr. Christian Drumm" />
-        <Media.Body>
+      <Row>
+        <Col md={3}>
+          <GatsbyImage
+            image={avatarImg.file.childImageSharp.gatsbyImageData}
+            className="rounded-circle align-self-center mr-5"
+            alt="Prof. Dr. Christian Drumm"
+          />
+        </Col>
+        <Col>
           <h1>Prof. Dr. Christian Drumm</h1>
           <ul className="list-unstyled">
             <li>
@@ -87,20 +91,9 @@ const HomePage = () => {
                 Rheinwerk
               </a>
             </li>
-            <li></li>
-            <li>
-              List of my{" "}
-              <a
-                href="https://www.fh-aachen.de/menschen/drumm/veroeffentlichungen"
-                target="_blank"
-                rel="noreferrer"
-              >
-                publications
-              </a>
-            </li>
           </ul>
-        </Media.Body>
-      </Media>
+        </Col>
+      </Row>
 
       <Row>
         <Col md={3}>
@@ -140,7 +133,20 @@ const HomePage = () => {
             </Col>
           </Row>
         </Col>
-        <Col md={9} />
+        <Col md={9}>
+          <ul className="list-unstyled">
+            <li>
+              List of my{" "}
+              <a
+                href="https://www.fh-aachen.de/menschen/drumm/veroeffentlichungen"
+                target="_blank"
+                rel="noreferrer"
+              >
+                publications
+              </a>
+            </li>
+          </ul>
+        </Col>
       </Row>
     </Layout>
   );

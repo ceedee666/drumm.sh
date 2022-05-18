@@ -2,14 +2,18 @@
   text-decoration: none;
 }
 
+.nav-item {
+  text-decoration: none;
+}
+
 .active-nav-item {
   text-decoration: underline;
-  color: #fff
+  color: #fff;
 }
 
 .active-nav-item:hover {
   text-decoration: underline;
-  color: #fff
+  color: #fff;
 }
 
 .my-navbar {
