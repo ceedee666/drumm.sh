@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql, useStaticQuery } from "gatsby"
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import { Container, Navbar, Nav} from "react-bootstrap"
 
@@ -8,17 +8,14 @@ import { myNavbar, navItem, activeNavItem } from '../styles/navbar.module.scss'
 
 const CustomNavbar = ({ pageInfo  }) => {
 
-   const brandingImg = useStaticQuery(graphql`
-    query brandingImg {
-      file(sourceInstanceName: {eq: "images"}, name: {eq: "avatar"}) {
-        childImageSharp {
-          fixed(width: 30) {
-            ... GatsbyImageSharpFixed
-          }  
-        }
-      }
+   const brandingImg = useStaticQuery(graphql`query brandingImg {
+  file(sourceInstanceName: {eq: "images"}, name: {eq: "avatar"}) {
+    childImageSharp {
+      gatsbyImageData(width: 30, layout: FIXED)
     }
-  `)
+  }
+}
+`)
 
   return (
     <div className={`${myNavbar} mx-auto`}>
@@ -26,7 +23,9 @@ const CustomNavbar = ({ pageInfo  }) => {
         <Container className='px-0'> 
           <Link to="/" className={navItem}>
             <Navbar.Brand>
-              <Img fixed={brandingImg.file.childImageSharp.fixed} className='rounded-circle' />
+              <GatsbyImage
+                image={brandingImg.file.childImageSharp.gatsbyImageData}
+                className='rounded-circle' />
             </Navbar.Brand>
           </Link>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -74,7 +73,7 @@ const CustomNavbar = ({ pageInfo  }) => {
         </Container> 
       </Navbar>
     </div>
-  )
+  );
 
 }
 

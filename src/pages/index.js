@@ -2,7 +2,7 @@ import * as React from "react";
 import { Row, Col, Media } from "react-bootstrap";
 
 import { graphql, useStaticQuery } from "gatsby";
-import Img from "gatsby-image";
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import { SiTwitter, SiSap, SiYoutube } from "react-icons/si";
 
@@ -10,27 +10,23 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 
 const HomePage = () => {
-  const avatarImg = useStaticQuery(graphql`
-    query avataImage {
-      file(sourceInstanceName: { eq: "images" }, name: { eq: "avatar" }) {
-        childImageSharp {
-          fixed(width: 180) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
+  const avatarImg = useStaticQuery(graphql`query avataImage {
+  file(sourceInstanceName: {eq: "images"}, name: {eq: "avatar"}) {
+    childImageSharp {
+      gatsbyImageData(width: 180, layout: FIXED)
     }
-  `);
+  }
+}
+`);
 
   return (
     <Layout pageInfo={{ pageName: "home" }}>
       <SEO title="drumm.sh" />
       <Media>
-        <Img
-          fixed={avatarImg.file.childImageSharp.fixed}
+        <GatsbyImage
+          image={avatarImg.file.childImageSharp.gatsbyImageData}
           className="rounded-circle align-self-center mr-5"
-          alt="Prof. Dr. Christian Drumm"
-        />
+          alt="Prof. Dr. Christian Drumm" />
         <Media.Body>
           <h1>Prof. Dr. Christian Drumm</h1>
           <ul className="list-unstyled">
