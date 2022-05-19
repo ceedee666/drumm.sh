@@ -27,7 +27,8 @@ const HomePage = () => {
         <Col md={3}>
           <GatsbyImage
             image={avatarImg.file.childImageSharp.gatsbyImageData}
-            className="rounded-circle align-self-center mr-5"
+            className="rounded-cicle align-self-center mr-5"
+            imgClassName="rounded-circle"
             alt="Prof. Dr. Christian Drumm"
           />
         </Col>

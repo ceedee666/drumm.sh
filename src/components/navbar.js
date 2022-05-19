@@ -25,6 +25,7 @@ const CustomNavbar = ({ pageInfo }) => {
             <GatsbyImage
               image={brandingImg.file.childImageSharp.gatsbyImageData}
               className="rounded-circle me-2 align-middle"
+              imgClassName="rounded-circle"
             />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
