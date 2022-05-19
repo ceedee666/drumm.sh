@@ -2,7 +2,7 @@ import React from "react";
 import { Link, graphql, useStaticQuery } from "gatsby";
 import { GatsbyImage } from "gatsby-plugin-image";
 
-import { Container, Navbar, Nav } from "react-bootstrap";
+import { Container, Navbar, Nav, Image } from "react-bootstrap";
 
 import { myNavbar, navItem, activeNavItem } from "../styles/navbar.module.scss";
 
@@ -22,10 +22,13 @@ const CustomNavbar = ({ pageInfo }) => {
       <Navbar bg="dark" variant="dark" expand="sm">
         <Container className="px-0">
           <Navbar.Brand href="/">
-            <GatsbyImage
-              image={brandingImg.file.childImageSharp.gatsbyImageData}
-              className="rounded-circle me-2 align-middle"
-              imgClassName="rounded-circle"
+            <Image
+              src={
+                brandingImg.file.childImageSharp.gatsbyImageData.images.fallback
+                  .src
+              }
+              roundedCircle
+              alt="Prof. Dr. Christian Drumm"
             />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

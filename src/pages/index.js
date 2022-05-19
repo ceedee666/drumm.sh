@@ -1,8 +1,7 @@
 import * as React from "react";
-import { Row, Col } from "react-bootstrap";
+import { Row, Col, Image } from "react-bootstrap";
 
 import { graphql, useStaticQuery } from "gatsby";
-import { GatsbyImage } from "gatsby-plugin-image";
 
 import { SiTwitter, SiSap, SiYoutube } from "react-icons/si";
 
@@ -25,10 +24,11 @@ const HomePage = () => {
       <SEO title="drumm.sh" />
       <Row>
         <Col md={3}>
-          <GatsbyImage
-            image={avatarImg.file.childImageSharp.gatsbyImageData}
-            className="rounded-cicle align-self-center mr-5"
-            imgClassName="rounded-circle"
+          <Image
+            src={
+              avatarImg.file.childImageSharp.gatsbyImageData.images.fallback.src
+            }
+            roundedCircle
             alt="Prof. Dr. Christian Drumm"
           />
         </Col>
