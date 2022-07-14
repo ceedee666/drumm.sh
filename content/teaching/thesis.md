@@ -12,6 +12,7 @@ myself of possible topics I came across. If you are interested to work on one
 of the topics please contact me. If you have an own idea for a topic please feel
 free to contact me as well.
 
+1. Using AR to visualise a model factory
 1. Simplify automated testing in MOOCs
 2. Analysis of coding exercises from a MOOC
 3. Analysis of students performance in a MOOC
