@@ -23,10 +23,9 @@ free to contact me as well.
 8. Analysis of request for quotations in ERP projects with respect to digitalization
 9. Using SAP Co-Pilot in ERP lectures
 10. Development and Evaluation of a case study for Robotic Process Automation
-11. Development and Evaluation of a case study for process automation using
-   BPMN and DMN
-1. Analysis of the usage of open source software in small and mid-size companies
-1. Analysis of the YouTube statistics of an online lecture.
+11. Development and Evaluation of a case study for process automation using BPMN and DMN
+12. Analysis of the usage of open source software in small and mid-size companies
+13. Analysis of the YouTube statistics of an online lecture.
 
 ## Supervised Thesis
 
