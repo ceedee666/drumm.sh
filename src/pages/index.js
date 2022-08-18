@@ -85,7 +85,7 @@ const HomePage = () => {
             <li>
               Author @{" "}
               <a
-                href="https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/"
+                href="https://www.rheinwerk-verlag.de/einstieg-in-sap-s4hana/"
                 target="_blank"
                 rel="noreferrer"
               >
