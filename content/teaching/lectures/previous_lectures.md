@@ -5,7 +5,7 @@ published: true
 tags: ["FH Aachen", "lectures"]
 ---
 
-## Summer Term 2022
+## Summer Term 2022 ☀️
 
 In the summer term 2022 I taught the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
@@ -18,7 +18,7 @@ Additionally, I co-organize a virtual lecture series on information systems:
 
 - [Virtuelle Vorlesungsreihe WI (#vivowi)](https://taxxas.com/d.php?id=vvwi)
 
-## Winter Term 2021/2022
+## Winter Term 2021/2022 ❄️
 
 In the winter term 2021/2022 I taught the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
@@ -32,7 +32,7 @@ Additionally, I co-organize a virtual lecture series on information systems:
 
 - [Virtuelle Vorlesungsreihe WI (#vivowi)](https://taxxas.com/d.php?id=vvwi)
 
-## Summer Term 2021
+## Summer Term 2021 ☀️
 
 In the summer term 2021 I taught the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
