@@ -1,5 +1,5 @@
 ---
-title: "Programmierung und Informationsverarbeitung (WS 2021/2022)"
+title: "Programmierung und Informationsverarbeitung "
 language: "de"
 published: true
 tags: ["FH Aachen", "Teaching", "Python"]
@@ -14,8 +14,6 @@ Auf dieser Basis werden dann Python-Bibliotheken verwendet, um
 Daten aufzubereiten und z.B. grafisch darzustellen. Den Abschluss
 des Moduls bildet eine Projektarbeit. In dieser wird eine
 selbstgewählte Fragestellung mit den erlernten Fähigkeiten bearbeitet.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_intro_lecture/v1.5)
 
 ## Prüfungsleistung
 
@@ -41,30 +39,31 @@ Zusätzlich werden zwei Tutorien angeboten.
   - Donnerstag, 10:00 - 11:30h
   - Donnerstag, 12:15 - 13:45h
 
-| Woche | Datum    | Thema der Vorlesung         | Praktikum          | Hausaufgabe         |
-| ----: | -------- | --------------------------- | ------------------ | ------------------- |
-|    40 | 06.10.21 | Einführung & Orga           |                    |                     |
-|    41 | 13.10.21 | Datentypen, Ein- u. Ausgabe |                    |                     |
-|    42 | 20.10.21 | Bedingte Anweisungen        |                    |                     |
-|    43 | 27.10.21 | Komplexe Datentypen         |                    |                     |
-|    44 | 03.11.21 | Schleifen & Funktionen      | IDE & Word Counter | Alice im Wunderland |
-|    45 | 10.11.21 | Bibliotheken                |                    |                     |
-|    46 | 17.11.21 | Git                         | Git                |                     |
-|    47 | 24.11.21 | Graphen mit matplotlib      | Numpy              | TBD                 |
-|    48 | 01.12.21 | NumPy und Pandas            | Pandas             |                     |
-|    49 | 08.12.21 | Digitale Signalverarbeitung | DSP                | TBD                 |
-|    50 | 15.12.21 | Projekt                     |                    |                     |
-|    51 | 22.12.21 | Projekt                     |                    |                     |
-|    52 | 29.12.21 | keine Vorlesung             |                    |                     |
-|     1 | 05.01.22 | keine Vorlesung             |                    |                     |
-|     2 | 12.01.22 | Projekt                     |                    |                     |
-|     3 | 19.01.22 | Projekt                     |                    |                     |
+| Woche | Datum    | Thema der Vorlesung                               | openSAP Woche | Praktikum |
+| ----: | -------- | ------------------------------------------------- | ------------- | --------- |
+|    39 | 28.09.22 | Einführung & Orga                                 | Woche 0       |           |
+|    40 | 05.10.22 | Datentypen, Ein- u. Ausgabe, bedingte Anweisungen | Woche 1       |           |
+|    41 | 12.10.22 | List und Schleifen                                | Woche 2       |           |
+|    42 | 19.10.22 | Komplege Datentypen                               | Woche 3       |           |
+|    43 | 26.10.22 | Arbeiten mit Datein                               | Woche 4       |           |
+|    44 | 02.11.22 | Funktionen                                        | Woche 5       |           |
+|    45 | 09.11.22 | Bibliotheken                                      | Woche 6       |           |
+|    46 | 16.11.22 | Git                                               |               | Git       |
+|    47 | 23.11.22 | Graphen mit matplotlib                            |               | Numpy     |
+|    48 | 30.11.22 | NumPy und Pandas                                  |               | Pandas    |
+|    49 | 07.12.22 | Digitale Signalverarbeitung                       |               | DSS       |
+|    50 | 14.12.22 | Projekt                                           |               |           |
+|    51 | 21.12.22 | Projekt                                           |               |           |
+|    52 | 28.12.22 | ⚠️ **keine Vorlesung**⚠️                          |               |           |
+|     1 | 04.01.23 | keine Vorlesung                                   |               |           |
+|     2 | 11.01.23 | Projekt                                           |               |           |
+|     3 | 18.01.23 | Projekt                                           |               |           |
 
 ## Wichtige Links
 
-| Link                                                                                                             | Beschreibung                                |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_intro_lecture/v1.5) | Ausführbare Juypter-Notebooks zur Vorlesung |
-| [Praktikumsaufgaben](http://wirtschaftsinformatik.fh-aachen.de/IT1/)                                             | Webseite mit den Aufgaben zum Praktikum     |
-| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_823593.html)                                             | Ilias-Ordner des Moduls                     |
-| [Forum](https://www.ili.fh-aachen.de/goto_elearning_frm_823704.html)                                             | Diskussionsforum des Moduls                 |
+| Link                                                                 | Beschreibung                            |
+| -------------------------------------------------------------------- | --------------------------------------- |
+| [Python for Beginners](https://open.sap.com/courses/python1)         | openSAP Kurs zu Python                  |
+| [Praktikumsaufgaben](http://wirtschaftsinformatik.fh-aachen.de/IT1/) | Webseite mit den Aufgaben zum Praktikum |
+| [Ilias (folgt)]()                                                    | Ilias-Ordner des Moduls                 |
+| [Forum (folgt)]()                                                    | Diskussionsforum des Moduls             |
