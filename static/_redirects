@@ -1,8 +1,8 @@
 # netlify redirects
 # from_url to_url
-/sap                  /teaching/lectures/2022/summer_term/sap_in_der_praxis
-/bis                  /teaching/lectures/2021/winter_term/business_information_systems
-/prog                 /teaching/lectures/2021/winter_term/programmierung
+/sap                  /teaching/lectures/2022/winter_term/sap_in_der_praxis
+/bis                  /teaching/lectures/2022/winter_term/business_information_systems
+/prog                 /teaching/lectures/2022/winter_term/programmierung
 /is                   /teaching/lectures/2022/summer_term/informationssysteme
 /ip                   /teaching/lectures/2022/summer_term/industrielle_produktion
 /dl                   /teaching/lectures/2022/summer_term/digital_lab
@@ -10,7 +10,7 @@
 
 # External
 ## UCC
-/s4                   https://m30z.ucc.ovgu.de/sap/bc/ui2/flp?sap-client=202
+/s4                   https://m31z.ucc.ovgu.de/sap/bc/ui2/flp?sap-client=238
 
 ## YT Channel
 /yt                   https://www.youtube.com/c/christiandrumm
@@ -20,7 +20,7 @@
 /yt/is                https://youtube.com/playlist?list=PLl09U8aTDcv1eIkxyPKNAKKmqPJR3RC0o
 ## Lectures
 /bpmn-poster          http://www.bpmb.de/images/BPMN2_0_Poster_DE.pdf
-/vivowi               https://taxxas.com/d.php?id=vvwi
+/vivowi               /teaching/lectures/2022/winter_term/vivowi
 
 ## Other
 /verdaechtig          https://open.spotify.com/album/6BVGUzfRngXYfHXe0TUqxT
