@@ -24,11 +24,16 @@ Bewertung des Moduls setzt sich aus folgenden Komponenten zusammen:
 - 50% Projekt
 - 50% Klausur
 
+## openSAP Record of Achievement
+
+Optional besteht im Modul die Möglichkeit durch die wöchentliche Bearbeitung von Aufgaben
+einen offiziellen Leistungsnachweis (Record of Achievement) von [openSAP](https://open.sap.com) zu erreichen.
+
 ## Zeitplan
 
 Die Vorlesung und die Praktika finden zu folgenden Terminen statt. Die Vorlesung
 wird als hybride Vorlesung angeboten. Das heißt Sie können sowohl im
-Vorlesungssaal als auch remote über Zoom teilnehmen. Den Zoom-
+Vorlesungssaal als auch remote über WebEx teilnehmen. Den WebEx-
 Link für die Teilnahme finden Sie im Ilias.
 
 Zusätzlich werden zwei Tutorien angeboten.
