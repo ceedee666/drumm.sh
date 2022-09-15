@@ -14,6 +14,10 @@ Additionally, I co-organize a virtual lecture series on information systems:
 [This site](/teaching/lectures/previous_lectures) contains a list of lectures I taught
 during the previous terms.
 
+## Learning Agreement
+
+All my lectures are based on this [learning agreement](/teaching/learning_agreement).
+
 ## Bachelor and Master Thesis
 
 If you would like me to be the supervisor of your thesis please write an email.
