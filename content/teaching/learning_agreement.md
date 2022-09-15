@@ -9,7 +9,7 @@ Ich erwarte von Ihnen folgendes:
 
 - **V**orbereitung
 - **I**nteraktion
-- **P**rofesionelles Verhalten.
+- **P**rofesionelles Verhalten
 
 Im Detail bedeutet das folgendes:
 
