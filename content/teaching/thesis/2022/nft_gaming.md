@@ -2,8 +2,7 @@
 title: "Anwendung von NFTs und Blockchain in der Gaming-Industrie: Literaturreview und Aspekte für ein erfolgreiches Geschäftsmodell"
 language: "de"
 published: true
-tags:
-  ["FH Aachen", "Thesis", "Anforderungsanalyse", "Mahnakte", "Digitalisierung"]
+tags: ["FH Aachen", "Thesis", "NFT", "Blockchain", "Gaming"]
 ---
 
 ## Abstract

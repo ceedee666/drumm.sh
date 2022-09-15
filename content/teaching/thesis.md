@@ -73,5 +73,7 @@ the full text is also available.
   - Einfluss des Alters auf die Akzeptanz von digitaler Trauerbegleitung nach einem Todesfall
   - Skill Gap Analyse eine internen Lernportals am Beispiel der Firma Lindt & Sprüngli GmbH
   - [Anwendung von NFTs und Blockchain in der Gaming-Industrie: Literaturreview und Aspekte für ein erfolgreiches Geschäftsmodell](/teaching/thesis/2022/nft_gaming)
+  - [
+    Identifikation und Optimierung des Engpasses für prozess- und produktnahe Einkapselungen in der Lithium-Ionen Zellassemblierung](/teaching/thesis/2022/engpass_lithium_ionen)
   - Process Mining zur Konformitätsanalyse im BPO / in der Energiewirtschaft
   - Entwicklung und Evaluation einer Fallstudie zur Prozessautomatisierung mit BPMN und DMN
