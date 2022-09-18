@@ -10,6 +10,9 @@
 /ba                   /teaching/thesis
 
 # External
+## Rheinwerk
+/erpbuch              https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/
+/s4buch               https://www.rheinwerk-verlag.de/einstieg-in-sap-s4hana/
 ## UCC
 /s4                   https://m31z.ucc.ovgu.de/sap/bc/ui2/flp?sap-client=238
 
