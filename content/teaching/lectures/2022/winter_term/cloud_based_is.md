@@ -34,7 +34,7 @@ entwickelt und im Rahmen eines Prototypen implementiert.
 Die Vorlesung findet zu den folgenden Terminen statt:
 
 - **Vorlesung**
-  - Mittwoch, 08:15 - 11:30h, W101
+  - Mittwoch, 08:15 - 11:30h, W102
 
 Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 
