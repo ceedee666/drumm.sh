@@ -49,7 +49,7 @@ Zusätzlich werden zwei Tutorien angeboten.
 |    39 | 28.09.22 | Einführung & Orga                                 | Woche 0       |           |
 |    40 | 05.10.22 | Datentypen, Ein- u. Ausgabe, bedingte Anweisungen | Woche 1       |           |
 |    41 | 12.10.22 | List und Schleifen                                | Woche 2       |           |
-|    42 | 19.10.22 | Komplege Datentypen                               | Woche 3       |           |
+|    42 | 19.10.22 | Komplexe Datentypen                               | Woche 3       |           |
 |    43 | 26.10.22 | Arbeiten mit Datein                               | Woche 4       |           |
 |    44 | 02.11.22 | Funktionen                                        | Woche 5       |           |
 |    45 | 09.11.22 | Bibliotheken                                      | Woche 6       |           |
