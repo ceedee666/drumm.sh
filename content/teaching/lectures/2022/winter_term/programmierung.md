@@ -66,9 +66,10 @@ Zusätzlich werden zwei Tutorien angeboten.
 
 ## Wichtige Links
 
-| Link                                                                  | Beschreibung                            |
-| --------------------------------------------------------------------- | --------------------------------------- |
-| [Python for Beginners](https://open.sap.com/courses/python1)          | openSAP Kurs zu Python                  |
-| [Praktikumsaufgaben](http://wirtschaftsinformatik.fh-aachen.de/IT1/)  | Webseite mit den Aufgaben zum Praktikum |
-| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1003793.html) | Ilias-Ordner des Moduls                 |
-| [Forum](https://forum.drumm.sh)                                       | Diskussionsforum des Moduls             |
+| Link                                                                  | Beschreibung                                                   |
+| --------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [Python for Beginners](https://open.sap.com/courses/python1)          | openSAP Kurs zu Python                                         |
+| [Python Cheat Sheet](https://www.pythoncheatsheet.org/)               | Kurzreferenz zu Python und einem Teil der Standardbibliotheken |
+| [Praktikumsaufgaben](http://wirtschaftsinformatik.fh-aachen.de/IT1/)  | Webseite mit den Aufgaben zum Praktikum                        |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1003793.html) | Ilias-Ordner des Moduls                                        |
+| [Forum](https://forum.drumm.sh)                                       | Diskussionsforum des Moduls                                    |
