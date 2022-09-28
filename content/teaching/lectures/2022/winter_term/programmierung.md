@@ -41,8 +41,8 @@ Zusätzlich werden zwei Tutorien angeboten.
 - **Vorlesung**
   - Mittwoch, 16:00 - 19:00h
 - **Tutorium**
-  - Donnerstag, 10:00 - 11:30h
-  - Donnerstag, 12:15 - 13:45h
+  - ~~Donnerstag, 10:00 - 11:30h~~
+  - ~~Donnerstag, 12:15 - 13:45h~~
 
 | Woche | Datum    | Thema der Vorlesung                               | openSAP Woche | Praktikum |
 | ----: | -------- | ------------------------------------------------- | ------------- | --------- |
@@ -59,16 +59,16 @@ Zusätzlich werden zwei Tutorien angeboten.
 |    49 | 07.12.22 | Digitale Signalverarbeitung                       |               | DSS       |
 |    50 | 14.12.22 | Projekt                                           |               |           |
 |    51 | 21.12.22 | Projekt                                           |               |           |
-|    52 | 28.12.22 | ⚠️ **keine Vorlesung**⚠️                          |               |           |
-|     1 | 04.01.23 | keine Vorlesung                                   |               |           |
+|    52 | 28.12.22 | ⚠️ **keine Vorlesung** ⚠️                         |               |           |
+|     1 | 04.01.23 | ⚠️ **keine Vorlesung** ⚠️                         |               |           |
 |     2 | 11.01.23 | Projekt                                           |               |           |
 |     3 | 18.01.23 | Projekt                                           |               |           |
 
 ## Wichtige Links
 
-| Link                                                                 | Beschreibung                            |
-| -------------------------------------------------------------------- | --------------------------------------- |
-| [Python for Beginners](https://open.sap.com/courses/python1)         | openSAP Kurs zu Python                  |
-| [Praktikumsaufgaben](http://wirtschaftsinformatik.fh-aachen.de/IT1/) | Webseite mit den Aufgaben zum Praktikum |
-| [Ilias (folgt)]()                                                    | Ilias-Ordner des Moduls                 |
-| [Forum (folgt)]()                                                    | Diskussionsforum des Moduls             |
+| Link                                                                  | Beschreibung                            |
+| --------------------------------------------------------------------- | --------------------------------------- |
+| [Python for Beginners](https://open.sap.com/courses/python1)          | openSAP Kurs zu Python                  |
+| [Praktikumsaufgaben](http://wirtschaftsinformatik.fh-aachen.de/IT1/)  | Webseite mit den Aufgaben zum Praktikum |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1003793.html) | Ilias-Ordner des Moduls                 |
+| [Forum](https://forum.drumm.sh)                                       | Diskussionsforum des Moduls             |
