@@ -12,18 +12,17 @@ myself of possible topics I came across. If you are interested to work on one
 of the topics please contact me. If you have an own idea for a topic please feel
 free to contact me as well.
 
+1. Comparison of different low code process automation platforms 
 1. Using AR to visualise a model factory
 1. Simplify automated testing in MOOCs
 1. Analysis of coding exercises from a MOOC
 1. Analysis of students performance in a MOOC
-1. Development of an online lecture aggregation Website
 1. Analysis of software quality metrics in large code bases (possibly in cooperation with CQSE)
 1. Clean Code: literature review
 1. Eye-Tracking using a Webcam
 1. Analysis of request for quotations in ERP projects with respect to digitalization
 1. Using SAP Co-Pilot in ERP lectures
 1. Development and Evaluation of a case study for Robotic Process Automation
-1. Development and Evaluation of a case study for process automation using BPMN and DMN
 1. Analysis of the usage of open source software in small and mid-size companies
 1. Analysis of the YouTube statistics of an online lecture.
 
