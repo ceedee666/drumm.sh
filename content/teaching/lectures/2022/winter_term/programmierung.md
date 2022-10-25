@@ -53,9 +53,9 @@ Zusätzlich werden zwei Tutorien angeboten.
 |    43 | 26.10.22 | Arbeiten mit Datein                               | Woche 4       |           |
 |    44 | 02.11.22 | Funktionen                                        | Woche 5       |           |
 |    45 | 09.11.22 | Bibliotheken                                      | Woche 6       |           |
-|    46 | 16.11.22 | Git                                               |               | Git       |
-|    47 | 23.11.22 | Graphen mit matplotlib                            |               | Numpy     |
-|    48 | 30.11.22 | NumPy und Pandas                                  |               | Pandas    |
+|    47 | 16.11.22 | Graphen mit matplotlib                            |               | Numpy     |
+|    48 | 23.11.22 | NumPy und Pandas                                  |               | Pandas    |
+|    46 | 30.11.22 | Git                                               |               | Git       |
 |    49 | 07.12.22 | Digitale Signalverarbeitung                       |               | DSS       |
 |    50 | 14.12.22 | Projekt                                           |               |           |
 |    51 | 21.12.22 | Projekt                                           |               |           |
