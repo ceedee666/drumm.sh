@@ -13,7 +13,7 @@ const HomePage = () => {
     query avataImage {
       file(sourceInstanceName: { eq: "images" }, name: { eq: "avatar" }) {
         childImageSharp {
-          gatsbyImageData(width: 180, layout: FIXED)
+          gatsbyImageData(layout: FIXED)
         }
       }
     }
@@ -35,7 +35,7 @@ const HomePage = () => {
             />
           </Row>
           <Row>
-            <Col>
+            <Col className="text-center">
               <h2>
                 <a
                   href="https://twitter.com/ceedee666"
@@ -46,7 +46,7 @@ const HomePage = () => {
                 </a>
               </h2>
             </Col>
-            <Col>
+            <Col className="text-center">
               <h2>
                 <a
                   href="https://people.sap.com/christian.drumm"
@@ -57,7 +57,7 @@ const HomePage = () => {
                 </a>
               </h2>
             </Col>
-            <Col>
+            <Col className="text-center">
               <h2>
                 <a
                   href="https://www.youtube.com/c/christiandrumm"
@@ -68,7 +68,7 @@ const HomePage = () => {
                 </a>
               </h2>
             </Col>
-            <Col>
+            <Col className="text-center">
               <h2>
                 <a
                   href="https://github.com/ceedee666"
