@@ -9,7 +9,7 @@ Ich erwarte von Ihnen folgendes:
 
 - **V**orbereitung
 - **I**nteraktion
-- **P**rofesionelles Verhalten
+- **P**rofessionelles Verhalten
 
 Im Detail bedeutet das folgendes:
 
@@ -25,7 +25,7 @@ Im Detail bedeutet das folgendes:
 - Sie bringen sich aktiv in Gruppenarbeiten ein
 - Sie aktivieren immer ihre Kamera
 
-## **P**rofesionelles Verhalten 💼
+## **P**rofessionelles Verhalten 💼
 
 - Sie erscheinen zu den Veranstaltungen (pünktlich)
 - Sie verhalten sich in Veranstaltungen und Gruppenarbeiten professionell
