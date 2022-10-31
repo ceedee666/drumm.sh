@@ -35,7 +35,7 @@ Studiengänge. Vorkenntnisse aus den ersten Semestern erleichtern das Verständn
 | 05.12.22 | [Prof. Dr. Alexander Golland](https://www.fh-aachen.de/menschen/golland)                 | Cookie Consent Cracked up - Der deutsche Sonderweg im ePrivacy-Recht |
 | 12.12.22 | [Prof. Dr. Gabriele Kunau](https://www.fh-dortmund.de/personen/Gabriele-Kunau/index.php) | Informationssysteme und Informationsethik                            |
 | 19.12.22 | [Prof. Dr. Uta Mathis](https://www.hs-esslingen.de/en/staff/uta-mathis/)                 | Process Mining im Kontext von Business Process Management            |
-| 09.01.23 | Referent folgt                                                                           |                                                                      |
+| 09.01.23 | [Prof. Dr. Hans-Jürgen Scheruhn](https://www.hs-harz.de/hscheruhn/zur-person/)           | Vortragstitel folget                                                 |
 
 ## Links
 
