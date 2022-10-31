@@ -3,7 +3,13 @@ import { Row, Col, Image } from "react-bootstrap";
 
 import { graphql, useStaticQuery } from "gatsby";
 
-import { SiTwitter, SiSap, SiYoutube, SiGithub } from "react-icons/si";
+import {
+  SiMastodon,
+  SiTwitter,
+  SiSap,
+  SiYoutube,
+  SiGithub,
+} from "react-icons/si";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
@@ -35,6 +41,17 @@ const HomePage = () => {
             />
           </Row>
           <Row>
+            <Col className="text-center">
+              <h2>
+                <a
+                  href="https://mastodon.social/@ceedee666"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <SiMastodon />
+                </a>
+              </h2>
+            </Col>
             <Col className="text-center">
               <h2>
                 <a
