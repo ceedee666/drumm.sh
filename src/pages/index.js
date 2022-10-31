@@ -29,7 +29,7 @@ const HomePage = () => {
     <Layout pageInfo={{ pageName: "home" }}>
       <SEO title="drumm.sh" />
       <Row>
-        <Col md={3}>
+        <Col md={4}>
           <Row>
             <Image
               src={
@@ -173,15 +173,6 @@ const HomePage = () => {
               </li>
             </ul>
           </Row>
-        </Col>
-      </Row>
-
-      <Row>
-        <Col md={3}>
-          <Row></Row>
-        </Col>
-        <Col md={9}>
-          <ul className="list-unstyled"></ul>
         </Col>
       </Row>
     </Layout>
