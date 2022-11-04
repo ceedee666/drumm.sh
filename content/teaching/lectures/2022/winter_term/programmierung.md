@@ -52,7 +52,7 @@ Zusätzlich werden zwei Tutorien angeboten.
 |    42 | 19.10.22 | Komplexe Datentypen                               | Woche 3       |           |
 |    43 | 26.10.22 | Arbeiten mit Datein                               | Woche 4       |           |
 |    44 | 02.11.22 | Funktionen                                        | Woche 5       |           |
-|    45 | 09.11.22 | Bibliotheken                                      | Woche 6       |           |
+|    45 | 09.11.22 | ⚠️ **keine Vorlesung** ⚠️                         | Woche 6       |           |
 |    47 | 16.11.22 | Graphen mit matplotlib                            |               | Numpy     |
 |    48 | 23.11.22 | NumPy und Pandas                                  |               | Pandas    |
 |    46 | 30.11.22 | Git                                               |               | Git       |
