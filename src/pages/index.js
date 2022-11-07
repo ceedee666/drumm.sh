@@ -46,7 +46,7 @@ const HomePage = () => {
                 <a
                   href="https://mastodon.social/@ceedee666"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="me"
                 >
                   <SiMastodon />
                 </a>
