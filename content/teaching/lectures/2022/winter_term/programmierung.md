@@ -41,8 +41,8 @@ Zusätzlich werden zwei Tutorien angeboten.
 - **Vorlesung**
   - Mittwoch, 16:00 - 19:00h
 - **Tutorium**
-  - ~~Donnerstag, 10:00 - 11:30h~~
-  - ~~Donnerstag, 12:15 - 13:45h~~
+  - Donnerstag, 10:00 - 11:30h, online
+  - Donnerstag, 12:15 - 13:45h, D101
 
 | Woche | Datum    | Thema der Vorlesung                               | openSAP Woche | Praktikum |
 | ----: | -------- | ------------------------------------------------- | ------------- | --------- |
