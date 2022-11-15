@@ -47,6 +47,7 @@ const HomePage = () => {
                   href="https://mastodon.social/@ceedee666"
                   target="_blank"
                   rel="me"
+                  aria-label="Link to my mastodon account"
                 >
                   <SiMastodon />
                 </a>
@@ -58,6 +59,7 @@ const HomePage = () => {
                   href="https://twitter.com/ceedee666"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="Link to my twitter account"
                 >
                   <SiTwitter />
                 </a>
@@ -69,6 +71,7 @@ const HomePage = () => {
                   href="https://people.sap.com/christian.drumm"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="Link to my SAP community account"
                 >
                   <SiSap />
                 </a>
@@ -80,6 +83,7 @@ const HomePage = () => {
                   href="https://www.youtube.com/c/christiandrumm"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="Link to my YouTube channel"
                 >
                   <SiYoutube />
                 </a>
@@ -91,6 +95,7 @@ const HomePage = () => {
                   href="https://github.com/ceedee666"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="Link to my Github account"
                 >
                   <SiGithub />
                 </a>
