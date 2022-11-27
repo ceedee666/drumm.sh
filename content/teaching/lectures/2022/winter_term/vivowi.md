@@ -28,12 +28,12 @@ Studiengänge. Vorkenntnisse aus den ersten Semestern erleichtern das Verständn
 
 ## Veranstaltungen und Terminplan
 
-| Datum             | Referent                                                                                                                                                                              | Thema                                                                |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 05.12.22 17 - 18h | [Prof. Dr. Alexander Golland](https://www.fh-aachen.de/menschen/golland) <br/> [Webinar Login](https://fh-aachen.webex.com/fh-aachen-en/j.php?MTID=m4c9f9641cb08da1644d482002ece8124) | Cookie Consent Cracked up - Der deutsche Sonderweg im ePrivacy-Recht |
-| 12.12.22 17 - 18h | [Prof. Dr. Gabriele Kunau](https://www.fh-dortmund.de/personen/Gabriele-Kunau/index.php)                                                                                              | Informationssysteme und Informationsethik                            |
-| 19.12.22 17 - 18h | [Prof. Dr. Uta Mathis](https://www.hs-esslingen.de/en/staff/uta-mathis/)                                                                                                              | Process Mining im Kontext von Business Process Management            |
-| 16.01.23 17 - 18h | [Prof. Dr. Hans-Jürgen Scheruhn](https://www.hs-harz.de/hscheruhn/zur-person/)                                                                                                        | Benötigen Unternehmen ein System ähnliche Google Maps?               |
+| Datum                  | Referent                                                                                                                                                                                 | Thema                                                                |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 05.12.22 <br/>17 - 18h | [Prof. Dr. Alexander Golland](https://www.fh-aachen.de/menschen/golland) <br/> 👉 [Webinar Login](https://fh-aachen.webex.com/fh-aachen-en/j.php?MTID=m4c9f9641cb08da1644d482002ece8124) | Cookie Consent Cracked up - Der deutsche Sonderweg im ePrivacy-Recht |
+| 12.12.22 <br/>17 - 18h | [Prof. Dr. Gabriele Kunau](https://www.fh-dortmund.de/personen/Gabriele-Kunau/index.php)                                                                                                 | Informationssysteme und Informationsethik                            |
+| 19.12.22 <br/>17 - 18h | [Prof. Dr. Uta Mathis](https://www.hs-esslingen.de/en/staff/uta-mathis/)                                                                                                                 | Process Mining im Kontext von Business Process Management            |
+| 16.01.23 <br/>17 - 18h | [Prof. Dr. Hans-Jürgen Scheruhn](https://www.hs-harz.de/hscheruhn/zur-person/)                                                                                                           | Benötigen Unternehmen ein System ähnliche Google Maps?               |
 
 ## Links
 
