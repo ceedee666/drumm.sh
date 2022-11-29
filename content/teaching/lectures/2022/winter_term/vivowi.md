@@ -14,8 +14,8 @@ Student\*innen in ihren Veranstaltungen an: die [Virtuelle Vorlesungsreihe Wirts
 es den Studierenden fundierte Einblicke in eine Vielzahl von Themen zu geben und Kolleg\*innen
 vernetzen.
 
-Auch nachdem die meisten Einschränkungen durch die Corona-Pandemie der Vergangeheit angehören
-wird die [Virtuelle Vorlesungsreihe Wirtschaftsinformatik](https://taxxas.com/d.php?id=vvwi) weiterhin durchjgeführt.
+Auch nachdem die meisten Einschränkungen durch die Corona-Pandemie der Vergangenheit angehören
+wird die [Virtuelle Vorlesungsreihe Wirtschaftsinformatik](https://taxxas.com/d.php?id=vvwi) weiterhin durchgeführt.
 
 Die Virtuelle Vorlesungsreihe Wirtschaftsinformatik wird von [Prof. Dr. Christian Drumm](https://drumm.sh),
 Fachhochschule Aachen, und [Prof. Dr. Michael Gröschel](https://www.taxxas.com/),
