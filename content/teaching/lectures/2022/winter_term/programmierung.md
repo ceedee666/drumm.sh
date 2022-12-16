@@ -57,12 +57,12 @@ Zusätzlich werden zwei Tutorien angeboten.
 |    48 | 23.11.22 | NumPy und Pandas                                  |               | Pandas    |
 |    46 | 30.11.22 | Git                                               |               | Git       |
 |    49 | 07.12.22 | Digitale Signalverarbeitung                       |               | DSS       |
-|    50 | 14.12.22 | Projekt                                           |               |           |
-|    51 | 21.12.22 | Projekt                                           |               |           |
+|    50 | 14.12.22 | Projekt - keine Vorlesung                         |               |           |
+|    51 | 21.12.22 | Projekt - keine Vorlesung                         |               |           |
 |    52 | 28.12.22 | ⚠️ **keine Vorlesung** ⚠️                         |               |           |
 |     1 | 04.01.23 | ⚠️ **keine Vorlesung** ⚠️                         |               |           |
-|     2 | 11.01.23 | Projekt                                           |               |           |
-|     3 | 18.01.23 | Projekt                                           |               |           |
+|     2 | 11.01.23 | Projekt - keine Vorlesung                         |               |           |
+|     3 | 18.01.23 | Projekt - keine Vorlesung                         |               |           |
 
 ## Wichtige Links
 
