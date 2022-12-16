@@ -56,18 +56,6 @@ const HomePage = () => {
             <Col className="text-center">
               <h2>
                 <a
-                  href="https://twitter.com/ceedee666"
-                  target="_blank"
-                  rel="noreferrer"
-                  aria-label="Link to my twitter account"
-                >
-                  <SiTwitter />
-                </a>
-              </h2>
-            </Col>
-            <Col className="text-center">
-              <h2>
-                <a
                   href="https://people.sap.com/christian.drumm"
                   target="_blank"
                   rel="noreferrer"
