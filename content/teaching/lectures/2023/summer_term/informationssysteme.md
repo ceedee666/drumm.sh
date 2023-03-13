@@ -55,7 +55,8 @@ zusammengefasst. Die in den Videos gezeigten BPMN Modelle sind in diesem
 
 ## Optionales Seminar - Revolutionizing Business with AI: The power of chatGPT and beyond
 
-Zusammen mit Fr. Prof. Dr. Sarah Maihaus wird dieses Semester das Seminar "Revolutionizing Business with AI: The power of chatGPT and beyond"
+Zusammen mit [Fr. Prof. Dr. Sarah Maihaus](https://www.fh-aachen.de/menschen/maihaus)
+wird dieses Semester das Seminar "Revolutionizing Business with AI: The power of chatGPT and beyond"
 durchgeführt. Das Seminar umfasst die Erstellung einer Seminararbeit zu einem Thema mit Bezug zu aktuellen Entwicklungen im
 Bereich AI. Das Seminar startet am **Dienstag, den 04.04.2023** mit einer Keynote. Sprecher der Keynote sind:
 
