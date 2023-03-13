@@ -46,7 +46,7 @@ Die nachfolgende Tabelle enthält die vorläufige Planung der Vorlesungstermine.
 | 25    | 19.06.2022 | Projektarbeit                            | 20.06.2022 | Projektarbeit                                             |
 | 26    | 26.06.2022 | Projektarbeit                            | 27.06.2022 | Projektpräsentation                                       |
 
-##Praxispartner
+## Praxispartner
 
 Die Praxispartner werden zu einem späteren Zeitpunkt veröffentlicht.
 
