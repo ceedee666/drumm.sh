@@ -5,6 +5,15 @@ published: true
 tags: ["FH Aachen", "lectures"]
 ---
 
+## Winter Term 2022/2023 ❄️
+
+In the winter term 2022/2023 I taught the following lectures at [FH Aachen](https://www.fh-aachen.de/):
+
+- [SAP in der Praxis](/teaching/lectures/2022/winter_term/sap_in_der_praxis)
+- [Business Information Systems](/teaching/lectures/2022/winter_term/business_information_systems)
+- [Cloud-basierte Informationssysteme](/teaching/lectures/2022/winter_term/cloud_based_is)
+- [Programmierung und Informationsverarbeitung](/teaching/lectures/2022/winter_term/programmierung)
+
 ## Summer Term 2022 ☀️
 
 In the summer term 2022 I taught the following lectures at [FH Aachen](https://www.fh-aachen.de):
