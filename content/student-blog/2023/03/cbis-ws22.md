@@ -17,7 +17,7 @@ The table below contains the links to the blog posts as well as the names of the
 | Topic                                                                                                                                                         | Students                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | [How to use REST-APIs in PowerApps](https://powerusers.microsoft.com/t5/Power-Platform-Integrations/Tutorial-How-to-use-a-REST-API-in-Power-Apps/m-p/2003174) | Ben Pauly, Fabian Lösch                    |
-| [Power FX Tutorial](https://youtu.be/Vwg97jsvcwU)                                                                                                             | Marvin Lützeler                            |
+| [Power FX Tutorial](/teaching/lectures/2022/winter_term/cbis/power_fx)                                                                                        | Marvin Lützeler                            |
 | [Share-Point Online](/teaching/lectures/2022/winter_term/cbis/sharepoint_online)                                                                              | Vijitha Susilakumar, Artur Sichwardt       |
 | [oee.ai and PowerApps](/teaching/lectures/2022/winter_term/cbis/oeeai_powerapps)                                                                              | Anas Kudaish, Heram Kritharan, Wesam Habib |
 | [PDF Creator in Power Apps](/teaching/lectures/2022/winter_term/cbis/pdf_creator)                                                                             | Anton Zajcev, Fabian Kirchhoff             |
