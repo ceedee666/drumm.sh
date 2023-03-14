@@ -1,27 +1,25 @@
-import React from "react"
-import { Row, Col} from 'react-bootstrap'
-import { BiTime, BiCalendar } from 'react-icons/bi';
-import moment from 'moment'
+import React from "react";
+import { Row, Col } from "react-bootstrap";
+import { BiTime, BiCalendar } from "react-icons/bi";
+import moment from "moment";
 
-import {Link, graphql, useStaticQuery} from 'gatsby'
+import { Link, graphql, useStaticQuery } from "gatsby";
 
-import Layout from '../components/layout'
-import SEO from '../components/seo'
+import Layout from "../components/layout";
+import SEO from "../components/seo";
 
-import { blogListItem, blogDateTime } from '../styles/blog.module.scss'
+import { blogListItem, blogDateTime } from "../styles/blog.module.scss";
 
 const BlogPage = () => {
   const data = useStaticQuery(graphql`
     query blogPosts {
-      allMarkdownRemark
-      (
+      allMarkdownRemark(
         filter: {
           fields: { collection: { eq: "blog" } }
           frontmatter: { published: { eq: true } }
-        } 
-        sort: { fields: [frontmatter___date], order: DESC  }
-      )
-      {
+        }
+        sort: { frontmatter: { date: DESC } }
+      ) {
         edges {
           node {
             frontmatter {
@@ -40,33 +38,34 @@ const BlogPage = () => {
         }
       }
     }
-  `)
+  `);
 
   return (
-    <Layout pageInfo={{ pageName: "blog" }} >
+    <Layout pageInfo={{ pageName: "blog" }}>
       <SEO title="drumm.sh | Blog" />
-      {data.allMarkdownRemark.edges.map( edge => {
+      {data.allMarkdownRemark.edges.map((edge) => {
         return (
           <div className={blogListItem}>
-            <Link to={`${edge.node.fields.slug}`} >
+            <Link to={`${edge.node.fields.slug}`}>
               <h2>{edge.node.frontmatter.title}</h2>
             </Link>
             <Row>
               <Col className={blogDateTime}>
-                <BiCalendar /> {moment(edge.node.frontmatter.date).format('DD. MMMM YYYY')}  &bull;  <BiTime /> {edge.node.timeToRead} min read
+                <BiCalendar />{" "}
+                {moment(edge.node.frontmatter.date).format("DD. MMMM YYYY")}{" "}
+                &bull; <BiTime /> {edge.node.timeToRead} min read
               </Col>
             </Row>
-            <Row >
-              <Col className='mt-2 mb-5'>
+            <Row>
+              <Col className="mt-2 mb-5">
                 {edge.node.frontmatter.description}
               </Col>
             </Row>
           </div>
-        )
-      } )}
+        );
+      })}
     </Layout>
+  );
+};
 
-  )
-}
-
-export default BlogPage 
+export default BlogPage;
