@@ -27,6 +27,8 @@ Analysis is used to illustrate variation in intra-individual processing of the c
 The results show that the MOOC designed using the 4C/ID model was effective in
 teaching programming skills to beginners.
 
+The project is conducted in cooperation with Prof. Halszka Jarodza form the Department Online Learning and Instruction, Open Universiteit, The Netherlands.
+
 ### LuCID
 
 The project **LuCID - Die Lernumgebung fürs Programmieren basierend auf 4C-ID**
