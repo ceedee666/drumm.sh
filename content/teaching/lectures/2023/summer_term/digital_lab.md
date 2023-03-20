@@ -30,21 +30,21 @@ Die nachfolgende Tabelle enthält die vorläufige Planung der Vorlesungstermine.
 
 | Woche | Datum      | Thema der Vorlesung                       | Datum      | Thema der Vorlesung                                       |
 | ----- | ---------- | ----------------------------------------- | ---------- | --------------------------------------------------------- |
-| 12    | 20.03.2022 | Einführung und Organisation               | 21.03.2022 | Übungen / Fragen -</br> openSAP Woche 0 & 1               |
-| 13    | 27.03.2022 | Selbststudium - </br> openSAP Woche 2     | 28.03.2022 | Übungen / Fragen -</br> openSAP Woche 2                   |
-| 14    | 03.04.2022 | Selbststudium - </br> openSAP Woche 3 & 4 | 04.04.2022 | Übungen / Fragen -</br> openSAP Woche 3 & 4               |
-| 15    | 10.04.2022 | Selbststudium - </br> openSAP Woche 5     | 11.04.2022 | Übungen / Fragen -</br> openSAP Woche 5 (**nur online!**) |
-| 16    | 17.04.2022 | Selbststudium - </br> openSAP Woche 6     | 18.04.2022 | Selbststudium - </br> openSAP Woche 6                     |
-| 17    | 24.04.2022 | Datamining Grundlagen                     | 25.04.2022 | Datamining Grundlagen                                     |
-| 18    | 01.05.2022 | **keine Vorlesung**                       | 02.05.2022 | Datamining Grundlagen                                     |
-| 19    | 08.05.2022 | Design Thinking / Projektwahl             | 09.05.2022 | Projektarbeit                                             |
-| 20    | 15.05.2022 | **Reading Week**                          | 16.05.2022 | **Reading Week**                                          |
-| 21    | 22.05.2022 | Projektarbeit                             | 23.05.2022 | Projektarbeit                                             |
-| 22    | 29.05.2022 | Projektarbeit                             | 30.05.2022 | Projektarbeit                                             |
-| 23    | 05.06.2022 | Projektarbeit                             | 06.06.2022 | Projektarbeit                                             |
-| 24    | 12.06.2022 | Projektarbeit                             | 13.06.2022 | Projektarbeit                                             |
-| 25    | 19.06.2022 | Projektarbeit                             | 20.06.2022 | Projektarbeit                                             |
-| 26    | 26.06.2022 | Projektarbeit                             | 27.06.2022 | Projektpräsentation                                       |
+| 12    | 20.03.2023 | Einführung und Organisation               | 21.03.2023 | Übungen / Fragen -</br> openSAP Woche 0 & 1               |
+| 13    | 27.03.2023 | Selbststudium - </br> openSAP Woche 2     | 28.03.2023 | Übungen / Fragen -</br> openSAP Woche 2                   |
+| 14    | 03.04.2023 | Selbststudium - </br> openSAP Woche 3 & 4 | 04.04.2023 | Übungen / Fragen -</br> openSAP Woche 3 & 4               |
+| 15    | 10.04.2023 | Selbststudium - </br> openSAP Woche 5     | 11.04.2023 | Übungen / Fragen -</br> openSAP Woche 5 (**nur online!**) |
+| 16    | 17.04.2023 | Selbststudium - </br> openSAP Woche 6     | 18.04.2023 | Selbststudium - </br> openSAP Woche 6                     |
+| 17    | 24.04.2023 | Datamining Grundlagen                     | 25.04.2023 | Datamining Grundlagen                                     |
+| 18    | 01.05.2023 | **keine Vorlesung**                       | 02.05.2023 | Datamining Grundlagen                                     |
+| 19    | 08.05.2023 | Design Thinking / Projektwahl             | 09.05.2023 | Projektarbeit                                             |
+| 20    | 15.05.2023 | **Reading Week**                          | 16.05.2023 | **Reading Week**                                          |
+| 21    | 22.05.2023 | Projektarbeit                             | 23.05.2023 | Projektarbeit                                             |
+| 22    | 29.05.2023 | Projektarbeit                             | 30.05.2023 | Projektarbeit                                             |
+| 23    | 05.06.2023 | Projektarbeit                             | 06.06.2023 | Projektarbeit                                             |
+| 24    | 12.06.2023 | Projektarbeit                             | 13.06.2023 | Projektarbeit                                             |
+| 25    | 19.06.2023 | Projektarbeit                             | 20.06.2023 | Projektarbeit                                             |
+| 26    | 26.06.2023 | Projektarbeit                             | 27.06.2023 | Projektpräsentation                                       |
 
 ## Praxispartner
 
