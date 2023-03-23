@@ -52,3 +52,11 @@ Funktionen zur Übertragung Ihrer Programme auf den Microcontroller:
 Auf meinem [YouTube Kanal](https://www.youtube.com/c/christiandrumm) finden Sie eine [Playlist](https://youtube.com/playlist?list=PLl09U8aTDcv1hw7fKlLS2gv9_rz1twPr4)
 mit einigen Videos zur Vorlesung. In diesen Videos zeige ich z.B. wie Sie die [PyCharm IDE mit dem Microcontroller](https://youtu.be/CMgT60wM7tw) verbinden
 können oder wie Sie Daten vom Microcontroller zu den [AWS IoT Service](https://youtu.be/0N3XAKuAGec) senden können.
+
+## AWS
+
+Im Rahmen des Moduls werden wir [Amazon Web Service (AWS)](https://aws.amazon.com/) benutzen, um Daten von Sensoren
+zu erfassen. Da Amazon leider keine Budgets für Hochschulen mehr bereitstellt und das [AWS Educate[(https://aws.amazon.com/education/awseducate/)
+nicht die notwendinge SErvices enthält, benötigt jeder Teilnehmer einen AWS Account. Führen
+Sie hierzu die im Tutorial [Control Your AWS Costs](https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/)
+beschriebenen Schritte durch (insbesondere die Schritte 2 und 4). Ich empfehle Ihnen die Vorlage "Zero spend budget" in Schritt 4 zu verwenden.
