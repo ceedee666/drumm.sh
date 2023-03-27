@@ -56,7 +56,7 @@ können oder wie Sie Daten vom Microcontroller zu den [AWS IoT Service](https://
 ## AWS
 
 Im Rahmen des Moduls werden wir [Amazon Web Service (AWS)](https://aws.amazon.com/) benutzen, um Daten von Sensoren
-zu erfassen. Da Amazon leider keine Budgets für Hochschulen mehr bereitstellt und das [AWS Educate[(https://aws.amazon.com/education/awseducate/)
-nicht die notwendinge SErvices enthält, benötigt jeder Teilnehmer einen AWS Account. Führen
+zu erfassen. Da Amazon leider keine Budgets für Hochschulen mehr bereitstellt und das [AWS Educate](https://aws.amazon.com/education/awseducate/)
+nicht die notwendigen Services enthält, benötigt jeder Teilnehmer einen AWS Account. Führen
 Sie hierzu die im Tutorial [Control Your AWS Costs](https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/)
 beschriebenen Schritte durch (insbesondere die Schritte 2 und 4). Ich empfehle Ihnen die Vorlage "Zero spend budget" in Schritt 4 zu verwenden.
