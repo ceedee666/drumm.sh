@@ -23,8 +23,8 @@ wird als hybride Vorlesung angeboten. Das heißt Sie können sowohl im
 Vorlesungssaal als auch remote über WebEx teilnehmen. Den WebEx-
 Link für die Teilnahme finden Sie im Ilias.
 
-- Montag, 08:15 - 09:45h, E236/E237
-- Dienstag, 08:15 - 09:45h, E236/E237
+- Montag, 08:15 - 09:45h, W104
+- Dienstag, 08:15 - 09:45h, W104
 
 Die nachfolgende Tabelle enthält die vorläufige Planung der Vorlesungstermine.
 
