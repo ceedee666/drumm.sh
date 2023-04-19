@@ -23,8 +23,8 @@ wird als hybride Vorlesung angeboten. Das heißt Sie können sowohl im
 Vorlesungssaal als auch remote über WebEx teilnehmen. Den WebEx-
 Link für die Teilnahme finden Sie im Ilias.
 
-- Montag, 08:15 - 09:45h, E236/E237
-- Dienstag, 08:15 - 09:45h, E236/E237
+- Montag, 08:15 - 09:45h, W104
+- Dienstag, 08:15 - 09:45h, W104
 
 Die nachfolgende Tabelle enthält die vorläufige Planung der Vorlesungstermine.
 
@@ -34,7 +34,7 @@ Die nachfolgende Tabelle enthält die vorläufige Planung der Vorlesungstermine.
 | 13    | 27.03.2023 | Selbststudium - </br> openSAP Woche 2     | 28.03.2023 | Übungen / Fragen -</br> openSAP Woche 2                   |
 | 14    | 03.04.2023 | Selbststudium - </br> openSAP Woche 3 & 4 | 04.04.2023 | Übungen / Fragen -</br> openSAP Woche 3 & 4               |
 | 15    | 10.04.2023 | Selbststudium - </br> openSAP Woche 5     | 11.04.2023 | Übungen / Fragen -</br> openSAP Woche 5 (**nur online!**) |
-| 16    | 17.04.2023 | Selbststudium - </br> openSAP Woche 6     | 18.04.2023 | Selbststudium - </br> openSAP Woche 6                     |
+| 16    | 17.04.2023 | Selbststudium - </br> openSAP Woche 6     | 18.04.2023 | Übungen / Fragen -</br> openSAP Woche 6                   |
 | 17    | 24.04.2023 | Datamining Grundlagen                     | 25.04.2023 | Datamining Grundlagen                                     |
 | 18    | 01.05.2023 | **keine Vorlesung**                       | 02.05.2023 | Datamining Grundlagen                                     |
 | 19    | 08.05.2023 | Design Thinking / Projektwahl             | 09.05.2023 | Projektarbeit                                             |
