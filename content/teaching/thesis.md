@@ -12,6 +12,7 @@ myself of possible topics I came across. If you are interested to work on one
 of the topics please contact me. If you have an own idea for a topic please feel
 free to contact me as well.
 
+1. Integration of 3d printing and SAP S/4HANA
 1. Integration of RPA (robotic process automation) with SAP ([additional information](thesis/2023_ba_fairconsult.pdf))
 1. Implementation of a Web based TDD game (in cooperation with majcon)
 1. Comparison of different low code process automation platforms
