@@ -17,7 +17,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt. ~~Die Vorlesu
 wird als hybride Vorlesung angeboten. Das heißt Sie können sowohl im
 Vorlesungssaal als auch remote über WebEx teilnehmen. Den WebEx-Link für die Teilnahme finden Sie im Ilias.~~
 
-** Aufgrund der mangelnden Beteiligung und Interaktion findet die Vorlesung ab sofort (10.05.23) ausschließlich in Präsenz statt.**
+**Aufgrund der mangelnden Beteiligung und Interaktion findet die Vorlesung ab sofort (10.05.23) ausschließlich in Präsenz statt.**
 
 Die Vorlesung und die Praktika finden zu folgenden Terminen statt:
 
