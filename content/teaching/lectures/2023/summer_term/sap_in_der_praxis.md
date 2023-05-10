@@ -13,7 +13,7 @@ Hierbei werden die betriebswirtschaftlichen Konzepte der unterschiedlichen Funkt
 
 ## Zeitplan
 
-Die Vorlesung und die Praktika finden zu folgenden Terminen statt. ~~Die Vorlesung
+~~Die Vorlesung
 wird als hybride Vorlesung angeboten. Das heißt Sie können sowohl im
 Vorlesungssaal als auch remote über WebEx teilnehmen. Den WebEx-Link für die Teilnahme finden Sie im Ilias.~~
 
