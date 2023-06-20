@@ -13,6 +13,7 @@ of the topics please contact me. If you have an own idea for a topic please feel
 free to contact me as well.
 
 1. Using Large Language Models (like ChatGPT) in teaching ERP System and/or Python programming.
+1. Development and evaluation of a ChatGPT plug-in to answer student's questions.
 1. Integration of 3d printing and SAP S/4HANA
 1. Implementation of a Web based TDD game (in cooperation with majcon)
 1. Comparison of different low code process automation platforms
