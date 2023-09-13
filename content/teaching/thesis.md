@@ -12,11 +12,16 @@ myself of possible topics I came across. If you are interested to work on one
 of the topics please contact me. If you have an own idea for a topic please feel
 free to contact me as well.
 
+### BPM
+
+- Comparison of different process visualizations from a user perspective.
+
 ### ERP Systems
 
 1. Integration of 3d printing and SAP S/4HANA
 1. Development and evaluation of a LLM plug-in to answer student's questions.
 1. Using AR to visualise a model factory
+1. Analysis of the effects of integrated documentation (ie. SAP Enable Now) in SAP S/4HANA
 1. Comparison of different low code process automation platforms
 1. Development and Evaluation of a case study for Robotic Process Automation
 1. Analysis of request for quotations in ERP projects with respect to digitalization
