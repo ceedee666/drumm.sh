@@ -7,39 +7,54 @@ tags: ["FH Aachen", "Thesis"]
 
 ## Possible Thesis Topics
 
-Below you find a list of possible thesis topics. This is merely a reminder for
+Below you find a list of possible thesis topics in different areas. This is merely a reminder for
 myself of possible topics I came across. If you are interested to work on one
 of the topics please contact me. If you have an own idea for a topic please feel
 free to contact me as well.
 
-1. Using Large Language Models (like ChatGPT) in teaching ERP System and/or Python programming.
-1. Development and evaluation of a ChatGPT plug-in to answer student's questions.
+### ERP Systems
+
 1. Integration of 3d printing and SAP S/4HANA
-1. Implementation of a Web based TDD game (in cooperation with majcon)
-1. Comparison of different low code process automation platforms
+1. Development and evaluation of a LLM plug-in to answer student's questions.
 1. Using AR to visualise a model factory
+1. Comparison of different low code process automation platforms
+1. Development and Evaluation of a case study for Robotic Process Automation
+1. Analysis of request for quotations in ERP projects with respect to digitalization
+
+### Software Development
+
+1. Implementation of a Web based TDD game (in cooperation with majcon)
+1. Analysis of software quality metrics in large code bases (possibly in cooperation with CQSE)
+1. Clean Code: literature review
+
+### Leaning & Teaching
+
 1. Simplify automated testing in MOOCs
 1. Analysis of coding exercises from a MOOC
 1. Analysis of students performance in a MOOC
-1. Analysis of software quality metrics in large code bases (possibly in cooperation with CQSE)
-1. Clean Code: literature review
-1. Eye-Tracking using a Webcam
-1. Using SAP Co-Pilot in ERP lectures
-1. Development and Evaluation of a case study for Robotic Process Automation
-1. Analysis of the usage of open source software in small and mid-size companies
+1. Using Large Language Models (like ChatGPT) in teaching ERP System and/or Python programming.
 1. Analysis of the YouTube statistics of an online lecture.
-1. Analysis of request for quotations in ERP projects with respect to digitalization
 
-## Currently Running Thesis
+### Other
 
-1. Implementation of an online lecture aggregation platform
-1. Integration of RPA (robotic process automation) with SAP ([additional information](thesis/2023_ba_fairconsult.pdf))
+1. Analysis of the usage of open source software in small and mid-size companies
 
 ## Supervised Thesis
 
 This is a selection of the bachelor and master thesis I supervised in the past.
 For each thesis at least the abstract is available here. For some thesis
 the full text is also available.
+
+### 2023
+
+- **Bachlor Thesis**
+  - Aktuelle Grenzen von Prozessautomation durch Robotic Process Automation im SAP Umfeld
+  - [Entwicklungskonzept einer Software für das strategische Management](/teaching/thesis/2023/strategisches_management)
+  - [Effiziente Klassifizierung von Control Chart Mustern basierend auf Long-Short-Term-Memory und synthetischen Daten](/teaching/thesis/2023/control_chart_muster)
+  - [Methoden zur Validierung und Verifizierung eines Datenanalyse Use-Cases](/teaching/thesis/2023/validierung_datenanalyse)
+  - [Entwicklung einer Webseite zur Aggregation von Lernvideos](/teaching/thesis/2023/video_aggregation)
+  - [Make-or-Buy-Entscheidung in der Software-as-a-Service-Entwicklung](/teaching/thesis/2023/saas_make_or_buy)
+  - [Leitfaden für eine erfolgreiche Führung von Shared Service Centern - am Beispiel der USU Software AG](/teaching/thesis/2023/shared_service_center)
 
 ### 2022
 
@@ -63,8 +78,8 @@ the full text is also available.
   - Eine Anforderungsanalyse zur Deckung neuer Anforderungen in der BI-Systemlandschaft
   - [Analyse von Anwendungsfällen für die Blockchain Technologie](/teaching/thesis/2021/blockchain_use_cases)
   - Effizienzgewinne durch automatische Erstellung von Autotransporten
-  - [Ein Konzept zur Digitalisierung der Mahnakte in einem Dienstleistungsunternehmen des deutschen Energiemarktes](/teaching/thesis/2021/mahnakte.md)
-  - [Konzeption und Evaluation der Anbindung einer SAAS-Lösung zur Produktionsoptimierung an ERP-Systeme](/teaching/thesis/2021/erp_oee.md)
+  - [Ein Konzept zur Digitalisierung der Mahnakte in einem Dienstleistungsunternehmen des deutschen Energiemarktes](/teaching/thesis/2021/mahnakte)
+  - [Konzeption und Evaluation der Anbindung einer SAAS-Lösung zur Produktionsoptimierung an ERP-Systeme](/teaching/thesis/2021/erp_oee)
   - [Einsatz von MS Dynamics in der Lehre](/teaching/thesis/2021/ms_dynamics_lehre)
   - Anforderungen / Kriterien für Cloud ERP
 
