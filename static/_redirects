@@ -1,9 +1,9 @@
 # netlify redirects
 # from_url to_url
-/sap                  /teaching/lectures/2023/summer_term/sap_in_der_praxis
-/bis                  /teaching/lectures/2022/winter_term/business_information_systems
-/prog                 /teaching/lectures/2022/winter_term/programmierung
-/cbis                 /teaching/lectures/2022/winter_term/cloud_based_is
+/sap                  /teaching/lectures/2023/winter_term/sap_in_der_praxis
+/bis                  /teaching/lectures/2023/winter_term/business_information_systems
+/prog                 /teaching/lectures/2023/winter_term/programmierung
+/cbis                 /teaching/lectures/2023/winter_term/cloud_based_is
 /is                   /teaching/lectures/2023/summer_term/informationssysteme
 /ip                   /teaching/lectures/2023/summer_term/industrielle_produktion
 /dl                   /teaching/lectures/2023/summer_term/digital_lab
@@ -14,7 +14,7 @@
 /erpbuch              https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/
 /s4buch               https://www.rheinwerk-verlag.de/einstieg-in-sap-s4hana/
 ## UCC
-/s4                   https://m32z.ucc.ovgu.de/sap/bc/ui2/flp?sap-client=2116
+/s4                   https://m32z.ucc.ovgu.de/sap/bc/ui2/flp?sap-client=216
 
 ## YT Channel
 /yt                   https://www.youtube.com/c/christiandrumm
@@ -22,6 +22,7 @@
 ## YT Playlists
 /yt/s4                https://www.youtube.com/playlist?list=PLl09U8aTDcv04kN-FPZUyGIaKcMhPNsky
 /yt/is                https://youtube.com/playlist?list=PLl09U8aTDcv1eIkxyPKNAKKmqPJR3RC0o
+
 ## Lectures
 /bpmn-poster          http://www.bpmb.de/images/BPMN2_0_Poster_DE.pdf
 /vivowi               https://taxxas.com/d.php?id=vvwi 
