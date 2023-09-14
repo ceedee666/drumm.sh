@@ -2,10 +2,11 @@
 
 During the summer term 2023 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
-- [Digital Lab](/teaching/lectures/2023/summer_term/digital_lab)
-- [Industrielle Produktion](/teaching/lectures/2023/summer_term/industrielle_produktion)
-- [Informationssysteme](/teaching/lectures/2023/summer_term/informationssysteme)
-- [SAP in der Praxis](/teaching/lectures/2023/summer_term/sap_in_der_praxis)
+- [Business Information Systems](/teaching/lectures/2023/winter_term/business_information_systems)
+- [Cloud-basierte Informationssysteme](/teaching/lectures/2023/winter_term/cloud_based_is)
+- [Interdisziplinäres Projekt Wirtschaftsinformatik](/teaching/lectures/2023/winter_term/ip_winf)
+- [Programmierung und Informationsverarbeitung](/teaching/lectures/2023/winter_term/programmierung)
+- [SAP in der Praxis](/teaching/lectures/2023/winter_term/sap_in_der_praxis)
 
 Additionally, I co-organize a virtual lecture series on information systems:
 
@@ -26,7 +27,7 @@ I'll then schedule a first meeting where we discuss the requirements and expecta
 A [list of possible thesis topics](/teaching/thesis) as well as a selection of
 thesis I supervised in past is available [here](/teaching/thesis).
 
-## Student Blog
+## Student Blog 📝
 
 The [Student's Blog](/student-blog/) contains blog posts written by students as
 part of my lectures at [FH Aachen](https://www.fh-aachen.de).
