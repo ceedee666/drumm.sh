@@ -14,6 +14,7 @@ Inhalte im Modul besprochen:
 - Deployment-Szenarien für Informationssystemen (IaaS, PaaS, SaaS) und
   zugehörige Technologien
 - Architekturmodelle für Informationssystemen
+- Integrationsarchitekturen
 - Integrationsprobleme und Lösungsansätze
 
 Das Modul wird in Kooperation mit [Microsoft](https://microsoft.com)
