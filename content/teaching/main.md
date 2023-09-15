@@ -3,9 +3,9 @@
 During the summer term 2023 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
 - [Business Information Systems](/teaching/lectures/2023/winter_term/business_information_systems)
-- [Cloud-basierte Informationssysteme](/teaching/lectures/2023/winter_term/cloud_based_is)
-- [Interdisziplinäres Projekt Wirtschaftsinformatik](/teaching/lectures/2023/winter_term/ip_winf)
-- [Programmierung und Informationsverarbeitung](/teaching/lectures/2023/winter_term/programmierung)
+- Cloud-basierte Informationssysteme
+- Interdisziplinäres Projekt Wirtschaftsinformatik
+- Programmierung und Informationsverarbeitung
 - [SAP in der Praxis](/teaching/lectures/2023/winter_term/sap_in_der_praxis)
 
 Additionally, I co-organize a virtual lecture series on information systems:
