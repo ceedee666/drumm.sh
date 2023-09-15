@@ -41,6 +41,11 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt:
 |   3 | 15.01.24 | Grundlagen Customizing                              | **Kein Video**                                                                                                                                                                                                                                                                                                 | **Kein Praktikum**                                                                                                                                                                                       |                                                                                                                                                           |
 |   4 | 22.01.24 | Zusammenfassung und Prüfungsvorbereitung            | **Kein Video**                                                                                                                                                                                                                                                                                                 | **Kein Praktikum**                                                                                                                                                                                       |                                                                                                                                                           |
 
+## Optional SAP-Zertifizierung
+
+In diesem Semester besteht die Möglichkeit im Rahmen der [Business Processes Open Lecture](https://events.sap.com/open-lecture-2023) eine
+offizielle SAP-Zertifizierung (TS410) zu erwerben. Bei Interesse sprechen Sie mich gerne an.
+
 ## Systemzugriff
 
 Um auf "unser" SAP S/4HANA System zugreifen zu können müssen Sie folgende Schritte
