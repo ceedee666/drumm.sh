@@ -19,7 +19,7 @@ Inhalte im Modul besprochen:
 Das Modul wird in Kooperation mit [Microsoft](https://microsoft.com)
 durchgeführt.
 
-Auf Basis der theoretischen Inhalte werden für eine echte Problemstellungen in einem SAP ERP System
+Auf Basis der theoretischen Inhalte werden für eine echte Problemstellungen in einem SAP S/4HANA System
 Lösungen entwickelt und im Rahmen eines Prototypen implementiert. Insbesondere wird dafür auch
 auf OpenAI basierende Service von Microsoft verwendet werden.
 
