@@ -47,7 +47,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt:
 ## Optional SAP-Zertifizierung
 
 In diesem Semester besteht die Möglichkeit im Rahmen der [Business Processes Open Lecture](https://events.sap.com/open-lecture-2023) eine
-offizielle SAP-Zertifizierung (TS410) zu erwerben. Bei Interesse sprechen Sie mich gerne an.
+**offizielle SAP-Zertifizierung (TS410)** zu erwerben. Bei Interesse sprechen Sie mich gerne an.
 
 ## Systemzugriff
 
