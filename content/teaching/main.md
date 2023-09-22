@@ -30,13 +30,4 @@ thesis I supervised in past is available [here](/teaching/thesis).
 ## Student Blog 📝
 
 The [Student's Blog](/student-blog/) contains blog posts written by students as
-part of my lectures at [FH Aachen](https://www.fh-aachen.de)Hallo Daniel,
-
-Bald geht das IP los. Ich denke ich bekomme nächste Woche die Namen der Teilnehmer. Wir müssten dann folgendes tun:
-
-- Klären wann das Kick-Off stattfindet
-- Klären, welchen Technologie-Stack die Studies verwenden sollen. Und wer die Einführung dazu macht. Ich fände es Super wenn du das übernehmen könntest. Das würde sicher gut ankommen.
-- Gibt es irgendwas spezielle was wir beachten müssen? NDA oder so etwas?
-
-Grüße
-Christian.
+part of my lectures at [FH Aachen](https://www.fh-aachen.de).
