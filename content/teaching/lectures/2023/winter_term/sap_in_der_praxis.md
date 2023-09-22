@@ -7,9 +7,13 @@ tags: ["FH Aachen", "Teaching", "SAP S/4HANA"]
 
 ## Inhalte
 
-Das Modul führt in die Konzepte und Möglichkeiten zur Unterstützung betrieblicher Geschäftsprozesse mittels SAP S/4HANA ein.
-Hierbei werden die betriebswirtschaftlichen Konzepte der unterschiedlichen Funktionsbereiche aufgegriffen und im SAP-Kontext vertieft
-(insb. Finanz- und Rechnungswesen, Materialwirtschaft, Vertrieb sowie Produktionsplanung und -steuerung).
+Das Modul führt in die Konzepte und Möglichkeiten zur Unterstützung
+betrieblicher Geschäftsprozesse mittels
+[SAP S/4HANA](https://www.sap.com/products/s4hana-erp.html) ein.
+Hierbei werden die betriebswirtschaftlichen Konzepte der unterschiedlichen
+Funktionsbereiche aufgegriffen und im SAP-Kontext vertieft
+(insbesondere Vertrieb, Einkauf und Beschaffung,
+Produktionsplanung und -steuerung, Finanzwesen und Controlling sowie Lagerverwaltung).
 
 ## Zeitplan
 
