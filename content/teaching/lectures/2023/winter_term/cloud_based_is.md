@@ -29,8 +29,8 @@ auf OpenAI basierende Service von Microsoft verwendet werden.
 Die Vorlesungen findet zu den folgenden Terminen statt:
 
 - **Vorlesung**
-  - Dienstag, 10:00 - 11:00h, W003
-  - Mittwoch, 14:15 - 15:45h, W003
+  - Mittwoch, 08:15 - 09:45h, W004
+  - Mittwoch, 10:00 - 11:30h, W004
 
 Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 
