@@ -65,13 +65,13 @@ Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 Die Note im Module setzt sich aus folgenden Prüfungsleistungen zusammen. Die Gewichtung der einzelnen Prüfungsleistungen entnehmen
 Sie bitte der folgenden Tabelle:
 
-| Prüfungsleistung      | Gewichtung |
-| --------------------- | ---------: |
-| Peer Teaching         |        10% |
-| Mid Term Presentation |        10% |
-| Final Presentation    |        10% |
-| Projekt               |        50% |
-| Tutorial              |        20% |
+| Prüfungsleistung      | Anteil | Art                |
+| --------------------- | -----: | ------------------ |
+| Peer Teaching         |    10% | Team               |
+| Mid Term Presentation |    10% | Team               |
+| Final Presentation    |    10% | Team               |
+| Projekt               |    50% | Team & Individuell |
+| Tutorial              |    20% | Individuell        |
 
 Die Anforderungen bzw. Bewertungskriterien für die einzelnen Prüfungsleistungen entnehmen
 Sie den folgenden Abschnitten.
