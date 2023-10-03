@@ -82,6 +82,17 @@ Sie den folgenden Abschnitten.
 - Vorstellung und Demo im Rahmen der Vorlesung (Dauer 15min)
 - Handout oder Cheat Sheet für alle Teilnehmer
 
+### Bewertungskriterien für Präsentationen
+
+Die beiden Präsentationen werden auf Basis der folgenden Kriterien bewertet.
+
+- Foliendesign
+- Problembeschreibung
+- Darstellung der Lösung
+- Demo
+- Darstellung von Problemen / Lessons Learned
+- Beantwortung von Fragen
+
 ## Wichtige Links
 
 | Link                                                                                      | Beschreibung                                       |
