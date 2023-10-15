@@ -152,6 +152,14 @@ const HomePage = () => {
                   rel="noreferrer"
                 >
                   Rheinwerk
+                </a>{" "}
+                and{" "}
+                <a
+                  href="https://et.training/dashboard/author/286"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Espresso Tutorials
                 </a>
               </li>
               <li>
