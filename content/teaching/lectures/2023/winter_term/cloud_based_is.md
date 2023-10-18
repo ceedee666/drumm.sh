@@ -40,7 +40,7 @@ Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 | **41** | 11.10.23        | Selbststudium & Coaching                          | siehe [Github Repo](https://github.com/ceedee666/cloud_based_is) zum Modul                            |
 | **42** | 18.10.23        | Selbststudium & Coaching                          |                                                                                                       |
 | **43** | 25.10.23        | Peer Teaching                                     | Themenauswahl und Gruppen siehe [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1160352.html) |
-| **44** | 01.11.23        | Peer Teaching                                     |                                                                                                       |
+| **44** | ⚠️ **03.11.23** | Peer Teaching                                     |                                                                                                       |
 | **45** | 08.11.23        | Design Thinking WS in den Projektteams            |                                                                                                       |
 | **46** | 15.11.23        | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
 |        | 15.11.23 10:00h | Office Hour mit Microsoft                         |                                                                                                       |
