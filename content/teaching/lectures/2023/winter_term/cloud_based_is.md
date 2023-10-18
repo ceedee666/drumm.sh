@@ -40,19 +40,18 @@ Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 | **41** | 11.10.23        | Selbststudium & Coaching                          | siehe [Github Repo](https://github.com/ceedee666/cloud_based_is) zum Modul                            |
 | **42** | 18.10.23        | Selbststudium & Coaching                          |                                                                                                       |
 | **43** | 25.10.23        | Peer Teaching                                     | Themenauswahl und Gruppen siehe [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1160352.html) |
-| **44** | ⚠️ **03.11.23** | Peer Teaching                                     |                                                                                                       |
-| **45** | 08.11.23        | Design Thinking WS in den Projektteams            |                                                                                                       |
-| **46** | 15.11.23        | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
-|        | 15.11.23 10:00h | Office Hour mit Microsoft                         |                                                                                                       |
-| **47** | 22.11.23        | Projektarbeit, Sprint Review & Retro              | Reading Week                                                                                          |
-|        | 22.11.23 10:00h | Office Hour mit Microsoft                         | Reading Week                                                                                          |
-| **48** | 29.11.23        | **Mid-Term Presentation**                         |                                                                                                       |
-| **49** | 06.12.23        | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
-|        | 06.12.23 10:00h | Office Hour mit Microsoft                         |                                                                                                       |
-| **50** | 13.12.23        | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
-|        | 13.12.23 10:00h | Office Hour mit Microsoft                         |                                                                                                       |
-| **51** | 20.12.23        | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
-|        | 20.12.23 10:00h | Office Hour mit Microsoft                         |                                                                                                       |
+| **44** | **03.11.23**    | Peer Teaching (**Abweichender Termin**)           |                                                                                                       |
+| **45** | **08.11.23**    | ⚠️ **Keine Vorlesung**                            |                                                                                                       |
+| **46** | 15.11.23        | Design Thinking WS in den Projektteams            |                                                                                                       |
+| **47** | 22.11.23 08:15h | Office Hour mit Microsoft                         | Reading Week                                                                                          |
+|        | 22.11.23 09:15h | Projektarbeit, Sprint Review & Retro              | Reading Week                                                                                          |
+| **48** | 29.11.23 08:15h | Office Hour mit Microsoft                         |                                                                                                       |
+|        | 29.11.23 09:15h | Projektarbeit, Sprint Review & Retro              |
+| **49** | 06.12.23        | **Mid-Term Presentation**                         |                                                                                                       |
+| **50** | 13.12.23 08:15h | Office Hour mit Microsoft                         |                                                                                                       |
+|        | 13.12.23 09:15h | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
+| **51** | 20.12.23 08:15h | Office Hour mit Microsoft                         |                                                                                                       |
+|        | 20.12.23 09:15h | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
 | **52** | 26.12.23        | ⚠️ **Keine Vorlesung**                            |                                                                                                       |
 |  **1** | 02.01.24        | ⚠️ **Keine Vorlesung**                            |                                                                                                       |
 |  **2** | 10.01.24        | Vorstellung Projektergebnisse                     |                                                                                                       |
