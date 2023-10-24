@@ -47,11 +47,11 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 |  44 | 01.11.23                      | ⚠️ **keine Vorlesung**                                             | Woche 4       |           |
 |  45 | **10.11.23** <br/> **10:00h** | Arbeiten mit Dateien & Funktionen <br/> ⚠️ **abweichender Termin** | Woche 5       |           |
 |  46 | 15.11.23                      | Bibliotheken                                                       | Woche 6       |           |
-|  47 | 22.11.23                      | Graphen mit matplotlib                                             |               |           |
-|  48 | 29.11.23                      | NumPy und Pandas                                                   |               | Numpy     |
-|  49 | 06.12.23                      | Git                                                                |               | Pandas    |
-|  50 | 13.12.23                      | Digitale Signalverarbeitung                                        |               | Git       |
-|  51 | 20.12.23                      | Projekt - keine Vorlesung                                          |               | DSS       |
+|  47 | 22.11.23                      | NumPy und matplotlib                                               |               | Numpy     |
+|  48 | 29.11.23                      | Git und Pandas                                                     |               | Pandas    |
+|  49 | 06.12.23                      | Pandas und Digitale Signalverarbeitung                             |               | Pandas    |
+|  50 | 13.12.23                      | Digitale Signalverarbeitung                                        |               | DSP       |
+|  51 | 20.12.23                      | Projekt - keine Vorlesung                                          |               |           |
 |  52 | 27.12.23                      | ⚠️ **keine Vorlesung**                                             |               |           |
 |   1 | 03.01.24                      | ⚠️ **keine Vorlesung**                                             |               |           |
 |   2 | 10.01.24                      | Projekt - keine Vorlesung                                          |               |           |
