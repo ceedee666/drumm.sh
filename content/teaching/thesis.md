@@ -14,7 +14,7 @@ free to contact me as well.
 
 ### BPM
 
-- Comparison of different process visualizations from a user perspective.
+1. Comparison of different process visualizations from a user perspective.
 
 ### ERP Systems
 
@@ -26,12 +26,6 @@ free to contact me as well.
 1. Development and Evaluation of a case study for Robotic Process Automation
 1. Analysis of request for quotations in ERP projects with respect to digitalization
 
-### Software Development
-
-1. Implementation of a Web based TDD game (in cooperation with majcon)
-1. Analysis of software quality metrics in large code bases (possibly in cooperation with CQSE)
-1. Clean Code: literature review
-
 ### Leaning & Teaching
 
 1. Simplify automated testing in MOOCs
@@ -39,6 +33,18 @@ free to contact me as well.
 1. Analysis of students performance in a MOOC
 1. Using Large Language Models (like ChatGPT) in teaching ERP System and/or Python programming.
 1. Analysis of the YouTube statistics of an online lecture.
+
+### Low Code & No Code
+
+1. Development of a solution integrated ALM framework for business users (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/alm_framework))
+1. Classification of IT processes in local government entities (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/process_classification))
+1. Conceptualization of open banking integrated PowerPlatform services (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/open_banking))
+
+### Software Development
+
+1. Implementation of a Web based TDD game (in cooperation with majcon)
+1. Analysis of software quality metrics in large code bases (possibly in cooperation with CQSE)
+1. Clean Code: literature review
 
 ### Other
 
