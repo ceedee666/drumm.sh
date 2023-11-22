@@ -37,6 +37,9 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 
 - **Vorlesung**
   - Mittwoch, 16:00 - 19:00h, W104
+- **Praktikum / Tutorium**
+  - Donnerstag, 10:00 - 11:30h, Eup WU10
+  - Donnerstag, 12:15 - 13:45h, Eup D101
 
 |  KW | Datum                         | Thema                                                              | openSAP Woche | Praktikum |
 | --: | ----------------------------- | ------------------------------------------------------------------ | ------------- | --------- |
