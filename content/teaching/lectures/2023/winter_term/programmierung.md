@@ -52,7 +52,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 |  45 | **10.11.23** <br/> **10:00h** | Arbeiten mit Dateien & Funktionen <br/> ⚠️ **abweichender Termin** | Woche 5       |           |
 |  46 | 15.11.23                      | Bibliotheken                                                       | Woche 6       |           |
 |  47 | 22.11.23                      | NumPy und matplotlib                                               |               | Numpy     |
-|  48 | 29.11.23                      | Git und Pandas                                                     |               | Pandas    |
+|  48 | 29.11.23                      | Git und Pandas                                                     |               | Numpy     |
 |  49 | 06.12.23                      | Pandas und Digitale Signalverarbeitung                             |               | Pandas    |
 |  50 | 13.12.23                      | Digitale Signalverarbeitung                                        |               | DSP       |
 |  51 | 20.12.23                      | Projekt - keine Vorlesung                                          |               |           |
