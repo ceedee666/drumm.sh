@@ -28,8 +28,9 @@ Zum bestehen des Moduls müssen beide Prüfungsteile bestanden werden.
 
 ## openSAP Record of Achievement
 
-Optional besteht im Modul die Möglichkeit durch die wöchentliche Bearbeitung von Aufgaben
-einen offiziellen Leistungsnachweis (Record of Achievement) von [openSAP](https://open.sap.com) zu erreichen.
+Optional besteht im Modul die Möglichkeit durch die wöchentliche
+Bearbeitung von Aufgaben einen offiziellen Leistungsnachweis
+(Record of Achievement) von [openSAP](https://open.sap.com) zu erreichen.
 
 ## Zeitplan
 
