@@ -47,9 +47,9 @@ Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 |        | 22.11.23 09:15h | Projektarbeit, Sprint Review & Retro              | Reading Week                                                                                          |
 | **48** | 29.11.23 08:15h | Office Hour mit Microsoft                         |                                                                                                       |
 |        | 29.11.23 09:15h | Projektarbeit, Sprint Review & Retro              |
-| **49** | 06.12.23        | **Mid-Term Presentation**                         |                                                                                                       |
-| **50** | 13.12.23 08:15h | Office Hour mit Microsoft                         |                                                                                                       |
-|        | 13.12.23 09:15h | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
+| **49** | 06.12.23 08:15h | Office Hour mit Microsoft                         |                                                                                                       |
+|        | 06.12.23 09:15h | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
+| **50** | 13.12.23        | **Mid-Term Presentation**                         |                                                                                                       |
 | **51** | 20.12.23 08:15h | Office Hour mit Microsoft                         |                                                                                                       |
 |        | 20.12.23 09:15h | Projektarbeit, Sprint Review & Retro              |                                                                                                       |
 | **52** | 26.12.23        | ⚠️ **Keine Vorlesung**                            |                                                                                                       |
@@ -61,7 +61,8 @@ Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 
 ## Bewertung
 
-Die Note im Module setzt sich aus folgenden Prüfungsleistungen zusammen. Die Gewichtung der einzelnen Prüfungsleistungen entnehmen
+Die Note im Module setzt sich aus folgenden Prüfungsleistungen zusammen.
+Die Gewichtung der einzelnen Prüfungsleistungen entnehmen
 Sie bitte der folgenden Tabelle:
 
 | Prüfungsleistung      | Anteil | Art                |
@@ -77,7 +78,8 @@ Sie den folgenden Abschnitten.
 
 ### Anforderungen Peer Teaching
 
-- Einführung in einen Service oder Funktion des Microsoft PowerPlatform oder Microsoft Azure
+- Einführung in einen Service oder Funktion des Microsoft
+  PowerPlatform oder Microsoft Azure
 - Vorstellung und Demo im Rahmen der Vorlesung (Dauer 15min)
 - Handout oder Cheat Sheet für alle Teilnehmer
 
