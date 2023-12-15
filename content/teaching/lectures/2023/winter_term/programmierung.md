@@ -60,7 +60,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 |   1 | 03.01.24                      | ⚠️ **keine Vorlesung**                                             |               |           |
 |   2 | 10.01.24                      | Projekt - keine Vorlesung                                          |               |           |
 |   3 | 17.01.24                      | Projekt - keine Vorlesung                                          |               |           |
-|   4 | 24.01.24                      | Zusammenfassung und Prüfungsvorbereitung                           |               |           |
+|   4 | 24.01.24                      | Prüfungsvorbereitung                                               |               |           |
 
 ## Wichtige Links
 
