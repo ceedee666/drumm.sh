@@ -36,6 +36,7 @@ free to contact me as well.
 
 ### Low Code & No Code
 
+1. Comparison of different Low Code / No Code platforms
 1. Development of a solution integrated ALM framework for business users (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/alm_framework))
 1. Classification of IT processes in local government entities (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/process_classification))
 1. Conceptualization of open banking integrated PowerPlatform services (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/open_banking))
