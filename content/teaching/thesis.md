@@ -7,10 +7,10 @@ tags: ["FH Aachen", "Thesis"]
 
 ## Possible Thesis Topics
 
-Below you find a list of possible thesis topics in different areas. This is merely a reminder for
-myself of possible topics I came across. If you are interested to work on one
-of the topics please contact me. If you have an own idea for a topic please feel
-free to contact me as well.
+Below you find a list of possible thesis topics in different areas. This is
+merely a reminder for myself of possible topics I came across. If you are
+interested to work on one of the topics please contact me. If you have an
+own idea for a topic please feel free to contact me as well.
 
 ### BPM
 
@@ -21,8 +21,8 @@ free to contact me as well.
 1. Integration of 3d printing and SAP S/4HANA
 1. Development and evaluation of a LLM plug-in to answer student's questions.
 1. Using AR to visualise a model factory
-1. Analysis of the effects of integrated documentation (ie. SAP Enable Now) in SAP S/4HANA
-1. Comparison of different low code process automation platforms
+1. Analysis of the effects of integrated documentation (ie. SAP Enable Now)
+   in SAP S/4HANA
 1. Development and Evaluation of a case study for Robotic Process Automation
 1. Analysis of request for quotations in ERP projects with respect to digitalization
 
@@ -31,20 +31,27 @@ free to contact me as well.
 1. Simplify automated testing in MOOCs
 1. Analysis of coding exercises from a MOOC
 1. Analysis of students performance in a MOOC
-1. Using Large Language Models (like ChatGPT) in teaching ERP System and/or Python programming.
+1. Using Large Language Models (like ChatGPT) in teaching ERP System
+   and/or Python programming.
 1. Analysis of the YouTube statistics of an online lecture.
+1. Comparison of different LLM based coding assistants (e.g. Copilot,
+   Code Whisperer, Tabnine) for learning programming languages
 
 ### Low Code & No Code
 
 1. Comparison of different Low Code / No Code platforms
-1. Development of a solution integrated ALM framework for business users (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/alm_framework))
-1. Classification of IT processes in local government entities (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/process_classification))
-1. Conceptualization of open banking integrated PowerPlatform services (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/open_banking))
+1. Development of a solution integrated ALM framework for business users
+   (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/alm_framework))
+1. Classification of IT processes in local government entities (in cooperation
+   with [jovoco](https://www.jovoco.io/), [further details](topics/process_classification))
+1. Conceptualization of open banking integrated PowerPlatform services (in
+   cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/open_banking))
 
 ### Software Development
 
 1. Implementation of a Web based TDD game (in cooperation with majcon)
-1. Analysis of software quality metrics in large code bases (possibly in cooperation with CQSE)
+1. Analysis of software quality metrics in large code bases (possibly in
+   cooperation with CQSE)
 1. Clean Code: literature review
 
 ### Other
@@ -60,7 +67,8 @@ the full text is also available.
 ### 2023
 
 - **Bachlor Thesis**
-  - Aktuelle Grenzen von Prozessautomation durch Robotic Process Automation im SAP Umfeld
+  - Aktuelle Grenzen von Prozessautomation durch Robotic Process Automation
+    im SAP Umfeld
   - [Entwicklungskonzept einer Software für das strategische Management](/teaching/thesis/2023/strategisches_management)
   - [Effiziente Klassifizierung von Control Chart Mustern basierend auf Long-Short-Term-Memory und synthetischen Daten](/teaching/thesis/2023/control_chart_muster)
   - [Methoden zur Validierung und Verifizierung eines Datenanalyse Use-Cases](/teaching/thesis/2023/validierung_datenanalyse)
@@ -75,13 +83,15 @@ the full text is also available.
   - Entwicklung eines Konzeptes zur intralogistischen Prozesssteuerung
 
 - **Bachlor Thesis**
-  - Einfluss des Alters auf die Akzeptanz von digitaler Trauerbegleitung nach einem Todesfall
-  - Skill Gap Analyse eine internen Lernportals am Beispiel der Firma Lindt & Sprüngli GmbH
+  - Einfluss des Alters auf die Akzeptanz von digitaler Trauerbegleitung nach
+    einem Todesfall
+  - Skill Gap Analyse eine internen Lernportals am Beispiel der
+    Firma Lindt & Sprüngli GmbH
   - [Anwendung von NFTs und Blockchain in der Gaming-Industrie: Literaturreview und Aspekte für ein erfolgreiches Geschäftsmodell](/teaching/thesis/2022/nft_gaming)
-  - [
-    Identifikation und Optimierung des Engpasses für prozess- und produktnahe Einkapselungen in der Lithium-Ionen Zellassemblierung](/teaching/thesis/2022/engpass_lithium_ionen)
+  - [Identifikation und Optimierung des Engpasses für prozess- und produktnahe Einkapselungen in der Lithium-Ionen Zellassemblierung](/teaching/thesis/2022/engpass_lithium_ionen)
   - Process Mining zur Konformitätsanalyse im BPO / in der Energiewirtschaft
-  - Entwicklung und Evaluation einer Fallstudie zur Prozessautomatisierung mit BPMN und DMN
+  - Entwicklung und Evaluation einer Fallstudie zur Prozessautomatisierung
+    mit BPMN und DMN
 
 ### 2021
 
