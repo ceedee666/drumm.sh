@@ -71,9 +71,10 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
 
 ## Wichtige Links
 
-| Link                                                                  | Beschreibung                                    |
-| --------------------------------------------------------------------- | ----------------------------------------------- |
-| [YouTube Playlist](https://drumm.sh/yt/s4)                            | Die Playlist enthält alle Vorlesungsvideos      |
-| [Miro Board](https://miro.com/app/board/o9J_lvLhjsk=/)                | Das in den Vorlesungsvideos gezeigte Miro-Board |
-| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1151470.html) | Ilias-Ordner des Moduls                         |
-| [Forum](https://forum.drumm.sh)                                       | Diskussionsforum des Moduls                     |
+| Link                                                                          | Beschreibung                                    |
+| ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| [YouTube Playlist](https://drumm.sh/yt/s4)                                    | Die Playlist enthält alle Vorlesungsvideos      |
+| [Miro Board](https://miro.com/app/board/o9J_lvLhjsk=/)                        | Das in den Vorlesungsvideos gezeigte Miro-Board |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1151470.html)         | Ilias-Ordner des Moduls                         |
+| [Forum](https://forum.drumm.sh)                                               | Diskussionsforum des Moduls                     |
+| [Modern ABAP Curriculum](https://github.com/ceedee666/modern-abap-curriculum) | ABAP RAP Kurs auf Github                        |
