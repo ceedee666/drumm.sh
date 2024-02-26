@@ -1,6 +1,6 @@
 # Lectures
 
-During the summer term 2023 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
+During the winter term 2023/2024 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
 - [Business Information Systems](/teaching/lectures/2023/winter_term/business_information_systems)
 - [Cloud-basierte Informationssysteme](/teaching/lectures/2023/winter_term/cloud_based_is)
@@ -31,3 +31,8 @@ thesis I supervised in past is available [here](/teaching/thesis).
 
 The [Student's Blog](/student-blog/) contains blog posts written by students as
 part of my lectures at [FH Aachen](https://www.fh-aachen.de).
+
+## Wall of Fame 🥇
+
+The [Wall of Fame](/teaching/wall-of-fame) honors the top students each
+semester for their outstanding achievements.
