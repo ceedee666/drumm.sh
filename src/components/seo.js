@@ -16,7 +16,7 @@ function SEO({ description, title, creator, image }) {
           description
           author
           siteUrl
-          twitter
+          mastodon
         }
       }
     }
