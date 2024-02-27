@@ -75,6 +75,15 @@ const CustomNavbar = ({ pageInfo }) => {
                   Student's Blog
                 </Nav.Link>
               </Link>
+              <Link
+                to="/teaching/wall-of-fame"
+                className={navItem}
+                activeClassName={activeNavItem}
+              >
+                <Nav.Link as="span" eventKey="wall-of-fame">
+                  Wall of Fame
+                </Nav.Link>
+              </Link>
             </Nav>
             <Nav activeKey={pageInfo && pageInfo.pageName}>
               <Link
