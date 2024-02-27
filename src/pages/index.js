@@ -3,13 +3,7 @@ import { Row, Col, Image } from "react-bootstrap";
 
 import { graphql, useStaticQuery } from "gatsby";
 
-import {
-  SiMastodon,
-  SiTwitter,
-  SiSap,
-  SiYoutube,
-  SiGithub,
-} from "react-icons/si";
+import { SiMastodon, SiSap, SiYoutube, SiGithub } from "react-icons/si";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
