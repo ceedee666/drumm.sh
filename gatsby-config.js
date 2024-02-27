@@ -4,7 +4,7 @@ module.exports = {
     author: "Christian Drumm",
     siteUrl: "https://drumm.sh",
     description: "Blog, lectures and projects by Prof. Dr. Christian Drumm.",
-    twitter: "@ceedee666",
+    mastodon: "https://mastodon.social/@ceedee666",
     commentsRepo: "ceedee666/drumm.sh-comments",
   },
   plugins: [
@@ -124,7 +124,7 @@ module.exports = {
                     date: edge.node.frontmatter.date,
                     url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                     custom_elements: [{ "content:encoded": edge.node.html }],
-                  }
+                  },
                 );
               });
             },
