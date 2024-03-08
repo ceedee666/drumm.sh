@@ -1,16 +1,11 @@
 # Lectures
 
-During the winter term 2023/2024 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
+During the summer term 2024 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
-- [Business Information Systems](/teaching/lectures/2023/winter_term/business_information_systems)
-- [Cloud-basierte Informationssysteme](/teaching/lectures/2023/winter_term/cloud_based_is)
-- Interdisziplinäres Projekt Wirtschaftsinformatik
-- [Programmierung und Informationsverarbeitung](/teaching/lectures/2023/winter_term/programmierung)
-- [SAP in der Praxis](/teaching/lectures/2023/winter_term/sap_in_der_praxis)
-
-Additionally, I co-organize a virtual lecture series on information systems:
-
-- [Virtuelle Vorlesungsreihe WI (#vivowi)](/teaching/lectures/2023/summer_term/vivowi)
+- [Digital Lab](/teaching/lectures/2024/summer_term/digital_lab)
+- [Industrielle Produktion](/teaching/lectures/2024/summer_term/industrielle_produktion)
+- [Informationssysteme](/teaching/lectures/2024/summer_term/informationssysteme)
+- [SAP in der Praxis](/teaching/lectures/2024/summer_term/sap_in_der_praxis)
 
 [This site](/teaching/lectures/previous_lectures) contains a list of lectures I taught
 during the previous terms.
