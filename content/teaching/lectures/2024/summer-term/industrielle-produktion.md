@@ -24,8 +24,7 @@ Entwicklung Ihres Prototypen benötigen Sie folgende Hardware:
 
 Bitte beschaffen Sie die Hardware **rechtzeitig** vor Beginn der Vorlesungen!
 
-Der Inhalt der ersten Vorlesung Installation von [ESPHome](https://esphome.io)
-auf dem Mikrocontrollern und zur Verwendung von Sensoren sind als
+Der Inhalt der ersten Vorlesungen sind als
 [Github Repository](https://github.com/ceedee666/iot-introduction)
 verfügbar.
 
@@ -35,7 +34,8 @@ Auf meinem [YouTube Kanal](https://www.youtube.com/c/christiandrumm) finden Sie 
 [Playlist](https://www.youtube.com/playlist?list=PLl09U8aTDcv0vQ-IPRWS0XJuftaNxViSB)
 mit einigen Videos zur Vorlesung. In diesen Videos zeige ich z.B. wie Sie
 ESPHome auf dem [Mikrocontrollern installieren](https://youtu.be/C-klK8bkEC8)
-können oder wie Sie Daten vom Mikrocontrollern zu den IoT-Stack senden können.
+können oder wie Sie [Daten vom Mikrocontrollern zu den IoT-Stack](https://youtu.be/6pIvFdLZ-2c?si=EXxJlPWdLc2OX6rS)
+senden können.
 
 ## Virtuelle Machine in der Cloud
 
