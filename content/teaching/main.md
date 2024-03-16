@@ -2,17 +2,17 @@
 
 During the summer term 2024 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
-- [Digital Lab](/teaching/lectures/2024/summer_term/digital_lab)
-- [Industrielle Produktion](/teaching/lectures/2024/summer_term/industrielle_produktion)
-- [Informationssysteme](/teaching/lectures/2024/summer_term/informationssysteme)
-- [SAP in der Praxis](/teaching/lectures/2024/summer_term/sap_in_der_praxis)
+- [Digital Lab](/teaching/lectures/2024/summer-term/digital-lab)
+- [Industrielle Produktion](/teaching/lectures/2024/summer-term/industrielle-produktion)
+- [Informationssysteme](/teaching/lectures/2024/summer-term/informationssysteme)
+- [SAP in der Praxis](/teaching/lectures/2024/summer-term/sap-in-der-praxis)
 
-[This site](/teaching/lectures/previous_lectures) contains a list of lectures I taught
+[This site](/teaching/lectures/previous-lectures) contains a list of lectures I taught
 during the previous terms.
 
 ## Learning Agreement 🤝
 
-All my lectures are based on this [learning agreement](/teaching/learning_agreement).
+All my lectures are based on this [learning agreement](/teaching/learning-agreement).
 
 ## Bachelor and Master Thesis 🎓
 
