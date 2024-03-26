@@ -10,10 +10,10 @@ During the summer term 2024 I teach the following lectures at [FH Aachen](https:
 [This site](/teaching/lectures/previous-lectures) contains a list of lectures I taught
 during the previous terms.
 
-## Common Rules §§
+## Common Rules §
 
-All my lectures are based on this [learning agreement](/teaching/learning-agreement).
-Additional the [rules for tools](/teaching/rules-for-tools) describe which tools
+All my lectures are based on this [learning agreement 🤝](/teaching/learning-agreement).
+Additional the [rules for tools 🛠️](/teaching/rules-for-tools) describe which tools
 my be used in my lectures.
 
 ## Bachelor and Master Thesis 🎓
