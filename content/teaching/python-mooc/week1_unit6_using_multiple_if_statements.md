@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![Using multiple if statements](https://img.youtube.com/vi/D4MOdpW0sHQ/hqdefault.jpg)](https://youtu.be/D4MOdpW0sHQ)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/ro9185NUVN4nAAMXD5vwx/openSAP_python1_Week_1_Unit_6_multifstate_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_1_Unit_6_multifstate_notebook.ipynb)
 
 ___
 

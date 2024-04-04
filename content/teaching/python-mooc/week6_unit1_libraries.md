@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![What are libraries?](https://img.youtube.com/vi/BJH6fY4GkBE/hqdefault.jpg)](https://youtu.be/BJH6fY4GkBE)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/1Ssj35JPIFt4PoOqLP7H36/openSAP_python1_Week_6_Unit_1_libraries_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](Week_6_Unit_1_libraries_notebook.ipynb)
 
 ---
 

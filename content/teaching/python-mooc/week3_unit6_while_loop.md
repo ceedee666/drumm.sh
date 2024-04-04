@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![While loop](https://img.youtube.com/vi/71lRKcrKP-Y/hqdefault.jpg)](https://youtu.be/71lRKcrKP-Y)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/3puhJPnOWv1SzTKd2ZDJVn/openSAP_python1_Week_3_Unit_6_while_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_3_Unit_6_while_notebook.ipynb)
 
 ---
 

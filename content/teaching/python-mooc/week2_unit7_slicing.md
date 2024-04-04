@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![Slicing](https://img.youtube.com/vi/qxtPLMDVEeQ/hqdefault.jpg)](https://youtu.be/qxtPLMDVEeQ)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/8NElNRKsHsOcFMjeKRcQQ/openSAP_python1_Week_2_Unit_7_slicing_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_2_Unit_7_slicing_notebook.ipynb)
 
 ---
 

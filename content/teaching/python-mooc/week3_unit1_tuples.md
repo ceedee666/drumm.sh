@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![What are tuples?](https://img.youtube.com/vi/szNgmVOBayg/hqdefault.jpg)](https://youtu.be/szNgmVOBayg)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/2bpkJBGzV8LDAF6tKBSV3d/openSAP_python1_Week_3_Unit_1_tuples_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_3_Unit_1_tuples_notebook.ipynb)
 
 ---
 

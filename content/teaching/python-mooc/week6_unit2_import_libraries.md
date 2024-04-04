@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![Importing libraries](https://img.youtube.com/vi/ZusnPbkz7UE/hqdefault.jpg)](https://youtu.be/ZusnPbkz7UE)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-video.s3.openhpicloud.de/videos/2FwzwC0rZhLsZtjVzZBw7l/rtfiles/4Xp7HbwvnWOfuygG4dXmBh/openSAP_python1_Week_6_Unit_2_importlibraries_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_6_Unit_2_importlibraries_notebook.ipynb)
 
 ---
 

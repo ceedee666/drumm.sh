@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![Iterating using the for loop](https://img.youtube.com/vi/qAJqjz8WFgE/hqdefault.jpg)](https://youtu.be/qAJqjz8WFgE)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/5vH3McjFYErYhduE77dnTf/openSAP_python1_Week_2_Unit_4_theforloop_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_2_Unit_4_theforloop_notebook.ipynb)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![Creating complex logical expressions](https://img.youtube.com/vi/2aWR7otJWq4/hqdefault.jpg)](https://youtu.be/2aWR7otJWq4)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/3Y6xPvxgQD5TToW5Kwrj1O/openSAP_python1_Week_1_Unit_7_express_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_1_Unit_7_express_notebook.ipynb)
 
 ---
 

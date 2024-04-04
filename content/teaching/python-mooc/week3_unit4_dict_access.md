@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![Safe dictionary access](https://img.youtube.com/vi/-TQmDEf9R8Y/hqdefault.jpg)](https://youtu.be/-TQmDEf9R8Y)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/7e4XxHPo2tWpo2ItgwmKNC/openSAP_python1_Week_3_Unit_4_safedict_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_3_Unit_4_safedict_notebook.ipynb)
 
 ---
 
