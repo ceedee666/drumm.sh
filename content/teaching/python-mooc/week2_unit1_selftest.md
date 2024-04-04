@@ -13,25 +13,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>[1, 2, 3, 1, 2, 3] </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Invalid statements; this leads to an error!</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[1, 2, 3]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[1, 1, 2, 2, 3, 3]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
@@ -47,25 +47,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>"False"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>5</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>False</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>No</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
@@ -81,25 +81,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>[1, 3, 5] </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[1, 3, 5, 1, 3, 5]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[1, 3, 5, 1] </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>[1, 1, 3, 5] </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 ---

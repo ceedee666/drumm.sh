@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Calculations of times are complex, as systems of 60 (minutes, seconds), 12 and 24 (hours), and 100 (milliseconds) are mixed.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Due to the relativity of time, time is hard to measure. </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Dates are full of exceptions, like leap years or months of different length.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Calculations with days are difficult because other units of times based on the number of days like week (7 days) or month (28 to 31 days) do not fit to each other. </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Due to different time zones, the calculation of time depends on where the computer is located.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 ---

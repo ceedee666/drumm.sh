@@ -13,25 +13,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>2.25</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>2</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>2.0</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>1</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -44,25 +44,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>10</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>5</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>(5, 10)</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>15</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -75,31 +75,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>2.0 + 3</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>9 ** 0.5</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>2 // 3</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>2 / 3</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>2 % 3</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -112,25 +112,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>12 34</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>"12", "34"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>1234</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>46</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -143,25 +143,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>"1234"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>"1230"</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>"127"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>"123"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -174,25 +174,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Whiskey</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Milk</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Beer</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Cola</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -209,31 +209,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>17</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>18</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>14</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>16</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>15</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -248,31 +248,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Lists can contain elements of all data types. That means there can be lists of integers or list of strings.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Lists can be multiplied with integers. The result is again a list.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>All elements within a list must have the same data type.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The keyword "in" is used to check if a given element is part of a list.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The elements of a list are separated by semicolons ";".</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -285,25 +285,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>[1, 3, 5, 2, 4, 6]</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>[[1, 3, 5], [2, 4, 6]]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[1, 2, 3, 4, 5, 6]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[3, 7, 11]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -316,25 +316,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>[1, 1, 1, 2, 3]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[1, 1, 3]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[1, 1, 1, 2, 2, 3]</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>[1, 1, 2, 2, 2, 3]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -347,25 +347,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>9</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>1</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>4</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>7</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -378,25 +378,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>2, 4, 6, 8</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>1, 3, 5, 7, 9, 11, 13, 15</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>1, 3, 5, 7, 9</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>1, 3, 5, 7</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -409,25 +409,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>[4, 2, 0]</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>[0, 2, 4]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[3, 1]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[6, 4, 2, 0]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -446,19 +446,19 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Error</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Potter</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>1980</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -471,25 +471,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>As the key is already available, this code runs into an error.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The key-value pair  " "Peter" : 234 "  is added to the dictionary.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The key-value pair  " "Peter" : 123 "  is replaced by  " "Peter " : 234 "</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>As the key is already available, the dictionary is unchanged.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -502,25 +502,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Variable "a" contains the value  " "Hermione" "</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Variable "a" contains the value  " "Harry" "</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Index Error</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Key Error</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -535,31 +535,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>while loops can end up in infinite loops.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>while loops should be preferred over for loops.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>If the iteration is to be done over a sequence, for loops are preferred. If it is not clear how many iterations are required, then a while loop is (often) the better choice.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>while loops execute the while block (that is, the conditional statements belonging to the loop) at least once.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The while block (that is, the conditional statements belonging to the loop) must contain at least one statement.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -572,25 +572,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>65</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>54</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>66</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>55</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -605,31 +605,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>In mode "r", the file must exist. If an attempt is made to access a file that is not available, the FileNotFoundError is triggered.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>In mode "r+", it is possible to read data from a file, but also to write data to the file.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>If data is written to a file that is opened in mode "r", an error is triggered.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>A file opened in mode "r+" has first to be read. In a second step, data can be written to the file. A file opened in mode "w+" must first have data written to the file before data can be read.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>In mode "w+", an existing file will be opened.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -644,31 +644,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>It is possible to read the complete file into a list in one go, without a for loop, using the method ".readlines()"</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Files are organized sequentially, therefore a for loop can be used to iterate over the lines of a file. </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>As files are organized sequentially, they can easily be converted into a list, as a list is a sequence type as well.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>If a file is read with ".readlines()", it is not necessary to close it at the end of the program.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>If a file is read from the beginning to the end, the read cursor is automatically positioned at the beginning of the file again.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -683,31 +683,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>It is possible to add additional information into the braces, which supports the alignment of the output.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>To indicate that a string should be treated as an f-string, an "f" simply has to be placed before the string.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>When using an f-string, curly braces "{ }" can be used. Variables or function calls can be placed within these braces.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Using f-strings, the programmer has the opportunity to specify the layout. For example, the output could be in different colors, or bold, or italic.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>f-strings have been available in Python since version 3.0.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -720,25 +720,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>['Yesterday,', 'Let', 'it', 'be,', 'Help,', 'Something']</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>"Yesterday, Let it be, Help, Something"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>"Yesterday", " Let it be", " Help", " Something"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>['Yesterday', 'Let it be', 'Help', 'Something']</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -753,30 +753,30 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>.strip()</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>.isdecimal()</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>int()</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>for</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <details>
 	<summary>print()</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -791,31 +791,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>The definition of a function always starts with the keyword "def".</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Functions can have none, one or more input parameters.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>A function must have a return value.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The function body can consist of zero, one, or many statements.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The docstring is a mandatory part of the function.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -828,25 +828,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>None</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Error</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>9</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>7</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -859,25 +859,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary><img src=imgs/finalexam_f26.1.png width="28"></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/finalexam_f26.2.png width="28"></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/finalexam_f26.3.png width="28"></summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary><img src=imgs/finalexam_f26.4.png width="28"></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -890,25 +890,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary><img src=imgs/finalexam_f27.1.png width="100"></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/finalexam_f27.2.png width="100"></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/finalexam_f27.3.png width="100"></summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary><img src=imgs/finalexam_f27.4.png width="100"></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -921,25 +921,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary><img src=imgs/finalexam_f28.1.png width="35"></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/finalexam_f28.2.png width="35"></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/finalexam_f28.3.png width="35"></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/finalexam_f28.4.png width="35"></summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -952,25 +952,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>8</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>25</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>9</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>16</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -983,31 +983,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Methods can be used together with the corresponding object or without the object.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Methods and functions are synonyms. Their meaning is exactly the same.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Methods are related to object-oriented programming; functions are related to procedural programming.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Methods are invoked by calling "objectname.methodname". Important: The method must be defined for the corresponding object.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Methods can have input parameters and return values.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

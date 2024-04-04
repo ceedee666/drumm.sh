@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>"import hot_function from cool_lib"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>"from cool_lib import hot_function"</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>"import cool_lib"</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>"from cool_lib import hot_function as hf"</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>"import cool_lib as cl"</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

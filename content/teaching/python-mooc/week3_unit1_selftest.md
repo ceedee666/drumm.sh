@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>All elements of a tuple must have the same data type.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Tuples can be changed, for example, a new element can be added to a tuple.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The elements of a tuple are separated by semicolons.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Tuples are immutable, in other words, they are not changeable.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Tuples can contain several elements.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
@@ -55,25 +55,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Error</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>101</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>(101)</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Oxford Street</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

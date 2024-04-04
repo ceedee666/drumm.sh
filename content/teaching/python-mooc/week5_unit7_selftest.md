@@ -13,25 +13,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>1</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>(1)</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Error</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>2</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -44,25 +44,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>1</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>(2, 3, 4, 5)</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>(1, 2)</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>2</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

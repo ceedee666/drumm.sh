@@ -13,25 +13,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>66</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>55</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>1</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>54</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
@@ -47,25 +47,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>65</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>54</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>11</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>55</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

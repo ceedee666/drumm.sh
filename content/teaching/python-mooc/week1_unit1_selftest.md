@@ -9,61 +9,61 @@ tags: ["FH Aachen", "Thesis"]
 
 #### What are advantages of choosing Python for programming?
 
-*There are 3 correct answers to this question.*
+_There are 3 correct answers to this question._
 
 <br>
 
 <details>
 	<summary>Python is easy to learn.</summary>
-	<img  src="imgs/check.png" width="25">
+    ✅
 </details>
 
 <details>
 	<summary>Python is used in industry, for example in the field of machine learning.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <details>
 	<summary>Learning Python is the first step to speaking Parseltongue.</summary>
-	<img  src="imgs/cross.png" width="25">
+    ❌
 </details>
 
 <details>
 	<summary>Python is popular, so you can find lots of information about it on the Internet.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <details>
 	<summary>Python reduces complexity by not supporting object orientation.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br><br>
 
 ### Question 2
 
-#### What is the result of the following operation ```9 / 4```?
+#### What is the result of the following operation `9 / 4`?
 
 <br>
 
 <details>
 	<summary>2</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <details>
 	<summary>2.5</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <details>
 	<summary>2.0</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <details>
 	<summary>2.25</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

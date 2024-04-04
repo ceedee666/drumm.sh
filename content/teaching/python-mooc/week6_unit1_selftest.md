@@ -13,25 +13,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Microsoft Office 2013</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The Large Hadron Collider</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Space Shuttle </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Average high-end car</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

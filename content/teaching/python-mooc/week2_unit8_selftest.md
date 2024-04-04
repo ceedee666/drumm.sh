@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>List comprehension is a compact way to specify a list. Alternatively, the list could be constructed with a for loop, for example. </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Using list comprehension, it is possible to create new lists.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Using list comprehension, it is possible to filter an existing list.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>As list comprehension creates a new list, it is written in parenthesis "( )".</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>List comprehension can only be done if the sequence the list comprehension is based on consists only of integers.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -52,25 +52,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>[0, 1, 2, 3, 4]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[2, 4, 6, 8]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[0, 2, 4, 6, 8] </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>[0, 2, 4, 6, 8, 10] </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 ---

@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Within dictionaries, you can access the elements by index and by key.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Dictionaries are immutable. </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>It is possible to add and delete key-value pairs from a dictionary.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>A tuple can be a key within a dictionary. A list cannot be a key of a dictionary.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Within dictionaries, you can access the elements by key only. </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>

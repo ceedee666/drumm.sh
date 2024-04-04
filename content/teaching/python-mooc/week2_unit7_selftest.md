@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>The following slice looks strange but is syntactically correct: "test_list[::]"</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>A slice of a list can return a single element of the list.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>A slice of a list can contain more elements than the original list.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>It is possible to create slices of strings.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>A slice of a list can return a sub-list containing a single element of the original list.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -52,25 +52,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>[2, 3, 4, 5, 6] </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[1, 2, 3, 4, 5]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[2, 3, 4, 5]</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>[2, 6]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 ---

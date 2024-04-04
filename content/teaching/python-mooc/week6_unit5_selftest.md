@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>"pip" can only be executed by a system administrator</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>"pip" downloads the packages from Google's Play Store</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>"pip" ensures the consistency of all installed packages. If, for example, you want to install library A which requires library B, then B is automatically installed as well.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The "pip" command is usually executed in the cmd-shell or in a terminal.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>"pip" is an abbreviation for "Pip installs packages�</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

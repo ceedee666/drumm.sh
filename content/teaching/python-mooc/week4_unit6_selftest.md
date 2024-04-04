@@ -13,25 +13,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>The World Is Great</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The world is great</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>THE WORLD IS GREAT</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>the world is great</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -44,25 +44,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>['Yesterday', 'Let It Be', 'Help', 'Something']</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>"YESTERDAY", "LET IT BE", "HELP", "SOMETHING"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>['YESTERDAY'; 'LET IT BE', 'HELP', 'SOMETHING']</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>AttributeError</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

@@ -15,25 +15,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>"Borussia" "Dortmund"</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>BorussiaDortmund</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Borussia Dortmund</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Borussia, Dortmund</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 ---

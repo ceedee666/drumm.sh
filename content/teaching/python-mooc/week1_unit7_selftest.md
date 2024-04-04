@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>x is divisible by 5 or 7</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>x is divisible by either 5 or 7 (but not both)</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>x is divisible by 5 and divisible by 7</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>x is divisible by neither 5 nor 7</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>if x is equal to 105, then the expression is True </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -52,25 +52,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Undefined</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Depends on the value of a</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>True</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>False</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 ---

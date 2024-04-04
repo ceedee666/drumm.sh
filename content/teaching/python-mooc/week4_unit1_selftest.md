@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>It is possible to write into files and read from files.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Usually a file has an extension like .docx or .xlsx. In Python, you can only work with files that have the extension .py.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Files are necessary to speed up a program.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Most files store the data sequentially.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Files are used to store data persistently.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>

@@ -13,25 +13,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Week 4 Unit 5 Question 1</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Week 4, Unit 5, Question 1</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Week 4<br> Unit 5 <br>Question 1</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Week 4</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -46,31 +46,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>The default value for "sep" is the tab "\t". </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Expressions within a "print()" are first calculated. The result is then given as output.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>"print()" can take several parameters to be output. These parameters can be of different data types.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The two parameters "sep" and "end" have default parameters, so it is not necessary to specify these parameters explicitly.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>It is not possible to put the result of two subsequent "print()" statements into one line.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>

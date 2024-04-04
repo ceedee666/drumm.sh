@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>The method ".count()" can be used for tuples, lists, and dictionaries.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The method ".sort()" cannot be used for tuples, because tuples are immutable.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The function "len()" can be used for tuples, lists, and dictionaries.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>"del" cannot be used for items of a tuple, because tuples are immutable.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>You cannot use the method ".append()" for dictionaries, because dictionaries are immutable. </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 ---

@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>If there are many attributes to describe a complex object and these attributes vary from object to object (in other words, each object has slightly different attributes), then tuples are a good choice.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>If you have data about students and each data set for a student is structured in the same way (e.g. name, firstname, e-mail), then a list of tuples can be used to handle this data.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>A dictionary should be chosen if there is a natural key like a student-ID or a unique number.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The data type for complex data should be carefully chosen, as this decision has an impact on the implementation of the program.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>Tuples of lists is an often used pattern in programming.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -52,25 +52,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Harry</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Hermione</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Key error</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Index error</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

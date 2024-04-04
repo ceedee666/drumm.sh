@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Input parameters to functions must be of the primitive data type.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Functions in Python can have zero, one, or several parameters. </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The data type of the parameters must be declared in the definition statement of the function. </summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The number of return values does not depend on the number of input parameters.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The naming rules for parameters are the same as the naming rules for variables.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -52,25 +52,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary><img src=imgs/week5_unit3_f2.1.png></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/week5_unit3_f2.2.png></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/week5_unit3_f2.3.png></summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary><img src=imgs/week5_unit3_f2.4.png></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 ---

@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>bool(int("0"))</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>bool(0)</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>bool(2-2)</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>bool(1) </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>bool("False") </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -56,31 +56,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>The program is unable to handle negative numbers.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>It would be better if the program would check for the birthdate.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>The answer "eighteen" would lead to problems.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>If the user enters not only digits, the program will run into an error.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The age of the user is not double checked, so there is no mechanism against cheating.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 <br>
@@ -93,25 +93,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Python is the very best programming language</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Error</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>PYTHON IS THE VERY BEST PROGRAMMING LANGUAGE</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>PYTHON IS THE BEST PROGRAMMING LANGUAGE</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

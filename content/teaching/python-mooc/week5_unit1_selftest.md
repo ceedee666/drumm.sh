@@ -15,31 +15,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>In programming, functions are used to speed up the execution of the program.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>In programming, functions are used to make programs more user-friendly.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>In programming, functions are used to reuse functionality.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>In programming, functions are used to structure a program. </summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>In programming, functions are used to increase the readability and maintainability of programs.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

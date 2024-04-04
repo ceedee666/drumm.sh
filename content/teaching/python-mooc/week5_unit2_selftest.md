@@ -13,25 +13,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary><img src=imgs/week5_unit2_f1.1.png></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/week5_unit2_f1.2.png></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/week5_unit2_f1.3.png></summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary><img src=imgs/week5_unit2_f1.4.png></summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---

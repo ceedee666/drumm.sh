@@ -13,31 +13,31 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>Lists have negative indices.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The last element of a list always has the index "-0."</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>Individual elements of a list can be accessed using an index.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
 <details>
 	<summary>The index of a list element is always equal to the value of the element.</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>If a list contains 5 elements, the index of the last element has the value 4.</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 <br>
@@ -50,25 +50,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>1</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>3</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>4</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>2</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 
@@ -84,25 +84,25 @@ tags: ["FH Aachen", "Thesis"]
 
 <details>
 	<summary>[1, 2, 3]</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>4</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>2</summary>
-	<img  src="imgs/cross.png" width="25">
+	❌
 </details>
 
 
 <details>
 	<summary>[4, 5, 6, 7]</summary>
-	<img  src="imgs/check.png" width="25">
+	✅
 </details>
 
 ---
