@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Welcome to Week 5
+---
+title: "Welcome to Week 5"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Dear learners,
 
@@ -14,14 +17,7 @@ Welcome to week 5. This week, the topic is Functions. Here are the units you can
 + Unit 6: Methods vs. functions
 + Unit 7: Destructuring assignment
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 5 Unit 1: Why are functions necessary?*](week5_unit1_why_functions.md)
-
-[***Return*** <br> *Week 4 Additional Learning Material*](week4_additional_material.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week5_unit1_why_functions) | [Next unit >](/teaching/python-mooc/week4_additional_material) |
+[Course Overview](/teaching/python-mooc)

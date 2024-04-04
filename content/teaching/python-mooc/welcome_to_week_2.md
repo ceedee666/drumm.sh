@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Welcome to Week 2
+---
+title: "Welcome to Week 2"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Dear learners,
 
@@ -17,14 +20,7 @@ The topic for this week is Lists and Loops. Here are the units you can look forw
 + Unit 7: Slicing
 + Unit 8: List comprehension
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 2 Unit 1: What are lists in Python?*](week2_unit1_lists_in_python.md)
-
-[***Return*** <br> *Week 1 Additional Learning Material*](week1_additional_material.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week2_unit1_lists_in_python) | [Next unit >](/teaching/python-mooc/week1_additional_material) |
+[Course Overview](/teaching/python-mooc)

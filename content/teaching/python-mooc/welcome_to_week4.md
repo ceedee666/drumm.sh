@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Welcome to Week 4
+---
+title: "Welcome to Week 4"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Dear learners,
 
@@ -13,14 +16,7 @@ Welcome to week 4! We hope you’ve learned a lot so far. We’re continuing this we
 + Unit 5: Formatting output
 + Unit 6: String methods
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 4 Unit 1: Motivation and definition*](week4_unit1_motivation.md)
-
-[***Return*** <br> *Week 3 Additional Learning Material*](week3_additional_material.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week4_unit1_motivation) | [Next unit >](/teaching/python-mooc/week3_additional_material) |
+[Course Overview](/teaching/python-mooc)

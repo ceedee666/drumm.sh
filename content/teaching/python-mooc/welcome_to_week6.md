@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Welcome to Week 6
+---
+title: "Welcome to Week 6"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Dear learners,
 
@@ -14,12 +17,7 @@ Welcome to week 6. This is the final week, and the topic we’ll be covering is Li
 + Unit 6: Examples of non-standard libraries
 + Unit 7: Course summary
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 6 Unit 1: What are libraries?*](week6_unit1_libraries.md)
-
-[***Return*** <br> *Week 5 Additional Learning Material*](week5_additional_material.md)
-
-<br>[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week6_unit1_libraries) | [Next unit >](/teaching/python-mooc/week5_additional_material) |
+[Course Overview](/teaching/python-mooc)

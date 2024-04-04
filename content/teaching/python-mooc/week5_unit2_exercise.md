@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 5 Unit 2: Exercise
+---
+title: "Week 5 Unit 2: Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Implement a function named ```get_student_data()```. The function should do the following:
 
@@ -10,14 +13,7 @@ Implement a function named ```get_student_data()```. The function should do the 
 
 The function ```get_student_data()``` is then called in the program, the return value is assigned to a variable. Finally, output the variable using ```print()```.
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 5 Unit 3: Adding parameters to functions*](week5_unit3_adding_parameters.md)
-
-[***Return*** <br> *Week 5 Unit 2: Self-test*](week5_unit2_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week5_unit3_adding_parameters) | [Next unit >](/teaching/python-mooc/week5_unit2_selftest) |
+[Course Overview](/teaching/python-mooc)

@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 6 Unit 6: Self-test
+---
+title: "Week 6 Unit 6: Self-test"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Question 1
 
@@ -39,13 +42,7 @@
 	
 </details>
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 6 Unit 7: Course summary*](week6_unit7_summary.md)
-
-[***Return*** <br> *Week 6 Unit 6: Examples of non-standard libraries*](week6_unit6_example_libraries.md)
-
-
-<br>[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week6_unit7_summary) | [Next unit >](/teaching/python-mooc/week6_unit6_example_libraries) |
+[Course Overview](/teaching/python-mooc)
