@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![String methods](https://img.youtube.com/vi/6rOWBMQJpgk/hqdefault.jpg)](https://youtu.be/6rOWBMQJpgk)
 
-[**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/rMWgnuzheK0Pyn4ICs905/openSAP_python1_Week_4_Unit_6_stringmethods_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_4_Unit_6_stringmethods_notebook.ipynb)
 
 ---
 

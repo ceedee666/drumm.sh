@@ -5,7 +5,7 @@ published: true
 tags: ["FH Aachen", "Thesis"]
 ---
 
-The file [numbers.txt](numbers.txt) contains random integer numbers. There is exactly one number per line. Read the file and output the three biggest numbers in the following form:
+The file [numbers.txt](files/numbers.txt) contains random integer numbers. There is exactly one number per line. Read the file and output the three biggest numbers in the following form:
 
 ```
 2345

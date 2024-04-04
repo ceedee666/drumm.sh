@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![First steps in Python](https://img.youtube.com/vi/Us6Y3uuw3-A/hqdefault.jpg)](https://youtu.be/Us6Y3uuw3-A)
 
-[**Dowload Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/2s34oHOMVO1plGpsGwSXUe/openSAP_python1_Week_1_Unit_1_firststeps_notebook.ipynb)
+[**Dowload Jupyter Notebook for this unit**](files/Week_1_Unit_1_firststeps_notebook.ipynb)
 
 ---
 

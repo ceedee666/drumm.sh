@@ -5,7 +5,7 @@ published: true
 tags: ["FH Aachen", "Thesis"]
 ---
 
-The file [invoice_data.txt](invoice_data.txt) contains raw data for an invoice. More precisely, each line contains
+The file [invoice_data.txt](files/invoice_data.txt) contains raw data for an invoice. More precisely, each line contains
 
 + the name of an item
 + how many items are bought

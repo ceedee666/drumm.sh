@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 [![What is a data type?](https://img.youtube.com/vi/Uj02KfElMD0/hqdefault.jpg)](https://youtu.be/Uj02KfElMD0)
 
-[Download Jupyter Notebook for this unit](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/36mngjwjukpl6OnlbSNiT3/openSAP_python1_Week_1_Unit_4_datatype_notebook.ipynb)
+[Download Jupyter Notebook for this unit](files/Week_1_Unit_4_datatype_notebook.ipynb)
 
 ---
 
