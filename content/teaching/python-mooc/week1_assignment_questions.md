@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 1 Assignment (Part 1 - Questions)
+---
+title: "Week 1 Assignment (Part 1 - Questions)"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Question 1
 
@@ -360,15 +363,7 @@
 
 
 
-
-<br>
-
 ---
 
-[***Continue*** <br> *Week 1 Assignment (Part 2 - Exercise)*](week1_assignment_exercise.md)
-
-[***Return*** <br> *Week 1 Unit 7: Self-test*](week1_unit7_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week1_assignment_exercise) | [Next unit >](/teaching/python-mooc/week1_unit7_selftest) |
+[Course Overview](/teaching/python-mooc)
