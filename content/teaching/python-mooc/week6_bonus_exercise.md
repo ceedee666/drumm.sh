@@ -1,16 +1,19 @@
-﻿# Python for Beginners
-
-## Week 6 Bonus Exercise
+﻿---
+title: "Week 6 Bonus Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Compute π using a random number generator
 
 The number *π (Pi)* can be calculated using random numbers. Suppose you have a circle with radius 1 which is inscribed in a square with a side length of 2 (see figure below). Then the square has an area of *4 (2 * 2)* and the circle has an area of *π (r = 1, thus π * r² = π)*.
 
-<img src="circle1.png" width="120">
+<img src="imgs/circle1.png" width="120">
 
 If thousands of points are randomly created within the square, then some points are inside the square and inside the circle, others are inside the square and not inside the circle. The situation can be simplified if you just consider the upper right quadrant of the above figure. This square has a side length of 1. Each point within the square can be described by the coordinates *x* and *y* where (*0 < x, y < 1*). If *x² + y² < 1*, then a point specified by (*x, y*) lies within the circle.
 
-<img src="circle2.png" width="120">
+<img src="imgs/circle2.png" width="120">
 
 As the relation between the sizes of circle and square is π/4, the relation between the points in the circle and the points in the square must be π/4 as well. Using this formula, one can now use a random number generator to calculate π.
 
@@ -34,12 +37,7 @@ Difference: -0.0019926535897929476
 
 Can you solve the bonus exercise without a for loop using list comprehension?
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 6 Bonus Exercise Solution*](week6_bonus_exercise_solution.md)
-
-[***Return*** <br> *Week 6 Assignment Solution*](week6_assignment_exercise_solution.md)
-
-<br>[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week6_bonus_exercise_solution) | [Next unit >](/teaching/python-mooc/week6_assignment_exercise_solution) |
+[Course Overview](/teaching/python-mooc)

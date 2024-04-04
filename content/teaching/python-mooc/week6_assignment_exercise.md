@@ -1,6 +1,9 @@
-﻿# Python for Beginners
-
-## Week 6 Assignment (Part 2 - Exercise)
+﻿---
+title: "Week 6 Assignment (Part 2 - Exercise)"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Accessing the Apple iTunes Search Service
 
@@ -52,12 +55,7 @@ Artist: Johnny Cash - Album: The Essential Johnny Cash - Track Count: 36
 Artist: Dave Matthews Band - Album: Crash - Track Count: 12
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 6 Assignment Solution*](week6_assignment_exercise_solution.md)
-
-[***Return*** <br> *Week 6 Assignment (Part 1 - Questions)*](week6_assignment_questions.md)
-
-<br>[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week6_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week6_assignment_questions) |
+[Course Overview](/teaching/python-mooc)

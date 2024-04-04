@@ -1,8 +1,11 @@
-# Python for Beginners
+---
+title: "Week 4 Unit 5: Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
-## Week 4 Unit 5: Exercise 
-
-The file [invoice_data.txt](invoice_data.txt) contains raw data for an invoice. More precisely, each line contains
+The file [invoice_data.txt](files/invoice_data.txt) contains raw data for an invoice. More precisely, each line contains
 
 + the name of an item
 + how many items are bought
@@ -26,14 +29,7 @@ Cherry           2  11.99   23.98
 
 Read the file line by line and create a list of tuples. Each tuple contains the item (```string```), the number of items (```integer```) the price per item (```float```). To identify the individual parts per line, use the method ```.split()```. Prepare an ```f-string``` to output the data as specified.
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 4 Unit 6: String methods*](week4_unit6_string_methods.md)
-
-[***Return*** <br> *Week 4 Unit 5: Self-test*](week4_unit5_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week4_unit6_string_methods) | [Next unit >](/teaching/python-mooc/week4_unit5_selftest) |
+[Course Overview](/teaching/python-mooc)

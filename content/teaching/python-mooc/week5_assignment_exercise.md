@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 5 Assignment (Part 2 - Exercise)
+---
+title: "Week 5 Assignment (Part 2 - Exercise)"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Vignère Cipher
 
@@ -15,7 +18,7 @@ For simplification we assume, that only letters are encrypted and that we only h
 + In the third line the letter from the keyword is replaced by it’s position in the alphabet (a: 0, b: 1, c: 2, … z: 25). As ```r``` is on position 17, there is a 17 in the first position of the third row. This position determines how often the corresponding letter from the clear text has to be shifted.
 + In the fourth line you can see the secret text. The first letter ```p``` from the clear text is shifted 17 times and results in ```g``` (as the end of the alphabet is already reached after 11 shifts, one starts again at the beginning of the alphabet). The second letter ```y``` is shifted 0 times as the ```a``` from ```random``` is at position 0 of the alphabet. Thus, this ```y``` is mapped to ```y```. Important: The blank is not shifted as it is no letter. However the repetition of the keyword in line two is not influenced by that.
 
-```Py
+```
 Clear Text 		p 	y 	t 	h 	o 	n 	  	i 	s 	  	b 	e 	a 	u 	t 	i 	f 	u 	l
 Keyword 		r 	a 	n 	d 	o 	m 	r 	a 	n 	d 	o 	m 	r 	a 	n 	d 	o 	m 	r
 Position 		17 	0 	13 	3 	14 	12 	17 	0 	13 	3 	14 	12 	17 	0 	13 	3 	14 	12 	17
@@ -69,20 +72,13 @@ If you want to test your program, the keywords ```a``` or ```Aaa``` should resul
 
 ### Example
 
-```Py
+```
 Which text should be encrypted: Python is Really Beautiful
 Which keyword should be used? Random
 gygkcz if fqrlyb nvahwwrll
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 5 Assignment Solution*](week5_assignment_exercise_solution.md)
-
-[***Return*** <br> *Week 5 Assignment (Part 1 - Questions)*](week5_assignment_questions.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week5_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week5_assignment_questions) |
+[Course Overview](/teaching/python-mooc)

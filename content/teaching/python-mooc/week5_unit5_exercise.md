@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 5 Unit 5: Exercise
+---
+title: "Week 5 Unit 5: Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 The stopping distance of a car can be calculated using the following [rule of thumb](https://en.wikipedia.org/wiki/Braking_distance#Rules_of_thumb):
 
@@ -18,14 +21,7 @@ The stopping distance of a car can be calculated using the following [rule of th
 
 Get a speed in km/h as input and output the stopping distance in m.
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 5 Unit 6: Methods vs. functions*](week5_unit6_methods_vs_functions.md)
-
-[***Return*** <br> *Week 5 Unit 5: Self-test*](week5_unit5_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week5_unit6_methods_vs_functions) | [Next unit >](/teaching/python-mooc/week5_unit5_selftest) |
+[Course Overview](/teaching/python-mooc)
