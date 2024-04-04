@@ -33,3 +33,8 @@ part of my lectures at [FH Aachen](https://www.fh-aachen.de).
 
 The [Wall of Fame](/teaching/wall-of-fame) honors the top students each
 semester for their outstanding achievements.
+
+## Python for Beginners MOOC 🐍
+
+An archived version of the Python for Beginners MOOC can be found
+[here](/teaching/python-mooc).
