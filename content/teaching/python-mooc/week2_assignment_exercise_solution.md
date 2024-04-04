@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 2 Assignment Solution
+---
+title: "Week 2 Assignment Solution"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 [![Solution Assignment](https://img.youtube.com/vi/5nQDiScePl0/hqdefault.jpg)](https://youtu.be/5nQDiScePl0)
 
@@ -12,10 +15,5 @@
 
 ---
 
-[***Continue*** <br> *Week 2 Bonus Exercise*](week2_bonus_exercise.md)
-
-[***Return*** <br> *Week 2 Assignment (Part 2 - Exercise)*](week2_assignment_exercise.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week2_bonus_exercise) | [Next unit >](/teaching/python-mooc/week2_assignment_exercise) |
+[Course Overview](/teaching/python-mooc)

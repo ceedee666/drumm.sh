@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 4 Assignment (Part 2 - Exercise)
+---
+title: "Week 4 Assignment (Part 2 - Exercise)"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 There is a file [secret.txt](secret.txt), which contains one character per line. There is a second file [key.txt](key.txt), which contains two lines with one number per line (the number could have several digits). The first number ```col``` represents the number of columns of a grid, the second number ```row``` represents the number of rows of the grid.
 
@@ -47,14 +50,7 @@ then the content in the file public.txt should be as follows:
 .#.
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 4 Assignment Solution*](week4_assignment_exercise_solution.md)
-
-[***Return*** <br> *Week 4 Assignment (Part 1 - Questions)*](week4_assignment_questions.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week4_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week4_assignment_questions) |
+[Course Overview](/teaching/python-mooc)

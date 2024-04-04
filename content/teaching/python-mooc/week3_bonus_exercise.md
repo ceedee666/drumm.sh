@@ -1,6 +1,9 @@
-﻿# Python for Beginners
-
-## Week 3 Bonus Exercise
+﻿---
+title: "Week 3 Bonus Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 The bonus exercise builds upon the assignment of this week. Here is the description of this weeks exercise again:
 
@@ -80,14 +83,7 @@ is:
 test
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 3 Bonus Exercise Solution*](week3_bonus_exercise_solution.md)
-
-[***Return*** <br> *Week 3 Assignment Solution*](week3_assignment_exercise_solution.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week3_bonus_exercise_solution) | [Next unit >](/teaching/python-mooc/week3_assignment_exercise_solution) |
+[Course Overview](/teaching/python-mooc)

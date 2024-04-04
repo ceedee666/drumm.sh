@@ -1,6 +1,9 @@
-﻿# Python for Beginners
-
-## Week 3 Unit 2: Exercise
+﻿---
+title: "Week 3 Unit 2: Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 One of the nice features of Python is that it supports Unicode. Therefore it is possible to use emojis just like other characters in strings. In this exercise you will use this feature to build an emoji translator.
 
@@ -66,14 +69,7 @@ is
 
 You should also be careful about spaces in the resulting sentence.
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 3 Unit 3: When to use lists, dictionaries, and tuples*](week3_unit3_list_dict_tuples.md)
-
-[***Return*** <br> *Week 3 Unit 2: Self-test*](week3_unit2_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week3_unit3_list_dict_tuples) | [Next unit >](/teaching/python-mooc/week3_unit2_selftest) |
+[Course Overview](/teaching/python-mooc)

@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 4 Bonus Exercise
+---
+title: "Week 4 Bonus Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 You probably know the game [“Rock, Paper, Scissors”](https://en.wikipedia.org/wiki/Rock_paper_scissors). A game for two players. Each player has three options, namely rock, paper, scissors, which are formed by the player’s hand. The rules are quite easy:
 
@@ -24,14 +27,7 @@ Draws: 29
 
 The sum should always be 100.
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 4 Bonus Exercise Solution*](week4_bonus_exercise_solution.md)
-
-[***Return*** <br> *Week 4 Assignment Solution*](week4_assignment_exercise_solution.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week4_bonus_exercise_solution) | [Next unit >](/teaching/python-mooc/week4_assignment_exercise_solution) |
+[Course Overview](/teaching/python-mooc)

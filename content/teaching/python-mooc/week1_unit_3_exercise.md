@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 1 Unit 3: Exercise
+---
+title: "Week 1 Unit 3: Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Write a Python program that asks the user to enter:
 
@@ -21,14 +24,7 @@ Please enter a means of transportation: Train
 Christian wants to travel from Aachen to Berlin by Train
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 1 Unit 4: What is a data type?*](week1_unit4_what_is_a_data_type.md)
-
-[***Return*** <br> *Week 1 Unit 3: Self-test*](week1_unit3_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week1_unit4_what_is_a_data_type) | [Next unit >](/teaching/python-mooc/week1_unit4_what_is_a_data_type) |
+[Course Overview](/teaching/python-mooc)

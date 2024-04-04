@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 2 Unit 2: Exercise
+---
+title: "Week 2 Unit 2: Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Below you find a code snippet to create a Python list containing the titles of all [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) movies. The list contains:
 
@@ -21,14 +24,7 @@ star_wars_movies = [
 
 Write a program that asks the user for a number of the trilogy (1, 2 or 3) and the number of the film in this trilogy (1, 2 or 3). Print the title of the film corresponding to the user selection.
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 2 Unit 3: Important functions and methods for lists*](week2_unit3_important_functions.md)
-
-[***Return*** <br> *Week 2 Unit 2: Self-test*](week2_unit2_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week2_unit3_important_functions) | [Next unit >](/teaching/python-mooc/week2_unit2_selftest) |
+[Course Overview](/teaching/python-mooc)
