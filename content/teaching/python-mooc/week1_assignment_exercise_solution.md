@@ -11,5 +11,4 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_bonus_exercise) | [Next unit >](/teaching/python-mooc/week1_assignment_exercise) |
-[Course Overview](/teaching/python-mooc)
+[< Previous unit](/teaching/python-mooc/week1_bonus_exercise) | [Next unit >](/teaching/python-mooc/week1_assignment_exercise) | [Course Overview](/teaching/python-mooc)
