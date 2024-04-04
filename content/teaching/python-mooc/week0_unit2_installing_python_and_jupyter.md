@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 To participate in this course, you need to install Python and Jupyter Notebook.
 
-Because computers are configured in many different ways (hardware, operating system, already installed software, â€¦) it is not possible to explain in detail how Python and Jupyter Notebook are best installed on YOUR computer. However, we can explain which steps to go through and provide links to sources, which explain in more detail how to install the software, for example, based on the operating system you use.
+Because computers are configured in many different ways (hardware, operating system, already installed software, …) it is not possible to explain in detail how Python and Jupyter Notebook are best installed on YOUR computer. However, we can explain which steps to go through and provide links to sources, which explain in more detail how to install the software, for example, based on the operating system you use.
 
 We recommend you use the "pure" Python and the "pure" Jupyter Notebook. This involves two main installation steps. However, there are alternatives, like installing Anaconda, which installs both Python and Jupyter Notebook (and lots more) in one step.
 

@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 5 Assignment (Part 2 - Exercise)
+---
+title: "Week 5 Assignment (Part 2 - Exercise)"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Vignère Cipher
 
@@ -75,14 +78,7 @@ Which keyword should be used? Random
 gygkcz if fqrlyb nvahwwrll
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 5 Assignment Solution*](week5_assignment_exercise_solution.md)
-
-[***Return*** <br> *Week 5 Assignment (Part 1 - Questions)*](week5_assignment_questions.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week5_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week5_assignment_questions) |
+[Course Overview](/teaching/python-mooc)

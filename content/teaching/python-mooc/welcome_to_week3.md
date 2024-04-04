@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Welcome to Week 3
+---
+title: "Welcome to Week 3"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Dear learners,
 
@@ -13,15 +16,7 @@ It’s week 3 already! The topic for this week is Complex Data Types. Here are the
 + Unit 5: Important functions and methods for complex data types
 + Unit 6: While loop
 
-
-<br>
-
 ---
 
-[***Continue*** <br> *Week 2 Unit 1: What are tuples?*](week3_unit1_tuples.md)
-
-[***Return*** <br> *Week 2: Additional Learning Material*](week2_additional_material.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week3_unit1_tuples) | [Next unit >](/teaching/python-mooc/week2_additional_material) |
+[Course Overview](/teaching/python-mooc)

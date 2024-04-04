@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 3 Unit 1: Self-test
+---
+title: "Week 3 Unit 1: Self-test"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Question 1
 
@@ -12,31 +15,31 @@
 
 <details>
 	<summary>All elements of a tuple must have the same data type.</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>Tuples can be changed, for example, a new element can be added to a tuple.</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>The elements of a tuple are separated by semicolons.</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>Tuples are immutable, in other words, they are not changeable.</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
 
 
 <details>
 	<summary>Tuples can contain several elements.</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
 
 
@@ -52,38 +55,28 @@
 
 <details>
 	<summary>Error</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>101</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>(101)</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>Oxford Street</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
-
-
-
-
-<br>
 
 ---
 
-[***Continue*** <br> *Week 3 Unit 1: Exercise*](week3_unit1_exercise.md)
-
-[***Return*** <br> *Week 3 Unit 1: What are tuples?*](week3_unit1_tuples.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week3_unit1_exercise) | [Next unit >](/teaching/python-mooc/week3_unit1_tuples) |
+[Course Overview](/teaching/python-mooc)

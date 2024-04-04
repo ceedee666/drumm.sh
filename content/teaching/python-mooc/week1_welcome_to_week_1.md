@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Welcome to Week 1
+---
+title: "Welcome to Week 1"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Dear learners,
 
@@ -16,14 +19,7 @@ The topic for this week is Python Fundamentals. Here are the units you can look 
 + Unit 6: Using multiple if statements
 + Unit 7: Creating complex logical expressions
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 1 Course Elements*](week1_course_elements.md)
-
-[***Return*** <br> *Week 0 Unit 3: Exercise*](week0_unit3_how_to_use_jupyter.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week1_course_elements) | [Next unit >](/teaching/python-mooc/week0_unit3_how_to_use_jupyter) |
+[Course Overview](/teaching/python-mooc)

@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 5 Unit 3: Exercise
+---
+title: "Week 5 Unit 3: Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Implement the function ```is_even(number)``` which gets an integer as input parameter and checks, if this input is even or not. ```is_even()``` will return the boolean value ```True``` if the value is even and ```False``` if the input is not even.
 
@@ -15,14 +18,7 @@ Example output:
 ...
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 5 Unit 4: Visibility of variables*](week5_unit4_visibility_of_vars.md)
-
-[***Return*** <br> *Week 5 Unit 3: Self-test*](week5_unit3_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week5_unit4_visibility_of_vars) | [Next unit >](/teaching/python-mooc/week5_unit3_selftest) |
+[Course Overview](/teaching/python-mooc)

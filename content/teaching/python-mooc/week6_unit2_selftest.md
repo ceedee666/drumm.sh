@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 6 Unit 2: Self-test
+---
+title: "Week 6 Unit 2: Self-test"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Question 1
 
@@ -12,39 +15,34 @@
 
 <details>
 	<summary>"import hot_function from cool_lib"</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>"from cool_lib import hot_function"</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
 
 
 <details>
 	<summary>"import cool_lib"</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
 
 
 <details>
 	<summary>"from cool_lib import hot_function as hf"</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
 
 
 <details>
 	<summary>"import cool_lib as cl"</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
-
-<br>
 
 ---
 
-[***Continue*** <br> *Week 6 Unit 3: Math and statistics libraries*](week6_unit3_math.md)
-
-[***Return*** <br> *Week 6 Unit 2: Importing libraries*](week6_unit2_import_libraries.md)
-
-<br>[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week6_unit3_math) | [Next unit >](/teaching/python-mooc/week6_unit2_import_libraries) |
+[Course Overview](/teaching/python-mooc)

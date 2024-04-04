@@ -1,6 +1,9 @@
-# Python for Beginners
-
-# Week 3 Unit 1: Exercise
+---
+title: "Week 3 Unit 1: Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Write a program that asks the user for given name, surname and field of study for a student. Store this data in a tuple and print the tuple. Below is an example execution of the program.
 
@@ -11,14 +14,7 @@ Please enter the field of study of the student: Defence Against the Dark Arts
 ('Harry', 'Potter', 'Defence Against the Dark Arts')
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 3 Unit 2: What are dictionaries?*](week3_unit2_dictionarys.md)
-
-[***Return*** <br> *Week 3 Unit 1: Self-test*](week3_unit1_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week3_unit2_dictionarys) | [Next unit >](/teaching/python-mooc/week3_unit1_selftest) |
+[Course Overview](/teaching/python-mooc)

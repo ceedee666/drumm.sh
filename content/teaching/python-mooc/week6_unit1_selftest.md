@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 6 Unit 1: Self-test
+---
+title: "Week 6 Unit 1: Self-test"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Question 1
 
@@ -10,33 +13,28 @@
 
 <details>
 	<summary>Microsoft Office 2013</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>The Large Hadron Collider</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>Space Shuttle </summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>Average high-end car</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
-
-<br>
 
 ---
 
-[***Continue*** <br> *Week 6 Unit 2: Importing libraries*](week6_unit2_import_libraries.md)
-
-[***Return*** <br> *Week 6 Unit 1: What are libraries?*](week6_unit1_libraries.md)
-
-<br>[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week6_unit2_import_libraries) | [Next unit >](/teaching/python-mooc/week6_unit1_libraries) |
+[Course Overview](/teaching/python-mooc)

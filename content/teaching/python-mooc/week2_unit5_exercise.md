@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week2 Unit 5: Exercise
+---
+title: "Week2 Unit 5: Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 Write a program that lets the user input a two-dimensional matrix (Hint: you could use a list of lists to store the matrix). The program should first ask the user how many rows and columns the matrix should contain. Next, the program should ask the user for the elements of the [matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)). Your program should read the values from the user row by row. If, for example, the matrix has the dimension 2 by 3, the values should be read as follows:
 
@@ -29,14 +32,7 @@ Sum of row: 6
 Sum of row: 15
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 2 Unit 6: Sequences*](week2_unit6_sequences.md)
-
-[***Return*** <br> *Week 2 Unit 5: Self-test*](week2_unit5_selftest.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week2_unit6_sequences) | [Next unit >](/teaching/python-mooc/week2_unit5_selftest) |
+[Course Overview](/teaching/python-mooc)

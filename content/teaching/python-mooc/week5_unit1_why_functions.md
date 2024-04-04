@@ -1,21 +1,15 @@
-# Python for Beginners
-
-## Week 5 Unit 1: Why are functions necessary?
+---
+title: "Week 5 Unit 1: Why are functions necessary?"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 [![Why are functions necessary?](https://img.youtube.com/vi/DKCgGc2aGdI/hqdefault.jpg)](https://youtu.be/DKCgGc2aGdI)
 
-<br>
-
 [**Download Jupyter Notebook for this unit**](https://opensap-public.s3.openhpicloud.de/courses/2qRB6Gz3FcfD2OBbnSCf8m/rtfiles/61UfaSei4ugXtRIQncnhQN/openSAP_python1_Week_5_Unit_1_whyfunctions_notebook.ipynb)
-
-<br>
 
 ---
 
-[***Continue*** <br> *Week 5 Unit 1: Self-test*](week5_unit1_selftest.md)
-
-[***Return*** <br> *Welcome to Week 5*](welcome_to_week5.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week5_unit1_selftest) | [Next unit >](/teaching/python-mooc/welcome_to_week5) |
+[Course Overview](/teaching/python-mooc)

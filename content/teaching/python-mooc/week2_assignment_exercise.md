@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 2 Assignment (Part 2 - Exercise)
+---
+title: "Week 2 Assignment (Part 2 - Exercise)"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 In this exercise you are going to simulate a sales and operations planning using the [zero stock level](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/d853922bdd584e8e83027e5a0b8122f2/d06dbd534f22b44ce10000000a174cb4.html?locale=en-US) strategy. Write a Python program that asks the user to enter the following data:
 
@@ -35,14 +38,7 @@ Production quantity month 5 - 100
 
 Why are those production quantities calculated? The initial stock level is 500. In the first month 300 pieces are sold. Therefore, nothing needs to be produced and the resulting stock is 200 (= 500 - 300). In the second month 250 pieces are sold. The stock level after the previous month is 200. Therefore 50 pieces need to be produced. The resulting stock level is 0 (= 200 + 50 - 250). In the third month 200 pieces are sold. The stock level after the previous month is 0. Therefore 200 pieces need to be produced. The resulting stock level is 0 (= 200 - 200).
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 2 Assignment Solution*](week2_assignment_exercise_solution.md)
-
-[***Return*** <br> *Week 2 Assignment (Part 1 - Questions)*](week2_assignment_questions.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week2_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week2_assignment_questions) |
+[Course Overview](/teaching/python-mooc)

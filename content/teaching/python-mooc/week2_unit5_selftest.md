@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 2 Unit 5: Self-test
+---
+title: "Week 2 Unit 5: Self-test"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Question 1
 
@@ -10,29 +13,26 @@
 
 <details>
 	<summary>[0, 1, 2, 3, 4, 5, 6, 7, 8]</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>[1, 2, 3, 4, 5, 6, 7, 8]</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>[1, 2, 3, 4, 5, 6, 7]</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>[0, 1, 2, 3, 4, 5, 6, 7]</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
-
-
-
 
 <br>
 
@@ -45,38 +45,28 @@
 
 <details>
 	<summary>[-3, 0] </summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
 
 
 <details>
 	<summary>[-3, 0, 3] </summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>[3, 0, -3]</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>[0, 3]</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
-
-
-
-
-<br>
 
 ---
 
-[***Continue*** <br> *Week 2 Unit 5: Exercise*](week2_unit5_exercise.md)
-
-[***Return*** <br> *Week 2 Unit 5: Using ranges to create sequences of numbers*](week2_unit5_using_ranges.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week2_unit5_exercise) | [Next unit >](/teaching/python-mooc/week2_unit5_using_ranges) |
+[Course Overview](/teaching/python-mooc)

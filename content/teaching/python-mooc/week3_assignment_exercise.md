@@ -1,6 +1,9 @@
-﻿# Python for Beginners
-
-## Week 3 Assignment (Part 2 - Exercise)
+﻿---
+title: "Week 3 Assignment (Part 2 - Exercise)"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 A Caesar cipher is a simple encryption technique. The encryption using a [Ceasar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) replaces a letter in the plain text with a letter that is a fixed number down in the alphabet. For example, with a shift of 5 the following substitutions would take place:
 
@@ -22,7 +25,7 @@ Your task for the assignment is to implement a Caesar cipher with a shift of 5. 
 
 Here is an example execution of the program:
 
-```Py
+```
 Please enter a sentence: python is fun!
 The encrypted sentence is: udymts nx kzs!
 ```
@@ -38,7 +41,7 @@ Note that your program should not encrypt special characters like a space or an 
 
 The result of the following example
 
-```Py
+```
 s = "TEST"
 s = s.lower()
 print(s)
@@ -52,14 +55,7 @@ is:
 test
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 3 Assignment Solution*](week3_assignment_exercise_solution.md)
-
-[***Return*** <br> *Week 3 Assignment (Part 1 - Questions)*](week3_assignment_questions.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week3_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week3_assignment_questions) |
+[Course Overview](/teaching/python-mooc)

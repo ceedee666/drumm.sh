@@ -9,5 +9,5 @@ If you’d like to get more used to working with Python, we’ve provided you wi
 
 ---
 
-[< Previous unit](/teaching/python-mooc/welcome_to_week_2) | [Next unit >](/teaching/python-mooc/week1_bonus_exercise_solution) |
-[Course Overview](/teaching/python-mooc)
+[< Previous unit](/teaching/python-mooc/welcome_to_week_2) | [Next unit >](/teaching/python-mooc/week1_bonus_exercise_solution) | [Course Overview](/teaching/python-mooc)
+

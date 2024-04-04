@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 5 Bonus Exercise
+---
+title: "Week 5 Bonus Exercise"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 [Prime numbers](https://en.wikipedia.org/wiki/Prime_number) are natural numbers greater than 1 which are not divisible by any number beside 1 and the number itself. In other words, the number cannot be composed as a product of two natural numbers other than 1 and the number itself. There are infinite prime numbers and the first ones are:
 
@@ -29,14 +32,7 @@ Up to which number do you want all prime numbers: 13
 [2, 3, 5, 7, 11, 13]
 ```
 
-<br>
-
 ---
 
-[***Continue*** <br> *Week 5 Bonus Exercise Solution*](week5_bonus_exercise_solution.md)
-
-[***Return*** <br> *Week 5 Assignment Solution*](week5_assignment_exercise_solution.md)
-
-<br>
-
-[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week5_bonus_exercise_solution) | [Next unit >](/teaching/python-mooc/week5_assignment_exercise_solution) |
+[Course Overview](/teaching/python-mooc)

@@ -1,6 +1,9 @@
-# Python for Beginners
-
-## Week 6 Unit 3: Self-test
+---
+title: "Week 6 Unit 3: Self-test"
+language: "en"
+published: true
+tags: ["FH Aachen", "Thesis"]
+---
 
 ### Question 1
 
@@ -10,33 +13,28 @@
 
 <details>
 	<summary>Python Regular Library </summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>Python Common Library</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>Python Basic Library</summary>
-	<img  src="selftest/cross.png" width="25">
+	<img  src="imgs/cross.png" width="25">
 </details>
 
 
 <details>
 	<summary>Python Standard Library</summary>
-	<img  src="selftest/check.png" width="25">
+	<img  src="imgs/check.png" width="25">
 </details>
-
-<br>
 
 ---
 
-[***Continue*** <br> *Week 6 Unit 3: Exercise*](week6_unit3_exercise.md)
-
-[***Return*** <br> *Week 6 Unit 3: Math and statistics libraries*](week6_unit3_math.md)
-
-<br>[***Home*** <br>*Table of Contents*](home.md)
+[< Previous unit](/teaching/python-mooc/week6_unit3_exercise) | [Next unit >](/teaching/python-mooc/week6_unit3_math) |
+[Course Overview](/teaching/python-mooc)
