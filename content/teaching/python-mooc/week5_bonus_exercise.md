@@ -34,5 +34,5 @@ Up to which number do you want all prime numbers: 13
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week5_bonus_exercise_solution) | [Next unit >](/teaching/python-mooc/week5_assignment_exercise_solution) |
+[< Previous unit](/teaching/python-mooc/week5_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week5_bonus_exercise_solution) |
 [Course Overview](/teaching/python-mooc)

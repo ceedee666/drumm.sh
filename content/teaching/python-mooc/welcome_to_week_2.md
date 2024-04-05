@@ -22,5 +22,5 @@ The topic for this week is Lists and Loops. Here are the units you can look forw
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_unit1_lists_in_python) | [Next unit >](/teaching/python-mooc/week1_additional_material) |
+[< Previous unit](/teaching/python-mooc/week1_additional_material) | [Next unit >](/teaching/python-mooc/week2_unit1_lists_in_python) |
 [Course Overview](/teaching/python-mooc)

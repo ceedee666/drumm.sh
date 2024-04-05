@@ -365,5 +365,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/) | [Next unit >](/teaching/python-mooc/) |
+[< Previous unit](/teaching/python-mooc/week1_unit7_selftest) | [Next unit >](/teaching/python-mooc/week1_assignment_exercise) |
 [Course Overview](/teaching/python-mooc)

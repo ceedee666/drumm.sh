@@ -26,5 +26,5 @@ Christian wants to travel from Aachen to Berlin by Train
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_unit4_what_is_a_data_type) | [Next unit >](/teaching/python-mooc/week1_unit4_what_is_a_data_type) |
+[< Previous unit](/teaching/python-mooc/week1_unit3_selftest) | [Next unit >](/teaching/python-mooc/week1_unit4_what_is_a_data_type) |
 [Course Overview](/teaching/python-mooc)

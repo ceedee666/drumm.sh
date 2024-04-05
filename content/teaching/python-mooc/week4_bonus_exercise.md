@@ -29,5 +29,5 @@ The sum should always be 100.
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week4_bonus_exercise_solution) | [Next unit >](/teaching/python-mooc/week4_assignment_exercise_solution) |
+[< Previous unit](/teaching/python-mooc/week4_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week4_bonus_exercise_solution) |
 [Course Overview](/teaching/python-mooc)

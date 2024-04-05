@@ -107,5 +107,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_unit2_exercise) | [Next unit >](/teaching/python-mooc/week2_unit2_using_index) |
+[< Previous unit](/teaching/python-mooc/week2_unit2_using_index) | [Next unit >](/teaching/python-mooc/week2_unit2_exercise) |
 [Course Overview](/teaching/python-mooc)

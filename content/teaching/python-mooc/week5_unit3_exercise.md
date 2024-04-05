@@ -20,5 +20,5 @@ Example output:
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week5_unit4_visibility_of_vars) | [Next unit >](/teaching/python-mooc/week5_unit3_selftest) |
+[< Previous unit](/teaching/python-mooc/week5_unit3_selftest) | [Next unit >](/teaching/python-mooc/week5_unit4_visibility_of_vars) |
 [Course Overview](/teaching/python-mooc)

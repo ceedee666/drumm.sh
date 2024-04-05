@@ -9,5 +9,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week6_assignment_questions) | [Next unit >](/teaching/python-mooc/week6_unit6_selftest) |
+[< Previous unit](/teaching/python-mooc/week6_unit6_selftest) | [Next unit >](/teaching/python-mooc/week6_assignment_questions) |
 [Course Overview](/teaching/python-mooc)

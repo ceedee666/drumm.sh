@@ -75,5 +75,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week5_unit3_exercise) | [Next unit >](/teaching/python-mooc/week5_unit3_adding_parameters) |
+[< Previous unit](/teaching/python-mooc/week5_unit3_adding_parameters) | [Next unit >](/teaching/python-mooc/week5_unit3_exercise) |
 [Course Overview](/teaching/python-mooc)

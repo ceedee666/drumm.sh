@@ -70,5 +70,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_assignment_questions) | [Next unit >](/teaching/python-mooc/week3_unit6_while_loop) |
+[< Previous unit](/teaching/python-mooc/week3_unit6_while_loop) | [Next unit >](/teaching/python-mooc/week3_assignment_questions) |
 [Course Overview](/teaching/python-mooc)

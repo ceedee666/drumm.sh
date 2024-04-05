@@ -44,5 +44,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week6_unit7_summary) | [Next unit >](/teaching/python-mooc/week6_unit6_example_libraries) |
+[< Previous unit](/teaching/python-mooc/week6_unit6_example_libraries) | [Next unit >](/teaching/python-mooc/week6_unit7_summary) |
 [Course Overview](/teaching/python-mooc)

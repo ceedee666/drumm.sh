@@ -19,5 +19,5 @@ Welcome to week 6. This is the final week, and the topic we’ll be covering is Li
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week6_unit1_libraries) | [Next unit >](/teaching/python-mooc/week5_additional_material) |
+[< Previous unit](/teaching/python-mooc/week5_additional_material) | [Next unit >](/teaching/python-mooc/week6_unit1_libraries) |
 [Course Overview](/teaching/python-mooc)

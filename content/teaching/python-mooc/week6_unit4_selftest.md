@@ -44,5 +44,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week6_unit5_installing_libraries) | [Next unit >](/teaching/python-mooc/week6_unit4_standard_libraries) |
+[< Previous unit](/teaching/python-mooc/week6_unit4_standard_libraries) | [Next unit >](/teaching/python-mooc/week6_unit5_installing_libraries) |
 [Course Overview](/teaching/python-mooc)

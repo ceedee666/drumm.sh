@@ -67,5 +67,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week4_assignment_questions) | [Next unit >](/teaching/python-mooc/week4_unit6_string_methods) |
+[< Previous unit](/teaching/python-mooc/week4_unit6_string_methods) | [Next unit >](/teaching/python-mooc/week4_assignment_questions) |
 [Course Overview](/teaching/python-mooc)

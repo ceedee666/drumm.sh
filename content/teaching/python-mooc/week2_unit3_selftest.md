@@ -67,5 +67,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/) | [Next unit >](/teaching/python-mooc/) |
+[< Previous unit](/teaching/python-mooc/week2_unit3_important_functions) | [Next unit >](/teaching/python-mooc/week4_unit4_iteration_using_loop) |
 [Course Overview](/teaching/python-mooc)

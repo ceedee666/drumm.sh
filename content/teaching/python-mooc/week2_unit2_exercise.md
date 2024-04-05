@@ -26,5 +26,5 @@ Write a program that asks the user for a number of the trilogy (1, 2 or 3) and t
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_unit3_important_functions) | [Next unit >](/teaching/python-mooc/week2_unit2_selftest) |
+[< Previous unit](/teaching/python-mooc/week2_unit2_selftest) | [Next unit >](/teaching/python-mooc/week2_unit3_important_functions) |
 [Course Overview](/teaching/python-mooc)

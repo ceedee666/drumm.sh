@@ -77,5 +77,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week4_unit5_exercise) | [Next unit >](/teaching/python-mooc/week4_unit5_formatting_output) |
+[< Previous unit](/teaching/python-mooc/week4_unit5_formatting_output) | [Next unit >](/teaching/python-mooc/week4_unit5_exercise) |
 [Course Overview](/teaching/python-mooc)

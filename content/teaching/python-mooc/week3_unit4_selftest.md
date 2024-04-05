@@ -75,5 +75,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_unit5_important_funcs) | [Next unit >](/teaching/python-mooc/week3_unit4_dict_access) |
+[< Previous unit](/teaching/python-mooc/week3_unit4_dict_access) | [Next unit >](/teaching/python-mooc/week3_unit5_important_funcs) |
 [Course Overview](/teaching/python-mooc)

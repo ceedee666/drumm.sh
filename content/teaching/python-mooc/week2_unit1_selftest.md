@@ -104,5 +104,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_unit2_using_index) | [Next unit >](/teaching/python-mooc/week2_unit1_lists_in_python) |
+[< Previous unit](/teaching/python-mooc/week2_unit1_lists_in_python) | [Next unit >](/teaching/python-mooc/week2_unit2_using_index) |
 [Course Overview](/teaching/python-mooc)

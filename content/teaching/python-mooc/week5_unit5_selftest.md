@@ -67,5 +67,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week5_unit5_exercise) | [Next unit >](/teaching/python-mooc/week5_unit5_combining_funtions) |
+[< Previous unit](/teaching/python-mooc/week5_unit5_combining_funtions) | [Next unit >](/teaching/python-mooc/week5_unit5_exercise) |
 [Course Overview](/teaching/python-mooc)

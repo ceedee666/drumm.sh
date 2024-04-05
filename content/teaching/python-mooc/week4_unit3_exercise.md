@@ -21,5 +21,5 @@ Read the file line by line, delete the line break. As files can only contain str
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week4_unit4_writing_data) | [Next unit >](/teaching/python-mooc/week4_unit3_selftest) |
+[< Previous unit](/teaching/python-mooc/week4_unit3_selftest) | [Next unit >](/teaching/python-mooc/week4_unit4_writing_data) |
 [Course Overview](/teaching/python-mooc)

@@ -78,5 +78,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_unit1_exercise) | [Next unit >](/teaching/python-mooc/week3_unit1_tuples) |
+[< Previous unit](/teaching/python-mooc/week3_unit1_tuples) | [Next unit >](/teaching/python-mooc/week3_unit1_exercise) |
 [Course Overview](/teaching/python-mooc)

@@ -13,5 +13,5 @@ You need to install the library on your local computer.
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week6_unit6_example_libraries) | [Next unit >](/teaching/python-mooc/week6_unit5_selftest) |
+[< Previous unit](/teaching/python-mooc/week6_unit5_selftest) | [Next unit >](/teaching/python-mooc/week6_unit6_example_libraries) |
 [Course Overview](/teaching/python-mooc)

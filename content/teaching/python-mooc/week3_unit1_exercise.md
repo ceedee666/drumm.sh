@@ -16,5 +16,5 @@ Please enter the field of study of the student: Defence Against the Dark Arts
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_unit2_dictionarys) | [Next unit >](/teaching/python-mooc/week3_unit1_selftest) |
+[< Previous unit](/teaching/python-mooc/week3_unit1_selftest) | [Next unit >](/teaching/python-mooc/week3_unit2_dictionarys) |
 [Course Overview](/teaching/python-mooc)

@@ -40,5 +40,5 @@ Why are those production quantities calculated? The initial stock level is 500. 
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week2_assignment_questions) |
+[< Previous unit](/teaching/python-mooc/week2_assignment_questions) | [Next unit >](/teaching/python-mooc/week2_assignment_exercise_solution) |
 [Course Overview](/teaching/python-mooc)

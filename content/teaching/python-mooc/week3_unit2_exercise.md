@@ -71,5 +71,5 @@ You should also be careful about spaces in the resulting sentence.
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_unit3_list_dict_tuples) | [Next unit >](/teaching/python-mooc/week3_unit2_selftest) |
+[< Previous unit](/teaching/python-mooc/week3_unit2_selftest) | [Next unit >](/teaching/python-mooc/week3_unit3_list_dict_tuples) |
 [Course Overview](/teaching/python-mooc)

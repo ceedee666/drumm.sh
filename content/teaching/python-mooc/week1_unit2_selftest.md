@@ -40,5 +40,5 @@ _Note: There are 2 correct answers to this question._
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_unit3_performing_simple_input_and_output) | [Next unit >](/teaching/python-mooc/week1_unit2_using_variables) |
+[< Previous unit](/teaching/python-mooc/week1_unit2_using_variables) | [Next unit >](/teaching/python-mooc/week1_unit3_performing_simple_input_and_output) |
 [Course Overview](/teaching/python-mooc)
