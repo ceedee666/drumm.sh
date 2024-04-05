@@ -29,7 +29,8 @@ Since none of us knew anything about programming an app, it took a while until
 we found our way into the project.
 But with each sprint we became more productive, organized and efficient.
 We also got to know each other better and improved our collaboration more and more.
-At the end of the project, we had a very good product, which we were able to present to the other teams in a final presentation.
+At the end of the project, we had a very good product, which we were able to
+present to the other teams in a final presentation.
 
 ## What I learned
 
