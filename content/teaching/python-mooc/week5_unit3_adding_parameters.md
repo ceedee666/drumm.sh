@@ -2,7 +2,7 @@
 title: "Week 5 Unit 3: Adding parameters to functions"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Adding parameters to functions](https://img.youtube.com/vi/hqbnFFvkwnA/hqdefault.jpg)](https://youtu.be/hqbnFFvkwnA)

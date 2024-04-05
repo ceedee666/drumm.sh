@@ -2,7 +2,7 @@
 title: "Week 5 Unit 2: Exercise"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 Implement a function named ```get_student_data()```. The function should do the following:

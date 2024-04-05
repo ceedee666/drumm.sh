@@ -2,7 +2,7 @@
 title: "Week 2 Bonus Exercise"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 Write a Python program that prints the numbers from 1 to 100. If the number is dividable by 3 print Fizz, if the number is dividable by 5 print Buzz instead of the number. If the number is dividable by 3 and 5 print FizzBuzz.

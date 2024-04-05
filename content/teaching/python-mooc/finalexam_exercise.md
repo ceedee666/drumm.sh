@@ -2,7 +2,7 @@
 title: "Final Exam (Part 2 - Exercise)"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 ### Wordle in Python

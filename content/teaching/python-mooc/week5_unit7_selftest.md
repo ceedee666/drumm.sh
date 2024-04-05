@@ -2,12 +2,13 @@
 title: "Week 5 Unit 7: Self-test"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 ### Question 1
 
-#### What is the value of the variable ```i``` after the execution of the following statements?
+What is the value of the variable `i` after the execution of the following
+statements?
 
 <img src=imgs/week5_unit7_f1.png width="450"><br><br>
 
@@ -16,18 +17,15 @@ tags: ["FH Aachen", "Thesis"]
 	✅
 </details>
 
-
 <details>
 	<summary>(1)</summary>
 	❌
 </details>
 
-
 <details>
 	<summary>Error</summary>
 	❌
 </details>
-
 
 <details>
 	<summary>2</summary>
@@ -38,7 +36,8 @@ tags: ["FH Aachen", "Thesis"]
 
 ### Question 2
 
-#### What is the value of the variable ```i``` after the execution of the following statements?
+What is the value of the variable `i` after the execution of the following
+statements?
 
 <img src=imgs/week5_unit7_f2.png width="450"><br><br>
 
@@ -47,18 +46,15 @@ tags: ["FH Aachen", "Thesis"]
 	❌
 </details>
 
-
 <details>
 	<summary>(2, 3, 4, 5)</summary>
 	❌
 </details>
 
-
 <details>
 	<summary>(1, 2)</summary>
 	❌
 </details>
-
 
 <details>
 	<summary>2</summary>

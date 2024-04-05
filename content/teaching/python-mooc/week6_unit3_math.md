@@ -2,7 +2,7 @@
 title: "Week 6 Unit 3: Math and statistics libraries"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Math and statistics libraries](https://img.youtube.com/vi/vuLBwfPwRxk/hqdefault.jpg)](https://youtu.be/vuLBwfPwRxk)

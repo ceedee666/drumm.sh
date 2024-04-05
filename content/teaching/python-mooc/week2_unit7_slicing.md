@@ -2,7 +2,7 @@
 title: "Week 2 Unit 7: Slicing"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Slicing](https://img.youtube.com/vi/qxtPLMDVEeQ/hqdefault.jpg)](https://youtu.be/qxtPLMDVEeQ)

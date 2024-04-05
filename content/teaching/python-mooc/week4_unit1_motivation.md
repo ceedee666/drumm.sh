@@ -2,7 +2,7 @@
 title: "Week 4 Unit 1: Motivation and definition"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Motivation and definition](https://img.youtube.com/vi/G2XsqI_BpRI/hqdefault.jpg)](https://youtu.be/G2XsqI_BpRI)

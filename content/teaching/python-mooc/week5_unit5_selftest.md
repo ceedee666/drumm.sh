@@ -2,7 +2,7 @@
 title: "Week 5 Unit 5: Self-test"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 ### Question 1

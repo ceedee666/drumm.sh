@@ -2,7 +2,7 @@
 title: "Week 5 Unit 5: Combining functions"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Combining functions](https://img.youtube.com/vi/Y6_aKnQ4zBY/hqdefault.jpg)](https://youtu.be/Y6_aKnQ4zBY)

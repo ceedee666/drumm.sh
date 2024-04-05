@@ -2,14 +2,14 @@
 title: "Week 6 Unit 6: Self-test"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 ### Question 1
 
-#### Which of the following statements about ```tkinter``` are correct?
+#### Which of the following statements about `tkinter` are correct?
 
-*Note: There are 3 correct answers to this question.*
+_Note: There are 3 correct answers to this question._
 
 <br>
 
@@ -18,24 +18,20 @@ tags: ["FH Aachen", "Thesis"]
 	
 </details>
 
-
 <details>
 	<summary>"tkinter" is well suited to implement video games. </summary>
 	
 </details>
-
 
 <details>
 	<summary>"tkinter" is the only Python library to implement GUIs (graphical user interfaces).</summary>
 	
 </details>
 
-
 <details>
 	<summary>"tkinter" offers the possibility to implement GUIs (graphical user interfaces).</summary>
 	
 </details>
-
 
 <details>
 	<summary>"tkinter" is an interface to Tcl/Tk which enables the implementation of GUIs (graphical user interfaces) in other programming languages.</summary>

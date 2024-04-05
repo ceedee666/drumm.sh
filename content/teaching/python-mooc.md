@@ -2,7 +2,7 @@
 title: "Python for Beginners"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 This is a archived version of the Python for Beginners MOOC. The course

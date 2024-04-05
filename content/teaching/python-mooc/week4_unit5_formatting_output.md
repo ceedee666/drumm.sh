@@ -2,7 +2,7 @@
 title: "Week 4 Unit 5: Formatting output "
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Writing data to files](https://img.youtube.com/vi/vyS58bgqY-c/hqdefault.jpg)](https://youtu.be/vyS58bgqY-c)

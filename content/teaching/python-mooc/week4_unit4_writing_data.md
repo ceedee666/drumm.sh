@@ -2,7 +2,7 @@
 title: "Week 4 Unit 4: Writing data to files"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Writing data to files](https://img.youtube.com/vi/cKQndPFhSH8/hqdefault.jpg)](https://youtu.be/cKQndPFhSH8)

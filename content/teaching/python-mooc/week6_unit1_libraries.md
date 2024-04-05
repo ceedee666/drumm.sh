@@ -2,7 +2,7 @@
 title: "Week 6 Unit 1: What are libraries?"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![What are libraries?](https://img.youtube.com/vi/BJH6fY4GkBE/hqdefault.jpg)](https://youtu.be/BJH6fY4GkBE)

@@ -2,7 +2,7 @@
 title: "Welcome to the Final Exam"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 Dear learners,

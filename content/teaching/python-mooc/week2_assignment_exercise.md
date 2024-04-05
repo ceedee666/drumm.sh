@@ -2,7 +2,7 @@
 title: "Week 2 Assignment (Part 2 - Exercise)"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 In this exercise you are going to simulate a sales and operations planning using the [zero stock level](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/d853922bdd584e8e83027e5a0b8122f2/d06dbd534f22b44ce10000000a174cb4.html?locale=en-US) strategy. Write a Python program that asks the user to enter the following data:

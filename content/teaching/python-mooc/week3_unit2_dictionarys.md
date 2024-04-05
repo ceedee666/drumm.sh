@@ -2,7 +2,7 @@
 title: "Week 3 Unit 2: What are dictionaries?"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![What are dictionaries](https://img.youtube.com/vi/szNgmVOBayg/hqdefault.jpg)](https://youtu.be/szNgmVOBayg)

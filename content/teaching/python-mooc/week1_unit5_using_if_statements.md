@@ -2,7 +2,7 @@
 title: "Week 1 Unit 5: Using if statements"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Using if statements](https://img.youtube.com/vi/xjmXlsyQo1w/hqdefault.jpg)](https://youtu.be/xjmXlsyQo1w)

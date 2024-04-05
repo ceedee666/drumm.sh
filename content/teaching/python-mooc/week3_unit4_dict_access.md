@@ -2,7 +2,7 @@
 title: "Week 3 Unit 4: Safe dictionary access"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Safe dictionary access](https://img.youtube.com/vi/-TQmDEf9R8Y/hqdefault.jpg)](https://youtu.be/-TQmDEf9R8Y)

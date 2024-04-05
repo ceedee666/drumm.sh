@@ -2,7 +2,7 @@
 title: "Week 1 Unit 7: Creating complex logical expressions"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Creating complex logical expressions](https://img.youtube.com/vi/2aWR7otJWq4/hqdefault.jpg)](https://youtu.be/2aWR7otJWq4)

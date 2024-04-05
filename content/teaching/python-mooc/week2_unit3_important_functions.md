@@ -2,7 +2,7 @@
 title: "Week 2 Unit 3: Important functions and methods for lists"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Using an index to access lists](https://img.youtube.com/vi/HiTu_MAFLEw/hqdefault.jpg)](https://youtu.be/HiTu_MAFLEw)

@@ -2,7 +2,7 @@
 title: "Week 0 Unit 1: Welcome - How this cours works"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Welcome - How this course works](https://img.youtube.com/vi/Vco79J3ibH0/hqdefault.jpg)](https://youtu.be/Vco79J3ibH0)

@@ -2,7 +2,7 @@
 title: "Week 5 Unit 1: Why are functions necessary?"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Why are functions necessary?](https://img.youtube.com/vi/DKCgGc2aGdI/hqdefault.jpg)](https://youtu.be/DKCgGc2aGdI)

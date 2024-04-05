@@ -2,7 +2,7 @@
 title: "Week 2 Unit 8: List comprehension"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Slicing](https://img.youtube.com/vi/W5EH3AjcjZI/hqdefault.jpg)](https://youtu.be/W5EH3AjcjZI)

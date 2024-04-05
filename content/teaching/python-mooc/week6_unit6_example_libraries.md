@@ -2,7 +2,7 @@
 title: "Week 6 Unit 6: Examples of non-standard libraries"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Examples of non-standard libraries](https://img.youtube.com/vi/5Cq1kL7z98c/hqdefault.jpg)](https://youtu.be/5Cq1kL7z98c)

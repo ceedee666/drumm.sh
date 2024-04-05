@@ -2,7 +2,7 @@
 title: "Week 2 Unit 5: Using ranges to create sequences of numbers"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Using an index to access lists](https://img.youtube.com/vi/XFDfP9u5LI4/hqdefault.jpg)](https://youtu.be/XFDfP9u5LI4)

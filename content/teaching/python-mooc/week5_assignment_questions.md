@@ -2,7 +2,7 @@
 title: "Week 5 Assignment (Part 1 - Questions)"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 

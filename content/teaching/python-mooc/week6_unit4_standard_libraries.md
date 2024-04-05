@@ -2,7 +2,7 @@
 title: "Week 6 Unit 4: Other standard libraries"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Other standard libraries](https://img.youtube.com/vi/To9wLO8j_2M/hqdefault.jpg)](https://youtu.be/To9wLO8j_2M)

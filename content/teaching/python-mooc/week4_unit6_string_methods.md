@@ -2,7 +2,7 @@
 title: "Week 4 Unit 6: String methods"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![String methods](https://img.youtube.com/vi/6rOWBMQJpgk/hqdefault.jpg)](https://youtu.be/6rOWBMQJpgk)

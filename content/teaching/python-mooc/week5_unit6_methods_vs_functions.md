@@ -2,7 +2,7 @@
 title: "Week 5 Unit 6: Methods vs. functions"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 

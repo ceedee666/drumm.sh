@@ -2,7 +2,7 @@
 title: "Week 2 Unit 2: Using an index to access lists"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Using an index to access lists](https://img.youtube.com/vi/PT_cz5IHW2g/hqdefault.jpg)](https://youtu.be/PT_cz5IHW2g)

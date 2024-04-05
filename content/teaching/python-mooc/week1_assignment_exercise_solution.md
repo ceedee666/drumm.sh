@@ -2,7 +2,7 @@
 title: "Week 1 Assignment Solution"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Solution Assignment Week 1 (Part 2 - Exercise)](https://img.youtube.com/vi/XQ5pZ9XyZm4/hqdefault.jpg)](https://youtu.be/XQ5pZ9XyZm4)

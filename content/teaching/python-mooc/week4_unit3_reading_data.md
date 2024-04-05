@@ -2,7 +2,7 @@
 title: "Week 4 Unit 3: Reading data from files"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 # Python for Beginners

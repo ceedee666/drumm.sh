@@ -2,7 +2,7 @@
 title: "Week 6 Unit 5: Installing additional libraries"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Installing additional libraries](https://img.youtube.com/vi/81Hgb3XzwpQ/hqdefault.jpg)](https://youtu.be/81Hgb3XzwpQ)
