@@ -1,4 +1,4 @@
-# Wall of fame
+# Wall of fame 🥇
 
 Welcome to the Wall of Fame!
 

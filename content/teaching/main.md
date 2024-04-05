@@ -10,6 +10,11 @@ During the summer term 2024 I teach the following lectures at [FH Aachen](https:
 [This site](/teaching/lectures/previous-lectures) contains a list of lectures I taught
 during the previous terms.
 
+## Python for Beginners MOOC 🐍
+
+An archived version of the Python for Beginners MOOC can be found
+[here](/teaching/python-mooc).
+
 ## Common Rules §
 
 All my lectures are based on this [learning agreement 🤝](/teaching/learning-agreement).
@@ -28,13 +33,3 @@ thesis I supervised in past is available [here](/teaching/thesis).
 
 The [Student's Blog](/student-blog/) contains blog posts written by students as
 part of my lectures at [FH Aachen](https://www.fh-aachen.de).
-
-## Wall of Fame 🥇
-
-The [Wall of Fame](/wall-of-fame) honors the top students each
-semester for their outstanding achievements.
-
-## Python for Beginners MOOC 🐍
-
-An archived version of the Python for Beginners MOOC can be found
-[here](/teaching/python-mooc).
