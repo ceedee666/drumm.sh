@@ -5,7 +5,7 @@ language: "en"
 published: true
 tags: ["Interdisciplinary Project", "FH Aachen", "Wirtschaftsinformatik"]
 description: "This post was written by Svenja Philipps. Svenja describes her 
-experience in the lecture *Interdisciplinary Project* during the winter term 2023.
+experience in the lecture Interdisciplinary Project during the winter term 2023.
 She describes the background of the project, what she learned during the lecture." 
 ---
 

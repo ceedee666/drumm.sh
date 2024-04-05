@@ -5,10 +5,11 @@ language: "en"
 published: true
 tags: ["Interdisciplinary Project", "FH Aachen", "Wirtschaftsinformatik"]
 description: "This post was written by Daniel Bachmann. Daniel describes his 
-experience in the lecture *Interdisciplinary Project* during the winter term 2020.
+experience in the lecture Interdisciplinary Project during the winter term 2020.
 He describes the start of the project, what he learned during the lecture as 
 well as how the project was further developed." 
 ---
+
 ## The beginning of the project
 
 As part of the interdisciplinary project, I had the opportunity to get to know
@@ -87,7 +88,7 @@ opportunity for me and I look forward to the journey ahead.
 ### grievy
 
 E-Mail: hallo@grievy.de  
-Website: https://grievy.de/   
+Website: https://grievy.de/  
 Instagram: https://www.instagram.com/grievy.app/
 
 ### Me
@@ -98,4 +99,4 @@ LinkedIn: https://www.linkedin.com/in/daniel-bachmann-2b7160211/
 ### Nele Stadtbäumer
 
 E-Mail: nele.stadtbaeumer@grievy.de  
-LinkedIn: https://www.linkedin.com/in/nelestadtbaeumer/  
+LinkedIn: https://www.linkedin.com/in/nelestadtbaeumer/
