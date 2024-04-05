@@ -44,5 +44,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_unit7_slicing) | [Next unit >](/teaching/python-mooc/week2_unit6_sequences) |
+[< Previous unit](/teaching/python-mooc/week2_unit6_sequences) | [Next unit >](/teaching/python-mooc/week2_unit7_slicing) |
 [Course Overview](/teaching/python-mooc)

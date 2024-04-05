@@ -18,5 +18,5 @@ Welcome to week 4! We hope you’ve learned a lot so far. We’re continuing this we
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week4_unit1_motivation) | [Next unit >](/teaching/python-mooc/week3_additional_material) |
+[< Previous unit](/teaching/python-mooc/week3_additional_material) | [Next unit >](/teaching/python-mooc/week4_unit1_motivation) |
 [Course Overview](/teaching/python-mooc)

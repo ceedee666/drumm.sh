@@ -13,5 +13,5 @@ First read all the numbers as explained in the last exercise and put them into a
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week4_unit5_formatting_output) | [Next unit >](/teaching/python-mooc/week4_unit4_selftest) |
+[< Previous unit](/teaching/python-mooc/week4_unit4_selftest) | [Next unit >](/teaching/python-mooc/week4_unit5_formatting_output) |
 [Course Overview](/teaching/python-mooc)

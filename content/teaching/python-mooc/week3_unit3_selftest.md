@@ -75,5 +75,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_unit4_dict_access) | [Next unit >](/teaching/python-mooc/week3_unit3_list_dict_tuples) |
+[< Previous unit](/teaching/python-mooc/week3_unit3_list_dict_tuples) | [Next unit >](/teaching/python-mooc/week3_unit4_dict_access) |
 [Course Overview](/teaching/python-mooc)

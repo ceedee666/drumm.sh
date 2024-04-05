@@ -75,5 +75,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week4_unit3_reading_data) | [Next unit >](/teaching/python-mooc/week4_unit2_open_files) |
+[< Previous unit](/teaching/python-mooc/week4_unit2_open_files) | [Next unit >](/teaching/python-mooc/week4_unit3_reading_data) |
 [Course Overview](/teaching/python-mooc)

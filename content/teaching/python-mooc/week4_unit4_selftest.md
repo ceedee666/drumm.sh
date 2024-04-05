@@ -44,5 +44,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week4_unit4_exercise) | [Next unit >](/teaching/python-mooc/week4_unit4_writing_data) |
+[< Previous unit](/teaching/python-mooc/week4_unit4_writing_data) | [Next unit >](/teaching/python-mooc/week4_unit4_exercise) |
 [Course Overview](/teaching/python-mooc)

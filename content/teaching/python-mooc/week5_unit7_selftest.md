@@ -67,5 +67,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week5_assignment_questions) | [Next unit >](/teaching/python-mooc/week5_unit7_destructing_assignment) |
+[< Previous unit](/teaching/python-mooc/week5_unit7_destructing_assignment) | [Next unit >](/teaching/python-mooc/week5_assignment_questions) |
 [Course Overview](/teaching/python-mooc)

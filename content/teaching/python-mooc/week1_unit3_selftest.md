@@ -38,5 +38,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_unit_3_exercise) | [Next unit >](/teaching/python-mooc/week1_unit3_performing_simple_input_and_output) |
+[< Previous unit](/teaching/python-mooc/week1_unit3_performing_simple_input_and_output) | [Next unit >](/teaching/python-mooc/week1_unit_3_exercise) |
 [Course Overview](/teaching/python-mooc)

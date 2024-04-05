@@ -18,5 +18,5 @@ It’s week 3 already! The topic for this week is Complex Data Types. Here are the
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_unit1_tuples) | [Next unit >](/teaching/python-mooc/week2_additional_material) |
+[< Previous unit](/teaching/python-mooc/week2_additional_material) | [Next unit >](/teaching/python-mooc/week3_unit1_tuples) |
 [Course Overview](/teaching/python-mooc)

@@ -85,5 +85,5 @@ test
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_bonus_exercise_solution) | [Next unit >](/teaching/python-mooc/week3_assignment_exercise_solution) |
+[< Previous unit](/teaching/python-mooc/week3_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week3_bonus_exercise_solution) |
 [Course Overview](/teaching/python-mooc)

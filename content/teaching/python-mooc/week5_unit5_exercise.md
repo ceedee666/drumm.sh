@@ -23,5 +23,5 @@ Get a speed in km/h as input and output the stopping distance in m.
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week5_unit6_methods_vs_functions) | [Next unit >](/teaching/python-mooc/week5_unit5_selftest) |
+[< Previous unit](/teaching/python-mooc/week5_unit5_selftest) | [Next unit >](/teaching/python-mooc/week5_unit6_methods_vs_functions) |
 [Course Overview](/teaching/python-mooc)

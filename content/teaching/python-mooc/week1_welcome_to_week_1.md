@@ -21,5 +21,5 @@ The topic for this week is Python Fundamentals. Here are the units you can look 
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_course_elements) | [Next unit >](/teaching/python-mooc/week0_unit3_how_to_use_jupyter) |
+[< Previous unit](/teaching/python-mooc/week0_unit3_how_to_use_jupyter) | [Next unit >](/teaching/python-mooc/week1_course_elements) |
 [Course Overview](/teaching/python-mooc)

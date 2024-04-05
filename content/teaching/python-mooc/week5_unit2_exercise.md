@@ -15,5 +15,5 @@ The function ```get_student_data()``` is then called in the program, the return 
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week5_unit3_adding_parameters) | [Next unit >](/teaching/python-mooc/week5_unit2_selftest) |
+[< Previous unit](/teaching/python-mooc/week5_unit2_selftest) | [Next unit >](/teaching/python-mooc/week5_unit3_adding_parameters) |
 [Course Overview](/teaching/python-mooc)

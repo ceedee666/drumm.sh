@@ -29,5 +29,5 @@ In the next unit we will show how the freshly installed Jupyter server is starte
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week0_unit3_how_to_use_jupyter) | [Next unit >](/teaching/python-mooc/week0_unit1_welcome) |
+[< Previous unit](/teaching/python-mooc/week0_unit1_welcome) | [Next unit >](/teaching/python-mooc/week0_unit3_how_to_use_jupyter) |
 [Course Overview](/teaching/python-mooc)

@@ -34,5 +34,5 @@ Sum of row: 15
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_unit6_sequences) | [Next unit >](/teaching/python-mooc/week2_unit5_selftest) |
+[< Previous unit](/teaching/python-mooc/week2_unit5_selftest) | [Next unit >](/teaching/python-mooc/week2_unit6_sequences) |
 [Course Overview](/teaching/python-mooc)

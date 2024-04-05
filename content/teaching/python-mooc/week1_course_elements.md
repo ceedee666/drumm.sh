@@ -14,5 +14,5 @@ The course comprises video lectures, self-tests and practical programming exerci
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_unit1_first_steps_in_python) | [Next unit >](/teaching/python-mooc/week1_welcome_to_week_1) |
+[< Previous unit](/teaching/python-mooc/week1_welcome_to_week_1) | [Next unit >](/teaching/python-mooc/week1_unit1_first_steps_in_python) |
 [Course Overview](/teaching/python-mooc)
