@@ -18,5 +18,5 @@ Standard Deviation: 9.93532937167394
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week6_unit4_standard_libraries) | [Next unit >](/teaching/python-mooc/week6_unit3_selftest) |
+[< Previous unit](/teaching/python-mooc/week6_unit3_selftest) | [Next unit >](/teaching/python-mooc/week6_unit4_standard_libraries) |
 [Course Overview](/teaching/python-mooc)

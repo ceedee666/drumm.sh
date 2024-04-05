@@ -77,5 +77,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week5_unit5_combining_funtions) | [Next unit >](/teaching/python-mooc/week5_unit4_visibility_of_vars) |
+[< Previous unit](/teaching/python-mooc/week5_unit4_visibility_of_vars) | [Next unit >](/teaching/python-mooc/week5_unit5_combining_funtions) |
 [Course Overview](/teaching/python-mooc)

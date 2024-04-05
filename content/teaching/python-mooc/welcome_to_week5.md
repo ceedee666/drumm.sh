@@ -19,5 +19,5 @@ Welcome to week 5. This week, the topic is Functions. Here are the units you can
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week5_unit1_why_functions) | [Next unit >](/teaching/python-mooc/week4_additional_material) |
+[< Previous unit](/teaching/python-mooc/week4_additional_material) | [Next unit >](/teaching/python-mooc/week5_unit1_why_functions) |
 [Course Overview](/teaching/python-mooc)

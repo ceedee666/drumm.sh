@@ -39,5 +39,5 @@ Can you solve the bonus exercise without a for loop using list comprehension?
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week6_bonus_exercise_solution) | [Next unit >](/teaching/python-mooc/week6_assignment_exercise_solution) |
+[< Previous unit](/teaching/python-mooc/week6_assignment_questions) | [Next unit >](/teaching/python-mooc/week6_assignment_exercise_solution) |
 [Course Overview](/teaching/python-mooc)
