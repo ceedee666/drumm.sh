@@ -76,7 +76,7 @@ const CustomNavbar = ({ pageInfo }) => {
                 </Nav.Link>
               </Link>
               <Link
-                to="/teaching/wall-of-fame"
+                to="/wall-of-fame"
                 className={navItem}
                 activeClassName={activeNavItem}
               >

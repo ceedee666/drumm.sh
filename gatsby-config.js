@@ -90,12 +90,18 @@ module.exports = {
         path: "./content/student-blog/",
       },
     },
-
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "projects",
         path: "./content/projects/",
+      },
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "wall-of-fame",
+        path: "./content/wall-of-fame/",
       },
     },
     {

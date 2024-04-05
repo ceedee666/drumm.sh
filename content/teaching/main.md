@@ -31,7 +31,7 @@ part of my lectures at [FH Aachen](https://www.fh-aachen.de).
 
 ## Wall of Fame 🥇
 
-The [Wall of Fame](/teaching/wall-of-fame) honors the top students each
+The [Wall of Fame](/wall-of-fame) honors the top students each
 semester for their outstanding achievements.
 
 ## Python for Beginners MOOC 🐍

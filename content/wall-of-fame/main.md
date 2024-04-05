@@ -1,9 +1,4 @@
----
-title: "Wall of Fame 🥇"
-language: "en"
-published: true
-tags: ["FH Aachen", "teaching", "Wall of Fame"]
----
+# Wall of fame
 
 Welcome to the Wall of Fame!
 
