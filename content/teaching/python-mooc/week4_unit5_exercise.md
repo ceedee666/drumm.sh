@@ -31,5 +31,5 @@ Read the file line by line and create a list of tuples. Each tuple contains the 
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week4_unit6_string_methods) | [Next unit >](/teaching/python-mooc/week4_unit5_selftest) |
+[< Previous unit](/teaching/python-mooc/week4_unit5_selftest) | [Next unit >](/teaching/python-mooc/week4_unit6_string_methods) |
 [Course Overview](/teaching/python-mooc)

@@ -19,5 +19,5 @@ The largest number is 42
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_unit6_using_multiple_if_statements) | [Next unit >](/teaching/python-mooc/week1_unit5_selftest) |
+[< Previous unit](/teaching/python-mooc/week1_unit5_selftest) | [Next unit >](/teaching/python-mooc/week1_unit6_using_multiple_if_statements) |
 [Course Overview](/teaching/python-mooc)

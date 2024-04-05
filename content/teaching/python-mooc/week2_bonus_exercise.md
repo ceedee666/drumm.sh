@@ -32,5 +32,5 @@ Can you use a list comprehension to solve this exercise?
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_bonus_exercise_solution) | [Next unit >](/teaching/python-mooc/week2_assignment_exercise_solution) |
+[< Previous unit](/teaching/python-mooc/week2_bonus_exercise) | [Next unit >](/teaching/python-mooc/week2_additional_material) |
 [Course Overview](/teaching/python-mooc)

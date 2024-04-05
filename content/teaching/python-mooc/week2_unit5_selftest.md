@@ -68,5 +68,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_unit5_exercise) | [Next unit >](/teaching/python-mooc/week2_unit5_using_ranges) |
+[< Previous unit](/teaching/python-mooc/week2_unit5_using_ranges) | [Next unit >](/teaching/python-mooc/week2_unit5_exercise) |
 [Course Overview](/teaching/python-mooc)

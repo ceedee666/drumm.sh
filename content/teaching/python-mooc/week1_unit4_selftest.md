@@ -116,5 +116,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_unit5_using_if_statements) | [Next unit >](/teaching/python-mooc/week1_unit4_what_is_a_data_type) |
+[< Previous unit](/teaching/python-mooc/week1_unit4_what_is_a_data_type) | [Next unit >](/teaching/python-mooc/week1_unit5_using_if_statements) |
 [Course Overview](/teaching/python-mooc)

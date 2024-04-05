@@ -75,5 +75,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_unit8_list_comprehension) | [Next unit >](/teaching/python-mooc/week2_unit7_slicing) |
+[< Previous unit](/teaching/python-mooc/week2_unit7_slicing) | [Next unit >](/teaching/python-mooc/week2_unit8_list_comprehension) |
 [Course Overview](/teaching/python-mooc)

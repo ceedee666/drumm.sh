@@ -75,5 +75,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_assignment_questions) | [Next unit >](/teaching/python-mooc/week1_unit7_creating_complex_expressions) |
+[< Previous unit](/teaching/python-mooc/week1_unit7_creating_complex_expressions) | [Next unit >](/teaching/python-mooc/week1_assignment_questions) |
 [Course Overview](/teaching/python-mooc)

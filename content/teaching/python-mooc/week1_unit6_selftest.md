@@ -36,5 +36,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_unit7_creating_complex_expressions) | [Next unit >](/teaching/python-mooc/week1_unit6_using_multiple_if_statements) |
+[< Previous unit](/teaching/python-mooc/week1_unit6_using_multiple_if_statements) | [Next unit >](/teaching/python-mooc/week1_unit7_creating_complex_expressions) |
 [Course Overview](/teaching/python-mooc)

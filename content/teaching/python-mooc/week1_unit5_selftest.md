@@ -75,5 +75,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_unit5_exercise) | [Next unit >](/teaching/python-mooc/week1_unit5_using_if_statements) |
+[< Previous unit](/teaching/python-mooc/week1_unit5_using_if_statements) | [Next unit >](/teaching/python-mooc/week1_unit5_exercise) |
 [Course Overview](/teaching/python-mooc)

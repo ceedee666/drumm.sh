@@ -37,5 +37,5 @@ The triangle is a right triangle.
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_assignment_exercise_solution) | [Next unit >](/teaching/python-mooc/week1_assignment_questions) |
+[< Previous unit](/teaching/python-mooc/week1_assignment_questions) | [Next unit >](/teaching/python-mooc/week1_assignment_exercise_solution) |
 [Course Overview](/teaching/python-mooc)

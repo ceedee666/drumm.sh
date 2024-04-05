@@ -11,5 +11,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_unit2_selftest) | [Next unit >](/teaching/python-mooc/week3_unit1_exercise) |
+[< Previous unit](/teaching/python-mooc/week3_unit1_exercise) | [Next unit >](/teaching/python-mooc/week3_unit2_selftest) |
 [Course Overview](/teaching/python-mooc)

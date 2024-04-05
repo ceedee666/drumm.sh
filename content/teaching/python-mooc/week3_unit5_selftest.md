@@ -44,5 +44,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week3_unit6_while_loop) | [Next unit >](/teaching/python-mooc/week3_unit5_important_funcs) |
+[< Previous unit](/teaching/python-mooc/week3_unit5_important_funcs) | [Next unit >](/teaching/python-mooc/week3_unit6_while_loop) |
 [Course Overview](/teaching/python-mooc)

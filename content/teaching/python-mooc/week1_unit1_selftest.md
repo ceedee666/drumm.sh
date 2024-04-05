@@ -68,5 +68,5 @@ _There are 3 correct answers to this question._
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week1_unit2_using_variables) | [Next unit >](/teaching/python-mooc/week1_unit1_first_steps_in_python) |
+[< Previous unit](/teaching/python-mooc/week1_unit1_first_steps_in_python) | [Next unit >](/teaching/python-mooc/week1_unit2_using_variables) |
 [Course Overview](/teaching/python-mooc)

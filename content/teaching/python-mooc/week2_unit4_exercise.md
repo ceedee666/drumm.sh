@@ -17,5 +17,5 @@ As you plan to take some of the profits, write a program that creates a list of 
 
 ---
 
-[< Previous unit](/teaching/python-mooc/week2_unit5_using_ranges) | [Next unit >](/teaching/python-mooc/week2_unit4_selftest) |
+[< Previous unit](/teaching/python-mooc/week2_unit4_selftest) | [Next unit >](/teaching/python-mooc/week2_unit5_using_ranges) |
 [Course Overview](/teaching/python-mooc)
