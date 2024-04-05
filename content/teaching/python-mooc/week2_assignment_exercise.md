@@ -18,7 +18,7 @@ Based on this data, calculate the required production quantity as follows:
 
 Below is an example execution of the program:
 
-```Py
+```
 Please enter an initial stock level: 500
 Please enter the number of month to plan: 5
 Please enter the planned sales quantity: 300

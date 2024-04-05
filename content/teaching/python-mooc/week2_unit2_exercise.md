@@ -12,7 +12,7 @@ Below you find a code snippet to create a Python list containing the titles of a
 + A list containing the titles of the sequel trilogy: The Force Awakens, The Last Jedi, The Rise of Skywalker
 
 *Code snippet:*
-```Py
+```
 star_wars_movies = [
     ["The Phantom Menace", "Attack of the Clones", "Revenge of the Sith"],
     ["A New Hope", "The Empire Strikes Back", "Return of the Jedi"],

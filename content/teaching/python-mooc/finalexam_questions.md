@@ -1012,5 +1012,5 @@ tags: ["FH Aachen", "Thesis"]
 
 ---
 
-[< Previous unit](/teaching/python-mooc/finalexam_exercise) | [Next unit >](/teaching/python-mooc/welcome_to_finalexam) |
+[< Previous unit](/teaching/python-mooc/welcome_to_finalexam) | [Next unit >](/teaching/python-mooc/finalexam_exercise) |
 [Course Overview](/teaching/python-mooc)
