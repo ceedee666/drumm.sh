@@ -2,7 +2,7 @@
 title: "Final Exam (Part 1 - Questions)"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 ### Question 1

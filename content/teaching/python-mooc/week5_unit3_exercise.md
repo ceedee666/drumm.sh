@@ -2,7 +2,7 @@
 title: "Week 5 Unit 3: Exercise"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 Implement the function ```is_even(number)``` which gets an integer as input parameter and checks, if this input is even or not. ```is_even()``` will return the boolean value ```True``` if the value is even and ```False``` if the input is not even.

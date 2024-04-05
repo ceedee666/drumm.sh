@@ -2,7 +2,7 @@
 title: "Week 6 Unit 2: Importing libraries"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Importing libraries](https://img.youtube.com/vi/ZusnPbkz7UE/hqdefault.jpg)](https://youtu.be/ZusnPbkz7UE)

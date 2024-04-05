@@ -2,7 +2,7 @@
 title: "Week 5 Unit 2: Returning results from functions "
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Returning results from functions](https://img.youtube.com/vi/eDwuzfLJQzk/hqdefault.jpg)](https://youtu.be/eDwuzfLJQzk)

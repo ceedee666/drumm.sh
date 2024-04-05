@@ -2,7 +2,7 @@
 title: "Week 3 Unit 1: What are tuples?"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![What are tuples?](https://img.youtube.com/vi/szNgmVOBayg/hqdefault.jpg)](https://youtu.be/szNgmVOBayg)

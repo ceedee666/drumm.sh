@@ -2,7 +2,7 @@
 title: "Week 3 Unit 6: While loop"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![While loop](https://img.youtube.com/vi/71lRKcrKP-Y/hqdefault.jpg)](https://youtu.be/71lRKcrKP-Y)

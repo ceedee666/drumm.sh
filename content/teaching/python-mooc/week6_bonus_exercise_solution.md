@@ -2,7 +2,7 @@
 title: "Week 6 Bonus Exercise Solution"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Assignment Solution](https://img.youtube.com/vi/IOiTVMakae4/hqdefault.jpg)](https://youtu.be/IOiTVMakae4)

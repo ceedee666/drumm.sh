@@ -2,7 +2,7 @@
 title: "Week 3 Assignment Solution"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Safe dictionary access](https://img.youtube.com/vi/pbMeeGn0O0c/hqdefault.jpg)](https://youtu.be/pbMeeGn0O0c)

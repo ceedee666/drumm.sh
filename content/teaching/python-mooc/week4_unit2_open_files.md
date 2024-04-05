@@ -2,7 +2,7 @@
 title: "Week 4 Unit 2: Opening and closing files"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Opening and closing files](https://img.youtube.com/vi/PWiqjuhHyqM/hqdefault.jpg)](https://youtu.be/PWiqjuhHyqM)

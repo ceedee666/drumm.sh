@@ -2,12 +2,12 @@
 title: "Week 6 Unit 3: Self-test"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 ### Question 1
 
-#### What are the libraries ```random```, ```math``` and ```statistics``` part of?
+#### What are the libraries `random`, `math` and `statistics` part of?
 
 <br>
 
@@ -16,18 +16,15 @@ tags: ["FH Aachen", "Thesis"]
 	❌
 </details>
 
-
 <details>
 	<summary>Python Common Library</summary>
 	❌
 </details>
 
-
 <details>
 	<summary>Python Basic Library</summary>
 	❌
 </details>
-
 
 <details>
 	<summary>Python Standard Library</summary>

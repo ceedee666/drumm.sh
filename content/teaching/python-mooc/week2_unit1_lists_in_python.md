@@ -2,7 +2,7 @@
 title: "Week 2 Unit 1: What are lists in Python?"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![What are lists in Python?](https://img.youtube.com/vi/63DW3dxF2CI/hqdefault.jpg)](https://youtu.be/63DW3dxF2CI)

@@ -2,7 +2,7 @@
 title: "Week 6 Bonus Exercise"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 ### Compute π using a random number generator

@@ -2,7 +2,7 @@
 title: "Week 2 Unit 4: Iterating using the for loop"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Iterating using the for loop](https://img.youtube.com/vi/qAJqjz8WFgE/hqdefault.jpg)](https://youtu.be/qAJqjz8WFgE)

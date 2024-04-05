@@ -2,7 +2,7 @@
 title: "Week 1 Unit 4: What is a data type?"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![What is a data type?](https://img.youtube.com/vi/Uj02KfElMD0/hqdefault.jpg)](https://youtu.be/Uj02KfElMD0)

@@ -2,7 +2,7 @@
 title: "Week 6 Unit 7: Course summary"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Course summary](https://img.youtube.com/vi/P8nh-pztzK4/hqdefault.jpg)](https://youtu.be/P8nh-pztzK4)

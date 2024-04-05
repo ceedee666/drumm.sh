@@ -2,20 +2,21 @@
 title: "Week 1 Unit 3: Exercise"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 Write a Python program that asks the user to enter:
 
-+ A name
-+ A start city
-+ A destination city and
-+ A means of transportation
+- A name
+- A start city
+- A destination city and
+- A means of transportation
 
-The program should then print that the *name* wants to travel from *start* to *destination* by *means of transportation*.
+The program should then print that the _name_ wants to travel from _start_ to _destination_ by _means of transportation_.
 
 Below is an example execution of the program:
-```
+
+```zsh
 Please enter a name: Christian
 Please enter a start: Aachen
 Please enter a destination: Berlin

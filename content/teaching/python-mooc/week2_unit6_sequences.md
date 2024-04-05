@@ -2,7 +2,7 @@
 title: "Week 2 Unit 6: Sequences"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Sequences](https://img.youtube.com/vi/R5sYRwKizi8/hqdefault.jpg)](https://youtu.be/R5sYRwKizi8)

@@ -2,7 +2,7 @@
 title: "Week 0 Unit 2: Installing Python and Jupyter"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 To participate in this course, you need to install Python and Jupyter Notebook.

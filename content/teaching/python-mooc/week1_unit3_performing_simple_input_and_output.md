@@ -2,7 +2,7 @@
 title: "Week 1 Unit 3: Performing simple input and output"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![First steps in Python](https://img.youtube.com/vi/PbZF55lhyik/hqdefault.jpg)](https://youtu.be/PbZF55lhyik)

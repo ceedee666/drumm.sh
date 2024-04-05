@@ -2,7 +2,7 @@
 title: "Week 1 Unit 2: Using variables"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![First steps in Python](https://img.youtube.com/vi/vPGZ-ArunNc/hqdefault.jpg)](https://youtu.be/vPGZ-ArunNc)

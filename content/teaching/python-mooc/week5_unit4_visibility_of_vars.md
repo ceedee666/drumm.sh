@@ -2,7 +2,7 @@
 title: "Week 5 Unit 4: Visibility of variables"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Visibility of variables](https://img.youtube.com/vi/8ucLbE5g3d8/hqdefault.jpg)](https://youtu.be/8ucLbE5g3d8)

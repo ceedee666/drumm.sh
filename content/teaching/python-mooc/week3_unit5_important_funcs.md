@@ -2,7 +2,7 @@
 title: "Week 3 Unit 5: Important functions and methods for complex data types"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Safe dictionary access](https://img.youtube.com/vi/CE98xSLnI1k/hqdefault.jpg)](https://youtu.be/CE98xSLnI1k)

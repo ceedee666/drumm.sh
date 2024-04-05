@@ -2,7 +2,7 @@
 title: "Week 1 Unit 6: Using multiple if statements"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Using multiple if statements](https://img.youtube.com/vi/D4MOdpW0sHQ/hqdefault.jpg)](https://youtu.be/D4MOdpW0sHQ)

@@ -2,7 +2,7 @@
 title: "Week 0 Unit 3: How to use Jupyter Notebooks"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![How to use Jupyter Notebooks](https://img.youtube.com/vi/8CVzFgbdDa8/hqdefault.jpg)](https://youtu.be/8CVzFgbdDa8)

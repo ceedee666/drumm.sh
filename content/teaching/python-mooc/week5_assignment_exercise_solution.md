@@ -2,7 +2,7 @@
 title: "Week 5 Assignment Solution"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![Assignment Solution](https://img.youtube.com/vi/H3Cr5Cn1qBk/hqdefault.jpg)](https://youtu.be/H3Cr5Cn1qBk)

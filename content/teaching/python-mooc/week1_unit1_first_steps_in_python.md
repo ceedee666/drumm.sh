@@ -2,7 +2,7 @@
 title: "Week 1 Unit 1: First steps in Python"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 [![First steps in Python](https://img.youtube.com/vi/Us6Y3uuw3-A/hqdefault.jpg)](https://youtu.be/Us6Y3uuw3-A)

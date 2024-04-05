@@ -2,44 +2,40 @@
 title: "Week 6 Unit 5: Self-test"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 ### Question 1
 
-#### Which of the following statements about the ```pip``` command are correct?
+Which of the following statements about the `pip` command are correct?
 
-*Note: There are 3 correct answers to this question.*
+_Note: There are 3 correct answers to this question._
 
 <br>
 
 <details>
 	<summary>"pip" can only be executed by a system administrator</summary>
-	‚ùå
+	ø
 </details>
-
 
 <details>
 	<summary>"pip" downloads the packages from Google's Play Store</summary>
-	‚ùå
+	ø
 </details>
-
 
 <details>
 	<summary>"pip" ensures the consistency of all installed packages. If, for example, you want to install library A which requires library B, then B is automatically installed as well.</summary>
-	‚úÖ
+	ø
 </details>
-
 
 <details>
 	<summary>The "pip" command is usually executed in the cmd-shell or in a terminal.</summary>
-	‚úÖ
+	ø
 </details>
 
-
 <details>
-	<summary>"pip" is an abbreviation for "Pip installs packagesî</summary>
-	‚úÖ
+	<summary>"pip" is an abbreviation for "Pip installs packages"</summary>
+	ø
 </details>
 
 ---

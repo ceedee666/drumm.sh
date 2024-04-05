@@ -2,14 +2,14 @@
 title: "Week 1 Unit 5: Exercise"
 language: "en"
 published: true
-tags: ["FH Aachen", "Thesis"]
+tags: ["FH Aachen", "Python"]
 ---
 
 Write a Python program that asks the user to enter three integer numbers. The program should output the largest of the three numbers.
 
 Below is an example execution of the program:
 
-```
+```zsh
 Please enter the first number: 23
 Please enter the second number: 42
 Please enter the third number: 11
