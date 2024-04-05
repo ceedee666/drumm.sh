@@ -25,7 +25,7 @@ Using this substitutions, a plain text can be encrypted:
 
 Your task for the bonus exercise is the implementation of a Caesar cipher with a variable shift. The program should ask the user for a number of characters for the shift first. Next the program should ask the user for a plain text sentence and print the encrypted text. Here is an example execution of the program:
 
-```Py
+```
 Please enter the number of places to shift: 5
 Please enter a sentence: python is fun!
 The encrypted sentence is: udymts nx kzs!
@@ -35,7 +35,7 @@ The encrypted sentence is: udymts nx kzs!
 
 Here is another execution of the program:
 
-```Py
+```
 Please enter the number of places to shift: 10
 Please enter a sentence: python is fun!
 The encrypted sentence is: zidryx sc pex!
@@ -45,7 +45,7 @@ The encrypted sentence is: zidryx sc pex!
 
 And yet another one:
 
-```Py
+```
 Please enter the number of places to shift: 0
 Please enter a sentence: python is fun!
 The encrypted sentence is: python is fun!
@@ -55,7 +55,7 @@ The encrypted sentence is: python is fun!
 
 Your program should check that only numbers between 0 and 25 are entered for the number of places to shift!
 
-```Py
+```
 Please enter the number of places to shift: 60
 You need to enter a number between 0 and 25!
 ```
@@ -71,7 +71,7 @@ You need to enter a number between 0 and 25!
 
 The result of the following example
 
-```Py
+```
 s = "TEST"
 s = s.lower()
 print(s)
@@ -79,7 +79,7 @@ print(s)
 
 is:
 
-```Py
+```
 test
 ```
 

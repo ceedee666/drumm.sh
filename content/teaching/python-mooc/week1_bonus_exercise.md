@@ -23,7 +23,7 @@ Write a program that asks the user for the numbers a, b and c. The program shoul
 
 Below is an example execution of the program:
 
-```Py
+```
 Please enter the value of a: 4
 Please enter the value of b: 2
 Please enter the value of c: -2
@@ -32,7 +32,7 @@ The quadratic equation has 2 real solutions.
 ```
 Here is an another example execution of the program:
 
-```Py
+```
 Please enter the value of a: 1
 Please enter the value of b: 2
 Please enter the value of c: 3
@@ -42,7 +42,7 @@ The quadratic equation has 2 complex solutions.
 
 And here is yet another example execution of the program:
 
-```Py
+```
 Please enter the value of a: 1
 Please enter the value of b: 2
 Please enter the value of c: 1

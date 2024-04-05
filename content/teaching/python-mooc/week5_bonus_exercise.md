@@ -18,7 +18,7 @@ The program finally outputs the list of all prime numbers.
 
 ### Example 1:
 
-```Py
+```
 Up to which number do you want all prime numbers: 100
 [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
 ```
@@ -27,7 +27,7 @@ Up to which number do you want all prime numbers: 100
 
 ### Example 2:
 
-```Py
+```
 Up to which number do you want all prime numbers: 13
 [2, 3, 5, 7, 11, 13]
 ```

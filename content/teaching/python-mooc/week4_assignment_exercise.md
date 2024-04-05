@@ -15,7 +15,7 @@ Please note: When programming your solution in CodeOcean, files created by your 
 
 If the file [secret.txt](files/secret.txt) contains the following input:
 
-```Py
+```
 #
 #
 #
@@ -34,7 +34,7 @@ If the file [secret.txt](files/secret.txt) contains the following input:
 
 and the file [key.txt](files/key.txt) contains the following numbers:
 
-```Py
+```
 3
 4
 ```
@@ -43,7 +43,7 @@ and the file [key.txt](files/key.txt) contains the following numbers:
 
 then the content in the file public.txt should be as follows:
 
-```Py
+```
 ###
 .#.
 .#.

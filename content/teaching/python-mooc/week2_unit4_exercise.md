@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Thesis"]
 
 You are given the following list containing stock symbols, their current price as well as the absolute price change of the previous day:
 
-```Py
+```
 stocks = [["SAP", 106, -3.0], ["AAPL", 165, 1.25], ["TSLA", 860, 54.2], ["ORCL", 76, -0.25], ["ZM", 114, 6.2]]
 ```
 

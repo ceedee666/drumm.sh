@@ -47,7 +47,7 @@ Write a program that asks the user for a search term. Perform a search using the
 
 Below is an example execution of the program. Note that the output is abbreviated.
 
-```Py
+```
 Please enter a search term: cash
 The search returned 50 results.
 Artist: Luke Bryan - Album: Crash My Party - Track Count: 13
