@@ -25,7 +25,7 @@ Using the library ```random``` create 10,000 random points inside the square. Th
 
 Below is an example execution of the program. Note that your values might be different.
 
-```Py
+```
 Calculated value of π: 3.1396
 Value of π from math library: 3.141592653589793
 Difference: -0.0019926535897929476

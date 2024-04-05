@@ -15,7 +15,7 @@ Write a Python program that asks the user to enter:
 The program should then print that the *name* wants to travel from *start* to *destination* by *means of transportation*.
 
 Below is an example execution of the program:
-```Py
+```
 Please enter a name: Christian
 Please enter a start: Aachen
 Please enter a destination: Berlin

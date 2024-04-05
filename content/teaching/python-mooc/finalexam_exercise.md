@@ -26,7 +26,7 @@ Your task for the final assignment is to implement a [Wordle](https://en.wikiped
 
 Below is an example execution of the program:
 
-```Py
+```
 Please enter a guess: aaaaa
 That's not a real word!
 Please enter a guess: bbbbb
@@ -51,7 +51,7 @@ The word was: visor
 
 And here is another example execution of the program:
 
-```Py
+```
 Please enter a guess: hello
 OO___
 Please enter a guess: there

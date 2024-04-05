@@ -9,7 +9,7 @@ One of the nice features of Python is that it supports Unicode. Therefore it is 
 
 Below is a dictionary that maps English terms to Emojis (broken into multiple lines for better readability).
 
-```Py
+```
 {
 "happy": "😃",
 "heart": "😍",
@@ -42,7 +42,7 @@ Use this dictionary to build a program that:
 
 Below is an example execution of the program:
 
-```Py
+```
 Please enter a sentence: I'm so excited to learn python
 I'm so 🤩 to finally learn 🐍
 ```
@@ -51,7 +51,7 @@ I'm so 🤩 to finally learn 🐍
 
 Use the *.split()* method to split a sentence into its words. The result of
 
-```Py
+```
 sentence = "This is a test"
 words = sentence.split()
 print(words)
@@ -61,7 +61,7 @@ print(words)
 
 is
 
-```Py
+```
 ["This", "is", "a", "test"]
 ```
 

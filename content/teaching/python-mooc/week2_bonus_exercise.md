@@ -9,7 +9,7 @@ Write a Python program that prints the numbers from 1 to 100. If the number is d
 
 Below is the output of the program for the first 15 numbers:
 
-```Py
+```
 1
 2
 Fizz

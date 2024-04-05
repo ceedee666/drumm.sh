@@ -11,7 +11,7 @@ Implement a ```for``` loop which iterates over the ```range(100)```. Within the 
 
 Example output:
 
-```Py
+```
 0 is even
 1 is not even
 2 is even

@@ -17,7 +17,7 @@ In the following, we play 100 consecutive games. Each player has to hand in a fi
 
 Write a Python program that reads two files [player1.txt](files/player1.txt) and [player2.txt](files/player2.txt). These files are organized according to the above rules. The program should compare both inputs and calculate how many games have been won by player1, by player2 and how many games ended in a draw. The results are written into a file ```result.txt``` which looks as follows:
 
-```Py
+```
 Player1 wins: 23
 Player2 wins: 48
 Draws: 29

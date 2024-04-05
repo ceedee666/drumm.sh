@@ -9,7 +9,7 @@ Write a Python program that asks the user to enter three integer numbers. The pr
 
 Below is an example execution of the program:
 
-```Py
+```
 Please enter the first number: 23
 Please enter the second number: 42
 Please enter the third number: 11
