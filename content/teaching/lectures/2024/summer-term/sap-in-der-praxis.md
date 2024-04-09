@@ -22,7 +22,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt:
   - Dienstag, 14:15h - 15:45h, W003
 - **Praktikum**
   - Gruppe 1: Mittwoch, 10:00 - 11:30, W104
-  - Gruppe 2: Mittwoch, 12:15 - 13:45h, W104 & Remote in WebEx
+  - Gruppe 2: Mittwoch, 12:15 - 13:45h, W104Remote in WebEx
 
 | Datum    | Thema                                    | Vorbereitung <sup id="a1">[1](#f1)</sup>                                                                                                                                                                                                                                                                                                                       | Praktikum <sup id="a2">[2](#f2)</sup>                                                                                                        | Abgabe <sup id="a3">[3](#f3)</sup>           |
 | -------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -88,6 +88,6 @@ Diese finden Sie unter folgenden Links:
 
 <b id="f1">[1]:</b> Inhalte müssen vor der Vorlesung vorbereitet werden.
 Inhalte der Buchkapitel sind prüfungsrelevant. Videos optional als Ergänzung.[↩](#a1)</br>
-<b id="f2">[2]:</b> Verpflichten Abgabe des Praktikums. 50% der Gesamtpunkte. [↩](#a2)</br>
+<b id="f2">[2]:</b> Verpflichten Abgabe des Praktikums. 40% der Gesamtpunkte. [↩](#a2)</br>
 <b id="f3">[3]:</b> Optional Abgabe für Noten-Boost 🚀. [↩](#a3)</br>
 <b id="f4">[4]:</b> Für die Bearbeitung des Praxisfalls haben Sie 2 Wochen Zeit. [↩](#a4)</br>
