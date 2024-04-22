@@ -9,6 +9,8 @@ tags: ["FH Aachen", "Python"]
 
 [**Download Jupyter Notebook for this unit**](files/Week_4_Unit_2_openclose_notebook.ipynb)
 
+[**Download the lorem_ipsum.txt file**](files/lorem_ipsum.txt)
+
 ---
 
 [< Previous unit](/teaching/python-mooc/week4_unit1_selftest) | [Next unit >](/teaching/python-mooc/week4_unit2_selftest) |

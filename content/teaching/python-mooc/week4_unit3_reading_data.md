@@ -13,6 +13,8 @@ tags: ["FH Aachen", "Python"]
 
 [**Download Jupyter Notebook for this unit**](files/Week_4_Unit_3_readdata_notebook.ipynb)
 
+[**Download the numbers2.txt file**](files/numbers2.txt)
+
 ---
 
 [< Previous unit](/teaching/python-mooc/week4_unit2_selftest) | [Next unit >](/teaching/python-mooc/week4_unit3_selftest) |
