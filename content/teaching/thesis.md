@@ -26,6 +26,11 @@ own idea for a topic please feel free to contact me as well.
 1. Development and Evaluation of a case study for Robotic Process Automation
 1. Analysis of request for quotations in ERP projects with respect to digitalization
 
+### Generative AI
+
+1. Integration of generative AI into information and knowledge management systems
+   (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/ai-knowledge-management))
+
 ### Leaning & Teaching
 
 1. Simplify automated testing in MOOCs
@@ -40,12 +45,6 @@ own idea for a topic please feel free to contact me as well.
 ### Low Code & No Code
 
 1. Comparison of different Low Code / No Code platforms
-1. Development of a solution integrated ALM framework for business users
-   (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/alm_framework))
-1. Classification of IT processes in local government entities (in cooperation
-   with [jovoco](https://www.jovoco.io/), [further details](topics/process_classification))
-1. Conceptualization of open banking integrated PowerPlatform services (in
-   cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/open_banking))
 
 ### Software Development
 
