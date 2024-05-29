@@ -62,10 +62,10 @@ tags: ["FH Aachen"]
    formulieren, sie machen aber inhaltliche Fehler und reproduzieren Vorurteile.
    Bevor Sie also mit Ergebnissen und Impulsen weiterarbeiten, müssen Sie diese überprüfen
    und gegebenenfalls überarbeiten. Das Werkzeug denkt nicht für Sie, sondern Sie
-   denken mit Hilfe des Werkzeugs. Theoretischer Hintergrund ist der Ansatz der ver-
-   teilten Kognition: ”Cognitions become ‘distributed’ in the sense that the tool and
-   its human partner think jointly. Whatever is produced is product of the joint sys-
-   tem, resulting from the pooling together of the intelligences of both partners [...]“
+   denken mit Hilfe des Werkzeugs. Theoretischer Hintergrund ist der Ansatz der
+   verteilten Kognition: ”Cognitions become ‘distributed’ in the sense that the tool and
+   its human partner think jointly. Whatever is produced is product of the joint
+   system, resulting from the pooling together of the intelligences of both partners [...]“
    (Salomon, 1993, S. 182). Am Ende stehen Sie aber für Ihre Lösung ein. Sie müssen
    Ihre Lösung anderen erklären können. Und für Fehler in der Lösung sind Sie
    verantwortlich (nicht das Werkzeug).
@@ -84,8 +84,8 @@ tags: ["FH Aachen"]
    sein, wenn diese zugestimmt haben (Was meine Person angeht, erteile ich Ihnen die
    Erlaubnis, wenn Sie die eben genannten Regeln beachten). Für Verlinkungen finden
    Sie meine Social-Media-Accounts am Ende des Dokuments.
-5. Keine Regeln ohne Ausnahmen. Wenn in Lern- oder Prüfungssituationen Hilfs-
-   mittel nicht erlaubt sind, dann teile ich Ihnen das mit.
+5. Keine Regeln ohne Ausnahmen. Wenn in Lern- oder Prüfungssituationen Hilfsmittel
+   nicht erlaubt sind, dann teile ich Ihnen das mit.
    Ich liefere Ihnen auch eine Begründung dafür.
 
 ## References
@@ -96,8 +96,8 @@ Writing Partner. In S. P. Lajoie & S. J. Derry (Eds.), Computers as Cognitive To
 
 ## Copyright
 
-This document is subject to the Creative Commons Attribution Share-Alike 4.0 Interna-
-tional (CC BY-SA 4.0) License.
+This document is subject to the Creative Commons Attribution Share-Alike 4.0
+International (CC BY-SA 4.0) License.
 
 The document is based on the [Rules for Tools](https://csp.uber.space/phhd/rulesfortools.pdf) of
 Prof. Dr. Christian Spannagel.
