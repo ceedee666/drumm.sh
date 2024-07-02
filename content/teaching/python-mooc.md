@@ -9,7 +9,7 @@ This is a archived version of the Python for Beginners MOOC. The course
 was initially presented in April 2022 on [OpenSAP](https://open.sap.com).
 When the OpenSAP platform was closed more than 55.600 learners participated
 in the course and rated it 4,6 from 5 stars.
-![Python for Beginners participants](./python-mooc/imgs/mooc_participants.png)
+![Python for Beginners participants](./python-mooc/imgs/mooc_rating.png)
 
 ## Week 0
 
