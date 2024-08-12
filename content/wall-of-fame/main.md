@@ -16,3 +16,9 @@ their permission before publishing their names and photos here.
 | **[SAP in der Praxis](/teaching/lectures/2023/winter_term/sap_in_der_praxis)**                       | Dilara Pepeoglu | [LinkedIn](http://linkedin.com/in/dilara-pepeoglu-214619295)   |
 |                                                                                                      | Jana Küppers    |                                                                |
 | **[Business Information Systems](/teaching/lectures/2023/winter_term/business_information_systems)** | Fabian Haese    | [LinkedIn](https://www.linkedin.com/in/fabian-haese-182331277) |
+
+## Summer Term 2024
+
+| Lecture                                                                        | Student Name  | Social Media |
+| ------------------------------------------------------------------------------ | ------------- | ------------ |
+| **[SAP in der Praxis](/teaching/lectures/2024/summer_term/sap_in_der_praxis)** | Niklas Lüßgen |              |
