@@ -19,6 +19,7 @@ their permission before publishing their names and photos here.
 
 ## Summer Term 2024
 
-| Lecture                                                                        | Student Name  | Social Media |
-| ------------------------------------------------------------------------------ | ------------- | ------------ |
-| **[SAP in der Praxis](/teaching/lectures/2024/summer_term/sap_in_der_praxis)** | Niklas Lüßgen |              |
+| Lecture                                                                                    | Student Name  | Social Media |
+| ------------------------------------------------------------------------------------------ | ------------- | ------------ |
+| **[Informationssysteme](/content/teaching/lectures/2024/summer-term/informationssysteme)** | Eva Mainz     |              |
+| **[SAP in der Praxis](/teaching/lectures/2024/summer-term/sap-in-der-praxis)**             | Niklas Lüßgen |              |
