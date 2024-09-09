@@ -5,6 +5,13 @@ published: true
 tags: ["FH Aachen", "lectures"]
 ---
 
+## Summer Term 2024 ☀️
+
+- [Digital Lab](/teaching/lectures/2024/summer-term/digital-lab)
+- [Industrielle Produktion](/teaching/lectures/2024/summer-term/industrielle-produktion)
+- [Informationssysteme](/teaching/lectures/2024/summer-term/informationssysteme)
+- [SAP in der Praxis](/teaching/lectures/2024/summer-term/sap-in-der-praxis)
+
 ## Winter Term 2023/2024 ❄️
 
 - [Business Information Systems](/teaching/lectures/2023/winter_term/business_information_systems)
