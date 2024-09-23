@@ -26,6 +26,10 @@ Bewertung des Moduls setzt sich aus folgenden Prüfungsteilen zusammen:
 
 Zum bestehen des Moduls müssen beide Prüfungsteile bestanden werden.
 
+Außerdem bestehen für die Klausur folgende Zulassungsvoraussetzungen:
+
+- Bestehen des [openHPI-Kurses](https://open.hpi.de/courses/python-wt2024/)
+
 ## Zeitplan
 
 Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
@@ -57,10 +61,9 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 
 ## Wichtige Links
 
-| Link                                                                  | Beschreibung                                                   |
-| --------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Python for Beginners](https://open.hpi.de/courses/python-wt2024/)    | openHPI Kurs zu Python                                         |
-| [Python Cheat Sheet](https://www.pythoncheatsheet.org/)               | Kurzreferenz zu Python und einem Teil der Standardbibliotheken |
-| [Praktikumsaufgaben](http://wirtschaftsinformatik.fh-aachen.de/IT1/)  | Webseite mit den Aufgaben zum Praktikum                        |
-| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1161081.html) | Ilias-Ordner des Moduls                                        |
-| [Forum](https://forum.drumm.sh)                                       | Diskussionsforum des Moduls                                    |
+| Link                                                               | Beschreibung                                                   |
+| ------------------------------------------------------------------ | -------------------------------------------------------------- |
+| [Python for Beginners](https://open.hpi.de/courses/python-wt2024/) | openHPI Kurs zu Python                                         |
+| [Python Cheat Sheet](https://www.pythoncheatsheet.org/)            | Kurzreferenz zu Python und einem Teil der Standardbibliotheken |
+| [Ilias (folgt)]()                                                  | Ilias-Ordner des Moduls                                        |
+| [Forum](https://forum.drumm.sh)                                    | Diskussionsforum des Moduls                                    |
