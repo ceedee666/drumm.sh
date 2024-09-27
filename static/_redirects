@@ -1,13 +1,13 @@
 ## netlify redirects
 ## from_url to_url
-/sap                  /teaching/lectures/2024/summer-term/sap-in-der-praxis
 /bis                  /teaching/lectures/2024/winter-term/business-information-systems
-/prog                 /teaching/lectures/2024/winter-term/programmierung
 /cbis                 /teaching/lectures/2024/winter-term/cloud-based-is
+/prog                 /teaching/lectures/2024/winter-term/programmierung
 /si                   /teaching/lectures/2024/winter-term/systems-integration
+/dl                   /teaching/lectures/2024/summer-term/digital-lab
 /is                   /teaching/lectures/2024/summer-term/informationssysteme
 /ip                   /teaching/lectures/2024/summer-term/industrielle-produktion
-/dl                   /teaching/lectures/2024/summer-term/digital-lab
+/sap                  /teaching/lectures/2024/summer-term/sap-in-der-praxis
 /ba                   /teaching/thesis
 /la                   /teaching/learning-agreement
 /vip                  /teaching/learning-agreement
