@@ -77,5 +77,6 @@ The lectures and the labs take place on the following days:
 
 ## References
 
-| Link | Beschreibung |
-| ---- | ------------ |
+| Link                                                                                 | Beschreibung                                                                   |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [Github repository](https://github.com/ceedee666/systems-integration) of the lecture | This repository contains all the lecture content as well as the lab exercises. |
