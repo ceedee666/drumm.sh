@@ -30,8 +30,8 @@ Microsoft verwendet werden.
 Die Vorlesungen findet zu den folgenden Terminen statt:
 
 - **Vorlesung**
-  - Mittwoch, 08:15 - 09:45h, W002
-  - Mittwoch, 10:00 - 11:30h, W002
+  - Dienstag, 08:15 - 09:45h, W002
+  - Dienstag, 10:00 - 11:30h, W002
 
 Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 
