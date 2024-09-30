@@ -1,6 +1,6 @@
 ---
 title: "Learning Agreement"
-language: ["de", "en"]
+language: "en"
 published: true
 tags: ["FH Aachen"]
 ---
