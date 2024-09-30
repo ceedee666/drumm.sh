@@ -112,6 +112,17 @@ const HomePage = () => {
                 </a>
               </li>
               <li>
+                Coach @{" "}
+                <a
+                  href="https://ase-coaching.com/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  ASE Coaching
+                </a>
+              </li>
+
+              <li>
                 <a
                   href="https://community.sap.com/programs/influencer-programs/champions"
                   target="_blank"
@@ -119,7 +130,7 @@ const HomePage = () => {
                 >
                   SAP Champion
                 </a>{" "}
-                and Member of the{" "}
+                and former member of the{" "}
                 <a
                   href="https://events.sap.com/de/sap-next-gen/en/contact"
                   target="_blank"
