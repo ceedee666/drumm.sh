@@ -102,4 +102,4 @@ Die beiden Präsentationen werden auf Basis der folgenden Kriterien bewertet.
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | [Github](https://github.com/ceedee666/cloud_based_is)                                     | Github-Repository zum Modul                        |
 | [M365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) | Einstiegsseite zum Microsoft 365 Developer Program |
-| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1160352.html)                     | Ilias-Ordner zum Modul                             |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1312617.html)                     | Ilias-Ordner zum Modul                             |

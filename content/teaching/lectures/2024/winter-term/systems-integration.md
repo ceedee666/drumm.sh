@@ -80,3 +80,4 @@ The lectures and the labs take place on the following days:
 | Link                                                                                 | Beschreibung                                                                   |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | [Github repository](https://github.com/ceedee666/systems-integration) of the lecture | This repository contains all the lecture content as well as the lab exercises. |
+| [Ilias](https://www.ili.fh-aachen.de/goto_elearning_crs_1312630.html)                | Ilias learning room for the lecture                                            |
