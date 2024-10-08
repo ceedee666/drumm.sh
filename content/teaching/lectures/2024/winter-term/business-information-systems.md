@@ -64,7 +64,7 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
 2. Zugriff auf das SAP S/4HANA System über Ihren Webbrowser
    - URL: [https://drumm.sh/s4](https://drumm.sh/s4)
    - Benutzername: LEARN-###
-   - Mandat: 216 (Wichtig! Häufiger Fehler!)
+   - Mandat: 285 (Wichtig! Häufiger Fehler!)
 
 ## Literatur
 
