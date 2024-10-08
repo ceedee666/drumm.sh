@@ -50,16 +50,16 @@ Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 | **48** | 26.11.24 08:15h | Office Hour mit Microsoft                         |                                                                            |
 |        | 26.11.24 09:15h | Projektarbeit, Sprint Review & Retro              |                                                                            |
 | **49** | 03.12.24        | **Mid-Term Presentation**                         |                                                                            |
-| **50** | 13.12.24        | Office Hour mit Microsoft                         |                                                                            |
-| **50** | 13.12.24        | Projektarbeit, Sprint Review & Retro              |                                                                            |
-| **51** | 20.12.24 08:15h | Office Hour mit Microsoft                         |                                                                            |
-|        | 20.12.24 09:15h | Projektarbeit, Sprint Review & Retro              |                                                                            |
-| **52** | 26.12.24        | ⚠️ **Keine Vorlesung**                            |                                                                            |
-|  **1** | 03.01.25        | ⚠️ **Keine Vorlesung**                            |                                                                            |
-|  **2** | 10.01.25        | Vorstellung Projektergebnisse                     |                                                                            |
-|        | 10.01.25        | Vorstellung Projektergebnisse                     |                                                                            |
-|  **3** | 17.01.25        | Erstellung Tutorial / Lernvideo                   |                                                                            |
-|  **4** | 24.01.25        | Erstellung Tutorial / Lernvideo                   |                                                                            |
+| **50** | 10.12.24        | Office Hour mit Microsoft                         |                                                                            |
+| **50** | 10.12.24        | Projektarbeit, Sprint Review & Retro              |                                                                            |
+| **51** | 17.12.24 08:15h | Office Hour mit Microsoft                         |                                                                            |
+|        | 17.12.24 09:15h | Projektarbeit, Sprint Review & Retro              |                                                                            |
+| **52** | 24.12.24        | ⚠️ **Keine Vorlesung**                            |                                                                            |
+|  **1** | 31.12.24        | ⚠️ **Keine Vorlesung**                            |                                                                            |
+|  **2** | 07.01.25        | Vorstellung Projektergebnisse                     |                                                                            |
+|        | 07.01.25        | Vorstellung Projektergebnisse                     |                                                                            |
+|  **3** | 14.01.25        | Erstellung Tutorial / Lernvideo                   |                                                                            |
+|  **4** | 21.01.25        | Erstellung Tutorial / Lernvideo                   |                                                                            |
 
 ## Bewertung
 
