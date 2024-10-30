@@ -49,8 +49,8 @@ The lectures and the labs take place on the following days:
 |   43 | 22.10.24 | Query languages                 |
 |      | 23.10.24 | Lab                             |
 |   44 | 29.10.24 | Mapping languages               |
-|      | 30.10.24 | Lab                             |
-|   45 | 05.11.24 | Protocols                       |
+|      | 30.10.24 | Protocols                       |
+|   45 | 05.11.24 | Enterprise integration patterns |
 |      | 06.11.24 | Lab                             |
 |   46 | 12.11.24 | Enterprise integration patterns |
 |      | 13.11.24 | Lab                             |
