@@ -50,10 +50,10 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 |  45 | 06.11.24 | Arbeiten mit Dateien & Funktionen                 | Woche 5       |             |
 |  46 | 13.11.24 | Bibliotheken                                      | Woche 6       |             |
 |  47 | 20.11.24 | **keine Vorlesung**                               |               |             |
-|  48 | 20.11.24 | Visualisierung von Daten mit matplotlib           |               | Praktikum 1 |
-|  49 | 27.11.24 | Einführung in Scientific Computing mit numpy      |               | Praktikum 2 |
-|  50 | 04.12.24 | Datenverarbeitung und Datenanalyse mit pandas     |               |             |
-|  51 | 11.12.24 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 3 |
+|  48 | 27.11.24 | Visualisierung von Daten mit matplotlib           |               | Praktikum 1 |
+|  49 | 04.11.24 | Einführung in Scientific Computing mit numpy      |               | Praktikum 2 |
+|  50 | 11.12.24 | Datenverarbeitung und Datenanalyse mit pandas     |               |             |
+|  51 | 18.12.24 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 3 |
 |  52 | 25.12.24 | **keine Vorlesung**                               |               |             |
 |   1 | 01.01.25 | **keine Vorlesung**                               |               |             |
 |   2 | 08.01.25 | Projekt - keine Vorlesung                         |               |             |
