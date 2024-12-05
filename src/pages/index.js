@@ -3,7 +3,13 @@ import { Row, Col, Image } from "react-bootstrap";
 
 import { graphql, useStaticQuery } from "gatsby";
 
-import { SiMastodon, SiSap, SiYoutube, SiGithub } from "react-icons/si";
+import {
+  SiApplepodcasts,
+  SiMastodon,
+  SiSap,
+  SiYoutube,
+  SiGithub,
+} from "react-icons/si";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
@@ -80,6 +86,18 @@ const HomePage = () => {
                   aria-label="Link to my Github account"
                 >
                   <SiGithub />
+                </a>
+              </h2>
+            </Col>
+            <Col className="text-center">
+              <h2>
+                <a
+                  href="https://creators.spotify.com/pod/show/christiandrumm/"
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label="Link to my podcast"
+                >
+                  <SiApplepodcasts />
                 </a>
               </h2>
             </Col>
