@@ -160,5 +160,12 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-source-rss-feed`,
+      options: {
+        url: `https://anchor.fm/s/f76f7a14/podcast/rss`,
+        name: `PodcastEpisodes`,
+      },
+    },
   ],
 };

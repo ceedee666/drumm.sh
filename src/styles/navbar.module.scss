@@ -1,19 +1,16 @@
-.nav-item:hover {
-  text-decoration: none;
-}
-
 .nav-item {
   text-decoration: none;
+  background-color: transparent !important;
 }
 
-.active-nav-item {
-  text-decoration: underline;
-  color: #fff;
+.nav-item:hover {
+  text-decoration: none;
+  background-color: transparent !important;
 }
 
-.active-nav-item:hover {
+.active {
   text-decoration: underline;
-  color: #fff;
+  background-color: transparent !important;
 }
 
 .my-navbar {
