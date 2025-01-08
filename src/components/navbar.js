@@ -2,9 +2,14 @@ import React from "react";
 import { Link, graphql, useStaticQuery } from "gatsby";
 import { GatsbyImage } from "gatsby-plugin-image";
 
-import { Container, Navbar, Nav, Image } from "react-bootstrap";
+import { Container, Navbar, Nav, NavDropdown, Image } from "react-bootstrap";
 
-import { myNavbar, navItem, activeNavItem } from "../styles/navbar.module.scss";
+import {
+  myNavbar,
+  navItem,
+  activeNavItem,
+  activeDropdownItem,
+} from "../styles/navbar.module.scss";
 
 const CustomNavbar = ({ pageInfo }) => {
   const brandingImg = useStaticQuery(graphql`
@@ -19,7 +24,7 @@ const CustomNavbar = ({ pageInfo }) => {
 
   return (
     <div className={`${myNavbar} mx-auto`}>
-      <Navbar bg="dark" variant="dark" expand="sm">
+      <Navbar data-bs-theme="dark" bg="dark" expand="sm">
         <Container className="px-0">
           <Navbar.Brand href="/">
             <Image
@@ -34,76 +39,96 @@ const CustomNavbar = ({ pageInfo }) => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto" activeKey={pageInfo && pageInfo.pageName}>
-              <Link to="/" className={navItem} activeClassName={activeNavItem}>
-                <Nav.Link as="span" eventKey="home">
-                  Home
-                </Nav.Link>
-              </Link>
-              <Link
+              <Nav.Link as={Link} to="/" className={navItem} eventKey="home">
+                Home
+              </Nav.Link>
+              <Nav.Link
+                as={Link}
                 to="/teaching"
                 className={navItem}
-                activeClassName={activeNavItem}
+                eventKey="teaching"
               >
-                <Nav.Link as="span" eventKey="teaching">
-                  Teaching
-                </Nav.Link>
-              </Link>
-              <Link
+                Teaching
+              </Nav.Link>
+              <Nav.Link
+                as={Link}
                 to="/projects"
                 className={navItem}
-                activeClassName={activeNavItem}
+                eventKey="projects"
               >
-                <Nav.Link as="span" eventKey="projects">
-                  Projects
-                </Nav.Link>
-              </Link>
-              <Link
-                to="/blog"
-                className={navItem}
-                activeClassName={activeNavItem}
-              >
-                <Nav.Link as="span" eventKey="blog">
-                  Blog
-                </Nav.Link>
-              </Link>
-              <Link
-                to="/student-blog"
-                className={navItem}
-                activeClassName={activeNavItem}
-              >
-                <Nav.Link as="span" eventKey="student-blog">
-                  Student's Blog
-                </Nav.Link>
-              </Link>
-              <Link
+                Projects
+              </Nav.Link>
+              <Nav.Link
+                as={Link}
                 to="/wall-of-fame"
                 className={navItem}
-                activeClassName={activeNavItem}
+                eventKey="wall-of-fame"
               >
-                <Nav.Link as="span" eventKey="wall-of-fame">
-                  Wall of Fame
-                </Nav.Link>
-              </Link>
+                Wall of Fame
+              </Nav.Link>
+              <NavDropdown
+                title="Blogs"
+                id="blogs-dropdown"
+                className={navItem}
+              >
+                <NavDropdown.Item
+                  as={Link}
+                  to="/blog"
+                  className={navItem}
+                  eventKey="blog"
+                >
+                  My Blog
+                </NavDropdown.Item>
+                <NavDropdown.Item
+                  as={Link}
+                  to="/student-blog"
+                  eventKey="student-blog"
+                  className={navItem}
+                >
+                  Student's Blog
+                </NavDropdown.Item>
+              </NavDropdown>
+              <NavDropdown
+                title="On Air"
+                id="on-air-dropdown"
+                className={navItem}
+                eventKey="podcast"
+              >
+                <NavDropdown.Item
+                  as={Link}
+                  to="/podcast"
+                  className={navItem}
+                  eventKey="podcast"
+                >
+                  Podcast
+                </NavDropdown.Item>
+                <NavDropdown.Item
+                  as={Link}
+                  to="/videos"
+                  eventKey="videos"
+                  className={navItem}
+                >
+                  Videos
+                </NavDropdown.Item>
+              </NavDropdown>
             </Nav>
             <Nav activeKey={pageInfo && pageInfo.pageName}>
-              <Link
+              <Nav.Link
+                as={Link}
                 to="/imprint"
                 className={navItem}
-                activeClassName={activeNavItem}
+                eventKey="imprint"
               >
-                <Nav.Link as="span" eventKey="imprint">
-                  Imprint
-                </Nav.Link>
-              </Link>
-              <Link
+                Imprint
+              </Nav.Link>
+              <Nav.Link
+                as={Link}
                 to="/privacy"
                 className={navItem}
-                activeClassName={activeNavItem}
+                eventKey="privacy"
               >
-                <Nav.Link as="span" eventKey="privacy">
-                  Privacy
-                </Nav.Link>
-              </Link>
+                Privacy
+              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
