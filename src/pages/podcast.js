@@ -1,6 +1,8 @@
 import React from "react";
 import { Row, Col } from "react-bootstrap";
 import { BiCalendar, BiTime } from "react-icons/bi";
+import { FaSpotify, FaRss } from "react-icons/fa";
+import { SiApplepodcasts } from "react-icons/si";
 import moment from "moment";
 
 import { graphql, useStaticQuery } from "gatsby";
@@ -8,7 +10,14 @@ import { graphql, useStaticQuery } from "gatsby";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 
-import { blogListItem, blogDateTime, podcastDescription} from "../styles/podcast.module.scss";
+import {
+  blogListItem,
+  blogDateTime,
+  podcastDescription,
+  podcastAudio,
+  podcastSeparator,
+  podcastLinks,
+} from "../styles/podcast.module.scss";
 
 const PodcastPage = () => {
   const data = useStaticQuery(graphql`
@@ -23,60 +32,80 @@ const PodcastPage = () => {
             itunes {
               duration
             }
+            enclosure {
+              url
+              length
+              type
+            }
           }
         }
       }
     }
   `);
 
-  const getEmbedURL = (link) => {
-    // Handle Spotify links
-    if (link.includes("spotify.com")) {
-      const match = link.match(/episodes\/([a-zA-Z0-9\-]+)/);
-      if (match) {
-        return `https://creators.spotify.com/pod/show/christiandrumm/embed/episodes/${match[1]}`;
-      }
-    }
-
-    return null;
-  };
-
   return (
     <Layout pageInfo={{ pageName: "podcast" }}>
       <SEO title="drumm.sh | Podcast" />
       {data.allFeedPodcastEpisodes.edges.map(({ node }, index) => {
-        const embedURL = getEmbedURL(node.link);
-
+        const audioURL = node.enclosure?.url;
         return (
-          <div className={blogListItem} key={index}>
-            <h2>{node.title}</h2>
-            <Row>
-              <Col className={blogDateTime}>
-                <BiCalendar /> {moment(node.isoDate).format("DD. MMMM YYYY")}
-                {" "}
-                &bull; <BiTime /> {node.itunes.duration} min 
-              </Col>
-            </Row>
-            <Row>
-              <Col className="mt-2 mb-5">
+          <div key={index}>
+            <div className={blogListItem} key={index}>
+              <Row className="align-items-center">
+                <h2>
+                  {node.title}
+                  {"  "}
+                  <div className={podcastLinks}>
+                    <a
+                      href={node.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      title="Listen on Spotify"
+                    >
+                      <FaSpotify />
+                    </a>
+                    <a
+                      href="https://podcasts.apple.com/us/podcast/code-und-kontext/id1783571053" // Replace with your Apple Podcasts link
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      title="Subscribe on Apple Podcasts"
+                    >
+                      <SiApplepodcasts />
+                    </a>
+                    <a
+                      href="https://anchor.fm/s/f76f7a14/podcast/rss" // Replace with your RSS feed link
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      title="RSS Feed"
+                    >
+                      <FaRss />
+                    </a>
+                  </div>
+                </h2>
+              </Row>
+              <Row>
+                <Col className={blogDateTime}>
+                  <BiCalendar /> {moment(node.isoDate).format("DD. MMMM YYYY")}{" "}
+                  &bull; <BiTime /> {node.itunes.duration}
+                </Col>
+              </Row>
+              <Row>
                 <div
                   className={podcastDescription}
                   dangerouslySetInnerHTML={{ __html: node.content }}
                 ></div>
-              </Col>
-            </Row>
-            {embedURL && (
-              <Row>
-                <Col>
-                  <iframe
-                    title={`Player for ${node.title}`}
-                    src={embedURL}
-                    height="200"
-                    width="100%"
-                    frameborder="0"
-                  ></iframe>
-                </Col>
               </Row>
+              <Row className={podcastAudio}>
+                {audioURL && (
+                  <audio controls>
+                    <source src={audioURL} type={node.enclosure?.type} />
+                    Your browser does not support the audio element.
+                  </audio>
+                )}
+              </Row>
+            </div>
+            {index < data.allFeedPodcastEpisodes.edges.length - 1 && (
+              <div className={podcastSeparator}></div>
             )}
           </div>
         );

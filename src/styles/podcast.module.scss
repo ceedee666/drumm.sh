@@ -4,3 +4,21 @@
     text-decoration: underline;
   }
 }
+
+.podcast-audio {
+  audio {
+    width: 100%;
+  }
+}
+.podcast-separator {
+  margin: 30px 0;
+  height: 1px;
+  background-color: #ddd;
+  border: none;
+}
+
+.podcastLinks {
+  display: inline-flex;
+  gap: 10px; /* Space between icons */
+  margin-left: 15px; /* Space between title and icons */
+}
