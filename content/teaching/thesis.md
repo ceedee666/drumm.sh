@@ -31,7 +31,7 @@ own idea for a topic please feel free to contact me as well.
 1. Integration of generative AI into information and knowledge management systems
    (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/ai-knowledge-management))
 
-### Leaning & Teaching
+### Learning & Teaching
 
 1. Simplify automated testing in MOOCs
 1. Analysis of coding exercises from a MOOC
