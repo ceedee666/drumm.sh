@@ -29,10 +29,11 @@ const BlogPage = () => {
               language
             }
 
-            timeToRead
-
             fields {
               slug
+              readingTime {
+                text
+              }
             }
           }
         }
@@ -53,7 +54,7 @@ const BlogPage = () => {
               <Col className={blogDateTime}>
                 <BiCalendar />{" "}
                 {moment(edge.node.frontmatter.date).format("DD. MMMM YYYY")}{" "}
-                &bull; <BiTime /> {edge.node.timeToRead} min read
+                &bull; <BiTime /> {edge.node.fields.readingTime.text}
               </Col>
             </Row>
             <Row>

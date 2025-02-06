@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 module.exports = {
   siteMetadata: {
     title: "drumm.sh",
@@ -21,6 +23,7 @@ module.exports = {
         plugins: [
           "gatsby-remark-autolink-headers",
           "gatsby-remark-relative-images",
+          "gatsby-remark-reading-time",
           {
             resolve: "gatsby-remark-images",
             options: {
@@ -165,6 +168,14 @@ module.exports = {
       options: {
         url: `https://anchor.fm/s/f76f7a14/podcast/rss`,
         name: `PodcastEpisodes`,
+      },
+    },
+    {
+      resolve: "gatsby-source-youtube-v3",
+      options: {
+        channelId: process.env.YOUTUBE_CHANNEL_ID,
+        apiKey: process.env.YOUTUBE_API_KEY,
+        maxVideos: 5,
       },
     },
   ],

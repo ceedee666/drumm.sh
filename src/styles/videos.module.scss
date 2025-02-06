@@ -1,0 +1,23 @@
+@import "podcast.module.scss";
+
+.videoTitle {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.videoDescription {
+  a {
+    text-decoration: underline;
+  }
+}
+
+.videoThumbnail {
+  width: 250px;
+  height: auto;
+  border-radius: 5px;
+}

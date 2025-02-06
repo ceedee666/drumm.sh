@@ -22,7 +22,7 @@ import {
 const PodcastPage = () => {
   const data = useStaticQuery(graphql`
     query podcastEpisodes {
-      allFeedPodcastEpisodes(sort: { fields: [isoDate], order: DESC }) {
+      allFeedPodcastEpisodes(sort: { isoDate: DESC }) {
         edges {
           node {
             title
