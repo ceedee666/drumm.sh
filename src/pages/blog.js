@@ -28,7 +28,9 @@ const BlogPage = () => {
               description
               language
             }
+
             timeToRead
+
             fields {
               slug
             }
