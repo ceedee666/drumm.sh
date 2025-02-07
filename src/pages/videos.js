@@ -30,8 +30,11 @@ const formatDescription = (description, videoId) => {
 
   // Convert timestamps (e.g., 01:23) into YouTube video links
   formattedText = formattedText.replace(
-    /(\d{1,2}:\d{2})/g,
-    `<a href="https://www.youtube.com/watch?v=${videoId}&t=$1" target="_blank" rel="noopener noreferrer">$1</a>`,
+    /(\d{1,2}):(\d{2})/g,
+    (match, minutes, seconds) => {
+      const totalSeconds = parseInt(minutes) * 60 + parseInt(seconds);
+      return `<a href="https://www.youtube.com/watch?v=${videoId}&t=${totalSeconds}s" target="_blank" rel="noopener noreferrer">${match}</a>`;
+    },
   );
 
   return formattedText;
