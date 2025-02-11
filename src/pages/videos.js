@@ -67,7 +67,7 @@ const VideosPage = () => {
             <Row>
               <h2 className={videoTitle}>
                 <a
-                  href={`/blog/${video.videoId}`}
+                  href={`https://www.youtube.com/watch?v=${video.videoId}`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
