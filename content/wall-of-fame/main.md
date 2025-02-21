@@ -61,9 +61,9 @@ semesters:
 
 Welcome to the Wall of Fame!
 
-This page honors the top students each semester for their outstanding achievements
-in their respective courses. I warmly congratulate all the awardees for their
-performance!
+This page celebrates the top students each semester for their exceptional
+achievements in their courses. Their dedication and hard work deserve special
+recognition, and I extend my heartfelt congratulations to all awardees!
 
-Naturally, I make sure to contact the relevant students in advance to ask for
-their permission before publishing their names and photos here.
+To respect privacy, I always seek students' permission before featuring their
+names and photos here.

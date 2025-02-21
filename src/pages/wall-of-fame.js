@@ -10,6 +10,7 @@ import {
   studentIcon,
   studentIconWrapper,
   studentTable,
+  socialLinks,
 } from "../styles/wall-of-fame.module.scss";
 
 const WallOfFamePage = () => {
@@ -103,19 +104,20 @@ const WallOfFamePage = () => {
                         <td>
                           {student.socialLinks?.length > 0 ? (
                             <h1>
-                              {" "}
-                              {student.socialLinks.map((link, linkIdx) => (
-                                <a
-                                  key={linkIdx}
-                                  href={link.url}
-                                  target="_blank"
-                                  rel="noopener noreferrer"
-                                  aria-label={link.type}
-                                >
-                                  {link.type === "linkedin" && <FaLinkedin />}
-                                  {link.type === "github" && <FaGithub />}
-                                </a>
-                              ))}
+                              <div className={socialLinks}>
+                                {student.socialLinks.map((link, linkIdx) => (
+                                  <a
+                                    key={linkIdx}
+                                    href={link.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    aria-label={link.type}
+                                  >
+                                    {link.type === "linkedin" && <FaLinkedin />}
+                                    {link.type === "github" && <FaGithub />}
+                                  </a>
+                                ))}
+                              </div>
                             </h1>
                           ) : (
                             "—"
