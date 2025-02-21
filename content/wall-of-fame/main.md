@@ -1,3 +1,62 @@
+---
+semesters:
+  - term: "Winter Term 2024 / 2025"
+    lectures:
+      - lecture: "Business Information Systems"
+        lectureLink: "/teaching/lectures/2024/winter_term/business_information_systems"
+        students:
+          - name: "Piet Lehmkühler"
+            image: "./images/none.png"
+      - lecture: "Systems Integration"
+        lectureLink: "/teaching/lectures/2024/winter_term/systems_integration"
+        students:
+          - name: "Paul Kalhorn"
+            image: "./images/none.png"
+            socialLinks:
+              - type: "linkedin"
+                url: "https://www.linkedin.com/in/paul-kalhorn-7b2343228/"
+              - type: "github"
+                url: "https://github.com/PaulKalho"
+  - term: "Summer Term 2024"
+    lectures:
+      - lecture: "Informationssysteme"
+        lectureLink: "/teaching/lectures/2024/summer-term/informationssysteme"
+        students:
+          - name: "Eva Mainz"
+            image: "./images/none.png"
+            socialLinks: []
+
+      - lecture: "SAP in der Praxis"
+        lectureLink: "/teaching/lectures/2024/summer-term/sap-in-der-praxis"
+        students:
+          - name: "Niklas Lüßgen"
+            image: "./images/none.png"
+            socialLinks: []
+
+  - term: "Winter Term 2023 / 2024"
+    lectures:
+      - lecture: "SAP in der Praxis"
+        lectureLink: "/teaching/lectures/2023/winter_term/sap_in_der_praxis"
+        students:
+          - name: "Dilara Pepeoglu"
+            image: "./images/dilara-pepeoglu.jpg"
+            socialLinks:
+              - type: "linkedin"
+                url: "http://linkedin.com/in/dilara-pepeoglu-214619295"
+
+          - name: "Jana Küppers"
+            image: "./images/none.png"
+            socialLinks: []
+      - lecture: "Business Information Systems"
+        lectureLink: "/teaching/lectures/2023/winter_term/business_information_systems"
+        students:
+          - name: "Fabian Haese"
+            image: "./images/none.png"
+            socialLinks:
+              - type: "linkedin"
+                url: "https://www.linkedin.com/in/fabian-haese-182331277"
+---
+
 # Wall of fame 🥇
 
 Welcome to the Wall of Fame!
@@ -8,18 +67,3 @@ performance!
 
 Naturally, I make sure to contact the relevant students in advance to ask for
 their permission before publishing their names and photos here.
-
-## Winter Term 2023 / 2024
-
-| Lecture                                                                                              | Student Name    | Social Media                                                   |
-| ---------------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------- |
-| **[SAP in der Praxis](/teaching/lectures/2023/winter_term/sap_in_der_praxis)**                       | Dilara Pepeoglu | [LinkedIn](http://linkedin.com/in/dilara-pepeoglu-214619295)   |
-|                                                                                                      | Jana Küppers    |                                                                |
-| **[Business Information Systems](/teaching/lectures/2023/winter_term/business_information_systems)** | Fabian Haese    | [LinkedIn](https://www.linkedin.com/in/fabian-haese-182331277) |
-
-## Summer Term 2024
-
-| Lecture                                                                                    | Student Name  | Social Media |
-| ------------------------------------------------------------------------------------------ | ------------- | ------------ |
-| **[Informationssysteme](/content/teaching/lectures/2024/summer-term/informationssysteme)** | Eva Mainz     |              |
-| **[SAP in der Praxis](/teaching/lectures/2024/summer-term/sap-in-der-praxis)**             | Niklas Lüßgen |              |
