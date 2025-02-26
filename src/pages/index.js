@@ -170,18 +170,14 @@ const HomePage = () => {
               <li>
                 Author @{" "}
                 <a
-                  href="https://www.rheinwerk-verlag.de/einstieg-in-sap-s4hana/"
+                  href="https://drumm.sh/s4buch"
                   target="_blank"
                   rel="noreferrer"
                 >
                   Rheinwerk
                 </a>{" "}
                 and{" "}
-                <a
-                  href="https://www.espresso-tutorials.de/autoren/prof-dr-christian-drumm/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
+                <a href="https://drumm.sh/et" target="_blank" rel="noreferrer">
                   Espresso Tutorials
                 </a>
               </li>
