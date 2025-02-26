@@ -178,7 +178,7 @@ const HomePage = () => {
                 </a>{" "}
                 and{" "}
                 <a
-                  href="https://et.training/dashboard/author/286"
+                  href="https://www.espresso-tutorials.de/autoren/prof-dr-christian-drumm/"
                   target="_blank"
                   rel="noreferrer"
                 >
