@@ -7,6 +7,24 @@ semesters:
         students:
           - name: "Piet Lehmkühler"
             image: "./images/none.png"
+      - lecture: "Cloud-basierte Informationssysteme"
+        lectureLink: "/teaching/lectures/2024/winter_term/cloud-based-is"
+        students:
+          - name: "Dominik Gilges"
+            image: "./images/none.png"
+            socialLinks:
+              - type: "linkedin"
+                url: "https://www.linkedin.com/in/dominik-gilges-a97b20171/"
+              - type: "github"
+                url: "https://github.com/christried"
+      - lecture: "Programmierung und Informationsverarbeitung "
+        lectureLink: "/teaching/lectures/2024/winter_term/programmierung"
+        students:
+          - name: "Abdullah Yildirim"
+            image: "./images/none.png"
+            socialLinks:
+              - type: "linkedin"
+                url: "https://www.linkedin.com/in/abdullahyildirim0/"
       - lecture: "Systems Integration"
         lectureLink: "/teaching/lectures/2024/winter_term/systems_integration"
         students:
