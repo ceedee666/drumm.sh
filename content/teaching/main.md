@@ -1,11 +1,10 @@
 # Lectures
 
-During the winter term 2024/2025 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
+During the summer term 2025 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
-- [Business Information Systems](/teaching/lectures/2024/winter-term/business-information-systems)
-- [Cloud-basierte Informationssysteme](/teaching/lectures/2024/winter-term/cloud-based-is)
-- [Programmierung und Informationsverarbeitung](/teaching/lectures/2024/winter-term/programmierung)
-- [Systems Integration](/teaching/lectures/2024/winter-term/systems-integration)
+- [Industrielle Produktion](/teaching/lectures/2025/summer-term/industrielle-produktion)
+- [Informationssysteme](/teaching/lectures/2025/summer-term/informationssysteme)
+- [SAP in der Praxis](/teaching/lectures/2025/summer-term/sap-in-der-praxis)
 
 [This site](/teaching/lectures/previous-lectures) contains a list of lectures I taught
 during the previous terms.
@@ -15,21 +14,22 @@ during the previous terms.
 An archived version of the Python for Beginners MOOC can be found
 [here](/teaching/python-mooc).
 
-## Common Rules §
+## General Guidelines §
 
-All my lectures are based on this [learning agreement 🤝](/teaching/learning-agreement).
-Additional the [rules for tools 🛠️](/teaching/rules-for-tools) describe which tools
-my be used in my lectures.
+All my lectures follow the principles outlined in this [learning agreement
+🤝](/teaching/learning-agreement). Additionally, the [rules for tools
+🛠️](/teaching/rules-for-tools) specify which tools are permitted in my courses.
 
-## Bachelor and Master Thesis 🎓
+## Bachelor’s and Master’s Theses 🎓
 
-If you would like me to be the supervisor of your thesis please write an email.
-I'll then schedule a first meeting where we discuss the requirements and expectations.
+If you’re interested in having me as your thesis supervisor, please send me an
+email. We will then arrange an initial meeting to discuss requirements and
+expectations.
 
-A [list of possible thesis topics](/teaching/thesis) as well as a selection of
-thesis I supervised in past is available [here](/teaching/thesis).
+A [list of available thesis topics](/teaching/thesis) and an archive of
+previously supervised theses can be found [here](/teaching/thesis).
 
 ## Student Blog 📝
 
-The [Student's Blog](/student-blog/) contains blog posts written by students as
-part of my lectures at [FH Aachen](https://www.fh-aachen.de).
+The [Student Blog](/student-blog/) features posts written by students as part
+of my lectures at [FH Aachen](https://www.fh-aachen.de).
