@@ -3,12 +3,12 @@ semesters:
   - term: "Winter Term 2024 / 2025"
     lectures:
       - lecture: "Business Information Systems"
-        lectureLink: "/teaching/lectures/2024/winter_term/business_information_systems"
+        lectureLink: "/teaching/lectures/2024/winter-term/business_information_systems"
         students:
           - name: "Piet Lehmkühler"
             image: "./images/none.png"
       - lecture: "Cloud-basierte Informationssysteme"
-        lectureLink: "/teaching/lectures/2024/winter_term/cloud-based-is"
+        lectureLink: "/teaching/lectures/2024/winter-term/cloud-based-is"
         students:
           - name: "Dominik Gilges"
             image: "./images/none.png"
@@ -18,7 +18,7 @@ semesters:
               - type: "github"
                 url: "https://github.com/christried"
       - lecture: "Programmierung und Informationsverarbeitung "
-        lectureLink: "/teaching/lectures/2024/winter_term/programmierung"
+        lectureLink: "/teaching/lectures/2024/winter-term/programmierung"
         students:
           - name: "Abdullah Yildirim"
             image: "./images/none.png"
@@ -26,7 +26,7 @@ semesters:
               - type: "linkedin"
                 url: "https://www.linkedin.com/in/abdullahyildirim0/"
       - lecture: "Systems Integration"
-        lectureLink: "/teaching/lectures/2024/winter_term/systems_integration"
+        lectureLink: "/teaching/lectures/2024/winter-term/systems_integration"
         students:
           - name: "Paul Kalhorn"
             image: "./images/none.png"
