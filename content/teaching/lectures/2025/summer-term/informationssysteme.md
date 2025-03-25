@@ -56,10 +56,10 @@ finden. Für Fragen zu den Vorlesungsinhalten und den Übungsaufgaben steht ein
 
 - Wirtschaftsinformatik
   - [Wirtschaftsinformatik: eine
-    Einführung](https://www.pearson-studium.de/drm/reader/nu/code/lyxoqpaf3tbjefoc6rf36pwabg08godw)
+    Einführung](https://elibrary.pearson.de/book/99.150005/9783863267650)
 - BPMN und DMN
-  - [Praxishandbuch BPMN: mit Einführung in CMMN und DMN, 6.
-    Auflage](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446461123)
+  - [Praxishandbuch BPMN: mit Einführung in DMN, 7.
+    Auflage](https://www.hanser-fachbuch.de/fachbuch/artikel/9783446482494)
   - [BPMN Meets DMN: Business Process and Decision
     Modeling](https://open.hpi.de/courses/bpm2016/)
   - [Business Processes: Modeling, Simulation,
