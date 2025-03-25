@@ -59,7 +59,7 @@ finden. Für Fragen zu den Vorlesungsinhalten und den Übungsaufgaben steht ein
     Einführung](https://elibrary.pearson.de/book/99.150005/9783863267650)
 - BPMN und DMN
   - [Praxishandbuch BPMN: mit Einführung in DMN, 7.
-    Auflage](https://www.hanser-fachbuch.de/fachbuch/artikel/9783446482494)
+    Auflage](http://doi.org/10.3139/9783446483064)
   - [BPMN Meets DMN: Business Process and Decision
     Modeling](https://open.hpi.de/courses/bpm2016/)
   - [Business Processes: Modeling, Simulation,
