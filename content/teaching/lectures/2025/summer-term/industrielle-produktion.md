@@ -26,7 +26,7 @@ Entwicklung Ihres Prototyps benötigen Sie folgende Hardware:
 Bitte beschaffen Sie die Hardware **rechtzeitig** vor Beginn der Vorlesungen!
 
 Die Inhalte der ersten Vorlesungen sind in diesem
-[GitHub-Repository](https://codeberg.org/ceedee666/iot-introduction) verfügbar.
+[Codeberg-Repository](https://codeberg.org/ceedee666/iot-introduction) verfügbar.
 
 ## Videos
 
