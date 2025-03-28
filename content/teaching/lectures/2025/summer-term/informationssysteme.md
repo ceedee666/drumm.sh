@@ -65,6 +65,7 @@ finden. Für Fragen zu den Vorlesungsinhalten und den Übungsaufgaben steht ein
   - [Business Processes: Modeling, Simulation,
     Execution](https://open.hpi.de/courses/bpm2019)
   - [Online BPMN Referenz](https://camunda.com/bpmn/reference/)
+  - [BPMN Poster](https://d.dam.sap.com/a/bNX3376/BPMN-2_2024-WEB-02.pdf)
 - Prozessmanagement
   - [<b id="f1"></b> Prozessmanagement und Process-Mining:
     Grundlagen](https://www.degruyter.com/isbn/9783110500165) [↩](#a1)
