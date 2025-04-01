@@ -25,7 +25,8 @@ den Vorlesungsinhalten folgen können. Kurz zusammengefasst:
 - die **YouTube-Videos** vermitteln die **Theorie**
 - in der **Vorlesung** werden vertiefende **Übungen** und **Frage** bearbeitet.
 
-Im [Ilias(folgt)]() finden Sie die Vorlesungsunterlagen zum Download. Die
+Im [Ilias](https://www.ili.fh-aachen.de/goto.php?target=crs_1385790&client_id=elearning) 
+finden Sie die Vorlesungsunterlagen zum Download. Die
 Videos zu Vorbereitung sind in einer [🎬 YouTube
 Playlist](https://youtube.com/playlist?list=PLl09U8aTDcv1eIkxyPKNAKKmqPJR3RC0o)
 zusammengefasst. Die in den Videos gezeigten BPMN Modelle sind in diesem
