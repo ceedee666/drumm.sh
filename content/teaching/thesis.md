@@ -39,6 +39,7 @@ own idea for a topic please feel free to contact me as well.
 
 ### ERP Systems
 
+1. Erklärvideos für SAP S/4HANA Fallstudien
 1. Integration of 3d printing and SAP S/4HANA
 1. Development and evaluation of a LLM plug-in to answer student's questions.
 1. Using AR to visualise a model factory
