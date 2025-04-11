@@ -1,7 +1,8 @@
 import React from "react";
 import { Row, Col } from "react-bootstrap";
 import { BiTime, BiCalendar } from "react-icons/bi";
-import moment from "moment";
+
+import { format, formatDistanceToNow } from "date-fns";
 
 import { Link, graphql, useStaticQuery } from "gatsby";
 
@@ -44,6 +45,12 @@ const StudentBlogPage = () => {
     <Layout pageInfo={{ pageName: "student-blog" }}>
       <SEO title="drumm.sh | Student Blog" />
       {data.allMarkdownRemark.edges.map((edge) => {
+        const dateObj = new Date(edge.node.frontmatter.date);
+        const formattedDate = format(dateObj, "dd. MMMM yyyy");
+        const relativeDate = formatDistanceToNow(dateObj, {
+          addSuffix: true,
+        });
+
         return (
           <div className={blogListItem}>
             <Link to={`${edge.node.fields.slug}`}>
@@ -51,8 +58,7 @@ const StudentBlogPage = () => {
             </Link>
             <Row>
               <Col className={blogDateTime}>
-                <BiCalendar />{" "}
-                {moment(edge.node.frontmatter.date).format("DD. MMMM YYYY")}{" "}
+                <BiCalendar /> Published on {formattedDate} ({relativeDate})
                 &bull; <BiTime /> {edge.node.timeToRead} min read
               </Col>
             </Row>

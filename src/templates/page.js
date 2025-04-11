@@ -1,17 +1,23 @@
-import React from 'react'
-import {Row, Col} from 'react-bootstrap'
-import { graphql  } from 'gatsby'
-import { BiCalendar } from 'react-icons/bi';
-import moment from 'moment'
+import { graphql } from "gatsby";
+import React from "react";
+import { Col, Row } from "react-bootstrap";
+import { BiCalendar } from "react-icons/bi";
 
-import Layout from '../components/layout'
-import SEO from '../components/seo'
+import { format, formatDistanceToNow } from "date-fns";
 
-import { blogDateTime, blogBody } from '../styles/blog.module.scss'
+import Layout from "../components/layout";
+import SEO from "../components/seo";
+
+import { blogBody, blogDateTime } from "../styles/blog.module.scss";
+
+const formatChangeTime = (dateString) => {
+  const date = new Date(dateString);
+  return `${formatDistanceToNow(date, { addSuffix: true })} (${format(date, "dd. MMMM yyyy")})`;
+};
 
 export const query = graphql`
   query ($slug: String!, $dir: String!) {
-    markdownRemark (fields:{ slug: { eq: $slug  }  }){
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       frontmatter {
         title
       }
@@ -20,18 +26,10 @@ export const query = graphql`
       }
       html
     }
-    
+
     allFile(
-      filter: {
-        dir: {
-          eq: $dir 
-        }
-        extension: {
-          in: ["png", "jpg", "gif"]
-        }
-      }
-    )
-    {
+      filter: { dir: { eq: $dir }, extension: { in: ["png", "jpg", "gif"] } }
+    ) {
       edges {
         node {
           childImageSharp {
@@ -42,28 +40,34 @@ export const query = graphql`
         }
       }
     }
-  }`
+  }
+`;
 
 const Page = (props) => {
-  const pageImage = props.data.allFile.edges[0] ? props.data.allFile.edges[0].node.childImageSharp.original.src : null
+  const pageImage = props.data.allFile.edges[0]
+    ? props.data.allFile.edges[0].node.childImageSharp.original.src
+    : null;
 
   return (
     <Layout>
-      <SEO 
+      <SEO
         title={`drumm.sh | ${props.data.markdownRemark.frontmatter.title}`}
         image={pageImage}
       />
       <h1>{props.data.markdownRemark.frontmatter.title}</h1>
-      <Row className='mb-5'>
+      <Row className="mb-5">
         <Col className={blogDateTime}>
-          <BiCalendar /> {moment(props.data.markdownRemark.fields.date).format('DD. MMMM YYYY')}  
+          <BiCalendar /> Last updated:{" "}
+          {formatChangeTime(props.data.markdownRemark.fields.changeTime)}
         </Col>
       </Row>
 
-      <div className={blogBody} dangerouslySetInnerHTML={{__html: props.data.markdownRemark.html}}></div>
+      <div
+        className={blogBody}
+        dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
+      ></div>
     </Layout>
-  )
+  );
+};
 
-}
-
-export default Page
+export default Page;
