@@ -83,6 +83,6 @@ finden. Für Fragen zu den Vorlesungsinhalten und den Übungsaufgaben steht ein
 | Camunda Modeler                      | [Download](https://camunda.com/download/modeler/)                                                                                   |
 | Token-Simulation für Camunda Modeler | [Download](https://github.com/bpmn-io/bpmn-js-token-simulation-plugin) <br/> [Video zur Installation](https://youtu.be/DVn-MwvQWNs) |
 | Camunda DMN Simulator                | [Link](https://consulting.camunda.com/dmn-simulator)                                                                                |
-| Signavio Process Manager             | [Einladungs-Link](https://academic.signavio.com/p/register?link=23abdf2da412488b8a2b0a048827a472)                                   |
+| Signavio Process Manager             | [Einladungs-Link](https://academic.signavio.com/p/register?link=0b9e13413ac841809e8100ff2aa32602)                                   |
 | diagrams.net                         | https://www.diagrams.net/                                                                                                           |
 | DB-Browser für SQLite                | [Download](https://sqlitebrowser.org/)                                                                                              |
