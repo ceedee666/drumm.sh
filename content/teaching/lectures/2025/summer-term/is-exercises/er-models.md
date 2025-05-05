@@ -49,6 +49,10 @@ Produkte haben Kategorien. Kunden bewerten Produkte.
 
 ## ER-Modelle erweitern
 
+Erweitern Sie die gegebenen ER-Modelle um die beschriebenen Anforderungen.
+Beachten Sie dabei auch, dass manche Anforderungen sich nicht direkt durch das
+ER-Modell abbilden lassen.
+
 ### BookBase
 
 BookBase ist eine Plattform für Bücherliebhaber. Nutzer können Bücher sammeln
@@ -64,7 +68,7 @@ abbilden lassen.
   markieren.
 - Ein Nutzer darf pro Buch nur eine Rezension schreiben.
 
-![BookBase ER Modell](./bookbase.drawio.png)
+![BookBase ER Modell](./imgs/bookbase.drawio.png)
 
 ### PlayVerse
 
@@ -84,7 +88,7 @@ Bitte erweitern Sie das ER-Modell um folgende Aspekte:
 - Nachrichten können mehrere Anhänge (z. B. Screenshots) haben. Ein Nachricht
   darf maximal 10 Anhänge haben.
 
-![PlayVerse ER Modell](./playverse.drawio.png)
+![PlayVerse ER Modell](./imgs/playverse.drawio.png)
 
 ### ResearchNet
 
@@ -104,4 +108,4 @@ Bitte erweitern Sie das ER-Modell um folgende Aspekte:
 - Eine Konferenz kann mehrere Sponsoren haben.
 - Jeder Artikel hat eine eindeutige DOI (Digital Object Identifier).
 
-![ResearchNet ER Modell](./researchnet.drawio.png)
+![ResearchNet ER Modell](./imgs/researchnet.drawio.png)
