@@ -1,5 +1,5 @@
 ---
-title: "Übungsaufgaben - BPMN: Gateways"
+title: "Übungsaufgaben - Relationenmodell: Normalisierung"
 language: "de"
 published: true
 tags:
