@@ -55,6 +55,8 @@ finden. Für Fragen zu den Vorlesungsinhalten und den Übungsaufgaben steht ein
 
 ## Literatur
 
+- **Neu**: 🤖 [Chat Bot zum Modul](https://www.ili.fh-aachen.de/go/lti/1409938)
+
 - Wirtschaftsinformatik
   - [Wirtschaftsinformatik: eine
     Einführung](https://elibrary.pearson.de/book/99.150005/9783863267650)
