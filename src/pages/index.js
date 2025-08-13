@@ -9,6 +9,7 @@ import {
   SiSap,
   SiYoutube,
   SiGithub,
+  SiCodeberg,
 } from "react-icons/si";
 
 import Layout from "../components/layout";
@@ -56,7 +57,7 @@ const HomePage = () => {
             <Col className="text-center">
               <h2>
                 <a
-                  href="https://people.sap.com/christian.drumm"
+                  href="https://community.sap.com/t5/user/viewprofilepage/user-id/10851"
                   target="_blank"
                   rel="noreferrer"
                   aria-label="Link to my SAP community account"
@@ -80,12 +81,12 @@ const HomePage = () => {
             <Col className="text-center">
               <h2>
                 <a
-                  href="https://github.com/ceedee666"
+                  href="https://codeberg.org/ceedee666/"
                   target="_blank"
                   rel="noreferrer"
                   aria-label="Link to my Github account"
                 >
-                  <SiGithub />
+                  <SiCodeberg />
                 </a>
               </h2>
             </Col>
