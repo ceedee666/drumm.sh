@@ -1,5 +1,15 @@
 ---
 semesters:
+  - term: "Summer Term 2025"
+    lectures:
+      - lecture: "SAP in der Praxis"
+        lectureLink: "/teaching/lectures/2024/winter-term/business_information_systems"
+        students:
+          - name: "Nina Geiser"
+            image: "./images/none.png"
+            socialLinks:
+              - type: "linkedin"
+                url: https://www.linkedin.com/in/nina-geiser-a20424293/
   - term: "Winter Term 2024 / 2025"
     lectures:
       - lecture: "Business Information Systems"
