@@ -36,23 +36,24 @@ own idea for a topic please feel free to contact me as well.
 
 ### BPM
 
-1. Generation of process models from user documentation (in cooperation with [Regionetz](https://www.regionetz.de/))
+1. Generation of process models from user documentation (in cooperation with
+   [Regionetz](https://www.regionetz.de/))
 1. Comparison of different process visualizations from a user perspective.
 
 ### ERP Systems
 
 1. Erklärvideos für SAP S/4HANA Fallstudien
 1. Integration of 3d printing and SAP S/4HANA
-1. Development and evaluation of a LLM plug-in to answer student's questions.
 1. Using AR to visualise a model factory
-1. Analysis of the effects of integrated documentation (ie. SAP Enable Now)
-   in SAP S/4HANA
+1. Analysis of the effects of integrated documentation (ie. SAP Enable Now) in
+   SAP S/4HANA
 1. Development and Evaluation of a case study for Robotic Process Automation
 
 ### Generative AI
 
-1. Integration of generative AI into information and knowledge management systems
-   (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/ai-knowledge-management))
+1. Integration of generative AI into information and knowledge management
+   systems (in cooperation with [jovoco](https://www.jovoco.io/), [further
+   details](topics/ai-knowledge-management))
 
 ### Learning and Teaching
 
@@ -60,8 +61,8 @@ own idea for a topic please feel free to contact me as well.
 1. Analysis of coding exercises from a MOOC
 1. Analysis of students performance in a MOOC
 1. Analysis of the YouTube statistics of an online lecture.
-1. Comparison of different LLM based coding assistants (e.g. Copilot,
-   Code Whisperer, Tabnine) for learning programming languages
+1. Comparison of different LLM based coding assistants (e.g. Copilot, Code
+   Whisperer, Tabnine) for learning programming languages
 
 ### Low Code and No Code
 
