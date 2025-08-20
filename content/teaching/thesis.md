@@ -9,12 +9,13 @@ tags: ["FH Aachen", "Thesis"]
 
 <!--toc:start-->
 
+- [Inhaltsverzeichnis](#inhaltsverzeichnis)
 - [Possible Thesis Topics](#possible-thesis-topics)
   - [BPM](#bpm)
   - [ERP Systems](#erp-systems)
   - [Generative AI](#generative-ai)
-  - [Learning & Teaching](#learning-teaching)
-  - [Low Code & No Code](#low-code-no-code)
+  - [Learning and Teaching](#learning-and-teaching)
+  - [Low Code and No Code](#low-code-and-no-code)
   - [Software Development](#software-development)
   - [Other](#other)
 - [Supervised Thesis](#supervised-thesis)
@@ -35,6 +36,7 @@ own idea for a topic please feel free to contact me as well.
 
 ### BPM
 
+1. Generation of process models from user documentation (in cooperation with [Regionetz](https://www.regionetz.de/))
 1. Comparison of different process visualizations from a user perspective.
 
 ### ERP Systems
@@ -46,25 +48,22 @@ own idea for a topic please feel free to contact me as well.
 1. Analysis of the effects of integrated documentation (ie. SAP Enable Now)
    in SAP S/4HANA
 1. Development and Evaluation of a case study for Robotic Process Automation
-1. Analysis of request for quotations in ERP projects with respect to digitalization
 
 ### Generative AI
 
 1. Integration of generative AI into information and knowledge management systems
    (in cooperation with [jovoco](https://www.jovoco.io/), [further details](topics/ai-knowledge-management))
 
-### Learning & Teaching
+### Learning and Teaching
 
 1. Simplify automated testing in MOOCs
 1. Analysis of coding exercises from a MOOC
 1. Analysis of students performance in a MOOC
-1. Using Large Language Models (like ChatGPT) in teaching ERP System
-   and/or Python programming.
 1. Analysis of the YouTube statistics of an online lecture.
 1. Comparison of different LLM based coding assistants (e.g. Copilot,
    Code Whisperer, Tabnine) for learning programming languages
 
-### Low Code & No Code
+### Low Code and No Code
 
 1. Comparison of different Low Code / No Code platforms
 
@@ -73,11 +72,8 @@ own idea for a topic please feel free to contact me as well.
 1. Implementation of a Web based TDD game (in cooperation with majcon)
 1. Analysis of software quality metrics in large code bases (possibly in
    cooperation with CQSE)
-1. Clean Code: literature review
 
 ### Other
-
-1. Analysis of the usage of open source software in small and mid-size companies
 
 ## Supervised Thesis
 
@@ -88,11 +84,27 @@ the full text is also available.
 ### 2025
 
 - **Bachlor Thesis**
+  - Clean Code: literature review (currently in progress)
+  - Analysis of the usage of open source software in small and mid-size
+    companies (currently in progress)
+  - Using Large Language Models (like ChatGPT) in teaching ERP System and/or
+    Python programming.
   - [Anomalieerkennung in Zeitreihendaten am Beispiel von Produktionsdaten von
     oee.ai](/teaching/thesis/2025/anomalieerkennung)
   - [Wie lassen sich Website Daten zum Monitoring auf Zuverlässigkeit und
     Performanz generieren, und diese analysieren und
     überwachen](/teaching/thesis/2025/website_monitoring)
+  - [Einsatz von KI im Wissensmanagement für
+    Unternehmen](/teaching/thesis/2025/ki-wissensmanagement)
+  - [Konzeption und Realisierung einer skalierbaren Integrations- und
+    Transformationsarchitektur für digitales
+    Marketing](/teaching/thesis/2025/integration-transformation-marketing)
+  - [Konzeption und Entwicklung einer stylus-fähigen, vektorbasierten
+    Zeichen-App](/teaching/thesis/2025/zeichen-app)
+  - [Entwicklung eines LLM-basierten Assistenten für SAP
+    S/4HANA](/teaching/thesis/2025/llm-s4hana)
+  - [Marktanalyse für Benutzer- und Berechtigungsmanagement in der
+    Cloud](/teaching/thesis/2025/user-management-cloud)
 
 ### 2024
 
