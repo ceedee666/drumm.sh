@@ -2,6 +2,12 @@
 semesters:
   - term: "Summer Term 2025"
     lectures:
+      - lecture: "Informationssysteme"
+        lectureLink: "/teaching/lectures/2024/summer-term/informationssysteme"
+        students:
+          - name: "Isabel Raimov"
+            image: "./images/none.png"
+            socialLinks: []
       - lecture: "SAP in der Praxis"
         lectureLink: "/teaching/lectures/2024/winter-term/business_information_systems"
         students:
@@ -10,6 +16,12 @@ semesters:
             socialLinks:
               - type: "linkedin"
                 url: https://www.linkedin.com/in/nina-geiser-a20424293/
+          - name: "Maximilian Bernrath"
+            image: "./images/maximilian-bernrath.jpg"
+            socialLinks:
+              - type: "linkedin"
+                url: https://de.linkedin.com/in/maximilian-bernrath-718319360
+
   - term: "Winter Term 2024 / 2025"
     lectures:
       - lecture: "Business Information Systems"
