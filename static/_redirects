@@ -1,10 +1,9 @@
 ## netlify redirects
 ## from_url to_url
-/bis                  /teaching/lectures/2024/winter-term/business-information-systems
-/cbis                 /teaching/lectures/2024/winter-term/cloud-based-is
-/prog                 /teaching/lectures/2024/winter-term/programmierung
-/si                   /teaching/lectures/2024/winter-term/systems-integration
-/dl                   /teaching/lectures/2024/summer-term/digital-lab
+/bis                  /teaching/lectures/2025/winter-term/business-information-systems
+/cbis                 /teaching/lectures/2025/winter-term/cloud-based-is
+/prog                 /teaching/lectures/2025/winter-term/programmierung
+/si                   /teaching/lectures/2025/winter-term/systems-integration
 /is                   /teaching/lectures/2025/summer-term/informationssysteme
 /ip                   /teaching/lectures/2025/summer-term/industrielle-produktion
 /sap                  /teaching/lectures/2025/summer-term/sap-in-der-praxis
@@ -13,14 +12,14 @@
 /vip                  /teaching/learning-agreement
 /rft                  /teaching/rules-for-tools
 /wof                  /wall-of-fame
-/python               /teaching/python-mooc
 /forum                https://forum.drumm.sh
 
 ## External
 /ase                  https://ase-coaching.com/
+/python               https://open.hpi.de/courses/python2025
 ## WebEx
 /webex                https://fh-aachen.webex.com/meet/drumm
-/meet                https://fh-aachen.webex.com/meet/drumm
+/meet                 https://fh-aachen.webex.com/meet/drumm
 ## Rheinwerk
 /erpbuch              https://www.rheinwerk-verlag.de/einstieg-in-sap-erp-geschaeftsprozesse-komponenten-zusammenhaenge-erklaert-am-beispielunternehmen-global-bike/
 /s4buch               https://www.rheinwerk-verlag.de/einstieg-in-sap-s4hana/
