@@ -46,7 +46,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt:
 ### Exkursion
 
 Im Sommersemester 2025 biete ich im Rahmen dieses Moduls eine Exkursion zu SAP
-in Ratingen an. Details zur Exkrusion werden rechtzeitig in der Vorlesung sowie
+in Ratingen an. Details zur Exkursion werden rechtzeitig in der Vorlesung sowie
 auf Ilias veröffentlicht.
 
 ### Systemzugriff
