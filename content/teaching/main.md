@@ -1,18 +1,28 @@
 # Lectures
 
-During the summer term 2025 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
+During the winter term 2025 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
-- [Industrielle Produktion](/teaching/lectures/2025/summer-term/industrielle-produktion)
-- [Informationssysteme](/teaching/lectures/2025/summer-term/informationssysteme)
-- [SAP in der Praxis](/teaching/lectures/2025/summer-term/sap-in-der-praxis)
+- [Business Information
+  Systems](/teaching/lectures/2025/winter-term/business-information-systems)
+- [Cloud-basierte
+  Informationssysteme](/teaching/lectures/2025/winter-term/cloud-based-is)
+- [Programmierung und
+  Informationsverarbeitung](/teaching/lectures/2025/winter-term/programmierung)
+- [Systems
+  Integration](/teaching/lectures/2025/winter-term/systems-integration)
 
 [This site](/teaching/lectures/previous-lectures) contains a list of lectures I taught
 during the previous terms.
 
 ## Python for Beginners MOOC 🐍
 
-An archived version of the Python for Beginners MOOC can be found
-[here](/teaching/python-mooc).
+A new and updated version of the course will run on
+[openHPI](https://open.hpi.de/courses/python2025) from October 8, 2025 to
+November 26, 2025.
+
+In April 2022 a first version of the MOOC was presented on
+[OpenSAP](https://en.wikipedia.org/wiki/OpenSAP). An archived version of this
+course is available [here](/teaching/python-mooc).
 
 ## General Guidelines §
 
