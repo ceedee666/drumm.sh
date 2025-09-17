@@ -52,8 +52,8 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 |  47 | 19.11.25 | Bibliotheken                                      |               |             |
 |  48 | 26.11.25 | Visualisierung von Daten mit matplotlib           |               | Praktikum 1 |
 |  49 | 03.11.25 | Einführung in Scientific Computing mit numpy      |               | Praktikum 2 |
-|  50 | 10.12.25 | Datenverarbeitung und Datenanalyse mit pandas     |               |             |
-|  51 | 17.12.25 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 3 |
+|  50 | 10.12.25 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 3 |
+|  51 | 17.12.25 | Einführung in KI (machinelles Lernen)             |               |             |
 |  52 | 24.12.25 | **keine Vorlesung**                               |               |             |
 |   1 | 30.12.25 | **keine Vorlesung**                               |               |             |
 |   2 | 07.01.26 | Projekt - keine Vorlesung                         |               |             |
