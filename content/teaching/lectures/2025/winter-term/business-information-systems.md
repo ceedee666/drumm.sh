@@ -1,5 +1,5 @@
 ---
-title: "Business Information Systems "
+title: "Business Information Systems"
 language: "de"
 published: true
 tags: ["FH Aachen", "Teaching", "SAP S4HANA"]
@@ -62,7 +62,7 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
 2. Zugriff auf das SAP S/4HANA System über Ihren Webbrowser
    - URL: [https://drumm.sh/s4](https://drumm.sh/s4)
    - Benutzername: LEARN-###
-   - Mandat: 285 (Wichtig! Häufiger Fehler!)
+   - Mandat: 271 (Wichtig! Häufiger Fehler!)
 
 ## Literatur
 
