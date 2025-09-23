@@ -5,11 +5,8 @@ published: true
 tags: ["FH Aachen", "Thesis"]
 ---
 
-## Inhaltsverzeichnis
-
 <!--toc:start-->
 
-- [Inhaltsverzeichnis](#inhaltsverzeichnis)
 - [Possible Thesis Topics](#possible-thesis-topics)
   - [BPM](#bpm)
   - [ERP Systems](#erp-systems)
@@ -44,6 +41,7 @@ own idea for a topic please feel free to contact me as well.
 
 1. Erklärvideos für SAP S/4HANA Fallstudien
 1. Integration of 3d printing and SAP S/4HANA
+1. Development and evaluation of a LLM plug-in to answer student's questions.
 1. Using AR to visualise a model factory
 1. Analysis of the effects of integrated documentation (ie. SAP Enable Now) in
    SAP S/4HANA
@@ -70,6 +68,7 @@ own idea for a topic please feel free to contact me as well.
 
 ### Software Development
 
+1. Implementation and analysis of a example application using Vide Coding
 1. Implementation of a Web based TDD game (in cooperation with majcon)
 1. Analysis of software quality metrics in large code bases (possibly in
    cooperation with CQSE)
