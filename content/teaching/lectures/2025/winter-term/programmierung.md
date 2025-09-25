@@ -66,4 +66,4 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 | -------------------------------------------------------------- | -------------------------------------------------------------- |
 | [Python for Beginners](https://open.hpi.de/courses/python2025) | openHPI Kurs zu Python                                         |
 | [Python Cheat Sheet](https://www.pythoncheatsheet.org/)        | Kurzreferenz zu Python und einem Teil der Standardbibliotheken |
-| [Ilias]()                                                      | Ilias-Ordner des Moduls                                        |
+| [Ilias](https://www.ili.fh-aachen.de/go/crs/1448872)           | Ilias-Ordner des Moduls                                        |

@@ -102,7 +102,7 @@ Die beiden Präsentationen werden auf Basis der folgenden Kriterien bewertet.
 
 ## Wichtige Links
 
-| Link      | Beschreibung             |
-| --------- | ------------------------ |
-| [Git]()   | Git-Repository zum Modul |
-| [Ilias]() | Ilias-Ordner zum Modul   |
+| Link                                                                   | Beschreibung             |
+| ---------------------------------------------------------------------- | ------------------------ |
+| [Git](https://codeberg.org/ceedee666/cloud-based-information-systems/) | Git-Repository zum Modul |
+| [Ilias](https://www.ili.fh-aachen.de/go/crs/1448894)                   | Ilias-Ordner zum Modul   |
