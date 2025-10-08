@@ -8,6 +8,11 @@ semesters:
           - name: "Isabel Raimov"
             image: "./images/none.png"
             socialLinks: []
+          - name: "Desara Feti"
+            image: "./images/none.png"
+            socialLinks:
+              - type: "linkedin"
+                url: https://www.linkedin.com/in/desara-feti/
       - lecture: "SAP in der Praxis"
         lectureLink: "/teaching/lectures/2024/winter-term/business_information_systems"
         students:
