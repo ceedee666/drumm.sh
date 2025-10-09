@@ -5,6 +5,9 @@ published: true
 tags: ["FH Aachen", "Python"]
 ---
 
+**An updated version of this course is now avsilabele on
+[OpenHPI](https://open.hpi.de/courses/python2025).**
+
 This is a archived version of the Python for Beginners MOOC. The course
 was initially presented in April 2022 on [OpenSAP](https://open.sap.com).
 When the OpenSAP platform was closed more than 55.600 learners participated
