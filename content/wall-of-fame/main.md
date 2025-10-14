@@ -13,6 +13,11 @@ semesters:
             socialLinks:
               - type: "linkedin"
                 url: https://www.linkedin.com/in/desara-feti/
+          - name: "Laurenz Golm"
+            image: "./images/none.png"
+            socialLinks:
+              - type: "linkedin"
+                url: https://www.linkedin.com/in/laurenz-golm-1967692b5
       - lecture: "SAP in der Praxis"
         lectureLink: "/teaching/lectures/2024/winter-term/business_information_systems"
         students:
