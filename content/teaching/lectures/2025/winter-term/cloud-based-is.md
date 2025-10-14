@@ -48,23 +48,23 @@ Die vorläufige Planung für das Modul finden Sie in folgender Tabelle:
 
 |     KW | Datum    | Thema der Vorlesung                               | Notizen / Kommentare                                                                            |
 | -----: | -------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **40** | 30.09.24 | Orga & Ziele, Fallstudie, Architektur ERP Systeme | Wiederholung BIS im Selbststudium                                                               |
-| **41** | 07.10.24 | OData und OAuth                                   |                                                                                                 |
-| **42** | 14.10.24 | Selbststudium & Coaching                          | siehe [Lernpfad](https://codeberg.org/ceedee666/cloud-based-information-systems/#learning-path) |
-| **43** | 21.10.24 | Peer Teaching                                     | Themenauswahl und Gruppen siehe [Ilias](https://www.ili.fh-aachen.de/go/book/1455838)           |
-| **44** | 28.10.24 | Peer Teaching                                     |                                                                                                 |
-| **45** | 04.11.24 | Vorstellung Praxispartner und Auswahl Projekte    |                                                                                                 |
-| **46** | 11.11.24 | Projektarbeit, Sprint Review & Retro              |                                                                                                 |
-| **47** | 18.11.24 | Projektarbeit, Sprint Review & Retro              | Reading Week                                                                                    |
-| **48** | 25.11.24 | Projektarbeit, Sprint Review & Retro              |                                                                                                 |
-| **49** | 02.12.24 | **Mid-Term Presentation**                         |                                                                                                 |
-| **50** | 9.12.24  | Projektarbeit, Sprint Review & Retro              |                                                                                                 |
-| **51** | 16.12.24 | Projektarbeit, Sprint Review & Retro              |                                                                                                 |
-| **52** | 23.12.24 | ⚠️ **Keine Vorlesung**                            |                                                                                                 |
-|  **1** | 30.12.24 | ⚠️ **Keine Vorlesung**                            |                                                                                                 |
-|  **2** | 06.01.25 | Vorstellung Projektergebnisse                     |                                                                                                 |
-|  **3** | 13.01.25 | Erstellung Tutorial / Lernvideo                   |                                                                                                 |
-|  **4** | 20.01.25 | Erstellung Tutorial / Lernvideo                   |                                                                                                 |
+| **40** | 30.09.25 | Orga & Ziele, Fallstudie, Architektur ERP Systeme | Wiederholung BIS im Selbststudium                                                               |
+| **41** | 07.10.25 | OData und OAuth                                   |                                                                                                 |
+| **42** | 14.10.25 | Selbststudium & Coaching                          | siehe [Lernpfad](https://codeberg.org/ceedee666/cloud-based-information-systems/#learning-path) |
+| **43** | 21.10.25 | Peer Teaching                                     | Themenauswahl und Gruppen siehe [Ilias](https://www.ili.fh-aachen.de/go/book/1455838)           |
+| **44** | 28.10.25 | Peer Teaching                                     |                                                                                                 |
+| **45** | 04.11.25 | Vorstellung Praxispartner und Auswahl Projekte    |                                                                                                 |
+| **46** | 11.11.25 | Projektarbeit, Sprint Review & Retro              |                                                                                                 |
+| **47** | 18.11.25 | Projektarbeit, Sprint Review & Retro              | Reading Week                                                                                    |
+| **48** | 25.11.25 | Projektarbeit, Sprint Review & Retro              |                                                                                                 |
+| **49** | 02.12.25 | **Mid-Term Presentation**                         |                                                                                                 |
+| **50** | 09.12.25 | Projektarbeit, Sprint Review & Retro              |                                                                                                 |
+| **51** | 16.12.25 | Projektarbeit, Sprint Review & Retro              |                                                                                                 |
+| **52** | 23.12.25 | ⚠️ **Keine Vorlesung**                            |                                                                                                 |
+|  **1** | 30.12.25 | ⚠️ **Keine Vorlesung**                            |                                                                                                 |
+|  **2** | 06.01.26 | Vorstellung Projektergebnisse                     |                                                                                                 |
+|  **3** | 13.01.26 | Erstellung Tutorial / Lernvideo                   |                                                                                                 |
+|  **4** | 20.01.26 | Erstellung Tutorial / Lernvideo                   |                                                                                                 |
 
 ## Bewertung
 
