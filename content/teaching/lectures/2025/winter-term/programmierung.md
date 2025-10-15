@@ -45,13 +45,13 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 |  40 | 01.10.25 | Organisation & Einführung                         | Woche 0       |             |
 |  41 | 08.10.25 | **keine Vorlesung**                               | Woche 1       |             |
 |  42 | 15.10.25 | Datentypen, Ein- u. Ausgabe, bedingte Anweisungen | Woche 2       |             |
-|  43 | 22.10.25 | List und Schleifen                                | Woche 3       |             |
-|  44 | 29.11.25 | Komplexe Datentypen                               | Woche 4       |             |
+|  43 | 22.10.25 | **keine Vorlesung**                               | Woche 3       |             |
+|  44 | 29.10.25 | Komplexe Datentypen                               | Woche 4       |             |
 |  45 | 05.11.25 | Arbeiten mit Dateien                              | Woche 5       |             |
 |  46 | 12.11.25 | Funktionen                                        | Woche 6       |             |
 |  47 | 19.11.25 | Bibliotheken                                      |               |             |
 |  48 | 26.11.25 | Visualisierung von Daten mit matplotlib           |               | Praktikum 1 |
-|  49 | 03.11.25 | Einführung in Scientific Computing mit numpy      |               | Praktikum 2 |
+|  49 | 03.12.25 | Einführung in Scientific Computing mit numpy      |               | Praktikum 2 |
 |  50 | 10.12.25 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 3 |
 |  51 | 17.12.25 | Einführung in KI (machinelles Lernen)             |               | Praktikum 4 |
 |  52 | 24.12.25 | **keine Vorlesung**                               |               |             |
