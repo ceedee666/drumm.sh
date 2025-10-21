@@ -47,11 +47,11 @@ The lectures and the labs take place on the following days:
 |   42 | 14.10.25 | Exchange Formats                                                                    |
 |      | 15.10.25 | Lab                                                                                 |
 |   43 | 21.10.25 | Query languages                                                                     |
-|      | 22.10.25 | Lab                                                                                 |
+|      | 22.10.25 | **No lecture**                                                                      |
 |   44 | 28.10.25 | Mapping languages                                                                   |
-|      | 29.10.25 | Protocols                                                                           |
-|   45 | 04.11.25 | Enterprise integration patterns                                                     |
-|      | 05.11.25 | Lab                                                                                 |
+|      | 29.10.25 | Lab                                                                                 |
+|   45 | 04.11.25 | Protocols                                                                           |
+|      | 05.11.25 | Enterprise integration patterns                                                     |
 |   46 | 11.11.25 | Enterprise integration patterns                                                     |
 |      | 12.11.25 | Lab                                                                                 |
 |   47 | 18.11.25 | **Reading Week**                                                                    |
@@ -64,10 +64,10 @@ The lectures and the labs take place on the following days:
 |      | 10.12.25 | Reliability                                                                         |
 |   51 | 16.12.25 | Performance                                                                         |
 |      | 17.12.25 | Performance                                                                         |
-|   52 | 23.12.25 | **keine Vorlesung**                                                                 |
-|      | 24.12.25 | **keine Vorlesung**                                                                 |
-|    1 | 30.12.25 | **keine Vorlesung**                                                                 |
-|      | 31.12.25 | **keine Vorlesung**                                                                 |
+|   52 | 23.12.25 | **No lecture**                                                                      |
+|      | 24.12.25 | **No lecture**                                                                      |
+|    1 | 30.12.25 | **No lecture**                                                                      |
+|      | 31.12.25 | **No lecture**                                                                      |
 |    2 | 06.01.26 | Project: architecture analysis                                                      |
 |      | 07.01.26 | Project: architecture analysis                                                      |
 |    3 | 13.01.26 | Project: architecture analysis                                                      |
