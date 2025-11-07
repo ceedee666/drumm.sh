@@ -74,8 +74,6 @@ own idea for a topic please feel free to contact me as well.
 1. Analysis of software quality metrics in large code bases (possibly in
    cooperation with CQSE)
 
-### Other
-
 ## Supervised Thesis
 
 This is a selection of the bachelor and master thesis I supervised in the past.
@@ -158,7 +156,6 @@ the full text is also available.
 ### 2022
 
 - **Master Thesis**
-
   - Entwicklung eines Konzeptes zur intralogistischen Prozesssteuerung
 
 - **Bachlor Thesis**
@@ -198,7 +195,6 @@ the full text is also available.
 ### 2020
 
 - **Bachlor Thesis**
-
   - Erfolgsfaktoren für die Prozessautomation mit Hilfe von Robotic Process
     Automation
   - [Smart Maintenance: Vergleich von konventionellem und intelligentem Asset
