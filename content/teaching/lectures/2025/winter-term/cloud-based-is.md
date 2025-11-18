@@ -100,6 +100,22 @@ Die beiden Präsentationen werden auf Basis der folgenden Kriterien bewertet.
 - Darstellung von Problemen / Lessons Learned
 - Beantwortung von Fragen
 
+### Bewertungskriterien für das Tutorial
+
+Die Tutorials bzw. Videos werden nach den folgenden Kriterien bewertet:
+
+- Problembeschreibung: Klare Darstellung des Ausgangsproblems und warum die
+  Lösung relevant ist (Szenario, Ziel, Kontext).
+- Schritte zur Lösung: Nachvollziehbare, logisch strukturierte Beschreibung des
+  Vorgehens (Überblick + wesentliche Schritte).
+- Umsetzung / Demo: Funktionsfähige Umsetzung mit kurzer Demonstration, die
+  zeigt, dass das Problem wirklich gelöst wurde.
+- Nachvollziehbarkeit: Verständliche Erklärung der Zusammenhänge, sinnvolle
+  Visualisierungen (z. B. Abläufe, Strukturen), ggf. Alternativen oder typische
+  Fehlerquellen.
+- Dokumentation: Klare, gut strukturierte Darstellung im Video oder Dokument
+  (Ton, Visualisierungen, Lesbarkeit).
+
 ## Wichtige Links
 
 | Link                                                                   | Beschreibung             |
