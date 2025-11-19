@@ -38,27 +38,27 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 - **Vorlesung**
   - Mittwoch, 16:00 - 19:00h, W104
 - **Praktikum / Tutorium**
-  - Donnerstag, 10:00 - 11:30h, W104
+  - **Dienstag**, 10:00 - 11:30h, W104
 
-|  KW | Datum    | Thema                                             | openHPI Woche | Praktikum   |
-| --: | -------- | ------------------------------------------------- | ------------- | ----------- |
-|  40 | 01.10.25 | Organisation & Einführung                         | Woche 0       |             |
-|  41 | 08.10.25 | **keine Vorlesung**                               | Woche 1       |             |
-|  42 | 15.10.25 | Datentypen, Ein- u. Ausgabe, bedingte Anweisungen | Woche 2       |             |
-|  43 | 22.10.25 | **keine Vorlesung**                               | Woche 3       |             |
-|  44 | 29.10.25 | Komplexe Datentypen                               | Woche 4       |             |
-|  45 | 05.11.25 | Arbeiten mit Dateien                              | Woche 5       |             |
-|  46 | 12.11.25 | **keine Vorlesung**                               | Woche 6       |             |
-|  47 | 19.11.25 | Bibliotheken                                      |               |             |
-|  48 | 26.11.25 | Visualisierung von Daten mit matplotlib           |               | Praktikum 1 |
-|  49 | 03.12.25 | Einführung in Scientific Computing mit numpy      |               | Praktikum 2 |
-|  50 | 10.12.25 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 3 |
-|  51 | 17.12.25 | Einführung in KI (machinelles Lernen)             |               | Praktikum 4 |
-|  52 | 24.12.25 | **keine Vorlesung**                               |               |             |
-|   1 | 30.12.25 | **keine Vorlesung**                               |               |             |
-|   2 | 07.01.26 | Projekt - keine Vorlesung                         |               |             |
-|   3 | 14.01.26 | Projekt - keine Vorlesung                         |               |             |
-|   4 | 21.01.26 | Prüfungsvorbereitung                              |               |             |
+|  KW | Datum    | Thema                                             | openHPI Woche | Praktikum              |
+| --: | -------- | ------------------------------------------------- | ------------- | ---------------------- |
+|  40 | 01.10.25 | Organisation & Einführung                         | Woche 0       |                        |
+|  41 | 08.10.25 | **keine Vorlesung**                               | Woche 1       |                        |
+|  42 | 15.10.25 | Datentypen, Ein- u. Ausgabe, bedingte Anweisungen | Woche 2       |                        |
+|  43 | 22.10.25 | **keine Vorlesung**                               | Woche 3       |                        |
+|  44 | 29.10.25 | Komplexe Datentypen                               | Woche 4       |                        |
+|  45 | 05.11.25 | Arbeiten mit Dateien                              | Woche 5       |                        |
+|  46 | 12.11.25 | **keine Vorlesung**                               | Woche 6       |                        |
+|  47 | 19.11.25 | Bibliotheken                                      |               |                        |
+|  48 | 26.11.25 | Visualisierung von Daten mit matplotlib           |               |                        |
+|  49 | 03.12.25 | Einführung in Scientific Computing mit numpy      |               | Praktikum 1 (02.12.25) |
+|  50 | 10.12.25 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 2 (09.12.25) |
+|  51 | 17.12.25 | Einführung in KI (machinelles Lernen)             |               | Praktikum 3 (16.12.25) |
+|  52 | 24.12.25 | **keine Vorlesung**                               |               |                        |
+|   1 | 30.12.25 | **keine Vorlesung**                               |               |                        |
+|   2 | 07.01.26 | Projekt - keine Vorlesung                         |               | Praktikum 4(06.01.26)  |
+|   3 | 14.01.26 | Projekt - keine Vorlesung                         |               |                        |
+|   4 | 21.01.26 | Prüfungsvorbereitung                              |               |                        |
 
 ## Wichtige Links
 
