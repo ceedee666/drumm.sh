@@ -44,13 +44,28 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt:
 | 15.01.26 | ABAP RESTful Application Programming Model (RAP) | 🎬 [ABAP RAP Videotutorial bis zum Ende](https://et.training/dashboard/product/video/1233)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                  | resultierende RAP-Anwendung                  |
 | 22.01.26 | Zusammenfassung und Prüfungsvorbereitung         | Übungsklausuren                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                  |                                              |
 
-## Exkursion
+### Selbsttests
+
+Für einige der Themen habe ich kleine Quizzes erstellt.
+Diese finden Sie unter folgenden Links:
+
+- ⁉️ [ERP-Systeme](https://quizizz.com/embed/quiz/61546f1f09d317001ea1e21a)
+- ⁉️ [Navigation](https://quizizz.com/embed/quiz/61546abd3dc795001eb80745)
+- ⁉️ [Vertrieb](https://quizizz.com/embed/quiz/5f78d2bffcf584001b7d464e)
+- ⁉️ [Details Vertrieb](https://quizizz.com/embed/quiz/61669fc8e4831f001d10c541)
+- ⁉️ [Einkauf & Beschaffung](https://quizizz.com/embed/quiz/6180353c437684001df318b8)
+- ⁉️ [Rechnungswesen](https://quizizz.com/embed/quiz/60b4bab610b679001cc1895b)
+- ⁉️ [Produktionsplanung & Steuerung](https://quizizz.com/embed/quiz/61a343c4a643f7001d795cc7)
+- ⁉️ [Wiederholung Prozesse](https://quizizz.com/join?gc=67509395)
+- ⁉️ [Prozessintegration](https://quizizz.com/join?gc=64563308)
+
+### Exkursion
 
 Im Wintersemester 2025 biete ich im Rahmen dieses Moduls eine Exkursion zu SAP
 in Ratingen an. Details zur Exkursion werden rechtzeitig in der Vorlesung sowie
 auf Ilias veröffentlicht.
 
-## Systemzugriff
+### Systemzugriff
 
 Um auf "unser" SAP S/4HANA System zugreifen zu können müssen Sie folgende Schritte
 durchführen. Die notwendigen Benutzernamen und Passwörter erhalten Sie vor
