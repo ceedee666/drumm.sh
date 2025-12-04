@@ -79,7 +79,7 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
    - Benutzername: LEARN-###
    - Mandat: 271 (Wichtig! Häufiger Fehler!)
 
-### ABAO RESTful Application Programming Model (RAP)
+### ABAP RESTful Application Programming Model (RAP)
 
 Um das ABAP Tutorial durcharbeiten zu können, benötigen Sie Zugriff auf eine
 ABAP Umgebung auf der SAP BTP. Dazu müssen sie folgende Schritte durchführen:
