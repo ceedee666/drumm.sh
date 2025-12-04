@@ -79,6 +79,18 @@ Schritte für den Systemzugriff (siehe auch dieses [Video](https://youtu.be/kibe
    - Benutzername: LEARN-###
    - Mandat: 271 (Wichtig! Häufiger Fehler!)
 
+### ABAO RESTful Application Programming Model (RAP)
+
+Um das ABAP Tutorial durcharbeiten zu können, benötigen Sie Zugriff auf eine
+ABAP Umgebung auf der SAP BTP. Dazu müssen sie folgende Schritte durchführen:
+
+1. Einen kostenlosen SAP BTP Trial Account anlegen:
+   [https://developers.sap.com/tutorials/hcp-create-trial-account.html](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+2. Eine ABAP Environment Instanz im SAP BTP Trial anlegen:
+   [https://developers.sap.com/mission.abap-env-trial-user.html](https://developers.sap.com/mission.abap-env-trial-user.html)
+3. Die Eclipse IDE und die ABAP Development Tools (ADT) installieren:
+   [https://developers.sap.com/tutorials/abap-install-adt..html](https://developers.sap.com/tutorials/abap-install-adt..html)
+
 ## Literatur
 
 - [Einstieg in SAP S/4HANA - Geschäftsprozesse, Komponenten, Zusammenhänge](https://www.rheinwerk-verlag.de/einstieg-in-sap-s4hana/)
