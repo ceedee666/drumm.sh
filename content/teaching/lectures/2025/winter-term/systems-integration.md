@@ -60,7 +60,7 @@ The lectures and the labs take place on the following days:
 |      | 26.11.25 | [Lab 4](https://codeberg.org/ceedee666/systems-integration/src/branch/main/lab/apache-karavan.md)     |
 |   49 | 02.12.25 | Enterprise integration patterns                                                                       |
 |      | 03.12.25 | [Lab 5](https://codeberg.org/ceedee666/systems-integration/src/branch/main/lab/connect-to-karavan.md) |
-|   50 | 09.12.25 | Reliability                                                                                           |
+|   50 | 09.12.25 | Reliability <br/> 📝: [Miro-Board](https://miro.com/app/board/uXjVGe8BAek=/)                          |
 |      | 10.12.25 | Lab 5 continued                                                                                       |
 |   51 | 16.12.25 | Performance                                                                                           |
 |      | 17.12.25 | [Lab 6](https://codeberg.org/ceedee666/systems-integration/src/branch/main/lab/messaging.md)          |
