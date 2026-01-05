@@ -6,7 +6,7 @@ During the winter term 2025 I teach the following lectures at [FH Aachen](https:
   Systems](/teaching/lectures/2025/winter-term/business-information-systems)
 - [Cloud-basierte
   Informationssysteme](/teaching/lectures/2025/winter-term/cloud-based-is)
-- [Interdisziplinäres Projekt Wirtschaftsinformatik](/teaching/levtures/2025/winter-term/interdisciplinary-project)
+- [Interdisziplinäres Projekt Wirtschaftsinformatik](/teaching/lectures/2025/winter-term/interdisciplinary-project)
 - [Programmierung und
   Informationsverarbeitung](/teaching/lectures/2025/winter-term/programmierung)
 - [Systems
