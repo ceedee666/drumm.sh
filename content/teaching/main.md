@@ -12,12 +12,12 @@ During the winter term 2025 I teach the following lectures at [FH Aachen](https:
 - [Systems
   Integration](/teaching/lectures/2025/winter-term/systems-integration)
 
-[This site](/teaching/lectures/previous-lectures) contains a list of lectures I taught
-during the previous terms.
+[This site](/teaching/lectures/previous-lectures) contains a list of lectures I
+taught during the previous terms.
 
 ## Python for Beginners MOOC 🐍
 
-A new and updated version of the course will run on
+A new and updated version of the course was presented on
 [openHPI](https://open.hpi.de/courses/python2025) from October 8, 2025 to
 November 26, 2025.
 
@@ -39,6 +39,11 @@ expectations.
 
 A [list of available thesis topics](/teaching/thesis) and an archive of
 previously supervised theses can be found [here](/teaching/thesis).
+
+## Internships and Practical Semesters 🏢
+
+A list of companies currently offering open internship positions or practical
+semesters is available [here](/teaching/internship).
 
 ## Student Blog 📝
 
