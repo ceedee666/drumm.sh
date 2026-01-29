@@ -47,6 +47,8 @@ own idea for a topic please feel free to contact me as well.
 1. Analysis of the effects of integrated documentation (ie. SAP Enable Now) in
    SAP S/4HANA
 1. Development and Evaluation of a case study for Robotic Process Automation
+1. Integration advisor - tool to support the selection of appropriate integration
+   technologies in ERP landscapes
 
 ### Generative AI
 
