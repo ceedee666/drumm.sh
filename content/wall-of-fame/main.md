@@ -1,5 +1,12 @@
 ---
 semesters:
+  - term: "Winter Term 2025 / 2026"
+    lectures:
+      - lecture: "Business Information Systems"
+        lectureLink: "/teaching/lectures/2025/winter-term/business_information_systems"
+        students:
+          - name: "Simon Kaiser "
+            image: "./images/none.png"
   - term: "Summer Term 2025"
     lectures:
       - lecture: "Informationssysteme"
