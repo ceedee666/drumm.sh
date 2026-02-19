@@ -24,8 +24,8 @@ practical skills in system integration.
 
 The examination consists of two parts:
 
-- Oral exam (70%)
-- Term paper (30%)
+- Exam (70%)
+- [Term paper (30%)](https://codeberg.org/ceedee666/systems-integration/src/branch/main/term-paper/term-paper.md)
 
 The participation and completion of the lab exercises is mandatory
 for admission to the exam.
