@@ -99,5 +99,6 @@ Writing Partner. In S. P. Lajoie & S. J. Derry (Eds.), Computers as Cognitive To
 This document is subject to the Creative Commons Attribution Share-Alike 4.0
 International (CC BY-SA 4.0) License.
 
-The document is based on the [Rules for Tools](https://csp.uber.space/phhd/rulesfortools.pdf) of
-Prof. Dr. Christian Spannagel.
+The document is based on the [Rules for
+Tools](https://github.com/dunkelmunkel/scientific-work/tree/main/rulesfortools)
+of Prof. Dr. Christian Spannagel.
