@@ -7,6 +7,14 @@ semesters:
         students:
           - name: "Simon Kaiser "
             image: "./images/none.png"
+      - lecture: "Systems Integration"
+        lectureLink: "/teaching/lectures/2025/winter-term/systems_integration"
+        students:
+          - name: "Stoyan Ivanov "
+            image: "./images/none.png"
+            socialLinks:
+              - type: "linkedin"
+                url: "https://www.linkedin.com/in/stoyan-ivanov-76b9a5388/"
   - term: "Summer Term 2025"
     lectures:
       - lecture: "Informationssysteme"
