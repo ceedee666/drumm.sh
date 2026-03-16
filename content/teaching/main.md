@@ -1,16 +1,11 @@
 # Lectures
 
-During the winter term 2025 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
+During the summer term 2026 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
-- [Business Information
-  Systems](/teaching/lectures/2025/winter-term/business-information-systems)
-- [Cloud-basierte
-  Informationssysteme](/teaching/lectures/2025/winter-term/cloud-based-is)
-- [Interdisziplinäres Projekt Wirtschaftsinformatik](/teaching/lectures/2025/winter-term/interdisciplinary-project)
-- [Programmierung und
-  Informationsverarbeitung](/teaching/lectures/2025/winter-term/programmierung)
-- [Systems
-  Integration](/teaching/lectures/2025/winter-term/systems-integration)
+- [Industrielle
+  Produktion](/teaching/lectures/2026/summer-term/industrielle-produktion)
+- [Informationssysteme](/teaching/lectures/2026/summer-term/informationssysteme)
+- [SAP in der Praxis](/teaching/lectures/2026/summer-term/sap-in-der-praxis)
 
 [This site](/teaching/lectures/previous-lectures) contains a list of lectures I
 taught during the previous terms.

@@ -5,6 +5,21 @@ published: true
 tags: ["FH Aachen", "lectures"]
 ---
 
+## Winter Term 2025/2026 ❄️
+
+In the winter term 2025/2026 I taught the following lectures at [FH
+Aachen](https://www.fh-aachen.de/):
+
+- [Business Information
+  Systems](/teaching/lectures/2025/winter-term/business-information-systems)
+- [Cloud-basierte
+  Informationssysteme](/teaching/lectures/2025/winter-term/cloud-based-is)
+- [Interdisziplinäres Projekt Wirtschaftsinformatik](/teaching/lectures/2025/winter-term/interdisciplinary-project)
+- [Programmierung und
+  Informationsverarbeitung](/teaching/lectures/2025/winter-term/programmierung)
+- [Systems
+  Integration](/teaching/lectures/2025/winter-term/systems-integration)
+
 ## Summer Term 2025 ☀️
 
 In the summer term 2025 I taught the following lectures at [FH
