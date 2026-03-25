@@ -93,7 +93,7 @@ module.exports.onCreateWebpackConfig = ({ actions, loaders, stage }) => {
     module: {
       rules: [
         {
-          test: /node_modules\/react-icons/,
+          test: /node_modules\/(react-icons|date-fns|react-bootstrap|@restart|react-transition-group|uncontrollable|invariant|dequal|dom-helpers|css-select|domutils)/,
           type: "javascript/auto", // Disables strict ESM requirements
           use: [
             loaders.js({
