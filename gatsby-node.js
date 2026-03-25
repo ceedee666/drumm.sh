@@ -89,41 +89,15 @@ module.exports.createSchemaCustomization = ({ actions }) => {
 };
 
 module.onCreateWebpackConfig = ({ actions, loaders, stage }) => {
-  // These are the packages that are currently breaking your build
-  const packagesToTranspile = [
-    "react-icons",
-    "date-fns",
-    "react-bootstrap",
-    "@restart",
-    "react-transition-group",
-    "uncontrollable",
-    "invariant",
-    "dequal",
-    "dom-helpers",
-    "css-select",
-    "domutils",
-  ];
-
-  // Convert the array into a regex: /node_modules\/(pkg1|pkg2|pkg3)/
-  const transpileRegex = new RegExp(
-    `node_modules/(${packagesToTranspile.join("|")})`,
-  );
-
   if (stage === "build-html" || stage === "build-javascript") {
     actions.setWebpackConfig({
       module: {
         rules: [
-          // Rule 1: Fix .mjs extension issues
           {
-            test: /\.mjs$/,
-            include: /node_modules/,
+            // The "Catch-All" for problematic libraries
+            test: /node_modules\/.*(react-icons|date-fns|react-bootstrap|@restart|react-transition-group|uncontrollable|invariant|dequal|dom-helpers|css-select|domutils).*\.(js|mjs)$/,
+            // Force Webpack to treat these as flexible "auto" modules
             type: "javascript/auto",
-          },
-          // Rule 2: Force-transpile the "List of Shame"
-          {
-            test: transpileRegex,
-            // Catch both .js and .mjs files inside these packages
-            resourceQuery: { not: [/raw/] },
             use: [
               loaders.js({
                 babelrc: false,
