@@ -8,7 +8,6 @@ import {
   SiMastodon,
   SiSap,
   SiYoutube,
-  SiGithub,
   SiCodeberg,
 } from "react-icons/si";
 
