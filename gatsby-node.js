@@ -88,14 +88,21 @@ module.exports.createSchemaCustomization = ({ actions }) => {
   `);
 };
 
-module.exports.onCreateWebpackConfig = ({ actions }) => {
+module.exports.onCreateWebpackConfig = ({ actions, loaders }) => {
   actions.setWebpackConfig({
     module: {
       rules: [
+        // Fix 1: Help Webpack understand .mjs files in node_modules
         {
           test: /\.mjs$/,
           include: /node_modules/,
           type: "javascript/auto",
+        },
+        // Fix 2: Transpile react-icons specifically
+        // This tells Gatsby to run react-icons through Babel, fixing the "null (reading 'name')" crash
+        {
+          test: /node_modules\/react-icons/,
+          use: [loaders.js()],
         },
       ],
     },
