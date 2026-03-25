@@ -87,26 +87,3 @@ module.exports.createSchemaCustomization = ({ actions }) => {
     }
   `);
 };
-module.exports.onCreateWebpackConfig = ({ actions, stage, getConfig }) => {
-  // Only needed for SSR builds
-  if (stage !== "build-html" && stage !== "develop-html") return;
-
-  const config = getConfig();
-
-  // Fix ESM packages that ship .mjs / fully-specified imports during SSR
-  config.module.rules.push({
-    test: /\.mjs$/,
-    include: /node_modules/,
-    type: "javascript/auto",
-  });
-
-  // Some ESM packages require disabling "fully specified" resolution in webpack 5
-  config.module.rules.push({
-    test: /\.m?js$/,
-    resolve: {
-      fullySpecified: false,
-    },
-  });
-
-  actions.replaceWebpackConfig(config);
-};

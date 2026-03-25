@@ -11,7 +11,7 @@ semesters:
         lectureLink: "/teaching/lectures/2025/winter-term/cloud-based-is"
         students:
           - name: "Piet Lehmkühler"
-            image: "./images/piet-lehmkühler.jpg"
+            image: "./images/piet-lehmkuehler.jpg"
             socialLinks:
               - type: "linkedin"
                 url: "https://www.linkedin.com/in/piet-lehmk%C3%BChler-74152a389/"

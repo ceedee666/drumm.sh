@@ -85,7 +85,8 @@ const WallOfFamePage = () => {
                           </td>
                         )}
                         <td>
-                          {student.image.name != "none" ? (
+                          {student.image?.name &&
+                          student.image.name !== "none" ? (
                             <div>
                               <img
                                 src={student.image.publicURL}
