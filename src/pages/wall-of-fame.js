@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from "gatsby";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
-import { SlUser, SiUserFemale } from "react-icons/sl";
+import { SlUser } from "react-icons/sl";
 import {
   blogBody,
   studentImage,
