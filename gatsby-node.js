@@ -101,7 +101,7 @@ module.exports.onCreateWebpackConfig = ({ actions, loaders }) => {
         // Fix 2: Transpile esm files
         // This targets any folder named 'esm' OR any subfolder inside 'react-icons'
         {
-          test: /node_modules\/.*([eE][sS][mM]?|react-icons\/[a-z0-9]+)\/.*\.js$/,
+          test: /node_modules\/.*([eE][sS][mM]?|react-icons\/[a-z0-9]+)\/.*\.(js|mjs)$/,
           use: [
             loaders.js({
               babelrc: false,
