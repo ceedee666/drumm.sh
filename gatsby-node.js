@@ -88,29 +88,52 @@ module.exports.createSchemaCustomization = ({ actions }) => {
   `);
 };
 
-module.exports.onCreateWebpackConfig = ({ actions, loaders }) => {
-  actions.setWebpackConfig({
-    module: {
-      rules: [
-        // Fix 1: Help Webpack understand .mjs files in node_modules
-        {
-          test: /\.mjs$/,
-          include: /node_modules/,
-          type: "javascript/auto",
-        },
-        // Fix 2: Transpile esm files
-        // This targets any folder named 'esm' OR any subfolder inside 'react-icons'
-        {
-          test: /node_modules\/.*([eE][sS][mM]?|react-icons\/[a-z0-9]+)\/.*\.(js|mjs)$/,
-          use: [
-            loaders.js({
-              babelrc: false,
-              configFile: false,
-              compact: true, // This is the magic line that kills the warning
-            }),
-          ],
-        },
-      ],
-    },
-  });
+module.onCreateWebpackConfig = ({ actions, loaders, stage }) => {
+  // These are the packages that are currently breaking your build
+  const packagesToTranspile = [
+    "react-icons",
+    "date-fns",
+    "react-bootstrap",
+    "@restart",
+    "react-transition-group",
+    "uncontrollable",
+    "invariant",
+    "dequal",
+    "dom-helpers",
+    "css-select",
+    "domutils",
+  ];
+
+  // Convert the array into a regex: /node_modules\/(pkg1|pkg2|pkg3)/
+  const transpileRegex = new RegExp(
+    `node_modules/(${packagesToTranspile.join("|")})`,
+  );
+
+  if (stage === "build-html" || stage === "build-javascript") {
+    actions.setWebpackConfig({
+      module: {
+        rules: [
+          // Rule 1: Fix .mjs extension issues
+          {
+            test: /\.mjs$/,
+            include: /node_modules/,
+            type: "javascript/auto",
+          },
+          // Rule 2: Force-transpile the "List of Shame"
+          {
+            test: transpileRegex,
+            // Catch both .js and .mjs files inside these packages
+            resourceQuery: { not: [/raw/] },
+            use: [
+              loaders.js({
+                babelrc: false,
+                configFile: false,
+                compact: true,
+              }),
+            ],
+          },
+        ],
+      },
+    });
+  }
 };
