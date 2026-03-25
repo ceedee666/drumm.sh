@@ -89,25 +89,33 @@ module.exports.createSchemaCustomization = ({ actions }) => {
 };
 
 module.onCreateWebpackConfig = ({ actions, loaders, stage }) => {
-  if (stage === "build-html" || stage === "build-javascript") {
-    actions.setWebpackConfig({
-      module: {
-        rules: [
-          {
-            // The "Catch-All" for problematic libraries
-            test: /node_modules\/.*(react-icons|date-fns|react-bootstrap|@restart|react-transition-group|uncontrollable|invariant|dequal|dom-helpers|css-select|domutils).*\.(js|mjs)$/,
-            // Force Webpack to treat these as flexible "auto" modules
-            type: "javascript/auto",
-            use: [
-              loaders.js({
-                babelrc: false,
-                configFile: false,
-                compact: true,
-              }),
-            ],
-          },
-        ],
-      },
-    });
-  }
+  actions.setWebpackConfig({
+    // FIX 1: Disable Module Concatenation.
+    // This stops Webpack from trying to squash huge icon files together,
+    // which is the direct cause of the "reading name of null" crash.
+    optimization: {
+      concatenateModules: false,
+    },
+    module: {
+      rules: [
+        // FIX 2: Standard .mjs extension fix
+        {
+          test: /\.mjs$/,
+          include: /node_modules/,
+          type: "javascript/auto",
+        },
+        // FIX 3: Force-transpile react-icons (both .js and .mjs)
+        {
+          test: /node_modules\/react-icons\/.*\.(js|mjs)$/,
+          use: [
+            loaders.js({
+              babelrc: false,
+              configFile: false,
+              compact: true,
+            }),
+          ],
+        },
+      ],
+    },
+  });
 };
