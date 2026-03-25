@@ -87,3 +87,30 @@ module.exports.createSchemaCustomization = ({ actions }) => {
     }
   `);
 };
+module.exports.onCreateWebpackConfig = ({ actions, loaders, stage }) => {
+  // Only needed for SSR builds
+  if (stage !== "build-html" && stage !== "develop-html") return;
+
+  actions.setWebpackConfig({
+    module: {
+      rules: [
+        {
+          test: /\.m?js$/,
+          include: /node_modules\/react-icons/,
+          use: [
+            loaders.js({
+              babelrc: false,
+              configFile: false,
+              compact: true,
+            }),
+          ],
+        },
+        {
+          test: /\.mjs$/,
+          include: /node_modules/,
+          type: "javascript/auto",
+        },
+      ],
+    },
+  });
+};
