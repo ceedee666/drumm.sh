@@ -102,7 +102,13 @@ module.exports.onCreateWebpackConfig = ({ actions, loaders }) => {
         // This tells Gatsby to run react-icons through Babel, fixing the "null (reading 'name')" crash
         {
           test: /node_modules\/react-icons/,
-          use: [loaders.js()],
+          use: [
+            loaders.js({
+              babelrc: false,
+              configFile: false,
+              compact: true, // This is the magic line that kills the warning
+            }),
+          ],
         },
       ],
     },
