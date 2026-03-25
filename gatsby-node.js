@@ -70,10 +70,11 @@ module.exports.createPages = async ({ graphql, actions }) => {
       },
     });
   });
+};
 
-  module.exports.createSchemaCustomization = ({ actions }) => {
-    const { createTypes } = actions;
-    createTypes(`
+module.exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  createTypes(`
     type Student implements Node {
       name: String!
       image: File @link(by: "publicURL") # Ensures image is always treated as a File
@@ -85,5 +86,18 @@ module.exports.createPages = async ({ graphql, actions }) => {
       url: String
     }
   `);
-  };
+};
+
+module.exports.onCreateWebpackConfig = ({ actions }) => {
+  actions.setWebpackConfig({
+    module: {
+      rules: [
+        {
+          test: /\.mjs$/,
+          include: /node_modules/,
+          type: "javascript/auto",
+        },
+      ],
+    },
+  });
 };
