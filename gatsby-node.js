@@ -101,7 +101,7 @@ module.exports.onCreateWebpackConfig = ({ actions, loaders }) => {
         // Fix 2: Transpile react-icons specifically
         // This tells Gatsby to run react-icons through Babel, fixing the "null (reading 'name')" crash
         {
-          test: /node_modules\/react-icons/,
+          test: /node_modules\/(react-icons|react-transition-group)/,
           use: [
             loaders.js({
               babelrc: false,
