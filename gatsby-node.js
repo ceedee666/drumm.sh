@@ -87,29 +87,3 @@ module.exports.createSchemaCustomization = ({ actions }) => {
     }
   `);
 };
-
-module.exports.onCreateWebpackConfig = ({ actions, loaders, stage }) => {
-  actions.setWebpackConfig({
-    module: {
-      rules: [
-        {
-          test: /node_modules\/(react-icons|date-fns|react-bootstrap|@restart|react-transition-group|uncontrollable|invariant|dequal|dom-helpers|css-select|domutils)/,
-          type: "javascript/auto", // Disables strict ESM requirements
-          use: [
-            loaders.js({
-              babelrc: false,
-              configFile: false,
-              compact: true,
-            }),
-          ],
-        },
-        // Standard .mjs extension fix
-        {
-          test: /\.mjs$/,
-          include: /node_modules/,
-          type: "javascript/auto",
-        },
-      ],
-    },
-  });
-};
