@@ -5,12 +5,25 @@ semesters:
       - lecture: "Business Information Systems"
         lectureLink: "/teaching/lectures/2025/winter-term/business_information_systems"
         students:
-          - name: "Simon Kaiser "
+          - name: "Simon Kaiser"
             image: "./images/none.png"
+      - lecture: "Cloud-basierte Informationssysteme"
+        lectureLink: "/teaching/lectures/2025/winter-term/cloud-based-is"
+        students:
+          - name: "Piet Lehmkühler"
+            image: "./images/piet-lehmkühler.jpg"
+            socialLinks:
+              - type: "linkedin"
+                url: "https://www.linkedin.com/in/piet-lehmk%C3%BChler-74152a389/"
+          - name: "Maurice Nepomuck"
+            image: "./images/maurice-nepomuck.jpg"
+            socialLinks:
+              - type: "linkedin"
+                url: "https://www.linkedin.com/in/maurice-nepomuck-28b043359/ "
       - lecture: "Systems Integration"
         lectureLink: "/teaching/lectures/2025/winter-term/systems_integration"
         students:
-          - name: "Stoyan Ivanov "
+          - name: "Stoyan Ivanov"
             image: "./images/none.png"
             socialLinks:
               - type: "linkedin"
