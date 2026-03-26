@@ -15,11 +15,16 @@ semesters:
             socialLinks:
               - type: "linkedin"
                 url: "https://www.linkedin.com/in/piet-lehmk%C3%BChler-74152a389/"
+          - name: "Benedikt Musialski"
+            image: "./images/benedikt-musialski.png"
+            socialLinks:
+              - type: "linkedin"
+                url: "https://www.linkedin.com/in/benedikt-musialski-b3b49b358"
           - name: "Maurice Nepomuck"
             image: "./images/maurice-nepomuck.jpg"
             socialLinks:
               - type: "linkedin"
-                url: "https://www.linkedin.com/in/maurice-nepomuck-28b043359/ "
+                url: "https://www.linkedin.com/in/maurice-nepomuck-28b043359/"
       - lecture: "Systems Integration"
         lectureLink: "/teaching/lectures/2025/winter-term/systems_integration"
         students:
