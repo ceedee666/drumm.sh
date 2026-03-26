@@ -16,7 +16,7 @@ semesters:
               - type: "linkedin"
                 url: "https://www.linkedin.com/in/piet-lehmk%C3%BChler-74152a389/"
           - name: "Benedikt Musialski"
-            image: "./images/benedikt-musialski.png"
+            image: "./images/benedikt-musialski.jpg"
             socialLinks:
               - type: "linkedin"
                 url: "https://www.linkedin.com/in/benedikt-musialski-b3b49b358"
