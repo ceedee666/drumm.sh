@@ -2,7 +2,7 @@
 
 During the summer term 2026 I teach the following lectures at [FH Aachen](https://www.fh-aachen.de):
 
-- Industrielle Produktion
+- [Industrielle Produktion](/teaching/lectures/2026/summer-term/industrielle-produktion)
 - [Informationssysteme](/teaching/lectures/2026/summer-term/informationssysteme)
 - [SAP in der Praxis](/teaching/lectures/2026/summer-term/sap-in-der-praxis)
 
