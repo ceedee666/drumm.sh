@@ -84,9 +84,8 @@ Für **Fragen** zu den Vorlesungsinhalten und den Übungsaufgaben steht ein
 | Beschreibung                         | Link                                                                                                                                |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Camunda Modeler                      | [Download](https://camunda.com/download/modeler/)                                                                                   |
-| Camunda Modeler Online               | <https://camunda.com/try-modeler/>                                                                                                  |
 | Token-Simulation für Camunda Modeler | [Download](https://github.com/bpmn-io/bpmn-js-token-simulation-plugin) <br/> [Video zur Installation](https://youtu.be/DVn-MwvQWNs) |
-| Signavio Process Manager             | [Einladungs-Link](https://academic.signavio.com/p/register?link=0b9e13413ac841809e8100ff2aa32602)                                   |
+| Camunda Modeler Online               | <https://camunda.com/try-modeler/>                                                                                                  |
 | diagrams.net                         | <https://www.diagrams.net/>                                                                                                         |
 | DB-Browser für SQLite                | [Download](https://sqlitebrowser.org/)                                                                                              |
 | Node Automation (n8n)                | [Dokumentation](https://docs.n8n.io/)                                                                                               |
