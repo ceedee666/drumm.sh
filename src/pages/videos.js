@@ -19,8 +19,7 @@ import {
 const formatDescription = (description, videoId) => {
   if (!description) return "";
 
-  // Convert new lines to <br>
-  let formattedText = description.replace(/\n/g, "<br/>");
+  let formattedText = description;
 
   // Convert URLs into clickable links
   formattedText = formattedText.replace(
@@ -40,6 +39,9 @@ const formatDescription = (description, videoId) => {
       return `<a href="https://www.youtube.com/watch?v=${videoId}&t=${totalSeconds}s" target="_blank" rel="noopener noreferrer">${match}</a>`;
     },
   );
+
+  // Convert new lines to <br>
+  formattedText = formattedText.replace(/\n/g, "<br/>");
 
   return formattedText;
 };
