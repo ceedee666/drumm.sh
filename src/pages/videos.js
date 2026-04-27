@@ -28,21 +28,15 @@ const formatDescription = (description, videoId) => {
     '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>',
   );
 
-  // Convert timestamps (e.g., 01:23) into YouTube video links
+  // Convert timestamps (e.g., 01:23 or 01:02:34) into YouTube video links
   formattedText = formattedText.replace(
-    /(\d{1,2}):(\d{2})/g,
-    (match, minutes, seconds) => {
-      const totalSeconds = parseInt(minutes) * 60 + parseInt(seconds);
-      return `<a href="https://www.youtube.com/watch?v=${videoId}&t=${totalSeconds}s" target="_blank" rel="noopener noreferrer">${match}</a>`;
-    },
-  );
-
-  // Convert timestamps (e.g., 01:02:34) into YouTube video links
-  formattedText = formattedText.replace(
-    /(\d{1,2}):(\d{2}):(\d{2})/g,
-    (match, hours, minutes, seconds) => {
+    /\b(\d{1,2}):(\d{2})(?::\d{2})?\b/g,
+    (match) => {
+      // Reverse parts so index 0 is always seconds, 1 is minutes, 2 is hours
+      const parts = match.split(":").map(Number).reverse();
       const totalSeconds =
-        parseInt(hours) * 3600 + parseInt(minutes) * 60 + parseInt(seconds);
+        parts[0] + (parts[1] || 0) * 60 + (parts[2] || 0) * 3600;
+
       return `<a href="https://www.youtube.com/watch?v=${videoId}&t=${totalSeconds}s" target="_blank" rel="noopener noreferrer">${match}</a>`;
     },
   );
