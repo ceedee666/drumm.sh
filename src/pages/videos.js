@@ -22,7 +22,7 @@ const formatDescription = (description, videoId) => {
   let formattedText = description;
 
   // Convert URLs into clickable links
-  formattedText = formattedText.replace(
+  let formattedText = formattedText.replace(
     /(https?:\/\/[^\s\r\n]+)/g,
     '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>',
   );
