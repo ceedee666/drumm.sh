@@ -96,5 +96,5 @@ Diese finden Sie unter folgenden Links:
 <b id="f1">[1]:</b> Inhalte müssen vor der Vorlesung vorbereitet werden.
 Inhalte der Buchkapitel sind prüfungsrelevant. Videos optional als Ergänzung.[↩](#a1)</br>
 <b id="f2">[2]:</b> Verpflichten Abgabe des Praktikums. 40% der Gesamtpunkte. [↩](#a2)</br>
-<b id="f3">[3]:</b> Optional Abgabe für Noten-Boost 🚀. [↩](#a3)</br>
+<b id="f3">[3]:</b> Optional Abgabe für Noten-Boost 🚀. Eine Vorlage für diese Abgaben finden Sie [hier](./sap-in-der-praxis/template-rekapitulation.odt). [↩](#a3)</br>
 <b id="f4">[4]:</b> Für die Bearbeitung des Praxisfalls haben Sie 2 Wochen Zeit. [↩](#a4)</br>
