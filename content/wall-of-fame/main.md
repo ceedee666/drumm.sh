@@ -30,7 +30,9 @@ semesters:
         students:
           - name: "Amr Aldriai"
             image: "./images/amr-aldriai.png"
-            socialLinks: []
+            socialLinks:
+              - type: "linkedin"
+                url: "https://www.linkedin.com/in/amr-aldriai-07955a150/"
       - lecture: "Systems Integration"
         lectureLink: "/teaching/lectures/2025/winter-term/systems_integration"
         students:
