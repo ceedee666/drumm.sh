@@ -25,6 +25,12 @@ semesters:
             socialLinks:
               - type: "linkedin"
                 url: "https://www.linkedin.com/in/maurice-nepomuck-28b043359/"
+      - lecture: "Informationssysteme"
+        lectureLink: "/teaching/lectures/2024/summer-term/informationssysteme"
+        students:
+          - name: "Amr Aldriai"
+            image: "./images/amr-aldriai.png"
+            socialLinks: []
       - lecture: "Systems Integration"
         lectureLink: "/teaching/lectures/2025/winter-term/systems_integration"
         students:
