@@ -8,42 +8,40 @@ tags: ["FH Aachen"]
 ## English Version
 
 1. All media and tools are allowed. You may use any media (e.g. texts, videos)
-   and tools (e.g. apps, calculators) in my course that you find useful.
-   This also applies to AI tools such as ChatGPT, which can be very helpful in
-   generating ideas and
-   writing texts, for example. So these tools are available to you in my course
-   just as
-   they are now in your everyday life and later in your job. By the way, the use
-   of
-   tools will also be subject of our course. Let’s find out together how to use
-   tools in
-   a meaningful way to solve tasks!
+   and tools (e.g. apps, calculators) in my course that you find useful. This
+   also applies to AI tools such as ChatGPT, which can be very helpful in
+   generating ideas and writing texts, for example. So these tools are available
+   to you in my course just as they are now in your everyday life and later in
+   your job. By the way, the use of tools will also be subject of our course.
+   Let’s find out together how to use tools in a meaningful way to solve tasks!
 2. You are responsible for your results. All tools have their limitations.
-   Information in media can be wrong. Calculators cannot work with real numbers. And AI
-   language models like ChatGPT can produce well formulated texts, but they make
-   erros and reproduce biases. So before you proceed with results and impulses, you
-   need to check them and revise them if necessary. The tool does not think for you,
-   but you think with the help of the tool. The theoretical background is the approach
-   of distributed cognitions: ”Cognitions become ‘distributed’ in the sense that the tool
-   and its human partner think jointly. Whatever is produced is product of the joint
-   system, resulting from the pooling together of the intelligences of both partners
-   [...]“ (Salomon, 1993, p. 182). In the end, however, you stand up for your solution.
-   You have to be able to explain your solution to others. And you (not the tool) are
+   Information in media can be wrong. Calculators cannot work with real
+   numbers. And AI language models like ChatGPT can produce well formulated texts,
+   but they make erros and reproduce biases. So before you proceed with results
+   and impulses, you need to check them and revise them if necessary. The tool
+   does not think for you, but you think with the help of the tool. The
+   theoretical background is the approach of distributed cognitions: ”Cognitions
+   become ‘distributed’ in the sense that the tool and its human partner think
+   jointly. Whatever is produced is product of the joint system, resulting from
+   the pooling together of the intelligences of both partners [...]“ (Salomon,
+   1993, p. 182). In the end, however, you stand up for your solution. You have to
+   be able to explain your solution to others. And you (not the tool) are
    responsible for errors in the solution.
-3. Indicate aids used. You must list all media you have used as sources. Likewise,
-   you must list all tools used, except trivial tools such as pens or word processors. If
-   applicable, also add how the tools were used (for example, writing down the prompt
-   in the case of AI tools).
-4. Special rules apply to social media. If you use social media (e.g. Instagram, TikTok,
-   Mastodon) as part of my course and, for example, share your work
-   results there, then you must follow some rules: You must, of course, observe the
-   legal framework, such as copyright. You must treat others respectfully and follow
-   netiquette. Other people may only be visible in your posts if they have given their
-   permission (as far as I am concerned, I will give you permission if you follow the
-   rules just mentioned). For links, you can find my social media accounts at the end
-   of the document.
-5. No rules without exceptions. If tools are not allowed in learning or assessment
-   situations, I will let you know. I will also provide you with a reason for this.
+3. Indicate aids used. You must list all media you have used as sources.
+   Likewise, you must list all tools used, except trivial tools such as pens or
+   word processors. If applicable, also add how the tools were used (for example,
+   writing down the prompt in the case of AI tools).
+4. Special rules apply to social media. If you use social media (e.g.
+   Instagram, TikTok, Mastodon) as part of my course and, for example, share
+   your work results there, then you must follow some rules: You must, of course,
+   observe the legal framework, such as copyright. You must treat others
+   respectfully and follow netiquette. Other people may only be visible in your
+   posts if they have given their permission (as far as I am concerned, I will
+   give you permission if you follow the rules just mentioned). For links, you can
+   find my social media accounts at the end of the document.
+5. No rules without exceptions. If tools are not allowed in learning or
+   assessment situations, I will let you know. I will also provide you with a
+   reason for this.
 
 ## German Version
 
