@@ -1,0 +1,5 @@
+[[headers]]
+  for = "/is-slides-st-26/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    Content-Security-Policy = "frame-ancestors 'self';"
