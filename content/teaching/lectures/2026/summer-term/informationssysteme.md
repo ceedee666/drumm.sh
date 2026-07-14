@@ -7,7 +7,7 @@ tags: ["FH Aachen", "Teaching", "Informationssysteme", "BPMN", "DMN", "KI"]
 
 ## Inhalte
 
-- Prozessmodellierung mit BPMN und DMN
+- Prozessmodellierung mit BPMN
 - Datenmodellierung
 - Datenbanken und SQL
 - Grundlagen und Anwendung von KI-Technologien.
