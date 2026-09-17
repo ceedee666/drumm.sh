@@ -1,6 +1,8 @@
 require("dotenv").config();
+const netlifyAdapter = require("gatsby-adapter-netlify").default;
 
 module.exports = {
+  adapter: netlifyAdapter(),
   siteMetadata: {
     title: "drumm.sh",
     author: "Christian Drumm",
@@ -82,6 +84,13 @@ module.exports = {
       options: {
         name: "teaching",
         path: "./content/teaching/",
+      },
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "celoq",
+        path: "./content/celoq/",
       },
     },
     {
