@@ -1,10 +1,10 @@
 ## netlify redirects
 ## from_url to_url
-/bis                  /teaching/lectures/2025/winter-term/business-information-systems
+/bis                  /teaching/lectures/2026/winter-term/business-information-systems
 /cbis                 /teaching/lectures/2025/winter-term/cloud-based-is
-/prog                 /teaching/lectures/2025/winter-term/programmierung
-/si                   /teaching/lectures/2025/winter-term/systems-integration
-/ipwi                 /teaching/lectures/2025/winter-term/interdisciplinary-project
+/prog                 /teaching/lectures/2026/winter-term/programmierung
+/si                   /teaching/lectures/2026/winter-term/systems-integration
+/ipwi                 /teaching/lectures/2026/winter-term/interdisciplinary-project
 /is                   /teaching/lectures/2026/summer-term/informationssysteme
 /ip                   /teaching/lectures/2026/summer-term/industrielle-produktion
 /sap                  /teaching/lectures/2026/summer-term/sap-in-der-praxis
