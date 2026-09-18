@@ -5,7 +5,6 @@ Aachen](https://www.fh-aachen.de/):
 
 - [Business Information
   Systems](/teaching/lectures/2026/winter-term/business-information-systems)
-  Informationssysteme](/teaching/lectures/2025/winter-term/cloud-based-is)
 - [Interdisziplinäres Projekt Wirtschaftsinformatik](/teaching/lectures/2026/winter-term/interdisciplinary-project)
 - [Programmierung und
   Informationsverarbeitung](/teaching/lectures/2026/winter-term/programmierung)
