@@ -5,6 +5,14 @@ published: true
 tags: ["FH Aachen", "lectures"]
 ---
 
+## Summer Term 2026 ☀️
+
+During the summer term 2026 I taught the following lectures at [FH Aachen](https://www.fh-aachen.de):
+
+- [Industrielle Produktion](/teaching/lectures/2026/summer-term/industrielle-produktion)
+- [Informationssysteme](/teaching/lectures/2026/summer-term/informationssysteme)
+- [SAP in der Praxis](/teaching/lectures/2026/summer-term/sap-in-der-praxis)
+
 ## Winter Term 2025/2026 ❄️
 
 In the winter term 2025/2026 I taught the following lectures at [FH
