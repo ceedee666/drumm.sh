@@ -38,8 +38,13 @@ const icons = {
   user: SlUser,
 };
 
+// All icons are decorative; their accessible name lives on the surrounding
+// link or text. Hide them from assistive tech so the accessibility tree stays
+// well-formed for screen readers and agents.
 for (const [name, Icon] of Object.entries(icons)) {
-  const markup = renderToStaticMarkup(createElement(Icon));
+  const markup = renderToStaticMarkup(createElement(Icon))
+    .replace(/^<svg /, '<svg aria-hidden="true" focusable="false" ')
+    .replace(/ role="img"/, "");
   writeFileSync(resolve(outDir, `${name}.html`), markup + "\n");
   console.log(`${name}: ${markup.slice(0, 60)}...`);
 }
