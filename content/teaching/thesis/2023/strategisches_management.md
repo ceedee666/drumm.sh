@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-09-13
 title: "Entwicklungskonzept einer Software für das strategische Management"
 language: "de"
 published: true

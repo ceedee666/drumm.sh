@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 5 Unit 4: Visibility of variables"
 language: "en"
 published: true

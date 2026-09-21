@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-02-27
 title: "Anforderungen an ein Project Management Office im agilen Projektkontext"
 language: "de"
 published: true

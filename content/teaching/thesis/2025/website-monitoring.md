@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-02-27
 title: "Wie lassen sich Website Daten zum Monitoring auf Zuverlässigkeit und Performanz generieren, und dies analysieren und überwachen"
 language: "de"
 published: true

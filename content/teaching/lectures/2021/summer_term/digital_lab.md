@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-09-17
 title: "Digital Lab"
 language: "de"
 published: true

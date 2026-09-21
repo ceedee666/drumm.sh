@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-09-17
 title: "Virtuelle Vorlesungsreihe WI (#vivowi)"
 language: "de"
 published: true

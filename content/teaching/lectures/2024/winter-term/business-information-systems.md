@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-01-07
 title: "Business Information Systems "
 language: "de"
 published: true

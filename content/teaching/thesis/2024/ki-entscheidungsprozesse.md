@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-02-27
 title: "Exploring the Impact of Artificial Intelligence on Personalized Nutrition – A Systematic Literature Review"
 language: "de"
 published: true

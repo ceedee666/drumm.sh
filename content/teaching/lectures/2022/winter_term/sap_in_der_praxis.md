@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-01-16
 title: "SAP in der Praxis"
 language: "de"
 published: true

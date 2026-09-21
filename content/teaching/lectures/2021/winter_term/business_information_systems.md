@@ -1,4 +1,5 @@
 ---
+lastmod: 2022-01-18
 title: "Business Information Systems (WS 2021/2022)"
 language: "de"
 published: true

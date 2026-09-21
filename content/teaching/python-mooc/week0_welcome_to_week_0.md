@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-04
 title: "Welcome to Week 0"
 language: "en"
 published: true

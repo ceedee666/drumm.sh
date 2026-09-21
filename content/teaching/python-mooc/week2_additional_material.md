@@ -1,11 +1,12 @@
 ---
+lastmod: 2024-04-05
 title: "Week 2 Additional Learning Material"
 language: "en"
 published: true
 tags: ["FH Aachen", "Python"]
 ---
 
-If you’d like to get more used to working with Python, we’ve provided you with an additional [Jupyter Notebook](files/week_2_additional_exercises.ipynb) containing short exercises and an [example solution](files/week_2_additional_exercises_solutions.ipynb) for this week.
+If youï¿½d like to get more used to working with Python, weï¿½ve provided you with an additional [Jupyter Notebook](files/week_2_additional_exercises.ipynb) containing short exercises and an [example solution](files/week_2_additional_exercises_solutions.ipynb) for this week.
 
 ---
 

@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="row">
+  <div class="col-md-2 align-self-center">
+    <h1 class="display-1"><span role="img" aria-label="This is a bug.">🐛</span></h1>
+  </div>
+  <div class="col">
+    <h1>Have you tried turning it off and on again?</h1>
+    <p>We couldn't find the page you are looking for. Here are some helpful links instead:</p>
+    <div><a href="{{ "teaching" | relURL }}">My Lectures at FH Aachen</a></div>
+    <div><a href="{{ "blog" | relURL }}">My Blog</a></div>
+    <div><a href="{{ "student-blog" | relURL }}">Student's Blog</a></div>
+    <div><a href="{{ "/" | relURL }}">Back to start</a></div>
+  </div>
+</div>
+{{ end }}

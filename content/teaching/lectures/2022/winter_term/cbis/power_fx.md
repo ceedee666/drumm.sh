@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-03-14
 title: "Power FX Tutorial"
 language: "en"
 published: true

@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-17
 title: "Smart Maintenance: Vergleich von konventionellem und intelligentem Asset Management"
 language: "de"
 published: true

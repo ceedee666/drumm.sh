@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="row mb-5">
+  <div class="col blog-date-time">
+    {{ partial "icon.html" "calendar" }} Published on {{ .Date.Format "02. January 2006" }} ({{ partial "relative-date.html" .Date }}) &bull; {{ partial "icon.html" "time" }} {{ .ReadingTime }} min read
+  </div>
+</div>
+<div class="blog-body">
+  {{ .Content }}
+</div>
+<div class="mt-5">
+  <div class="row">
+    <div class="col">
+      {{ partial "comments.html" . }}
+    </div>
+  </div>
+</div>
+{{ end }}

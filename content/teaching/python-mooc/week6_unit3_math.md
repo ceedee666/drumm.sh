@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 6 Unit 3: Math and statistics libraries"
 language: "en"
 published: true

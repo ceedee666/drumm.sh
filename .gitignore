@@ -1,7 +1,9 @@
 node_modules/
-.cache/
+package.json
+package-lock.json
 public
+resources/
 .DS_Store
-.eslintrc.js
 .env
 *.bkp
+.hugo_build.lock

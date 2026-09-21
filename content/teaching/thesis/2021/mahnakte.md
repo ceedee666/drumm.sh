@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-17
 title: "Ein Konzept zur Digitalisierung der Mahnakte in einem Dienstleistungsunternehmen des deutschen Energiemarktes"
 language: "de"
 published: true

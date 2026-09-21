@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-05-21
 title: "Data Analysis with Power BI"
 language: "de"
 published: true

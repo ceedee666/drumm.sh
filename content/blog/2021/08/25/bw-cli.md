@@ -94,7 +94,7 @@ implementing them. This is what I came up with after quite some trial and error.
 I created a shell script called [bwc](https://github.com/ceedee666/devenv-dotfiles/blob/master/.scripts/bwc) -
 a mnemonic for Bitwaren Copy.
 
-```zsh {numberLines}
+```zsh
 set -e
 
 copy_uname_and_passwd () {

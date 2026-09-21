@@ -9,7 +9,7 @@ cluster. This include some final configuration steps as well as interacting with
 the Kubernetes CLI."
 ---
 
-In the [previous blog](/blog/building-rpi-cluster) I described the initial steps to build and set up 
+In the [previous blog](/blog/2021/03/05/building-rpi-cluster/) I described the initial steps to build and set up 
 a Raspberry Pi cluster. With this initial setup in place, the next step is to connect the four Raspberry 
 Pis together to form a Kubernetes cluster. 
 

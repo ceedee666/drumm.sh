@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-01-28
 title: "Internships and Practical Semesters"
 language: "en"
 published: true

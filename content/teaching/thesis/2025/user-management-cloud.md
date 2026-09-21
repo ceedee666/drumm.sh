@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-08-20
 title: "Konzeption und Entwicklung einer stylus-fähigen, vektorbasierten Zeichen-App"
 language: "de"
 published: true

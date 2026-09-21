@@ -1,0 +1,21 @@
+.video-title {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.video-description {
+  a {
+    text-decoration: underline;
+  }
+}
+
+.video-thumbnail {
+  width: 250px;
+  height: auto;
+  border-radius: 5px;
+}

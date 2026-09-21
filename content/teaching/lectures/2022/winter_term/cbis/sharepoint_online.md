@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-03-08
 title: "SharePoint Online"
 language: "de"
 published: true

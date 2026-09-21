@@ -1,0 +1,35 @@
+.student-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.student-icon-wrapper {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: $gray-200;
+  border-radius: 50%;
+}
+
+.student-icon {
+  font-size: 40px;
+  color: $gray-600;
+}
+
+.student-table {
+  .blog-body {
+    table {
+      td {
+        vertical-align: middle;
+      }
+    }
+  }
+}
+
+.social-links {
+  display: flex;
+  gap: 20px;
+}

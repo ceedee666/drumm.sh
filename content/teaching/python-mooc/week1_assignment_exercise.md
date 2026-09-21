@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 1 Assignment (Part 2 - Exercise)"
 language: "en"
 published: true
@@ -7,11 +8,11 @@ tags: ["FH Aachen", "Python"]
 
 [Triangles](https://en.wikipedia.org/wiki/Triangle#Types_of_triangle) can be classified based on their angles.
 
-- A right triangle has one angle of 90°
-- A obtuse triangle has one angle of more than 90°
-- A triangle is acute if all three angles are less than 90°:> [!WARNING]
+- A right triangle has one angle of 90ï¿½
+- A obtuse triangle has one angle of more than 90ï¿½
+- A triangle is acute if all three angles are less than 90ï¿½:> [!WARNING]
 
-Write a program that asks the user for the values of three angles in degrees. First check if the entered values are valid. The values are only valid if they are >0 and if their sum is 180°. If the entered values are valid, classify the triangle as right, acute or obtuse.
+Write a program that asks the user for the values of three angles in degrees. First check if the entered values are valid. The values are only valid if they are >0 and if their sum is 180ï¿½. If the entered values are valid, classify the triangle as right, acute or obtuse.
 
 Below are two example executions of the program with invalid values:
 

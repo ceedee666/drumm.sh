@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-18
 title: "Interdisziplinäres Projekt Wirtschaftsinformatik"
 language: "de"
 published: true

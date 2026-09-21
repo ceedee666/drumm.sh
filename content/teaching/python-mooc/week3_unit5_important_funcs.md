@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 3 Unit 5: Important functions and methods for complex data types"
 language: "en"
 published: true

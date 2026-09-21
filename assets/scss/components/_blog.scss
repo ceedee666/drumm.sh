@@ -1,0 +1,40 @@
+.blog-date-time {
+  color: $text-muted;
+  font-size: $font-size-sm;
+}
+
+.blog-list-item {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.blog-body {
+  p {
+    margin: 1.25rem 0;
+  }
+
+  ul {
+    li {
+      p {
+        margin: 1rem 0;
+      }
+    }
+  }
+
+  blockquote {
+    padding: 0 1em;
+    color: $text-muted;
+    border-left: 0.25em solid #ccc;
+  }
+
+  table {
+    @extend .table;
+    @extend .table-hover;
+    margin: 1.25rem 0;
+  }
+}

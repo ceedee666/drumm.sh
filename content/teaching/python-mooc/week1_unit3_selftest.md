@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 1 Unit 3: Self-test"
 language: "en"
 published: true
@@ -9,7 +10,7 @@ tags: ["FH Aachen", "Python"]
 
 #### What is the output of the following ```print()``` statement?
 
-<img  src="imgs/week1_unit3_f1.png"><br><br>
+<img  src="/teaching/python-mooc/imgs/week1_unit3_f1.png"><br><br>
 
 
 

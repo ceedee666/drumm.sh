@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 4 Assignment (Part 1 - Questions)"
 language: "en"
 published: true
@@ -96,7 +97,7 @@ tags: ["FH Aachen", "Python"]
 <br>
 
 <details>
-	<summary>The line breaks "\n" at the end of each line in the file are automatically deleted by the ‘with’ statement.</summary>
+	<summary>The line breaks "\n" at the end of each line in the file are automatically deleted by the ï¿½withï¿½ statement.</summary>
 	âŒ
 </details>
 
@@ -221,13 +222,13 @@ tags: ["FH Aachen", "Python"]
 
 
 <details>
-	<summary>Week 4 – Assignment – Question 6 </summary>
+	<summary>Week 4 ï¿½ Assignment ï¿½ Question 6 </summary>
 	âœ…
 </details>
 
 
 <details>
-	<summary>Week4–Assignment–Question 6</summary>
+	<summary>Week4ï¿½Assignmentï¿½Question 6</summary>
 	âŒ
 </details>
 
@@ -248,7 +249,7 @@ tags: ["FH Aachen", "Python"]
 <br>
 
 <details>
-	<summary>Week 4 –<br>Assignment –<br>Question 7 –</summary>
+	<summary>Week 4 ï¿½<br>Assignment ï¿½<br>Question 7 ï¿½</summary>
 	âŒ
 </details>
 
@@ -260,13 +261,13 @@ tags: ["FH Aachen", "Python"]
 
 
 <details>
-	<summary>Week 4 – Assignment – Question 7</summary>
+	<summary>Week 4 ï¿½ Assignment ï¿½ Question 7</summary>
 	âŒ
 </details>
 
 
 <details>
-	<summary>Week 4 – Assignment – Question 7 –</summary>
+	<summary>Week 4 ï¿½ Assignment ï¿½ Question 7 ï¿½</summary>
 	âœ…
 </details>
 

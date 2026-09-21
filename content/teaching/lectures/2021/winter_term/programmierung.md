@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-11-04
 title: "Programmierung und Informationsverarbeitung (WS 2021/2022)"
 language: "de"
 published: true

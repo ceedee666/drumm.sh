@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-17
 title: "Eine Analyse von Anwendungsfällen für die Blockchain Technologie"
 language: "de"
 published: true

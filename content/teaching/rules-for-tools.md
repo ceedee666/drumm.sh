@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-05-04
 title: "Rules for Tools"
 language: "en"
 published: true

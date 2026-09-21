@@ -1,0 +1,41 @@
+{{- $current := .RelPermalink -}}
+<div class="my-navbar mx-auto">
+  <nav class="navbar navbar-expand-sm bg-dark" data-bs-theme="dark">
+    <div class="container px-0">
+      <a class="navbar-brand" href="{{ "/" | relURL }}">
+        <img src="{{ "images/avatar.png" | relURL }}" class="rounded-circle" width="30" height="30" alt="Prof. Dr. Christian Drumm">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#basic-navbar-nav" aria-controls="basic-navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="basic-navbar-nav">
+        <ul class="navbar-nav me-auto">
+          {{- range site.Menus.main }}
+            {{- if not .Parent }}
+              {{- if .HasChildren }}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle nav-item" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}</a>
+            <ul class="dropdown-menu">
+              {{- range .Children }}
+              {{- $active := partial "menu-active.html" (dict "current" $current "url" .URL) }}
+              <li><a class="dropdown-item nav-item{{ if $active }} active{{ end }}" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+              {{- end }}
+            </ul>
+          </li>
+              {{- else }}
+          {{- $active := partial "menu-active.html" (dict "current" $current "url" .URL) }}
+          <li class="nav-item"><a class="nav-link nav-item{{ if $active }} active{{ end }}" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+              {{- end }}
+            {{- end }}
+          {{- end }}
+        </ul>
+        <ul class="navbar-nav">
+          {{- range site.Menus.secondary }}
+          {{- $active := partial "menu-active.html" (dict "current" $current "url" .URL) }}
+          <li class="nav-item"><a class="nav-link nav-item{{ if $active }} active{{ end }}" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+          {{- end }}
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>

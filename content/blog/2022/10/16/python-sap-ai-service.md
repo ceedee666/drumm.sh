@@ -247,7 +247,7 @@ https://business-entity-recognition.cfapps.eu10.hana.ondemand.com/api/v1/inferen
 
 Below is the result of this request.
 
-```json {numberLines}
+```json
 {
   "data": {
     "createdAt": "2022-10-14T10:26:45Z",
@@ -315,7 +315,7 @@ value is 52072.
 After using HTTPie to invoke the service the next step is to build a simple Python program to do the same.
 The following listing contains a simple Python program executing the previous steps.
 
-```Python {numberLines}
+```Python
 import requests
 import time
 import json

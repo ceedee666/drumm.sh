@@ -1,4 +1,5 @@
 ---
+lastmod: 2022-12-16
 title: "Programmierung und Informationsverarbeitung "
 language: "de"
 published: true

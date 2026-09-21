@@ -20,7 +20,7 @@ for adding comments to a Gatsby site. I didn't spent much time comparing the dif
 like a very promising option.
 
 The nice feature of Utterances is, that [Github](https://github.com) issues are used to store comments. Therefore, adding a comment requires a Github user. While this might discourage 
-some people from commenting, this is a very nice prerequisite in my case. As mention in a [previous blog](/blog/why-i-created-my-own-webpage) I want to use my web site and blog also
+some people from commenting, this is a very nice prerequisite in my case. As mention in a [previous blog](/blog/2021/02/26/why-i-created-my-own-webpage/) I want to use my web site and blog also
 for teaching. Therefore, I can use the comment functionality in the future to introduce some Github features to students.
 
 ## Adding Utterances
@@ -66,7 +66,7 @@ After implementing my Comments component I got the following error message:
 Reading the React documentation on [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html) it was obvious I needed to use the ```useRef()``` function. 
 After some experiments this is the solution I came up with (the complete source code of my site is available [here](https://github.com/ceedee666/drumm.sh)):
 
-```javascript {numberLines}
+```javascript
 import React, { useEffect, useRef } from 'react'
 import { useStaticQuery, graphql } from 'gatsby'
 

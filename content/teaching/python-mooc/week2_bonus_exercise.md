@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 2 Bonus Exercise"
 language: "en"
 published: true

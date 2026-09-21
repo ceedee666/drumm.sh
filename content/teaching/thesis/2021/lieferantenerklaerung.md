@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-17
 title: "Konzeptentwicklung einer Softwarelösung zur Verwaltung von Lieferantenerklärungen"
 language: "de"
 published: true

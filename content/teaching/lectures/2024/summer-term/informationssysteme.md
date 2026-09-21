@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-06-18
 title: "Informationssysteme"
 language: "de"
 published: true

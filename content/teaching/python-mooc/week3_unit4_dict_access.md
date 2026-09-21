@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 3 Unit 4: Safe dictionary access"
 language: "en"
 published: true

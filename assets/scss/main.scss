@@ -1,0 +1,16 @@
+// Bootstrap variable overrides (must come before bootstrap import)
+@import "bootstrap/scss/functions";
+
+$font-size-base: 1.2rem;
+$font-family-base: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+@import "bootstrap/scss/bootstrap";
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 0;
+  border-top: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+@import "components";

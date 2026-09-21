@@ -1,0 +1,3 @@
+{{- $current := .current -}}
+{{- $url := .url -}}
+{{- if and $url (or (eq $current $url) (and (ne $url "/") (hasPrefix $current $url))) -}}active{{- end -}}

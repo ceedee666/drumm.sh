@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {{ partial "seo.html" . }}
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+</head>
+<body>
+  <wrapper class="d-flex flex-column min-vh-100">
+    {{ partial "header.html" . }}
+    <main class="flex-fill">
+      <div class="my-main mx-auto px-3">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </main>
+    {{ partial "footer.html" . }}
+  </wrapper>
+  <script src="{{ "js/bootstrap.bundle.min.js" | relURL }}"></script>
+  <script src="{{ "js/relative-date.js" | relURL }}"></script>
+  <script src="{{ "js/anchors.js" | relURL }}"></script>
+</body>
+</html>

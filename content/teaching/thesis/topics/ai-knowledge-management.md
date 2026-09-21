@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-05-21
 title: "Integration of generative AI into information and knowledge management systems"
 language: "de"
 published: true

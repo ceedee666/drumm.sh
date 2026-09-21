@@ -1,5 +1,9 @@
 ## netlify redirects
 ## from_url to_url
+
+## Sitemap (Gatsby emitted sitemap-index.xml / sitemap-0.xml)
+/sitemap-index.xml    /sitemap.xml    200
+/sitemap-0.xml        /sitemap.xml    200
 /bis                  /teaching/lectures/2026/winter-term/business-information-systems
 /cbis                 /teaching/lectures/2025/winter-term/cloud-based-is
 /prog                 /teaching/lectures/2026/winter-term/programmierung

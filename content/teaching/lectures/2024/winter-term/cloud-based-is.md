@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-10-08
 title: "Cloud-basierte Informationssysteme"
 language: "de"
 published: true

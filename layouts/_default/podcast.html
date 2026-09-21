@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ $feed := "https://anchor.fm/s/f76f7a14/podcast/rss" }}
+{{ with try (resources.GetRemote $feed) }}
+  {{ with .Err }}
+    {{ warnf "podcast feed unavailable: %s" . }}
+  {{ else }}
+    {{ $items := (.Value | transform.Unmarshal).channel.item }}
+    {{ range $index, $ep := $items }}
+    <div>
+      <div class="blog-list-item">
+        <div class="row align-items-center">
+          <h2>
+            {{ $ep.title }}
+            <div class="podcast-links">
+              <a href="{{ $ep.link }}" target="_blank" rel="noopener noreferrer" title="Listen on Spotify">{{ partial "icon.html" "spotify" }}</a>
+              <a href="https://podcasts.apple.com/us/podcast/code-und-kontext/id1783571053" target="_blank" rel="noopener noreferrer" title="Subscribe on Apple Podcasts">{{ partial "icon.html" "apple-podcasts" }}</a>
+              <a href="https://anchor.fm/s/f76f7a14/podcast/rss" target="_blank" rel="noopener noreferrer" title="RSS Feed">{{ partial "icon.html" "rss" }}</a>
+            </div>
+          </h2>
+        </div>
+        <div class="row">
+          <div class="col blog-date-time">
+            {{ partial "icon.html" "calendar" }} {{ (.pubDate | time.AsTime).Format "02. January 2006" }} &bull; {{ partial "icon.html" "time" }} {{ $ep.duration }}
+          </div>
+        </div>
+        <div class="row">
+          <div class="podcast-description">{{ $ep.description | safeHTML }}</div>
+        </div>
+        <div class="row podcast-audio">
+          {{ with $ep.enclosure }}
+          <audio controls>
+            <source src="{{ index . "-url" }}" type="{{ index . "-type" }}">
+            Your browser does not support the audio element.
+          </audio>
+          {{ end }}
+        </div>
+      </div>
+      {{ if lt $index (sub (len $items) 1) }}<div class="podcast-separator"></div>{{ end }}
+    </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ end }}

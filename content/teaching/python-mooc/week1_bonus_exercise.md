@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 1 Bonus Exercise"
 language: "en"
 published: true
@@ -7,13 +8,13 @@ tags: ["FH Aachen", "Python"]
 
 A [quadratic equation](https://en.wikipedia.org/wiki/Quadratic_equation) is an equation that can be written as
 
-<img src="imgs/openSAP_python1_Week_1_BO_formula_1.png" width="200"><br>
+<img src="/teaching/python-mooc/imgs/openSAP_python1_Week_1_BO_formula_1.png" width="200"><br>
 
 In this equation x represents an unknown number, and a, b, and c are representing known numbers. Possible solutions for a given quadratic equation can be calculated by the formula
 
-<img src="imgs/openSAP_python1_Week_1_BO_formula_2.png" width="200"><br>
+<img src="/teaching/python-mooc/imgs/openSAP_python1_Week_1_BO_formula_2.png" width="200"><br>
 
-The expression <img src="imgs/openSAP_python1_Week_1_BO_formula_3.png" width="80"> is called the [discriminant](https://en.wikipedia.org/wiki/Quadratic_equation#Discriminant). Using the discriminant makes it is easy to check the number of solutions for a given quadratic equation:
+The expression <img src="/teaching/python-mooc/imgs/openSAP_python1_Week_1_BO_formula_3.png" width="80"> is called the [discriminant](https://en.wikipedia.org/wiki/Quadratic_equation#Discriminant). Using the discriminant makes it is easy to check the number of solutions for a given quadratic equation:
 
 - If the discriminant is 0, the quadratic equation has exactly one real solution.
 - If the discriminant is > 0, the quadratic equation has two real solutions.

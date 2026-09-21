@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-08-20
 title: "Einsatz von KI im Wissensmanagement für Unternehmen"
 language: "de"
 published: true

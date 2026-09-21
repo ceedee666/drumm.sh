@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 2 Unit 3: Important functions and methods for lists"
 language: "en"
 published: true

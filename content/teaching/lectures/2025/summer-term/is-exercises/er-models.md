@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-05-05
 title: "Übungsaufgaben - BPMN: Gateways"
 language: "de"
 published: true

@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-08-20
 title: "Entwicklung eines LLM-basierten Assistenten für SAP S/4HANA"
 language: "de"
 published: true

@@ -1,0 +1,14 @@
+# Known-broken local links (pre-existing, carried over from Gatsby).
+# The 2026 winter-term BIS lecture PDFs are not yet in the repo.
+/teaching/lectures/2026/winter-term/business-information-systems/advanced-case-study-procurement.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/advanced-case-study-production.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/case-study-business-partner.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/case-study-navigation.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/case-study-sales.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/tutorial-co-pc-1.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/tutorial-co-pc-2.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/tutorial-process-integration.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/tutorial-procurement.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/tutorial-production.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/tutorial-sales-1.pdf
+/teaching/lectures/2026/winter-term/business-information-systems/tutorial-sales-2.pdf

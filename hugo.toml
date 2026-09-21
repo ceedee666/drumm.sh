@@ -1,0 +1,115 @@
+baseURL = "https://drumm.sh/"
+locale = "en"
+title = "drumm.sh"
+disableKinds = ["taxonomy", "term"]
+
+[security.funcs]
+  getenv = ["YOUTUBE_API_KEY", "YOUTUBE_CHANNEL_ID"]
+
+[params]
+  author = "Christian Drumm"
+  description = "Blog, lectures and projects by Prof. Dr. Christian Drumm."
+  mastodon = "https://mastodon.social/@ceedee666"
+  commentsRepo = "ceedee666/drumm.sh-comments"
+
+[frontmatter]
+  date = ["date"]
+  lastmod = ["lastmod", "date"]
+  publishdate = []
+  expirydate = []
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      linkify = true
+  [markup.highlight]
+    style = "onedark"
+    noClasses = true
+    lineNos = false
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "rss"
+
+# Left side navigation
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "teaching"
+  name = "Teaching"
+  url = "/teaching/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "wall-of-fame"
+  name = "Wall of Fame"
+  url = "/wall-of-fame/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "blogs"
+  name = "Blogs"
+  url = ""
+  weight = 50
+
+[[menu.main]]
+  identifier = "blog"
+  name = "My Blog"
+  url = "/blog/"
+  parent = "blogs"
+  weight = 10
+
+[[menu.main]]
+  identifier = "student-blog"
+  name = "Student's Blog"
+  url = "/student-blog/"
+  parent = "blogs"
+  weight = 20
+
+[[menu.main]]
+  identifier = "on-air"
+  name = "On Air"
+  url = ""
+  weight = 60
+
+[[menu.main]]
+  identifier = "podcast"
+  name = "Podcast"
+  url = "/podcast/"
+  parent = "on-air"
+  weight = 10
+
+[[menu.main]]
+  identifier = "videos"
+  name = "Videos"
+  url = "/videos/"
+  parent = "on-air"
+  weight = 20
+
+# Right side navigation
+[[menu.secondary]]
+  identifier = "imprint"
+  name = "Imprint"
+  url = "/imprint/"
+  weight = 10
+
+[[menu.secondary]]
+  identifier = "privacy"
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 20

@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-03-08
 title: "How to compare two Excel files using Power Automate Desktop"
 language: "en"
 published: true
@@ -14,7 +15,7 @@ illustration below) that we were working on was creating a flow using Power Auto
 Desktop to compare two excel files. In the Following, we will show you how you can
 implement it using Power Automate Desktop.
 
-![Example Process](./compare_excel/example_process.png)
+![Example Process](./compare_excel/process.png)
 
 First, we will start with a glimpse of the tool we will be using and its functionalities:
 

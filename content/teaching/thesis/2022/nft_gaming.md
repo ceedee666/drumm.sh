@@ -1,4 +1,5 @@
 ---
+lastmod: 2022-09-15
 title: "Anwendung von NFTs und Blockchain in der Gaming-Industrie: Literaturreview und Aspekte für ein erfolgreiches Geschäftsmodell"
 language: "de"
 published: true

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-03-16
 title: "Übungsaufgaben - DMN"
 language: "de"
 published: true

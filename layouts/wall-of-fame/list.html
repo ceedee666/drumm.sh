@@ -1,0 +1,70 @@
+{{ define "main" }}
+<div class="blog-body">{{ .Content }}</div>
+<div class="student-table">
+  <div class="blog-body">
+    {{ range .Params.semesters }}
+    <div>
+      <h2>{{ .term }}</h2>
+      <table>
+        <colgroup>
+          <col style="width: 400px" />
+          <col />
+          <col />
+          <col />
+        </colgroup>
+        <thead>
+          <tr>
+            <th>Lecture</th>
+            <th></th>
+            <th>Student Name</th>
+            <th>Social Media</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ range .lectures }}
+            {{ $lecture := . }}
+            {{ range $i, $student := .students }}
+            <tr>
+              {{ if eq $i 0 }}
+              <td rowspan="{{ len $lecture.students }}">
+                <a href="{{ $lecture.lectureLink }}"><strong>{{ $lecture.lecture }}</strong></a>
+              </td>
+              {{ end }}
+              <td>
+                {{ $imgPath := $student.image }}
+                {{ if and $imgPath (not (strings.Contains $imgPath "none.png")) }}
+                  {{ with $.Resources.GetMatch (strings.TrimPrefix "./" $imgPath) }}
+                  <div><img src="{{ .RelPermalink }}" alt="{{ $student.name }}" class="student-image" /></div>
+                  {{ else }}
+                  <div class="student-icon-wrapper"><span class="student-icon">{{ partial "icon.html" "user" }}</span></div>
+                  {{ end }}
+                {{ else }}
+                <div class="student-icon-wrapper"><span class="student-icon">{{ partial "icon.html" "user" }}</span></div>
+                {{ end }}
+              </td>
+              <td>{{ $student.name }}</td>
+              <td>
+                {{ if $student.socialLinks }}
+                <h1>
+                  <div class="social-links">
+                    {{ range $student.socialLinks }}
+                    <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .type }}">
+                      {{ if eq .type "linkedin" }}{{ partial "icon.html" "linkedin" }}{{ else if eq .type "github" }}{{ partial "icon.html" "github" }}{{ end }}
+                    </a>
+                    {{ end }}
+                  </div>
+                </h1>
+                {{ else }}
+                —
+                {{ end }}
+              </td>
+            </tr>
+            {{ end }}
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

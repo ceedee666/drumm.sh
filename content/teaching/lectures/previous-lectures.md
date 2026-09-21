@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-18
 title: "Previous Lectures"
 language: "en"
 published: true

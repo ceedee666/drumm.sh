@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-03-16
 title: "Übungsaufgaben - BPMN: Aktivitäten, Sequenzflüsse & Ereignisse"
 language: "de"
 published: true

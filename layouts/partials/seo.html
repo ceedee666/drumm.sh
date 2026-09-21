@@ -1,0 +1,34 @@
+{{- $site := site.Params -}}
+{{- $title := .Params.seoTitle -}}
+{{- if not $title -}}
+  {{- if eq .Kind "home" -}}
+    {{- $title = site.Title -}}
+  {{- else if eq .Kind "404" -}}
+    {{- $title = "404: Not Found" -}}
+  {{- else if and (eq .Kind "page") (in (slice "blog" "student-blog") .Section) -}}
+    {{- $title = printf "drumm.sh | Blog | %s" .Title -}}
+  {{- else -}}
+    {{- $title = printf "drumm.sh | %s" .Title -}}
+  {{- end -}}
+{{- end -}}
+{{- $description := .Params.description | default $site.description -}}
+{{- $image := .Params.image | default "/images/android-chrome-512x512.png" -}}
+{{- if not (hasPrefix $image "http") -}}{{- $image = absURL $image -}}{{- end -}}
+<link rel="icon" href="{{ "images/favicon.ico" | relURL }}">
+<link rel="icon" type="image/png" href="{{ "images/favicon-32x32.png" | relURL }}">
+<link rel="shortcut icon" type="image/x-icon" href="{{ "images/favicon-32x32.png" | relURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}">
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="apple-mobile-web-app-title" content="{{ site.Title }}">
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="image" content="{{ $image }}">
+<meta property="og:url" content="{{ site.BaseURL }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:image" content="{{ $image }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="{{ $site.mastodon }}">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $image }}">

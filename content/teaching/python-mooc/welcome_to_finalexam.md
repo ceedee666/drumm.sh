@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Welcome to the Final Exam"
 language: "en"
 published: true
@@ -7,7 +8,7 @@ tags: ["FH Aachen", "Python"]
 
 Dear learners,
 
-Thanks for taking part in the course **Python for Beginners** and preparing for the final exam. Below, you’ll find some important notes for the last step in successfully completing the course.
+Thanks for taking part in the course **Python for Beginners** and preparing for the final exam. Below, youï¿½ll find some important notes for the last step in successfully completing the course.
 
 ---
 

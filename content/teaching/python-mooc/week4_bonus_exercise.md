@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 4 Bonus Exercise"
 language: "en"
 published: true
@@ -13,7 +14,7 @@ scissors, which are formed by the player's hand. The rules are quite easy:
 - scissors beats paper
 - paper beats rock.
 
-If both players have chosen the same object, it’s a draw.
+If both players have chosen the same object, itï¿½s a draw.
 
 In the following, we play 100 consecutive games. Each player has to hand in a
 file consisting of one letter per line. The letters are either `R`, `P` or `S`.

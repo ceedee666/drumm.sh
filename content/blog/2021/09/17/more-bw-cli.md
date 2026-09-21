@@ -34,7 +34,7 @@ Before going into more details here is the resulting script.
 The complete script is also
 available on [GitHub](https://github.com/ceedee666/devenv-dotfiles/blob/master/.scripts/bwc).
 
-```zsh {numberLines}
+```zsh
 #!/bin/zsh
 
 set -e

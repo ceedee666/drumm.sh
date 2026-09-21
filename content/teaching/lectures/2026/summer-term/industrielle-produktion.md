@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-04-02
 title: "Industrielle Produktion"
 language: "de"
 published: true

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-03-16
 title: "Übungsaufgaben - SQL"
 language: "de"
 published: true

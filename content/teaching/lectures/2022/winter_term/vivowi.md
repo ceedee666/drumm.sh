@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-01-16
 title: "Virtuelle Vorlesungsreihe Wirtschaftsinformatik #vivowi"
 language: "de"
 published: true

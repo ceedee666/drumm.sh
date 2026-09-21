@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-09-13
 title: "Leitfaden für eine erfolgreiche Führung von Shared Service Centern - am Beispiel der USU Software AG"
 language: "de"
 published: true

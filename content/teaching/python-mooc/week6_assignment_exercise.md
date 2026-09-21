@@ -1,4 +1,5 @@
 ﻿---
+lastmod: 2024-04-05
 title: "Week 6 Assignment (Part 2 - Exercise)"
 language: "en"
 published: true

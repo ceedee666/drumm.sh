@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-09-13
 title: "Effiziente Klassifizierung von Control Chart Mustern basierend auf Long-Short-Term-Memory und synthetischen Daten"
 language: "de"
 published: true

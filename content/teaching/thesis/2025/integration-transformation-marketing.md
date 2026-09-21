@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-08-20
 title: "Konzeption und Realisierung einer skalierbaren Integrations- und Transformationsarchitektur für digitales Marketing"
 language: "de"
 published: true

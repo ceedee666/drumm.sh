@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-02-27
 title: "Anomalieerkennung in Zeitreihendaten am Beispiel von Produktionsdaten von oee.ai"
 language: "de"
 published: true

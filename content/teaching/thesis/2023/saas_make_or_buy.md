@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-09-13
 title: "Make-or-Buy-Entscheidung in der Software-as-a-Service-Entwicklung"
 language: "de"
 published: true

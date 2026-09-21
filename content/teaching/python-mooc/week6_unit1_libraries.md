@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 6 Unit 1: What are libraries?"
 language: "en"
 published: true
@@ -7,7 +8,7 @@ tags: ["FH Aachen", "Python"]
 
 [![What are libraries?](https://img.youtube.com/vi/BJH6fY4GkBE/hqdefault.jpg)](https://youtu.be/BJH6fY4GkBE)
 
-[**Download Jupyter Notebook for this unit**](Week_6_Unit_1_libraries_notebook.ipynb)
+[**Download Jupyter Notebook for this unit**](files/Week_6_Unit_1_libraries_notebook.ipynb)
 
 ---
 

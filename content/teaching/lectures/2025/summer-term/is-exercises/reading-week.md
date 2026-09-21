@@ -1,4 +1,5 @@
 ---
+lastmod: 2025-07-01
 title: "Aufgabe Reading Week"
 language: "de"
 published: true

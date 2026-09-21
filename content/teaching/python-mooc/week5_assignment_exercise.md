@@ -1,20 +1,21 @@
 ---
+lastmod: 2024-04-05
 title: "Week 5 Assignment (Part 2 - Exercise)"
 language: "en"
 published: true
 tags: ["FH Aachen", "Python"]
 ---
 
-### Vignère Cipher
+### Vignï¿½re Cipher
 
 You already implemented a solution for the [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 in week 3. As this cipher is quite weak, let's turn to another cipher, the
-[Vignère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher).
+[Vignï¿½re cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher).
 
-Like the Caesar cipher, the Vignère cipher is a simple substitution algorithm,
+Like the Caesar cipher, the Vignï¿½re cipher is a simple substitution algorithm,
 that means, each letter is replaced by another letter. In the Caesar cipher,
 each letter is shifted the same number of times. And this number is the key.
-In Vignère these number of shifts change from letter to letter. The number of
+In Vignï¿½re these number of shifts change from letter to letter. The number of
 shifts are given by a keyword which is repeated until it matches the length of
 the text to be encrypted.
 

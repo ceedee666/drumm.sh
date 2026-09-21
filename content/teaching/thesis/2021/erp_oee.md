@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-19
 title: "Konzeption und Evaluation der Anbindung einer SAAS-Lösung zur Produktionsoptimierung an ERP-Systeme"
 language: "de"
 published: true

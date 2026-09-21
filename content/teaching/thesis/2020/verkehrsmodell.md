@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-17
 title: "Entwicklung eines Destination Choice Modells zur Abbildung der Verkehrsverflechtung in Deutschland"
 language: "de"
 published: true

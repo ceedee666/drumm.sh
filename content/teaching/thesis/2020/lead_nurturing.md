@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-17
 title: "Lead nurturing campaigns - The impact of principles, features, and functionalities on the success of campaigns activated by Like Reply"
 language: "de"
 published: true

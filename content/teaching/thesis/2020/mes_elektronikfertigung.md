@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-17
 title: "Integration eines Manufacturing-Execution-Systems in ein bestehendes Produktionsumfeld in der Elektronikfertigung"
 language: "de"
 published: true

@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-17
 title: "Optimierung von Rüstprozessen mit künstlicher Intelligenz"
 language: "de"
 published: true

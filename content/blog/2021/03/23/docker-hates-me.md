@@ -28,7 +28,7 @@ Implementing an echo server is straight forward with FastAPI. The following snip
 The code is also available on [Github](https://github.com/ceedee666/py-echo-server/blob/main/main.py).
 
 
-```python {numberLines}
+```python
 import uvicorn
 import socket
 
@@ -98,7 +98,7 @@ Docker images are created using a `Dockerfile`. This file specifies:
 
 The following listing shows the contents of the `Dockerfile` I created for the Python echo server.
 
-```dockerfile {numberLines}
+```dockerfile
 # Pull base image
 FROM python:3.8
 
@@ -209,7 +209,7 @@ that:
 
 The following listing show the YAML file for the action.
 
-```yaml {numberLines}
+```yaml
 name: '[builder] CI for releases'
 
 on:

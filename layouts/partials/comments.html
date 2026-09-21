@@ -1,0 +1,14 @@
+<div id="utterances-container"></div>
+<script>
+  (function () {
+    var s = document.createElement("script");
+    s.src = "https://utteranc.es/client.js";
+    s.async = true;
+    s.setAttribute("repo", "{{ site.Params.commentsRepo }}");
+    s.setAttribute("issue-term", "pathname");
+    s.setAttribute("label", "comment :speech_balloon:");
+    s.setAttribute("theme", "github-light");
+    s.setAttribute("crossorigin", "anonymous");
+    document.getElementById("utterances-container").appendChild(s);
+  })();
+</script>

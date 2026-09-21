@@ -1,4 +1,5 @@
 ---
+lastmod: 2023-09-13
 title: "Methoden zur Validierung und Verifizierung eines Datenanalyse UseCases"
 language: "de"
 published: true

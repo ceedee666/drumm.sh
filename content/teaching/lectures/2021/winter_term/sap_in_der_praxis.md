@@ -1,4 +1,5 @@
 ---
+lastmod: 2022-01-08
 title: "SAP in der Praxis (WS 2021/2022)"
 language: "de"
 published: true

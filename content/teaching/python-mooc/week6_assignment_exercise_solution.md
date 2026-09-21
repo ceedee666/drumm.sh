@@ -1,4 +1,5 @@
 ---
+lastmod: 2024-04-05
 title: "Week 6 Assignment Solution"
 language: "en"
 published: true
@@ -7,7 +8,7 @@ tags: ["FH Aachen", "Python"]
 
 [![Assignment Solution](https://img.youtube.com/vi/b0u_76g32TA/hqdefault.jpg)](https://youtu.be/b0u_76g32TA)
 
-[**Download Jupyter Notebook for this unit**](files/week6_assignment_notebook_solution.ipynb)
+[**Download Jupyter Notebook for this unit**](files/week_6_assignment_notebook_solution.ipynb)
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastmod: 2022-09-15
 title: "
 Identifikation und Optimierung des Engpasses für prozess- und produktnahe Einkapselungen in der Lithium-Ionen Zellassemblierung"
 language: "de"

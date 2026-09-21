@@ -1,4 +1,5 @@
 ---
+lastmod: 2021-08-19
 title: "Einsatz von MS Dynamics in der Lehre"
 language: "de"
 published: true

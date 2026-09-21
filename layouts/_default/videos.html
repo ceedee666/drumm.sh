@@ -1,0 +1,92 @@
+{{ define "main" }}
+{{ $key := os.Getenv "YOUTUBE_API_KEY" }}
+{{ $channel := os.Getenv "YOUTUBE_CHANNEL_ID" }}
+{{ if and $key $channel }}
+  {{ $items := slice }}
+  {{ $channelURL := printf "https://www.googleapis.com/youtube/v3/channels?key=%s&id=%s&part=contentDetails" $key $channel }}
+  {{ with try (resources.GetRemote $channelURL) }}
+    {{ with .Err }}
+      {{ warnf "youtube channel lookup unavailable" }}
+    {{ else }}
+      {{ $channels := (.Value | transform.Unmarshal).items }}
+      {{ if $channels }}
+        {{ $uploads := (index $channels 0).contentDetails.relatedPlaylists.uploads }}
+        {{ $playlistURL := printf "https://www.googleapis.com/youtube/v3/playlistItems?key=%s&playlistId=%s&part=snippet&maxResults=5" $key $uploads }}
+        {{ with try (resources.GetRemote $playlistURL) }}
+          {{ with .Err }}
+            {{ warnf "youtube uploads playlist unavailable" }}
+          {{ else }}
+            {{ $items = (.Value | transform.Unmarshal).items }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if $items }}
+      {{ $ids := slice }}
+      {{ range $items }}{{ $ids = $ids | append .snippet.resourceId.videoId }}{{ end }}
+      {{ $details := dict }}
+      {{ $detailURL := printf "https://www.googleapis.com/youtube/v3/videos?key=%s&id=%s&part=snippet" $key (delimit $ids ",") }}
+      {{ with try (resources.GetRemote $detailURL) }}
+        {{ with .Err }}
+          {{ warnf "youtube video details unavailable" }}
+        {{ else }}
+          {{ range (.Value | transform.Unmarshal).items }}
+            {{ $details = merge $details (dict .id .snippet) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ range $index, $v := $items }}
+      {{ $videoId := $v.snippet.resourceId.videoId }}
+      {{ $snippet := index $details $videoId | default $v.snippet }}
+      {{ $desc := $snippet.description | default "" }}
+      {{ $desc = replaceRE `(https?://[^\s\r\n]+)` `<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>` $desc }}
+      {{ range $ts := (findRE `\b\d{1,2}:\d{2}(:\d{2})?\b` $desc | uniq) }}
+        {{ $nums := slice }}
+        {{ range $parts := split $ts ":" }}
+          {{ $n := strings.TrimLeft "0" $parts }}
+          {{ if eq $n "" }}{{ $n = "0" }}{{ end }}
+          {{ $nums = $nums | append (int $n) }}
+        {{ end }}
+        {{ $secs := 0 }}
+        {{ if eq (len $nums) 3 }}
+          {{ $secs = add (mul (index $nums 0) 3600) (add (mul (index $nums 1) 60) (index $nums 2)) }}
+        {{ else }}
+          {{ $secs = add (mul (index $nums 0) 60) (index $nums 1) }}
+        {{ end }}
+        {{ $desc = replace $desc $ts (printf `<a href="https://www.youtube.com/watch?v=%s&t=%ds" target="_blank" rel="noopener noreferrer">%s</a>` $videoId $secs $ts) }}
+      {{ end }}
+      {{ $desc = replace $desc "\n" "<br/>" }}
+      {{ $thumb := "" }}
+      {{ with $snippet.thumbnails }}{{ with .maxres }}{{ $thumb = .url }}{{ else }}{{ with .standard }}{{ $thumb = .url }}{{ else }}{{ with .high }}{{ $thumb = .url }}{{ else }}{{ with .medium }}{{ $thumb = .url }}{{ else }}{{ $thumb = .default.url }}{{ end }}{{ end }}{{ end }}{{ end }}{{ end }}
+      <div>
+        <div class="blog-list-item">
+          <div class="row">
+            <h2 class="video-title">
+              <a href="https://www.youtube.com/watch?v={{ $videoId }}" target="_blank" rel="noopener noreferrer">{{ $snippet.title }}</a>
+            </h2>
+          </div>
+          <div class="row">
+            <div class="col blog-date-time">
+              {{ partial "icon.html" "calendar" }} {{ ($snippet.publishedAt | time.AsTime).Format "02. January 2006" }}
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-8">
+              <p class="video-description">{{ $desc | safeHTML }}</p>
+            </div>
+            <div class="col-md-4 justify-content-end">
+              <a href="https://www.youtube.com/watch?v={{ $videoId }}" target="_blank" rel="noopener noreferrer">
+                <img src="{{ $thumb }}" alt="{{ $snippet.title }}" class="video-thumbnail" />
+              </a>
+            </div>
+          </div>
+        </div>
+        {{ if lt $index (sub (len $items) 1) }}<div class="podcast-separator"></div>{{ end }}
+      </div>
+      {{ end }}
+  {{ end }}
+{{ else }}
+  {{ warnf "YOUTUBE_API_KEY and YOUTUBE_CHANNEL_ID must be set to render the videos page" }}
+{{ end }}
+{{ end }}
