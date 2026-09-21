@@ -14,6 +14,8 @@
 {{- $description := .Params.description | default $site.description -}}
 {{- $image := .Params.image | default "/images/android-chrome-512x512.png" -}}
 {{- if not (hasPrefix $image "http") -}}{{- $image = absURL $image -}}{{- end -}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="{{ "images/favicon.ico" | relURL }}">
 <link rel="icon" type="image/png" href="{{ "images/favicon-32x32.png" | relURL }}">
 <link rel="shortcut icon" type="image/x-icon" href="{{ "images/favicon-32x32.png" | relURL }}">
