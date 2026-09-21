@@ -49,7 +49,7 @@
                   <div class="social-links">
                     {{ range $student.socialLinks }}
                     <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .type }}">
-                      {{ if eq .type "linkedin" }}{{ partial "icon.html" "linkedin" }}{{ else if eq .type "github" }}{{ partial "icon.html" "github" }}{{ end }}
+                      {{ partial "icon.html" .type }}
                     </a>
                     {{ end }}
                   </div>

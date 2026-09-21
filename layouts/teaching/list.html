@@ -4,7 +4,7 @@
 <h1>{{ . }}</h1>
 <div class="row mb-5">
   <div class="col blog-date-time">
-    {{ partial "icon.html" "calendar" }} Last updated: {{ partial "relative-date.html" $page.Lastmod }} ({{ $page.Lastmod.Format "02. January 2006" }})
+    {{ partial "updated-meta.html" $page }}
   </div>
 </div>
 {{ end }}

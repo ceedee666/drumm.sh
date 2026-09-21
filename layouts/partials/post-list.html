@@ -1,0 +1,14 @@
+{{- $section := . -}}
+{{- range (where site.RegularPages "Section" $section).ByDate.Reverse }}
+<div class="blog-list-item">
+  <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
+  <div class="row">
+    <div class="col blog-date-time">
+      {{ partial "published-meta.html" . }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col mt-2 mb-5">{{ .Params.description }}</div>
+  </div>
+</div>
+{{- end }}

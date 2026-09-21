@@ -1,7 +1,18 @@
 {{- $dest := .Destination -}}
-{{- if or (hasPrefix $dest "http://") (hasPrefix $dest "https://") (hasPrefix $dest "//") (hasPrefix $dest "/") (hasPrefix $dest "#") (hasPrefix $dest "mailto:") (hasPrefix $dest "tel:") -}}
+{{- $isExternal := or (hasPrefix $dest "http://") (hasPrefix $dest "https://") (hasPrefix $dest "//") (hasPrefix $dest "/") (hasPrefix $dest "#") (hasPrefix $dest "mailto:") (hasPrefix $dest "tel:") (hasPrefix $dest "data:") -}}
+{{- $assetExtensions := slice ".pdf" ".png" ".jpg" ".jpeg" ".gif" ".svg" ".webp" ".ico" ".zip" ".mp4" ".mov" ".mp3" ".wav" ".pptx" ".xlsx" ".xls" ".docx" ".doc" ".odt" ".ods" ".odp" ".ppt" ".csv" ".json" ".txt" ".db" ".xml" ".epub" ".ttf" ".woff" ".woff2" ".ipynb" ".tar" ".gz" ".7z" ".r" ".rmd" ".sql" ".sav" ".dta" -}}
+{{- $path := index (split $dest "#") 0 -}}
+{{- $path = index (split $path "?") 0 -}}
+{{- $ext := lower (path.Ext $path) -}}
+{{- $isAsset := false -}}
+{{- if in $assetExtensions $ext -}}
+  {{- $isAsset = true -}}
+{{- else if and (not $isExternal) $ext (os.FileExists (path.Join "content" .Page.File.Dir $path)) -}}
+  {{- $isAsset = true -}}
+{{- end -}}
+{{- if $isExternal -}}
 <a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>
-{{- else if findRE `\.[A-Za-z0-9]+$` $dest -}}
+{{- else if $isAsset -}}
 <a href="{{ (path.Join .Page.File.Dir $dest) | relURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>
 {{- else -}}
 <a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>

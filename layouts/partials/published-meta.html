@@ -1,0 +1,2 @@
+{{- $page := . -}}
+{{ partial "icon.html" "calendar" }} Published on {{ $page.Date.Format "02. January 2006" }} ({{ partial "relative-date.html" $page.Date }}) &bull; {{ partial "icon.html" "time" }} {{ $page.ReadingTime }} min read

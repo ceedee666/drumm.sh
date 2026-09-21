@@ -1,0 +1,2 @@
+{{- $page := . -}}
+{{ partial "icon.html" "calendar" }} Last updated: {{ partial "relative-date.html" $page.Lastmod }} ({{ $page.Lastmod.Format "02. January 2006" }})

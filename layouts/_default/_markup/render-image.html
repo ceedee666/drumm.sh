@@ -1,6 +1,11 @@
 {{- $dest := .Destination -}}
-{{- if or (hasPrefix $dest "http://") (hasPrefix $dest "https://") (hasPrefix $dest "//") (hasPrefix $dest "/") (hasPrefix $dest "data:") -}}
+{{- $isExternal := or (hasPrefix $dest "http://") (hasPrefix $dest "https://") (hasPrefix $dest "//") (hasPrefix $dest "/") (hasPrefix $dest "data:") -}}
+{{- if $isExternal -}}
 <img src="{{ $dest | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
 {{- else -}}
-<img src="{{ (path.Join .Page.File.Dir $dest) | relURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+{{- $src := path.Join .Page.File.Dir $dest | relURL -}}
+{{- with .Page.Resources.GetMatch (strings.TrimPrefix "./" $dest) -}}
+  {{- $src = .RelPermalink -}}
+{{- end -}}
+<img src="{{ $src }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
 {{- end -}}
