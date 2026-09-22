@@ -13,6 +13,7 @@ import {
   FaPython,
   FaRss,
   FaSpotify,
+  FaTools,
   FaUserGraduate,
 } from "react-icons/fa";
 import { FaSection } from "react-icons/fa6";
@@ -47,6 +48,7 @@ const icons = {
   spotify: FaSpotify,
   teapot: GiTeapotLeaves,
   time: BiTime,
+  tools: FaTools,
   user: SlUser,
   youtube: SiYoutube,
 };
