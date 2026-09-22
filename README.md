@@ -107,13 +107,49 @@ To add or replace an icon:
    Pass `--keep` to keep `node_modules` around, e.g. while iterating on the
    icon list.
 
-3. Use the icon in a template via its map key:
+3. Commit the changed files under `layouts/partials/icons/`.
 
-   ```go-html-template
-   {{ partial "icon.html" "github" }}
-   ```
+### Using icons in templates
 
-4. Commit the changed files under `layouts/partials/icons/`.
+Reference an icon in a partial or layout template via its map key, e.g.:
+
+```go-html-template
+{{ partial "icon.html" "github" }}
+```
+
+The SVG is inline (`width="1em"`) and `aria-hidden="true"`, so it inherits the
+current text color and size, and its accessible name lives on any surrounding
+link or text:
+
+```go-html-template
+<a href="{{ "https://github.com" }}" aria-label="GitHub">{{ partial "icon.html" "github" }}</a>
+```
+
+### Using icons in Markdown
+
+Hugo does not run template code inside `.md` content, so Markdown files use the
+`icon` shortcode (`layouts/shortcodes/icon.html`) instead:
+
+```markdown
+A {{< icon "github" >}} GitHub link: [repo](https://github.com).
+```
+
+The shortcode takes a single positional argument — an icon's map key:
+
+```markdown
+Podcast: {{< icon "apple-podcasts" >}}
+Programming: {{< icon "python" >}}
+```
+
+Notes:
+
+- The icon renders inline at the current font size, matching the surrounding
+  text.
+- A missing or misspelled key fails the build; only keys defined in
+  `scripts/gen-icons.mjs` are available.
+- The SVG is `aria-hidden="true"`, so pair inline usage with a visible label or
+  a descriptive surrounding link. For heading-level labels, put the icon inside
+  the link: `[{{< icon "rss" >}} Subscribe](…)`.
 
 ## 💬 Feedback
 
