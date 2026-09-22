@@ -3,7 +3,7 @@ lastmod: 2023-03-15
 seoTitle: "drumm.sh | Projects"
 ---
 
-# Research Projects
+# Research Projects {{<icon "atom">}}
 
 ### WiLMo - Wirtschaftsinformatik Lehr- und Lern-Module
 
@@ -16,7 +16,7 @@ with learning materials that have a very high didactic quality, are coordinated
 across universities and are freely accessible. This promotes vocational learning
 that is independent of face-to-face teaching.
 
-### Investigating a MOOC Designed with 4C/ID Model for Instructional Design: Exploring Processing Paths and Learning Outcomes.
+### Investigating a MOOC Designed with 4C/ID Model for Instructional Design: Exploring Processing Paths and Learning Outcomes
 
 This project aims to investigate the effectiveness of Massive Open Online
 Courses (MOOCs) for teaching programming skills using the Four Component model
@@ -49,6 +49,6 @@ One preliminary result of the project is a repository with teaching material and
 self learning exercises for an introductory python lecture. The repository is
 available on [GitHub](https://github.com/ceedee666/python_introduction).
 
-# Industry Projects
+# Industry Projects {{<icon "factory">}}
 
 A list of research project with industry partners will follow soon.

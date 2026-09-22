@@ -23,7 +23,7 @@ import {
   SiSap,
   SiYoutube,
 } from "react-icons/si";
-import { GiTeapotLeaves } from "react-icons/gi";
+import { GiTeapotLeaves, GiAtom } from "react-icons/gi";
 import { SlUser } from "react-icons/sl";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -31,6 +31,7 @@ const outDir = resolve(__dirname, "../layouts/partials/icons");
 mkdirSync(outDir, { recursive: true });
 
 const icons = {
+  atom: GiAtom,
   "apple-podcasts": SiApplepodcasts,
   calendar: BiCalendar,
   codeberg: SiCodeberg,
