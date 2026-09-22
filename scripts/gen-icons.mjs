@@ -6,8 +6,16 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
-import { BiCalendar, BiTime } from "react-icons/bi";
-import { FaGithub, FaLinkedin, FaRss, FaSpotify } from "react-icons/fa";
+import { BiCalendar, BiTime, BiSolidFactory } from "react-icons/bi";
+import {
+  FaGithub,
+  FaLinkedin,
+  FaPython,
+  FaRss,
+  FaSpotify,
+  FaUserGraduate,
+} from "react-icons/fa";
+import { FaSection } from "react-icons/fa6";
 import {
   SiApplepodcasts,
   SiCodeberg,
@@ -23,19 +31,23 @@ const outDir = resolve(__dirname, "../layouts/partials/icons");
 mkdirSync(outDir, { recursive: true });
 
 const icons = {
-  calendar: BiCalendar,
-  time: BiTime,
-  rss: FaRss,
-  linkedin: FaLinkedin,
-  github: FaGithub,
-  spotify: FaSpotify,
   "apple-podcasts": SiApplepodcasts,
-  mastodon: SiMastodon,
-  sap: SiSap,
-  youtube: SiYoutube,
+  calendar: BiCalendar,
   codeberg: SiCodeberg,
+  factory: BiSolidFactory,
+  github: FaGithub,
+  graduate: FaUserGraduate,
+  linkedin: FaLinkedin,
+  mastodon: SiMastodon,
+  python: FaPython,
+  rss: FaRss,
+  sap: SiSap,
+  section: FaSection,
+  spotify: FaSpotify,
   teapot: GiTeapotLeaves,
+  time: BiTime,
   user: SlUser,
+  youtube: SiYoutube,
 };
 
 // All icons are decorative; their accessible name lives on the surrounding

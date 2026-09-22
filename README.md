@@ -83,14 +83,7 @@ Hugo can inline them without any Node.js dependency at build time.
 
 To add or replace an icon:
 
-1. Install the generator's dependencies temporarily (they are not part of the
-   repo):
-
-   ```sh
-   npm install --no-save react react-dom react-icons
-   ```
-
-2. Add the import and an entry to the `icons` map in
+1. Add the import and an entry to the `icons` map in
    `scripts/gen-icons.mjs`, e.g.:
 
    ```js
@@ -102,19 +95,25 @@ To add or replace an icon:
    };
    ```
 
-3. Regenerate the partials (this rewrites `layouts/partials/icons/*.html`):
+2. Regenerate the partials with `scripts/gen-icons.sh` (this rewrites
+   `layouts/partials/icons/*.html`). It installs the generator's dependencies
+   temporarily — they are not part of the repo — runs
+   `scripts/gen-icons.mjs`, then removes the temporary install:
 
    ```sh
-   node scripts/gen-icons.mjs
+   ./scripts/gen-icons.sh
    ```
 
-4. Use the icon in a template via its map key:
+   Pass `--keep` to keep `node_modules` around, e.g. while iterating on the
+   icon list.
+
+3. Use the icon in a template via its map key:
 
    ```go-html-template
    {{ partial "icon.html" "github" }}
    ```
 
-5. Commit the changed files under `layouts/partials/icons/`.
+4. Commit the changed files under `layouts/partials/icons/`.
 
 ## 💬 Feedback
 
