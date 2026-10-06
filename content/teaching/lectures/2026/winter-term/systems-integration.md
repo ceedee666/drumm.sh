@@ -41,8 +41,8 @@ The lectures and the labs take place on the following days:
 
 | Week | Date     | Topic                                                                                                 |
 | ---: | -------- | ----------------------------------------------------------------------------------------------------- |
-|   41 | 06.10.26 | Introduction                                                                                          |
-|      | 07.10.26 | Interoperability perspectives                                                                         |
+|   41 | 06.10.26 | [Introduction](/systems-integration/motivation.html)                                                  |
+|      | 07.10.26 | [Interoperability perspectives](/systems-integration/interoperability-perspectives.html)              |
 |   42 | 13.10.26 | Integration styles                                                                                    |
 |      | 14.10.26 | [Lab 0](https://codeberg.org/ceedee666/systems-integration/src/branch/main/lab/mini-erp.md)           |
 |   43 | 20.10.26 | Exchange Formats                                                                                      |
