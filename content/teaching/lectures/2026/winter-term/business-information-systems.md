@@ -109,7 +109,7 @@ ABAP Umgebung auf der SAP BTP. Dazu müssen sie folgende Schritte durchführen:
 | ------------------------------------------------------------------------------- | ----------------------------------------------- |
 | [YouTube Playlist](https://drumm.sh/yt/s4)                                      | Die Playlist enthält alle Vorlesungsvideos      |
 | [Miro Board](https://miro.com/app/board/o9J_lvLhjsk=/)                          | Das in den Vorlesungsvideos gezeigte Miro-Board |
-| [Ilias](https://www.ili.fh-aachen.de/go/crs/1448903)                            | Ilias-Ordner des Moduls                         |
+| [Ilias](https://www.ili.fh-aachen.de/go/crs/1576523)                            | Ilias-Ordner des Moduls                         |
 | [Forum](https://forum.drumm.sh)                                                 | Diskussionsforum des Moduls                     |
 | [Modern ABAP Curriculum](https://codeberg.org/ceedee666/modern-abap-curriculum) | Git-Repository zum ABAP RAP Kurs                |
 
