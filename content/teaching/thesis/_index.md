@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-01-29
+lastmod: 2026-10-12
 title: "Bachelor and Master Thesis"
 language: "en"
 published: true
@@ -17,6 +17,7 @@ tags: ["FH Aachen", "Thesis"]
   - [Software Development](#software-development)
   - [Other](#other)
 - [Supervised Thesis](#supervised-thesis)
+  - [2026](#2026)
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
@@ -34,15 +35,12 @@ own idea for a topic please feel free to contact me as well.
 
 ### BPM
 
-1. Generation of process models from user documentation (in cooperation with
-   [Regionetz](https://www.regionetz.de/))
 1. Comparison of different process visualizations from a user perspective.
 
 ### ERP Systems
 
 1. Executing processes in SAP S/4HANA using MCP and LLMs
 1. Erklärvideos für SAP S/4HANA Fallstudien
-1. Integration of 3d printing and SAP S/4HANA
 1. Development and evaluation of a LLM plug-in to answer student's questions.
 1. Using AR to visualise a model factory
 1. Analysis of the effects of integrated documentation (ie. SAP Enable Now) in
@@ -83,12 +81,34 @@ This is a selection of the bachelor and master thesis I supervised in the past.
 For each thesis at least the abstract is available here. For some thesis
 the full text is also available.
 
+### 2026
+
+- **Master Thesis**
+  - Generation of process models from user documentation (in cooperation with
+    [Regionetz](https://www.regionetz.de/)) (currently in progress)
+
+- **Bachlor Thesis**
+  - Integration of 3d printing and SAP S/4HANA (currently in progress)
+  - [Entwicklung und Evaluation eines KI-gestützten Python-Lernsystems nach
+    4C/ID](/teaching/thesis/2026/ki-python-lernsystem)
+  - [Anwendungsfelder von Künstlicher Intelligenz im
+    ERP-Kontext](/teaching/thesis/2026/ki-erp-taxonomie)
+  - [Day-Ahead-Prognose von Photovoltaik-Einspeisung mit SAP HANA Predictive
+    Analysis Library](/teaching/thesis/2026/pv-prognose-sap-hana)
+  - [Analyse der Studierendenwahrnehmung zur Auswirkung von generativer
+    Künstlicher Intelligenz auf wissensbasierte
+    Aufgaben](/teaching/thesis/2026/ki-wahrnehmung-studierende)
+
 ### 2025
 
 - **Bachlor Thesis**
-  - Clean Code: literature review (currently in progress)
-  - Analysis of the usage of open source software in small and mid-size
-    companies (currently in progress)
+  - [Clean Code in Theorie und Praxis: Eine evidenzbasierte Untersuchung
+    seiner Wirkung auf Codequalität](/teaching/thesis/2025/clean-code)
+  - [Einsatz von Open Source Software (OSS) im
+    Mittelstand](/teaching/thesis/2025/open-source-mittelstand)
+  - [Architekturentwicklung zur Migration eines Add-ons zur
+    Dokumentenverarbeitung in die SAP
+    Cloud](/teaching/thesis/2025/sap-cloud-migration)
   - Using Large Language Models (like ChatGPT) in teaching ERP System and/or
     Python programming.
   - [Anomalieerkennung in Zeitreihendaten am Beispiel von Produktionsdaten von
@@ -133,9 +153,10 @@ the full text is also available.
   - [Einfluss von Kontextualisierung mittels RAG auf den Wahrheitsgehalt eines
     generativen Sprachmodells](/teaching/thesis/2024/llm-wahrheitsgehalt)
   - Optimierung einer Testsuite im Bereich SAP-Treasury bei der Generali
-    Deutschland AG -[Künstliche Intelligenz in unternehmerischen
-    Entscheidungsprozessen - Eine strukturierte
-    Literaturanalys](/teaching/thesis/2024/ki-entscheidungsprozesse)
+    Deutschland AG
+  - [Künstliche Intelligenz in unternehmerischen Entscheidungsprozessen -
+    Eine strukturierte
+    Literaturanalyse](/teaching/thesis/2024/ki-entscheidungsprozesse)
 
 ### 2023
 
