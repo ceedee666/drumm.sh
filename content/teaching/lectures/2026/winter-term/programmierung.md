@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-09-18
+lastmod: 2026-11-05
 title: "Programmierung und Informationsverarbeitung "
 language: "de"
 published: true
@@ -39,7 +39,7 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 - **Vorlesung**
   - Mittwoch, 16:00 - 19:00h, W104
 - **Praktikum / Tutorium**
-  - **Dienstag**, 10:00 - 11:30h, W104
+  - **Donnerstag**, 10:00 - 11:30h, W104
 
 |  KW | Datum    | Thema                                             | openHPI Woche | Praktikum                  |
 | --: | -------- | ------------------------------------------------- | ------------- | -------------------------- |
@@ -51,10 +51,10 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 |  45 | 11.11.26 | Funktionen                                        | Woche 5       |                            |
 |  46 | 18.11.26 | **Reading Week**                                  | Woche 6       |                            |
 |  47 | 25.11.26 | Bibliotheken                                      |               |                            |
-|  48 | 02.12.26 | Visualisierung von Daten mit matplotlib           |               |                            |
-|  49 | 09.12.26 | Einführung in Scientific Computing mit numpy      |               | Praktikum 1 (Termin folgt) |
-|  50 | 16.12.26 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 2 (Termin folgt) |
-|  51 | 23.12.26 | **keine Vorlesung**                               |               | Praktikum 3 (Termin folgt) |
+|  48 | 02.12.26 | Visualisierung von Daten mit matplotlib           |               | Praktikum 1 (Termin folgt) |
+|  49 | 09.12.26 | Einführung in Scientific Computing mit numpy      |               | Praktikum 2 (Termin folgt) |
+|  50 | 16.12.26 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 3 (Termin folgt) |
+|  51 | 23.12.26 | **keine Vorlesung**                               |               |                            |
 |  52 | 30.12.26 | **keine Vorlesung**                               |               |                            |
 |   1 | 06.01.27 | Einführung in KI (machinelles Lernen)             |               | Praktikum 4 (Termin folgt) |
 |   2 | 13.01.27 | Projekt - keine Vorlesung                         |               |                            |
