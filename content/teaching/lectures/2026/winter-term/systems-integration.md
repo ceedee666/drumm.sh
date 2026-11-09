@@ -51,7 +51,7 @@ The lectures and the labs take place on the following days:
 |      | 28.10.26 | **No lab**                                                                                            |
 |   45 | 03.11.26 | [Query languages](query-languages.html)                                                               |
 |      | 04.11.26 | [Lab 2](https://codeberg.org/ceedee666/systems-integration/src/branch/main/lab/file-transfer.md)      |
-|   46 | 10.11.26 | Mapping languages                                                                                     |
+|   46 | 10.11.26 | [Mapping languages](mapping-languages.html)                                                           |
 |      | 11.11.26 | **No lab**                                                                                            |
 |   47 | 17.11.26 | **Reading Week**                                                                                      |
 |      | 18.11.26 | **Reading Week**                                                                                      |
