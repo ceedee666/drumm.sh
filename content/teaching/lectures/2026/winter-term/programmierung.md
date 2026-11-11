@@ -41,31 +41,33 @@ Die Vorlesung und die Praktika finden zu folgenden Terminen statt.
 - **Praktikum / Tutorium**
   - **Donnerstag**, 10:00 - 11:30h, W104
 
-|  KW | Datum    | Thema                                             | openHPI Woche | Praktikum                  |
-| --: | -------- | ------------------------------------------------- | ------------- | -------------------------- |
-|  40 | 07.10.26 | Organisation & Einführung                         | Woche 0       |                            |
-|  41 | 14.10.26 | Datentypen, Ein- u. Ausgabe, bedingte Anweisungen | Woche 1       |                            |
-|  42 | 21.10.26 | Listen und Schleifen                              | Woche 2       |                            |
-|  43 | 28.10.26 | **keine Vorlesung**                               | Woche 3       |                            |
-|  44 | 04.11.26 | Arbeiten mit Dateien                              | Woche 4       |                            |
-|  45 | 11.11.26 | Funktionen                                        | Woche 5       |                            |
-|  46 | 18.11.26 | **Reading Week**                                  | Woche 6       |                            |
-|  47 | 25.11.26 | Bibliotheken                                      |               |                            |
-|  48 | 02.12.26 | Visualisierung von Daten mit matplotlib           |               | Praktikum 1 (Termin folgt) |
-|  49 | 09.12.26 | Einführung in Scientific Computing mit numpy      |               | Praktikum 2 (Termin folgt) |
-|  50 | 16.12.26 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 3 (Termin folgt) |
-|  51 | 23.12.26 | **keine Vorlesung**                               |               |                            |
-|  52 | 30.12.26 | **keine Vorlesung**                               |               |                            |
-|   1 | 06.01.27 | Einführung in KI (machinelles Lernen)             |               | Praktikum 4 (Termin folgt) |
-|   2 | 13.01.27 | Projekt - keine Vorlesung                         |               |                            |
-|   3 | 20.01.27 | Projekt - keine Vorlesung                         |               |                            |
-|   4 | 27.01.27 | Prüfungsvorbereitung                              |               |                            |
+|  KW | Datum    | Thema                                             | openHPI Woche | Praktikum              |
+| --: | -------- | ------------------------------------------------- | ------------- | ---------------------- |
+|  40 | 07.10.26 | Organisation & Einführung                         | Woche 0       |                        |
+|  41 | 14.10.26 | Datentypen, Ein- u. Ausgabe, bedingte Anweisungen | Woche 1       |                        |
+|  42 | 21.10.26 | Listen und Schleifen                              | Woche 2       |                        |
+|  43 | 28.10.26 | **keine Vorlesung**                               | Woche 3       |                        |
+|  44 | 04.11.26 | Arbeiten mit Dateien                              | Woche 4       |                        |
+|  45 | 11.11.26 | Funktionen                                        | Woche 5       |                        |
+|  46 | 18.11.26 | **Reading Week**                                  | Woche 6       |                        |
+|  47 | 25.11.26 | Bibliotheken                                      |               |                        |
+|  48 | 02.12.26 | Visualisierung von Daten mit matplotlib           |               | Praktikum 1 (03.12.26) |
+|  49 | 09.12.26 | Einführung in Scientific Computing mit numpy      |               | Praktikum 2 (10.12.26) |
+|  50 | 16.12.26 | Datenverarbeitung und Datenanalyse mit pandas     |               | Praktikum 3 (17.12.26) |
+|  51 | 23.12.26 | **keine Vorlesung**                               |               |                        |
+|  52 | 30.12.26 | **keine Vorlesung**                               |               |                        |
+|   1 | 06.01.27 | Einführung in KI (machinelles Lernen)             |               | Praktikum 4 (07.01.27) |
+|   2 | 13.01.27 | Projekt - keine Vorlesung                         |               |                        |
+|   3 | 20.01.27 | Projekt - keine Vorlesung                         |               |                        |
+|   4 | 27.01.27 | Prüfungsvorbereitung                              |               |                        |
 
 ## Wichtige Links
 
 | Link                                                            | Beschreibung                                                   |
 | --------------------------------------------------------------- | -------------------------------------------------------------- |
 | [Python for Beginners](https://open.hpi.de/learn/python-wt2026) | openHPI Kurs zu Python                                         |
-| [Python Cheat Sheet](https://www.pythoncheatsheet.org/)         | Kurzreferenz zu Python und einem Teil der Standardbibliotheken |
 | [Ilias](https://www.ili.fh-aachen.de/go/crs/1576519)            | Ilias-Ordner des Moduls                                        |
 | [FH Aachen Jupyter Lab](https://hub.jupyter.svc.fh-aachen.de)   | Jupyter Lab der FH Aachen                                      |
+| [Python auf Exercism](https://exercism.org/tracks/python)       | Lernplattform mit vielen kleinen Übungsaufgaben                |
+| [Python Doku](https://docs.python.org/)                         | Ofizielle Python Dokumentation                                 |
+| [Python Cheat Sheet](https://www.pythoncheatsheet.org/)         | Kurzreferenz zu Python und einem Teil der Standardbibliotheken |
